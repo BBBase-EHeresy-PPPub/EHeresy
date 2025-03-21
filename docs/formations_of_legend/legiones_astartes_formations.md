@@ -6,7 +6,7 @@
 
 **STANDARD DETACHMENTS: 450 Points**
 
-![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sabre_squadron.jpg)
+[![](../media/formations_of_legend/legion_sicaran_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sicaran-squadron-105-points) [![](../media/formations_of_legend/legion_sicaran_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sicaran-squadron-105-points) [![](../media/formations_of_legend/legion_sabre_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
 
 * **Legion Sicaran Squadron**
 
@@ -22,7 +22,7 @@
 
 **EXPANDED DETACHMENTS: +270 Points**
 
-![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sabre_squadron.jpg)
+[![](../media/formations_of_legend/legion_sicaran_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sicaran-squadron-105-points) [![](../media/formations_of_legend/legion_sabre_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
 
 * **Legion Sicaran Squadron**
 
@@ -42,7 +42,7 @@
 
 **STANDARD DETACHMENTS: 400 Points**
 
-![](../media/formations_of_legend/legion_terminators.jpg) ![](../media/formations_of_legend/legion_terminators.jpg)
+[![](../media/formations_of_legend/legion_terminators.jpg)](../the_legiones_astartes/detachments.md#legion-terminator-detachment-50-points) [![](../media/formations_of_legend/legion_terminators.jpg)](../the_legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 
 * **Legion Terminator Detachment**
 
@@ -54,7 +54,7 @@
 
 **EXPANDED DETACHMENTS: +400 Points**
 
-![](../media/formations_of_legend/legion_terminators.jpg) ![](../media/formations_of_legend/legion_kratos_squadron.jpg)
+[![](../media/formations_of_legend/legion_terminators.jpg)](../the_legiones_astartes/detachments.md#legion-terminator-detachment-50-points) [![](../media/formations_of_legend/legion_kratos_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-kratos-squadron-150-points)
 
 * **Legion Terminator Detachment**
 
@@ -74,7 +74,7 @@
 
 **STANDARD DETACHMENTS: 630 Points**
 
-![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/plasma_gun_support.jpg)
+[![](../media/formations_of_legend/legion_sicaran_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sicaran-punisher-squadron-110-points) [![](../media/formations_of_legend/legion_sicaran_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sicaran-punisher-squadron-110-points) [![](../media/formations_of_legend/plasma_gun_support.jpg)](../the_legiones_astartes/detachments.md#legion-plasma-gun-support-detachment-35-points)
 
 * **Legion Sicaran Punisher Squadron**
 
@@ -90,7 +90,7 @@
 
 **EXPANDED DETACHMENTS: +300 Points**
 
-![Legion Sabre Squadron](../media/formations_of_legend/legion_sabre_squadron.jpg) ![](../media/formations_of_legend/plasma_gun_support.jpg)
+[![](../media/formations_of_legend/legion_sabre_squadron.jpg)](../the_legiones_astartes/detachments.md#legion-sabre-squadron-120-points) [![](../media/formations_of_legend/plasma_gun_support.jpg)](../the_legiones_astartes/detachments.md#legion-plasma-gun-support-detachment-35-points)
 
 * **Legion Sabre Squadron**
 4 Sabres, equipped with Hull Mounted Anvilus autocannon and Hull Mounted heavy bolter.

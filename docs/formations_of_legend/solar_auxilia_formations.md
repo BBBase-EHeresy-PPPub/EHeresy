@@ -6,7 +6,7 @@
 
 **STANDARD DETACHMENTS: 515 Points**
 
-![](../media/formations_of_legend/leman_russ_strike_squadron.jpg) ![](../media/formations_of_legend/leman_russ_annihilator.jpg) ![](../media/formations_of_legend/leman_russ_executioner.jpg)
+[![](../media/formations_of_legend/leman_russ_strike_squadron.jpg)](../the_solar_auxilia/detachments.md#leman-russ-strike-squadron-175-points) [![](../media/formations_of_legend/leman_russ_annihilator.jpg)](../the_solar_auxilia/detachments.md#leman-russ-annihilator-squadron-175-points) [![](../media/formations_of_legend/leman_russ_executioner.jpg)](../the_solar_auxilia/detachments.md#leman-russ-executioner-squadron-175-points)
 
 * **Leman Russ Strike Squadron**
 
@@ -22,7 +22,7 @@
 
 **EXPANDED DETACHMENTS: +100 Points**
 
-![](../media/formations_of_legend/aethon_heavy_sentinel_patrol.jpg) ![](../media/formations_of_legend/aethon_heavy_sentinel_patrol.jpg)
+[![](../media/formations_of_legend/aethon_heavy_sentinel_patrol.jpg)](../the_solar_auxilia/detachments.md#auxilia-aethon-heavy-sentinel-patrol-35-points) [![](../media/formations_of_legend/aethon_heavy_sentinel_patrol.jpg)](../the_solar_auxilia/detachments.md#auxilia-aethon-heavy-sentinel-patrol-35-points)
 
 * **Auxilia Aethon Heavy Sentinel Patrol**
 
@@ -42,7 +42,7 @@
 
 **STANDARD DETACHMENTS: 550 Points**
 
-![](../media/formations_of_legend/stormsword_squadron.jpg) ![](../media/formations_of_legend/auxilia_basilisk_battery.jpg) ![](../media/formations_of_legend/auxilia_medusa_battery.jpg)
+[![](../media/formations_of_legend/stormsword_squadron.jpg)](../the_solar_auxilia/detachments.md#auxilia-stormsword-squadron-100-points) [![](../media/formations_of_legend/auxilia_basilisk_battery.jpg)](../the_solar_auxilia/detachments.md#auxilia-basilisk-battery-140-points) [![](../media/formations_of_legend/auxilia_medusa_battery.jpg)](../the_solar_auxilia/detachments.md#auxilia-medusa-battery-130-points)
 
 * **Auxilia Stormsword Squadron**
 
@@ -58,7 +58,7 @@
 
 **EXPANDED DETACHMENTS: +400 Points**
 
-![Auxilia Stormsword Squadron](../media/formations_of_legend/stormsword_squadron.jpg) ![Auxilia Basilisk Battery](../media/formations_of_legend/auxilia_basilisk_battery.jpg)
+[![](../media/formations_of_legend/stormsword_squadron.jpg)](../the_solar_auxilia/detachments.md#auxilia-stormsword-squadron-100-points) [![](../media/formations_of_legend/auxilia_basilisk_battery.jpg)](../the_solar_auxilia/detachments.md#auxilia-basilisk-battery-140-points)
 
 * **Auxilia Stormsword Squadron**
 
