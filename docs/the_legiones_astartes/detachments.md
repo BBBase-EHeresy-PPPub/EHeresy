@@ -639,6 +639,10 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 - **Increase the Detachment size by** 2 [+32 points]
 - **Increase the Detachment size by** 4 [+64 points]
 
+**Special Rules**
+
+[Orbital Assault]
+
 </div>
 
 ---

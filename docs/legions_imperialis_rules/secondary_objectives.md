@@ -50,7 +50,7 @@ At the end of the battle, the player with this Secondary Objective scores 5 VPs 
 
 ## Breakthrough
 
-At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five friendly Detachments that are either deployed on the battlefield or Embarked within a Transport to be carrying some supplies. Models with the [Flyer] special rule cannot be chosen, nor can models Embarked upon a Transport with the [Flyer] special rule.
+~~At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five friendly Detachments that are either deployed on the battlefield or Embarked within a Transport to be carrying some supplies.~~ At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five friendly Detachments that are either deployed on the battlefield or Embarked within a Transport that is deployed on the battlefield to be carrying some supplies. Models with the [Flyer] special rule cannot be chosen, nor can models Embarked upon a Transport with the [Flyer] special rule.
 
 During the Calculating Victory Points stage of the End phase of any round, a Detachment carrying supplies that is within 1" of the enemy battlefield edge can break through the enemy line - remove that Detachment from the battlefield. The removed Detachment does not count as destroyed but plays no further part in the battle. A Transport that has a Detachment carrying supplies Embarked within it may leave the battlefield in this way with the Detachment inside - both the Transport and any Embarked Detachment play no further part in the battle if this happens.
 

@@ -103,12 +103,12 @@ An Adsecularis Tech-thrall Covenant can purchase one of the following upgrades:
 **Weapons**
 
 * Lightning guns
-* Thallax plasma-fusil
+* Multi-melta
 
 | Weapon               | Range | Dice | To Hit | AP | Traits       |
 | -------------------- | :---: | :--: | :----: | :-: | ------------ |
 | Lightning guns       | 8"    | 2    | 5+     | -1  | [Light AT]   |
-| Thallax plasma-fusil | 10"   | 1    | 4+     | -1  | [Light AT]   |
+| Multi-melta | 6"   | 1    | 4+     | -3  | [Anti-tank]   |     
 
 **Upgrades**
 
@@ -160,11 +160,13 @@ A Thallax Cohort can purchase one of the following upgrades:
 
 **Weapons**
 
-* Maxima bolters
+* Maxima bolters  
+* Myrmidon plasma-fusil  
 
-| Weapon         | Range | Dice | To Hit | AP | Traits                 |
-| -------------- | :---: | :--: | :----: | :-: | ---------------------- |
-| Maxima bolters | 8"    | 2    | 5+     | 0   | [Assault], [Light]     |
+| Weapon              | Range | Dice | To Hit | AP  | Traits                     |
+| ------------------- | :---: | :--: | :----: | :-: | -------------------------- |
+| Maxima bolters      | 8"    | 2    | 5+     | 0   | [Assault], [Light]         |
+| Myrmidon plasma-fusil | 10"   | 1    | 4+     | -1  | [Light AT]              |
 
 **Upgrades**
 
@@ -195,7 +197,8 @@ A Myrmidon Secutor Host can purchase one of the following upgrades:
 
 **Weapons**
 
-* Myrmidon volkites or conversion beamers
+* Myrmidon volkites 
+* Conversion beamers
 
 | Weapon             | Range     | Dice | To Hit | AP  | Traits                |
 | ------------------ | :-------: | :--: | :----: | :-: | --------------------- |
@@ -618,6 +621,6 @@ A Krios Venator Squadron can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Large Transport] (4)
+[Transport] (4)
 
 </div>

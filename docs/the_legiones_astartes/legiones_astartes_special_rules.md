@@ -258,7 +258,7 @@ The following special rules apply to all World Eaters models in a Legiones Astar
 
 The following special rules apply to all Ultramarines models in a Legiones Astartes Army.
 
-**Interlocking Tactics:** An Ultramarines model may re-roll any Hit rolls of a 1 when firing upon an enemy Detachment that has already had one or more Hits scored against it this round by an Ultramarines model from the same Formation as the firing model.
+**Interlocking Tactics:** ~~An Ultramarines model may re-roll any Hit rolls of a 1 when firing upon an enemy Detachment that has already had one or more Hits scored against it this round by an Ultramarines model from the same Formation as the firing model.~~ <span style="color: darkmagenta">An Ultramarines model may re-roll any Hit rolls of a 1 when firing upon an enemy Detachment that has already had one or more Hits scored against it this round by an Ultramarines model from a different Detachment in the same Formation as the firing model.</span>
 
 ---
 
@@ -342,9 +342,7 @@ The following special rules apply to all Sons of Horus models in a Legiones Asta
 
 The following special rules apply to all Word Bearers models in a Legiones Astartes Army.
 
-**True Believers:** Detachments within a Word Bearers Formation never count as Broken for the purposes of being issued an Order, i.e., they can be issued any Order they normally could instead of just the Advance Order or March Order. In addition, all Word Bearers Detachments ignore the effects of the Dread Aura (X) special rule.
-
-
+**True Believers:** ~~Detachments within a Word Bearers Formation never count as Broken for the purposes of being issued an Order, i.e., they can be issued any Order they normally could instead of just the Advance Order or March Order.~~ <span style="color: darkmagenta">Detachments within a Word Bearers Formation never count as Broken for the purposes of being issued an Order, i.e., they can be issued any Order they normally could instead of just the Advance Order or Charge Order.</span> In addition, all Word Bearers Detachments ignore the effects of the Dread Aura (X) special rule.
 
 ---
 
@@ -404,6 +402,6 @@ The following special rules apply to all Raven Guard models in a Legiones Astart
 
 The following special rules apply to all Alpha Legion models in a Legiones Astartes Army.
 
-**Mutable Tactics:** For each Formation in an Army made up entirely of Alpha Legion Detachments (ignoring Allied Contingents) the controlling player may select up to 3 Alpha Legion Detachments in the Army to be affected by Mutable Tactics. For each Allied Contingent in an Army made up entirely of Alpha Legion Detachments, the controlling player may select up to 1 Alpha Legion Detachment to be affected by Mutable Tactics. Detachments with the [Flyer] special rule cannot be chosen.
+**Mutable Tactics:** ~~For each Formation in an Army made up entirely of Alpha Legion Detachments (ignoring Allied Contingents) the controlling player may select up to 3 Alpha Legion Detachments in the Army to be affected by Mutable Tactics.~~ At the start of the battle, before any Detachments are deployed, for each Formation in an Army made up entirely of Alpha Legion Detachments (ignoring Allied Contingents), the controlling player may select up to 3 Alpha Legion Detachments in the Army to be affected by Mutable Tactics. For each Allied Contingent in an Army made up entirely of Alpha Legion Detachments, the controlling player may select up to 1 Alpha Legion Detachment to be affected by Mutable Tactics. Detachments with the [Flyer] special rule cannot be chosen.
 
 A Detachment chosen to be affected by Mutable Tactics gains a special rule dependent on the Detachment Type. If a selected Detachment is made up of Infantry, Cavalry, Walker or Vehicle models, all models within it gain either the Infiltrate, Outflank or Forward Deployment special rule - this is chosen by the controlling player and different Detachments can choose different rules. If the selected Detachment is of another type, it gains the Forward Deployment rule.

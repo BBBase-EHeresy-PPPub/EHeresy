@@ -79,7 +79,7 @@ Any Save characteristic not mentioned can be used as normal.
 ---
 
 ### Burrowing
-Hits scored by a weapon with the Burrowing trait always count as if the firing Detachment is in the target's Rear Arc, i.e., the Trait increases the AP of the weapon by 1 when targeting a Vehicle, Super- heavy Vehicle, etc. In addition, any Hits scored bypass Void Shields.
+Hits scored by a weapon with the Burrowing trait always count as if the firing Detachment is in the target's Rear Arc, i.e., the Trait increases the AP of the weapon by 1 when targeting a Vehicle, Super- heavy Vehicle, etc. In addition, any Hits scored bypass Void Shields. <span style="color: darkmagenta">Weapons with the Burrowing trait cannot target Flyers</span>
 
 ### Bypass
 Hits scored by a weapon with the Bypass trait bypass Void Shields.
@@ -101,9 +101,9 @@ These additional Hits can only be allocated to models within the target Detachme
 A weapon with the Demolisher trait can damage Structures.
 
 ### Engine Killer (X)
-When a Vehicle, Super-heavy Vehicle, Knight or Titan suffers a Wound caused by a weapon with the Engine Killer (X) trait, they suffer a number of additional Wounds equal to the number shown in brackets No Save rolls of any kind can be made against these additional Wounds. Note, only the model that suffered the first Wound suffers the additional Wounds; if this Wound causes the model to be destroyed, the additional Wounds cannot be assigned to another model within the Detachment.
+~~When a Super-heavy Vehicle, Knight or Titan suffers a Wound caused by a weapon with the Engine Killer (X) trait, they suffer a number of additional Wounds equal to the number shown in brackets.~~ <span style="color: darkmagenta">When a Vehicle, Super-heavy Vehicle, Knight or Titan suffers a Wound caused by a weapon with the Engine Killer (X) trait, they suffer a number of additional Wounds equal to the number shown in brackets.</span> No Save rolls of any kind can be made against these additional Wounds. Note, only the model that suffered the first Wound suffers the additional Wounds; if this Wound causes the model to be destroyed, the additional Wounds cannot be assigned to another model within the Detachment.
 
-If a weapon has the Engine Killer (X) trait and the Rend trait, enemy Vehicles, Super-heavy Vehicles, Knights and Titans suffer a number of additional Wounds equal to the number shown in brackets if they lose a Fight against the model that has that weapon.
+~~If a weapon has the Engine Killer (X) trait and the Rend trait, enemy Super-heavy Vehicles, Knights and Titans suffer a number of additional Wounds equal to the number shown in brackets if they lose a Fight against the model that has that weapon.~~ <span style="color: darkmagenta">If a weapon has the Engine Killer (X) trait and the Rend trait, enemy Vehicles, Super-heavy Vehicles, Knights and Titans suffer a number of additional Wounds equal to the number shown in brackets if they lose a Fight against the model that has that weapon.</span>
 
 ### Firestorm
 When firing a weapon with the Firestorm trait, place the Flame template (denoted as T in the weapon profile's range) so the narrow end is touching the weapon, or the firing model if the weapon is not physically represented. Make Hit rolls for each Detachment that has one or more models that are under the Flame template equal to the number of models from that Detachment that are at least 50% under the Flame template. Roll a D6 for each model that is less than 50% covered by the template - on a 4+, the model is counted for the purpose of calculating Hit rolls and allocating Hits. On a 1-3, the model is ignored for such purposes. If a weapon has the Firestorm trait and the Skyfire trait, the template only hits models with the [Flyer] special rule, while if it does not have the Skyfire trait then Flyers are ignored and cannot be hit.
@@ -174,7 +174,12 @@ Hits scored by a weapon with the Precise trait are allocated by the firing playe
 Hits scored by a weapon with the Psi trait bypass Invulnerable Saves, Cover Saves, Ion Shields and Void Shields. Each model may only fire with a single weapon with the Psi trait per round. Psi weapons cannot be fired as part of an Overwatch.
 
 ### Quake
-If one or more Hits are scored against a Detachment by a weapon with the Quake trait, halve the Movement characteristic of all models within that Detachment. In addition, subtract 1 from the result of any Hit rolls the Detachment makes; both effects last until the end of the round. This Trait is ignored if all Hits scored by a weapon with this Trait are allocated to a target's Void Shields.
+~~If one or more Hits are scored against a Detachment by a weapon with the Quake trait, halve the Movement characteristic of all models within that Detachment. In addition, subtract 1 from the result of any Hit rolls the Detachment makes; both effects last until the end of the round. This Trait is ignored if all Hits scored by a weapon with this Trait are allocated to a target's Void Shields.~~ 
+
+<span style="color: darkmagenta">If one or more Hits are scored against a Detachment by a weapon with the Quake trait:</span>
+
+* <span style="color: darkmagenta">The next time that Detachment moves, halve the Movement characteristic of all models within that Detachment.</span>
+* <span style="color: darkmagenta">The next time that Detachment fires, subtract 1 from the result of any Hit rolls the Detachment makes. This Trait is ignored if all Hits scored by a weapon with this Trait are allocated to a target's Void Shields.</span>
 
 ### Rapid Fire
 When making Hit rolls for a weapon with the Rapid Fire trait, any natural rolls of a 6 score 2 Hits instead of 1.
@@ -201,7 +206,12 @@ If a weapon with the Saturation Fire trait also has the Arc (X) trait, then only
 Hits caused by a weapon with the Shieldbane trait can be allocated to Void Shields, even if they normally could not be (e.g., because the weapon's AP is 0 or worse).
 
 ### Shock Pulse
-Any Vehicle, Super-heavy Vehicle, Knight or Titan that suffers one or more Hits from a weapon with the Shock Pulse trait reduces its Movement by half for the remainder of the round and can fire with a maximum of one weapon this round; if the target has already fired this round, then it cannot fire again.
+~~Any Vehicle, Super-heavy Vehicle, Knight or Titan that suffers one or more Hits from a weapon with the Shock Pulse trait reduces its Movement by half for the remainder of the round and can fire with a maximum of one weapon this round; if the target has already fired this round, then it cannot fire again.~~
+
+<span style="color: darkmagenta">If one or more Hits are scored against a Vehicle, Super-heavy Vehicle, Knight or Titan Detachment by a weapon with the Shock Pulse trait:
+
+* <span style="color: darkmagenta">The next time that Detachment moves, halve the Movement characteristic of all models within that Detachment.</span>
+* <span style="color: darkmagenta">The next time that Detachment fires, it can only fire with a maximum of one weapon.</span>
 
 In addition, each Hit scored by a weapon with Shock Pulse that is allocated to a Void Shield decreases the Void Shield level by 2 instead of 1.
 
@@ -215,13 +225,13 @@ or involuntarily).
 ### Skyfire
 A weapon with the Skyfire trait can target Flyers as normal instead of requiring a natural 6 to hit. In addition, when a model fires a weapon with the Skyfire trait as part of an Overwatch, subtract 1 from the result of the Hit rolls rather than 2.
 
-Models with at least one weapon with the Skyfire trait may choose to fire on its Detachment's target or a Secondary Target; a Secondary Target is an eligible target (i.e., within range and line of sight of the firing model) different from the first chosen target. The Secondary Target must be a model with the [Flyer] special rule. All firing Skyfire weapons must target the same Flyer Detachment, unless another rule overrides this.
+Models with at least one weapon with the Skyfire trait may choose to fire on its Detachment's target or a Secondary Target; a Secondary Target is an eligible target (i.e., within range and line of sight of the firing model) different from the first chosen target. The Secondary Target must be a model with the [Flyer] special rule. ~~All firing Skyfire weapons must target the same Flyer Detachment, unless another rule overrides this.~~ <span style="color: darkmagenta">All Skyfire weapons in a Detachment firing at a Secondary Target must target the same Detachment, unless another rule overrides this.</span>
 
 ### Tracking
 A model firing a weapon with the Tracking trait at a Flyer can re-roll failed Hit rolls.
 
 ### Warp
-When making an attack with a weapon with the Warp trait, roll a number of Dice equal to the number of models in the target Detachment which are visible to the firing model and within range; Titans cannot split these dice across multiple Detachments. If targeting a Knight or Titan, then the Dice value of the weapon is 1. Roll To Hit as normal.
+When making an attack with a weapon with the Warp trait, roll a number of Dice equal to the number of models in the target Detachment which are visible to the firing model and within range; Titans cannot split these dice across multiple Detachments. ~~If targeting a Knight or Titan, then the Dice roll is equal to the number of remaining Wounds the target Detachment has.~~ <span style="color: darkmagenta">If targeting a Knight or Titan, then the Dice value of the weapon is 1.</span> Roll To Hit as normal.
 
 In addition, Hits scored by a weapon with the Warp trait bypass the following: Armour Saves, Cover Saves, Invulnerable Saves, Ion Shields, Void Shields.
 

@@ -59,7 +59,7 @@ Each model within a Detachment issued with the Advance Order may move up to a nu
 
 ![](../media/legions_imperialis_rules/march.jpg)
 
-Each model within a Detachment issued with the March Order may move up to a number of inches equal to twice its Movement characteristic. If the Detachment is made up entirely of Infantry models that are not Embarked upon a Transport when the Detachment is activated, it may move up to three times its Movement Characteristic during the Movement phase. Models in a Detachment issued a March Order may not fire during the First Fire or Advancing Fire stages of the Combat phase.
+~~Each model within a Detachment issued with the March Order may move up to a number of inches equal to twice its Movement characteristic. If the Detachment is made up entirely of Infantry models that are not Embarked upon a Transport when the Detachment is activated, it may move up to three times its Movement Characteristic during the Movement phase. Models in a Detachment issued a March Order may not fire during the First Fire or Advancing Fire stages of the Combat phase.~~ <span style="color: darkmagenta">Each model within a Detachment issued with the March Order may move up to a number of inches equal to twice its Movement characteristic. Models in a Detachment issued a March Order may not fire during the First Fire or Advancing Fire stages of the Combat phase.</span>
 
 #### Charge Orders
 
@@ -121,7 +121,7 @@ When a Detachment is activated in the Movement phase, models within that Detachm
 
 Most Detachment types can move in any direction and finish their move facing in a direction of the controlling player's choice. However, some Detachment types have some restrictions on their movement - the most common example is Titans, which have a number of unique rules covered [on page 75](../legions_imperialis_rules/titans.md).
 
-A Movement characteristic of '-' means models in the Detachment cannot move, and the characteristic cannot be modified in any way.
+~~A Movement characteristic of '-' means models in the Detachment cannot move, and the characteristic cannot be modified in any way.~~ <span style="color: darkmagenta">A Movement characteristic of '-' means models in the Detachment cannot move, cannot Embark or Disembark from a Transport and the characteristic cannot be modified in any way. If such a model is required to Withdraw from a Combat, it is destroyed</span>
 
 #### No Orders in the Movement Phase
 

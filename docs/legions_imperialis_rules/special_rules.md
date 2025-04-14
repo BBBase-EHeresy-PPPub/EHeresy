@@ -23,6 +23,8 @@ When firing with a model with the Automated Sentry special rule, the controlling
 
 Automated Sentry Detachments can fire when Engaged & Pinned. When selecting targets, they ignore any Detachment which is Engaged & Pinned, including any Detachment they are Engaged & Pinned with.
 
+<span style="color: darkmagenta">Models in a Detachment with this special rule have a Tactical Strength of 0 and this cannot be modified in any way.</span>
+
 ### Battlesmith
 If a friendly Walker, Vehicle or Super-heavy Vehicle, or a model with the Automata or Automated Sentry special rule, within 3" of a model with this rule suffers a Wound due to a special rule or one that is inflicted by a weapon with an AP of -2 or worse, roll a D6. On a 5+, that Wound is ignored and has no effect. Battlesmith cannot be used against Wounds suffered in a Fight.
 
@@ -47,11 +49,13 @@ Models with the Compact special rule may Embark upon Transports as if they were 
 ### Deep Strike
 During deployment, if all models within a Detachment have the Deep Strike special rule, then the Detachment can be placed in Reserve instead of being deployed as normal ([see page 102](../legions_imperialis_rules/fighting_a_battle.md#reserves)). Detachments with the Deep Strike special rule in Reserve can only be issued the Advance Order or March Order.
 
-When a Detachment with the Deep Strike special rule that is in Reserve is activated in any Movement phase other than the first, the controlling player may choose to leave it in Reserve or Deep Strike the Detachment. When a Detachment Deep Strikes, the controlling player places a single model from that Detachment anywhere on the battlefield at least 2" from an enemy model. They then Scatter that model D6". If the model scatters into an area of Impassable terrain or a Structure then that model, and the model's Detachment, is destroyed. If it scatters within 1" of an enemy model, it must be moved the shortest possible distance so it is no longer within 1" of an enemy model.
+When a Detachment with the Deep Strike special rule that is in Reserve is activated in any Movement phase other than the first, the controlling player may choose to leave it in Reserve or Deep Strike the Detachment. When a Detachment Deep Strikes, the controlling player places a single model from that Detachment anywhere on the battlefield at least 2" from an enemy model. They then Scatter that model D6". ~~If the model scatters into an area of Impassable terrain or a Structure then that model, and the model's Detachment, is destroyed.~~ <span style="color: darkmagenta">If the model scatters off the battlefield, into an area of Impassable terrain or onto a Structure then that model, and the model's Detachment, are destroyed.</span> If it scatters within 1" of an enemy model, it must be moved the shortest possible distance so it is no longer within 1" of an enemy model.
 
 Once scattered, any remaining models within the same Detachment are placed on the battlefield within 2" of the already placed model. A model cannot be placed in an area of Impassable terrain or overlapping a Structure, nor can it be placed within 1" of any enemy model. Any model that cannot be placed in this manner is destroyed. Once a Detachment has Deep Striked, it may complete its activation as normal (i.e., it may move during the Movement phase and/or fire during the Combat phase, etc.).
 
 Some Detachments have both the Deep Strike and Transport (X) special rule. If another Detachment is loaded into the Transport model during deployment, that Detachment is kept in Reserve alongside the Transport model. When the Transport model is set up via Deep Strike, the Embarked model then immediately Disembarks (see the Transport (X) special rule for information on Disembarking) and can then be activated as normal later in the phase.
+
+<span style="color: darkmagenta">An Overwatch called against a Detachment that has Deep Striked is resolved after all Models have been set up, and all other effects of that Deep Strike have been resolved, including Disembarking from Models with the Transport (X) special rule and the effects of the Orbital Assault special rule.</span>
 
 ### Dread Aura (X)
 Detachments within a number of inches equal to the value shown in brackets of one or more models with the Dread Aura special rule subtract 1 from the result of any Morale check they make. Models with this special rule are unaffected by another model with Dread Aura. Dread Aura affects friendly and enemy Detachments.
@@ -65,6 +69,8 @@ Once deployed on the battlefield, models with the Drop Pod special rule do not n
 
 Many Detachments with the Drop Pod special rule also have the Transport (X) special rule. If another Detachment is loaded into the Transport Detachment during deployment, that Detachment is kept in Reserve alongside the Transport. When the Transport Detachment is set up via Deep Strike, the transported Detachment then immediately Disembarks (see the Transport (X) special rule for information on Disembarking) and can then be activated as normal later in the phase.
 
+<span style="color: darkmagenta">Models in a Detachment with this special rule have a Tactical Strength of 0 and this cannot be modified in any way.</span>
+
 ### Explorator Adaptation
 Models with the Explorator Adaptation special rule gain a 6+ Invulnerable Save against Hits scored by a weapon with the Barrage or Blast trait.
 
@@ -76,7 +82,7 @@ Models with the Flyer special rule operate differently to other Detachments on t
 
 Unless instructed otherwise, Flyers are not deployed on the battlefield at the start of the battle and are instead placed in Reserve. Unless instructed otherwise, a model with the Flyer special rule that is in Reserve can only be issued with an Advance Order or a March Order. Any weapons with the Point Defence trait that the Flyer has count as having the Skyfire trait when firing upon an enemy model with the Flyer special rule.
 
-When activated during the Movement phase, the controlling player places the Flyer so the rear of its base is touching a point on the controlling player's board edge or touching any board edge at a point within 8" of the controlling player's board edge. The Flyer then moves and can only move in a straight line. A Flyer can make a single turn of up to 90° during its movement. Flyers can move over any model or area of terrain during their movement. A Flyer can end its movement overlapping Impassable terrain.
+When activated during the Movement phase, the controlling player places the Flyer so the rear of its base is touching a point on the controlling player's board edge or touching any board edge at a point within 8" of the controlling player's board edge. The Flyer then moves and can only move in a straight line. A Flyer can make a single turn of up to 90° during its movement. Flyers can move over any model or area of terrain during their movement. A Flyer can end its movement overlapping Impassable terrain. <span style="color: darkmagenta">Models with the Flyer special rule cannot call Overwatch during the Movement phase.</span>
 
 Flyers fire as normal during the Combat phase. Due to their altitude, a Flyer is considered to have line of sight to all models on the battlefield, unless instructed otherwise. Similarly, all Detachments are considered to have line of sight to a Flyer. A Flyer suffers no penalties to Hit rolls for targeting obscured models, though they do suffer penalties for firing upon Detachments within an area of terrain as normal.
 
@@ -87,7 +93,7 @@ Due to the altitude a Flyer operates at, Flyers are ignored for the purposes of 
 Unless otherwise instructed, any model firing at a model with the Flyer special rule can only Hit on a natural roll of a 6, regardless of modifiers. If a weapon uses a template, such as the Flame template or the Blast template, a model with the Flyer special rule is ignored when calculating Hits unless the weapon also has the Skyfire trait.
 
 ### Forward Deployment
-After both players have deployed their armies, but before the first round of the battle, if all models in a Detachment have the Forward Deployment special rule, the Detachment may make a special move. The controlling player can move each Forward Deployment Detachment on the battlefield up to a number of inches equal to its Movement characteristic, ignoring Difficult terrain and Dangerous terrain rules. This move can take the Detachment outside of its deployment zone and a Detachment can Garrison a Structure if they are able to.
+~~After both players have deployed their armies, but before the first round of the battle, if all models in a Detachment have the Forward Deployment special rule, the Detachment may make a special move.~~ <span style="color: darkmagenta">After both players have deployed their armies, including Infiltrating Detachments, but before the first round of the battle, if all models in a Detachment have the Forward Deployment special rule, the Detachment may make a special move.</span> The controlling player can move each Forward Deployment Detachment on the battlefield up to a number of inches equal to its Movement characteristic, ignoring Difficult terrain and Dangerous terrain rules. This move can take the Detachment outside of its deployment zone and a Detachment can Garrison a Structure if they are able to.
 
 If both players have Forward Deployment Detachments, then the winner of a roll-off chooses who moves their Detachments first.
 
@@ -130,7 +136,7 @@ Models with the Independent and Deep Strike special rules may start the game in 
 *If, during the same round, the Detachment's Formation becomes Broken and the Detachment fails its Morale check, both the Detachment and the Independent Unit lose their Order and gain the Fall Back Order. The Independent Unit may still fight in the Combat phase but then flees with its Detachment during the End phase.*
 
 ### Infiltrate
-Detachments with the Infiltrate special rule are not deployed as normal. Instead, after all players have finished deploying, players take it in turns, starting with the player who has control of the battlefield, to deploy an Infiltrating Detachment anywhere on the battlefield outside of the opposing player's deployment zone. Infiltrating models must be deployed at least 4" away from a previously deployed enemy model; if it cannot be deployed in this way, then it is deployed as normal within the controlling player's deployment zone.
+Detachments with the Infiltrate special rule are not deployed as normal. Instead, after all players have finished deploying, players take it in turns, starting with the player who has control of the battlefield, to deploy an Infiltrating Detachment anywhere on the battlefield outside of the opposing player's deployment zone. Infiltrating models must be deployed at least 4" away from a previously deployed enemy model; if it cannot be deployed in this way, then it is deployed as normal within the controlling player's deployment zone. <span style="color: darkmagenta">A Detachment that is deployed in this way cannot be issued a Charge Order during the first round.</span>
 
 ### Inspire (X)
 Friendly Detachments within a number of inches equal to the value shown in brackets of a Detachment with this special rule may use this Detachment's Morale value in place of their own when making Morale checks.
@@ -171,7 +177,7 @@ A Detachment with this special rule may only be included within an Army that has
 When a model with the Macro-extinction Targeting Protocols special rule is firing at a Super-heavy, Knight or Titan Detachment, it may re-roll all failed Hit rolls. In addition, when making Fight rolls for a model with this special rule, the controlling player may re-roll one D6 of the controlling player's choice in Fights against a Super-heavy, Knight or Titan model.
 
 ### Master Tactician
-A Detachment that contains one or more models with this special rule may issue commands when it is activated. Any different friendly Detachment that has yet to be activated this round, and is within 6" of an activated model with this special rule, may discard their Order token and replace it with a different Order they are eligible to be issued. A Detachment issued with a Fall Back Order cannot discard its Order via this rule, however a Broken Detachment can, and thus can be issued an Order other than Advance or Charge.
+~~A Detachment that contains one or more models with this special rule may issue commands when it is activated. Any different friendly Detachment that has yet to be activated this round, and is within 6" of an activated model with this special rule, may discard their Order token and replace it with a different Order they are eligible to be issued.~~ <span style="color: darkmagenta">A Detachment that contains one or more models with this special rule may issue a command when it is activated. If the controlling player chooses to do so, they may select one other friendly Detachment that has yet to be activated this round, and is within 6" of one or more models with this special rule that are being activated. The selected Detachment's Order token is discarded and replaced with a different Order they were eligible to be issued during the Orders phase of this round.</span> A Detachment issued with a Fall Back Order cannot discard its Order via this rule, however a Broken Detachment can, and thus can be issued an Order other than Advance or Charge.
 
 ### Medicae
 Infantry models gain the Feel No Pain special rule while within 4" of a friendly model with the Medicae special rule.
@@ -213,7 +219,7 @@ A model with the Steadfast special rule counts its Tactical Strength as one high
 While a model with the Tracking Array special rule is issued with a First Fire Order, all of its weapons gain the Skyfire special rule if they do not already have it.
 
 ### Transport (X)
-Models with the Transport (X) special rule can carry Detachments into battle - these models are referred to as Transports. Each model with this special rule may transport a maximum number of Infantry models equal to the value shown in brackets. When a model is within a Transport, place it to the side of the battlefield.
+Models with the Transport (X) special rule can carry Detachments into battle - these models are referred to as Transports. Each model with this special rule may transport a maximum number of Infantry models equal to the value shown in brackets. When a model is within a Transport, place it to the side of the battlefield. <span style="color: darkmagenta">Models can only Embark onto Transport Models from the same Army List</span>
 
 Models may start the battle deployed within a Transport. When deploying a Detachment which contains one or more models with the Transport (X) special rule, the controlling player may declare that it is transporting models - they state which models are Embarked on the Transport and place those models to one side. All models Embarked within a Transport must be declared when it is deployed and all models within the same Detachment must be deployed in Transports if one model is, and all the chosen Transports must be part of the same Detachment.
 
@@ -265,6 +271,6 @@ Some special rules (such as Jump Packs) allow a model to ignore the need to Hove
 
 ### Remote Controlled Detonation
 
-If a model with the Remote Controlled Detonation special rule ends its movement within 12" of a friendly model with the Commander special rule, it may detonate. When a model detonates, it attacks with all of its weapons that have the Blast (3"/5") trait. The central hole of the Blast template is placed over the detonating model - it does no damage to itself (i.e., don't make Hit rolls for the detonating model) and the template does not Scatter. Once the effects of the detonation have been resolved, the detonating model is destroyed.
+If a model with the Remote Controlled Detonation special rule ends its movement within 12" of a friendly model with the Commander special rule, it may detonate. When a model detonates, it attacks with all of its weapons that have the Blast (3"/5") trait. ~~The central hole of the Blast template is placed over the detonating model - it does no damage to itself (i.e., don't make Hit rolls for the detonating model) and the template does not Scatter.~~ <span style="color: darkmagenta">The central hole of the Blast template is placed within 1" of the detonating model – it does no damage to itself (i.e., don't make Hit rolls for the detonating model) and the template does not Scatter.</span> Once the effects of the detonation have been resolved, the detonating model is destroyed.
 
 If a Detachment contains more than one model with this rule, the controlling player can choose which models detonate and which do not, doing so before resolving any detonation. Models that detonate are not affected by friendly models that are detonating at the same time. Any model that does not detonate is affected if it is under the Blast template as normal.
