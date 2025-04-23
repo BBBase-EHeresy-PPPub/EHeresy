@@ -117,7 +117,7 @@ When a Detachment is activated in the Movement phase, models within that Detachm
 
 * May Charge or move a number of inches equal to their Movement characteristic if issued with a Charge Order.
 
-* Move twice their Movement characteristic if issued with the March Order or, if the Detachment is made up entirely of Infantry models that are not Embarked on a Transport when the Detachment is activated, up to three times its Movement characteristic.
+* Move twice their Movement characteristic if issued with the March Order~~ or, if the Detachment is made up entirely of Infantry models that are not Embarked on a Transport when the Detachment is activated, up to three times its Movement characteristic~~.
 
 Most Detachment types can move in any direction and finish their move facing in a direction of the controlling player's choice. However, some Detachment types have some restrictions on their movement - the most common example is Titans, which have a number of unique rules covered [on page 75](../legions_imperialis_rules/titans.md).
 
