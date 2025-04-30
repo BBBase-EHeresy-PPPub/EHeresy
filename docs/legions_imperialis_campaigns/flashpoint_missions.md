@@ -80,7 +80,7 @@ In addition, Requisition Points are added to the total points cost allowed for A
 
 ---
 
-## FLASHPOINT - DEPOT RAID**
+## FLASHPOINT - DEPOT RAID
 
 **Mission Specifics**
 
