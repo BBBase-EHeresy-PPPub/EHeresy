@@ -202,7 +202,7 @@ A Myrmidon Secutor Host can purchase one of the following upgrades:
 
 | Weapon             | Range     | Dice | To Hit | AP  | Traits                |
 | ------------------ | :-------: | :--: | :----: | :-: | --------------------- |
-| Conversion beamers | 4"-22"    | 1    | 4+     | -2  | [Deflagrate], [Light] |
+| Conversion beamers | 4"-22"    | 1    | 4+     | -2  |  |
 | Myrmidon volkites  | 12"       | 2    | 4+     |  0  | [Deflagrate], [Light] |
 
 **Upgrades**
