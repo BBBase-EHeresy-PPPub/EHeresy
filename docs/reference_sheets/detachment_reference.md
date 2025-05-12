@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## Legiones Astartes Detachments
 
 | Detachment Name  | Move | Sv | CAF | Morale | W | Detachment Size | Unit Type | Points |
