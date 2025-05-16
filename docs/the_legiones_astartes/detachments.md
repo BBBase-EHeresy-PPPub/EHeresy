@@ -1336,8 +1336,6 @@ A Legion Scimitar Jetbike Squadron can purchase one of the following upgrades:
 
 - Plasma cannon
 - Heavy bolter
-- Multi-melta
-- Nose Mounted heavy flamer
 
 | Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
@@ -1378,7 +1376,6 @@ A Legion Land Speeder Squadron can purchase one of the following upgrades:
 
 - Nose Mounted heavy flamer
 - Sponson Mounted lascannon
-- Cyclone missile launcher
 
 | Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
