@@ -277,7 +277,7 @@ An Arlatax Battle-automata Maniple can purchase any of the following upgrades. I
 | Weapon             | Range  | Dice | To Hit | AP  | Traits                     |
 | ------------------ | :----: | :--: | :----: | :-: | -------------------------- |
 | Missile launchers  | 20"    | 2    | 4+     |  0  | [Light], [Ignores Cover]   |
-| Missile launchers  | 20"    | 1    | 4+     | -1  | [Anti-tank]                |
+|                    | 20"    | 1    | 4+     | -1  | [Anti-tank]                |
 | Graviton hammers   | -      | -    | -      | -2  | [Wrecker] (1)              |
 
 **Upgrades**

@@ -293,7 +293,7 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 | Legion bolters | 8" | 1 | 5+ | 0 | [Assault], [Light] |
 | Plasma guns | 10" | 1 | 4+ | -1 | [Light AT] |
 | Missile launchers | 20" | 2 | 4+ | 0 | [Ignores Cover], [Light] |
-| Missile launchers | 20" | 1 | 4+ | -1 | [Anti-tank] |
+|                   | 20" | 1 | 4+ | -1 | [Anti-tank] |
 
 **Upgrades**
 
