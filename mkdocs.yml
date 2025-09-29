@@ -67,26 +67,16 @@ nav:
       - Missions: titandeath/titandeath_missions.md
       - Secondary Objectives: titandeath/titandeath_secondary_objectives.md
   - Factions:
-      - Factions: factions/index.md  
-      - The Legiones Astartes:
-          - The Legiones Astartes: the_legiones_astartes/index.md
-          - Formations: the_legiones_astartes/formations.md
-          - Detachments: the_legiones_astartes/detachments.md
-          - Special Rules: the_legiones_astartes/legiones_astartes_special_rules.md
-      - The Solar Auxilia:
-          - The Solar Auxilia: the_solar_auxilia/index.md
-          - Formations: the_solar_auxilia/formations.md
-          - Detachments: the_solar_auxilia/detachments.md
-      - Strategic Assets:
-          - Strategic Assets: strategic_assets/index.md
-          - Formations: strategic_assets/formations.md
-          - Detachments: strategic_assets/detachments.md
-      - The Collegia Titanica:
-          - The Collegia Titanica: factions/the_collegia_titanica/index.md
-          - Formations: factions/the_collegia_titanica/formations.md
-      - The Questoris Familia:
-          - The Questoris Familia: factions/the_questoris_familia/index.md
-          - Formations: factions/the_questoris_familia/formations.md 
+      - Factions: factions/index.md
+      - Legiones Astartes:
+          - Legiones Astartes: factions/legiones_astartes/index.md
+          - Formations: factions/legiones_astartes/formations.md
+          - Detachments: factions/legiones_astartes/detachments.md
+          - Special Rules: factions/legiones_astartes/special_rules.md
+      - Solar Auxilia:
+          - Solar Auxilia: factions/solar_auxilia/index.md
+          - Formations: factions/solar_auxilia/formations.md
+          - Detachments: factions/solar_auxilia/detachments.md
       - Mechanicum Taghmata:
           - Mechanicum Taghmata: factions/mechanicum_taghmata/index.md
           - Formations: factions/mechanicum_taghmata/formations.md
@@ -95,12 +85,32 @@ nav:
           - Dark Mechanicum: factions/dark_mechanicum/index.md
           - Formations: factions/dark_mechanicum/formations.md
           - Detachments: factions/dark_mechanicum/detachments.md
+      - Collegia Titanica:
+          - Collegia Titanica: factions/collegia_titanica/index.md
+          - Formations: factions/collegia_titanica/formations.md
+          - Detachments: factions/collegia_titanica/detachments.md
+      - Knight Households:
+          - Knight Households: factions/knight_households/index.md
+          - Formations: factions/knight_households/formations.md
+          - Detachments: factions/knight_households/detachments.md
   - Formations:
-      - Formations of Legend:
-          - Formations of Legend: formations_of_legend/index.md
-          - Legiones Astartes: formations_of_legend/legiones_astartes_formations.md
-          - Solar Auxilia: formations_of_legend/solar_auxilia_formations.md
-          - Formations: formations_of_legend/formations.md
-      - Support Formations:
-          - Support Formations: formations/support_formations/index.md
-          - Formations: formations/support_formations/formations.md
+      - Formations: formations/index.md
+      - Iconic Formations: 
+          - Iconic Formations: formations/iconic_formations/index.md
+          - Legiones Astartes: formations/iconic_formations/legiones_astartes.md
+          - Solar Auxilia: formations/iconic_formations/solar_auxilia.md
+          - Mechanicum Taghmata: formations/iconic_formations/mechanicum_taghmata.md
+          - Dark Mechanicum: formations/iconic_formations/dark_mechanicum.md
+          - Collegia Titanica: formations/iconic_formations/collegia_titanica.md
+          - Knight Households: formations/iconic_formations/knight_households.md
+      - Bonded Cybernetica Support Formations:
+          - Bonded Cybernetica Support Formations: formations/bonded_cybernetica/index.md
+          - Legiones Astartes: formations/bonded_cybernetica/legiones_astartes.md
+          - Solar Auxilia: formations/bonded_cybernetica/solar_auxilia.md
+          - Mechanicum Taghmata: formations/bonded_cybernetica/mechanicum_taghmata.md
+          - Dark Mechanicum: formations/bonded_cybernetica/dark_mechanicum.md
+          - Collegia Titanica: formations/bonded_cybernetica/collegia_titanica.md
+          - Knight Households: formations/bonded_cybernetica/knight_households.md
+  - Reference Section:
+      - Detachment Reference: reference/detachment_reference.md
+      - Weapon Profiles: reference/weapon_profiles.md

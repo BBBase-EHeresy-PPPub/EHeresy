@@ -213,7 +213,7 @@ During the First Fire stage of the Combat phase, a Detachment with the Skimmer s
 When a Skimmer Detachment makes a Pop-up attack, they remain at their elevated position until the end of the First Fire stage, meaning enemy models can draw line of sight to the Skimmer models as if they were 10" above their starting positions on the battlefield. At the end of the First Fire stage, the Skimmer models descend and line of sight must be drawn to and from them as normal.
 
 ### Steadfast
-A model with the Steadfast special rule counts its Tactical Strength as one higher than normal (e.g., an Infantry model with the Steadfast special rule would have a Tactical Strength of 6). This rule is cumulative with other special rules (i.e., an Iron Warriors Legion Terminator model would have a Tactical Strength of 8 in certain circumstances thanks to the 'The Bitter End' Legion special rule ([see page 156](../the_legiones_astartes/legiones_astartes_special_rules.md#the-ivth-legion-iron-warriors))).
+A model with the Steadfast special rule counts its Tactical Strength as one higher than normal (e.g., an Infantry model with the Steadfast special rule would have a Tactical Strength of 6). This rule is cumulative with other special rules (i.e., an Iron Warriors Legion Terminator model would have a Tactical Strength of 8 in certain circumstances thanks to the 'The Bitter End' Legion special rule ([see page 156](../factions/legiones_astartes/special_rules.md#the-ivth-legion-iron-warriors))).
 
 ### Tracking Array
 While a model with the Tracking Array special rule is issued with a First Fire Order, all of its weapons gain the Skyfire special rule if they do not already have it.

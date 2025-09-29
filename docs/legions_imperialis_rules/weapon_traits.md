@@ -174,7 +174,7 @@ Hits scored by a weapon with the Precise trait are allocated by the firing playe
 Hits scored by a weapon with the Psi trait bypass Invulnerable Saves, Cover Saves, Ion Shields and Void Shields. Each model may only fire with a single weapon with the Psi trait per round. Psi weapons cannot be fired as part of an Overwatch.
 
 ### Quake
-~~If one or more Hits are scored against a Detachment by a weapon with the Quake trait, halve the Movement characteristic of all models within that Detachment. In addition, subtract 1 from the result of any Hit rolls the Detachment makes; both effects last until the end of the round. This Trait is ignored if all Hits scored by a weapon with this Trait are allocated to a target's Void Shields.~~ 
+~~If one or more Hits are scored against a Detachment by a weapon with the Quake trait, halve the Movement characteristic of all models within that Detachment. In addition, subtract 1 from the result of any Hit rolls the Detachment makes; both effects last until the end of the round. This Trait is ignored if all Hits scored by a weapon with this Trait are allocated to a target's Void Shields.~~
 
 <span style="color: darkmagenta">If one or more Hits are scored against a Detachment by a weapon with the Quake trait:</span>
 

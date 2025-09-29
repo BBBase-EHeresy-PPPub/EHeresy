@@ -56,7 +56,7 @@
 
 **Q.** If a Detachment has Dedicated Transports, is it required to be deployed or arrive from Reserves Embarked upon them?
 
-**A.** No. 
+**A.** No.
 
 ---
 
@@ -94,7 +94,7 @@
 
 **Q.** If a Detachment has Dedicated Transports, can another Model which joins that Detachment through a special rule (such as Commander), also Embark upon one of those Dedicated Transports, assuming there is sufficient Transport Capacity?
 
-**A.** Yes. 
+**A.** Yes.
 
 ---
 
