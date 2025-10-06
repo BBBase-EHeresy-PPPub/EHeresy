@@ -13,7 +13,7 @@
 
 **Weapons**
 
-Each Warhound Titan has two weapons chosen from the list below – it may choose two of the same weapon:
+Each Warhound Titan has two weapons chosen from the list below - it may choose two of the same weapon:
 
 * Inferno gun
 * Vulcan mega-bolter
@@ -106,7 +106,7 @@ A Warhound Hunting Pack can purchase one of the following upgrades:
 
 **Weapons**
 
-A Reaver Battle Titan has two weapons chosen from the list below – it may choose two of the same weapon:
+A Reaver Battle Titan has two weapons chosen from the list below - it may choose two of the same weapon:
 
 * Reaver laser blaster
 * Reaver gatling blaster
@@ -168,7 +168,7 @@ A Reaver Battle Titan also has one weapon chosen from the list below:
 * Ardex-defensor mauler bolt cannon turrets
 * Mori quake cannon or Belicosa volcano cannon
 
-A Warbringer Nemesis Titan also has two weapons chosen from the list below – it may choose two of the same weapon:
+A Warbringer Nemesis Titan also has two weapons chosen from the list below - it may choose two of the same weapon:
 
 * Reaver laser blaster
 * Reaver gatling blaster
@@ -210,7 +210,7 @@ A Warbringer Nemesis Titan also has two weapons chosen from the list below – i
 * Ardex-defensor mauler bolt cannon turrets
 * Ardex-defensor lascannon turrets
 
-A Warlord Battle Titan also has two weapons chosen from the list below – it may choose two of the same weapon:
+A Warlord Battle Titan also has two weapons chosen from the list below - it may choose two of the same weapon:
 
 * Belicosa volcano cannon
 * Sunfury plasma annihilator
@@ -348,7 +348,7 @@ A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of th
 * Ardex-defensor mauler bolt cannon turrets
 * Anvillus pattern defence batteries or Ardex-defensor bombard turrets
 
-In addition, a Warmaster Titan also has two weapons chosen from the list below – it may choose two of the same weapon:
+In addition, a Warmaster Titan also has two weapons chosen from the list below - it may choose two of the same weapon:
 
 * Apocalypse missile array
 * Melta cannon
@@ -401,7 +401,7 @@ In addition, a Warmaster Titan also has two weapons chosen from the list below �
 * Anvillus pattern defence batteries or Ardex-defensor bombard turrets
 * Cruciaris gatling array
 
-In addition, a Warmaster Iconoclast also has two weapons chosen from the list below – it may choose two of the same weapon:
+In addition, a Warmaster Iconoclast also has two weapons chosen from the list below - it may choose two of the same weapon:
 
 * Apocalypse missile array
 * Melta cannon

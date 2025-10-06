@@ -1,12 +1,12 @@
 ## Terror Protocol Cohort
 
-**Command – Urgency:** When a Detachment in this Formation with the [Networked Anima] special rule is activated during the Movement phase, all models within it increase their Movement characteristic by 2" if the Detachment is within 6" of a model with the [Noosphere Controller] special rule. This effect lasts until the end of the round.
+**Command - Urgency:** When a Detachment in this Formation with the [Networked Anima] special rule is activated during the Movement phase, all models within it increase their Movement characteristic by 2" if the Detachment is within 6" of a model with the [Noosphere Controller] special rule. This effect lasts until the end of the round.
 
 **Terror Protocol:** Compulsory Core Detachment slots in this Formation must be filled with Errax 'Butcher' Assault Stalker Cohort Detachments.
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/compulsory_hq.jpg)](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_errax.jpg)](../../factions/dark_mechanicum/detachments.md#errax-butcher-assault-stalker-cohort-45-points) [![](../../media/factions/dark_mechanicum/compulsory_errax.jpg)](../../factions/dark_mechanicum/detachments.md#errax-butcher-assault-stalker-cohort-45-points)
+[![](../../media/factions/dark_mechanicum/compulsory_hq.jpg)](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
@@ -24,7 +24,7 @@
 
 ## Purge Protocol Cohort
 
-**Command – Exterminate:** Hits scored by a model with the [Noosphere Controller] special rule from this Formation mark the target Detachment until the end of the round. Models from this Formation with the [Networked Anima] special rule may re-roll Hit rolls of a 1 when firing upon a marked Detachment.
+**Command - Exterminate:** Hits scored by a model with the [Noosphere Controller] special rule from this Formation mark the target Detachment until the end of the round. Models from this Formation with the [Networked Anima] special rule may re-roll Hit rolls of a 1 when firing upon a marked Detachment.
 
 **COMPULSORY DETACHMENTS**
 
@@ -53,9 +53,9 @@
 
 Any Harpax 'Swarmer' Scout Host Detachment selected within a Compulsory Detachment slot may be upgraded to a 'Controller Host' for +15 points. A Detachment upgraded in this way gains the [Noosphere Controller] and [Invulnerable Save] (6+) special rules.
 
-**Command – Overwhelm:** Harpax 'Swarmer' Scout Host Detachments within this Formation gain the [Infiltrate] special rule. All Detachments from this Formation with the [Networked Anima] special rule count their Scale as 1 higher for the purposes of determining if enemy Detachments are Engaged and Pinned while within 8" of a model from this Formation with the [Noosphere Controller] special rule.
+**Command - Overwhelm:** Harpax 'Swarmer' Scout Host Detachments within this Formation gain the [Infiltrate] special rule. All Detachments from this Formation with the [Networked Anima] special rule count their Scale as 1 higher for the purposes of determining if enemy Detachments are Engaged and Pinned while within 8" of a model from this Formation with the [Noosphere Controller] special rule.
 
-*Note: This is only to determine if the enemy Detachment is Engaged and Pinned – the Harpax Swarms are still Engaged and Pinned by enemy Detachments of Scale (1).*
+*Note: This is only to determine if the enemy Detachment is Engaged and Pinned - the Harpax Swarms are still Engaged and Pinned by enemy Detachments of Scale (1).*
 
 **COMPULSORY DETACHMENTS**
 

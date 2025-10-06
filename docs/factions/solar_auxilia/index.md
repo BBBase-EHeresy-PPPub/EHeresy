@@ -14,9 +14,9 @@ Many Solar Auxilia Detachments have the [Chain of Command] special rule, which l
 
 ### Tank Commander
 
-Certain Formations and/or Detachments allow a model to be upgraded to a Tank Commander – where applicable, this will be stated in the relevant description. A model upgraded to a Tank Commander gains the [Solar Auxilia HQ (6")] special rule and increases its Morale characteristic by 1, to a maximum of 2+.
+Certain Formations and/or Detachments allow a model to be upgraded to a Tank Commander - where applicable, this will be stated in the relevant description. A model upgraded to a Tank Commander gains the [Solar Auxilia HQ (6")] special rule and increases its Morale characteristic by 1, to a maximum of 2+.
 
-Where possible, a model upgraded to a Tank Commander should be clearly visible – this can be done through having an officer in the cupola, a small banner, an alternative paint scheme or similar identifiable method.
+Where possible, a model upgraded to a Tank Commander should be clearly visible - this can be done through having an officer in the cupola, a small banner, an alternative paint scheme or similar identifiable method.
 
 ### Chain of Command
 

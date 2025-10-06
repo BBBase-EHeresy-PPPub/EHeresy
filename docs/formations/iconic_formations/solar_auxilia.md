@@ -5,21 +5,21 @@
 **STANDARD DETACHMENTS: 465 Points**
 
 [![](../../media/factions/solar_auxilia/leman_russ_annihilator.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Leman Russ Annihilator Squadron* – 4 Leman Russ Annihilator models. These models are equipped with Hull Mounted lascannon.
+*Leman Russ Annihilator Squadron* - 4 Leman Russ Annihilator models. These models are equipped with Hull Mounted lascannon.
 
 [![](../../media/factions/solar_auxilia/leman_russ_executioner.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Leman Russ Executioner Squadron* – 4 Leman Russ Executioner models. These models are equipped with Hull Mounted lascannon.
+*Leman Russ Executioner Squadron* - 4 Leman Russ Executioner models. These models are equipped with Hull Mounted lascannon.
 
 [![](../../media/factions/solar_auxilia/leman_russ_vanquisher.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Leman Russ Vanquisher Squadron* – 4 Leman Russ Vanquisher models. These models are equipped with Hull Mounted lascannon. One model is upgraded to be a Tank Commander.
+*Leman Russ Vanquisher Squadron* - 4 Leman Russ Vanquisher models. These models are equipped with Hull Mounted lascannon. One model is upgraded to be a Tank Commander.
 
 **EXPANDED DETACHMENTS: +110 Points**
 
 [![](../../media/factions/solar_auxilia/aethon_sentinel.jpg)](../../factions/solar_auxilia/detachments.md#vanguard-detachments)
-*Auxilia Aethon Heavy Sentinel Patrol* – 4 Aethon Heavy Sentinel models.
+*Auxilia Aethon Heavy Sentinel Patrol* - 4 Aethon Heavy Sentinel models.
 
 [![](../../media/factions/solar_auxilia/aethon_sentinel.jpg)](../../factions/solar_auxilia/detachments.md#vanguard-detachments)
-*Auxilia Aethon Heavy Sentinel Patrol* – 4 Aethon Heavy Sentinel models.
+*Auxilia Aethon Heavy Sentinel Patrol* - 4 Aethon Heavy Sentinel models.
 
 ---
 
@@ -34,21 +34,21 @@
 **STANDARD DETACHMENTS: 480 Points**
 
 [![](../../media/factions/solar_auxilia/stormsword.jpg)](../../factions/solar_auxilia/detachments.md#heavy-armour-detachments)
-*Auxilia Stormsword Squadron* – 3 Stormsword models.
+*Auxilia Stormsword Squadron* - 3 Stormsword models.
 
 [![](../../media/factions/solar_auxilia/basilisk.jpg)](../../factions/solar_auxilia/detachments.md#artillery-detachments)
-*Auxilia Basilisk Battery* – 4 Basilisk models.
+*Auxilia Basilisk Battery* - 4 Basilisk models.
 
 [![](../../media/factions/solar_auxilia/medusa.jpg)](../../factions/solar_auxilia/detachments.md#artillery-detachments)
-*Auxilia Medusa Battery* – 4 Medusa models.
+*Auxilia Medusa Battery* - 4 Medusa models.
 
 **EXPANDED DETACHMENTS: +370 Points**
 
 [![](../../media/factions/solar_auxilia/stormsword.jpg)](../../factions/solar_auxilia/detachments.md#heavy-armour-detachments)
-*Auxilia Stormsword Squadron* – 3 Stormsword models.
+*Auxilia Stormsword Squadron* - 3 Stormsword models.
 
 [![](../../media/factions/solar_auxilia/basilisk.jpg)](../../factions/solar_auxilia/detachments.md#artillery-detachments)
-*Auxilia Basilisk Battery* – 4 Basilisk models.
+*Auxilia Basilisk Battery* - 4 Basilisk models.
 
 ---
 
@@ -64,24 +64,24 @@
 **STANDARD DETACHMENTS: 335 Points**
 
 [![](../../media/factions/solar_auxilia/legate_commander.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Legate Commander Detachment* – 1 Auxilia Commander model. This Detachment has 1 Dracosan model as a Dedicated Transport. This Dracosan model is equipped with a Hull Mounted demolisher cannon.
+*Legate Commander Detachment* - 1 Auxilia Commander model. This Detachment has 1 Dracosan model as a Dedicated Transport. This Dracosan model is equipped with a Hull Mounted demolisher cannon.
 
 [![](../../media/factions/solar_auxilia/veletaris.jpg)](../../factions/solar_auxilia/detachments.md#support-detachments)
-*Auxilia Veletaris Storm Section* – 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+*Auxilia Veletaris Storm Section* - 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/veletaris.jpg)](../../factions/solar_auxilia/detachments.md#support-detachments)
-*Auxilia Veletaris Storm Section* – 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+*Auxilia Veletaris Storm Section* - 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
 
 **EXPANDED DETACHMENTS: +385 Points**
 
 [![](../../media/factions/solar_auxilia/legate_commander.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Legate Commander Detachment* – 1 Auxilia Commander model. This Detachment has 1 Dracosan model as a Dedicated Transport. This Dracosan model is equipped with a Hull Mounted demolisher cannon.
+*Legate Commander Detachment* - 1 Auxilia Commander model. This Detachment has 1 Dracosan model as a Dedicated Transport. This Dracosan model is equipped with a Hull Mounted demolisher cannon.
 
 [![](../../media/factions/solar_auxilia/auxilia_ogryn.jpg)](../../factions/solar_auxilia/detachments.md#support-detachments)
-*Auxilia Ogryn Charonite Section* – 8 Charonite Ogryn models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+*Auxilia Ogryn Charonite Section* - 8 Charonite Ogryn models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/veletaris.jpg)](../../factions/solar_auxilia/detachments.md#support-detachments)
-*Auxilia Veletaris Storm Section* – 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+*Auxilia Veletaris Storm Section* - 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
 
 ---
 
@@ -94,33 +94,33 @@
 **STANDARD DETACHMENTS: 300 Points**
 
 [![](../../media/factions/solar_auxilia/legate_commander.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Legate Commander Detachment* – 1 Auxilia Commander model.
+*Legate Commander Detachment* - 1 Auxilia Commander model.
 
 [![](../../media/factions/solar_auxilia/tactical_command.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Auxilia Tactical Command Detachment* – 1 Tactical Command model.
+*Auxilia Tactical Command Detachment* - 1 Tactical Command model.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
 
 **EXPANDED DETACHMENTS: +300 Points**
 
 [![](../../media/factions/solar_auxilia/tactical_command.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Auxilia Tactical Command Detachment* – 1 Tactical Command model.
+*Auxilia Tactical Command Detachment* - 1 Tactical Command model.
 
 [![](../../media/factions/solar_auxilia/rapier.jpg)](../../factions/solar_auxilia/detachments.md#bastion-detachments)
-*Auxilia Rapier Battery* – 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
+*Auxilia Rapier Battery* - 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
 
 [![](../../media/factions/solar_auxilia/rapier.jpg)](../../factions/solar_auxilia/detachments.md#bastion-detachments)
-*Auxilia Rapier Battery* – 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
+*Auxilia Rapier Battery* - 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
 
 [![](../../media/factions/solar_auxilia/rapier.jpg)](../../factions/solar_auxilia/detachments.md#bastion-detachments)
-*Auxilia Rapier Battery* – 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
+*Auxilia Rapier Battery* - 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
 
 ---
 
@@ -133,24 +133,24 @@
 **STANDARD DETACHMENTS: 410 Points**
 
 [![](../../media/factions/solar_auxilia/stormblade.jpg)](../../factions/solar_auxilia/detachments.md#heavy-armour-detachments)
-*Auxilia Stormblade Squadron* – 1 Stormblade model. This model is upgraded to be a Tank Commander.
+*Auxilia Stormblade Squadron* - 1 Stormblade model. This model is upgraded to be a Tank Commander.
 
 [![](../../media/factions/solar_auxilia/leman_russ.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Leman Russ Strike Squadron* – 4 Leman Russ Tank models. These models are equipped with Hull Mounted heavy bolters and Pintle Mounted heavy stubbers. One model is upgraded to be a Tank Commander.
+*Leman Russ Strike Squadron* - 4 Leman Russ Tank models. These models are equipped with Hull Mounted heavy bolters and Pintle Mounted heavy stubbers. One model is upgraded to be a Tank Commander.
 
 [![](../../media/factions/solar_auxilia/leman_russ_demolisher.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Leman Russ Demolisher Squadron* – 4 Leman Russ Demolisher models. These models are equipped with Hull Mounted lascannon. One model is upgraded to be a Tank Commander.
+*Leman Russ Demolisher Squadron* - 4 Leman Russ Demolisher models. These models are equipped with Hull Mounted lascannon. One model is upgraded to be a Tank Commander.
 
 **EXPANDED DETACHMENTS: +410 Points**
 
 [![](../../media/factions/solar_auxilia/leman_russ_executioner.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Leman Russ Executioner Squadron* – 4 Leman Russ Executioner models. These models are equipped with Hull Mounted lascannon. One model is upgraded to be a Tank Commander.
+*Leman Russ Executioner Squadron* - 4 Leman Russ Executioner models. These models are equipped with Hull Mounted lascannon. One model is upgraded to be a Tank Commander.
 
 [![](../../media/factions/solar_auxilia/leman_russ_exterminator.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Leman Russ Exterminator Squadron* – 4 Leman Russ Exterminator models. These models are equipped with Hull Mounted heavy bolters and Pintle Mounted heavy stubbers. One model is upgraded to be a Tank Commander.
+*Leman Russ Exterminator Squadron* - 4 Leman Russ Exterminator models. These models are equipped with Hull Mounted heavy bolters and Pintle Mounted heavy stubbers. One model is upgraded to be a Tank Commander.
 
 [![](../../media/factions/solar_auxilia/valdor.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Auxilia Valdor Squadron* – 2 Valdor models. These models are equipped with Malcador lascannon sponsons.
+*Auxilia Valdor Squadron* - 2 Valdor models. These models are equipped with Malcador lascannon sponsons.
 
 ---
 
@@ -163,30 +163,30 @@
 **STANDARD DETACHMENTS: 270 Points**
 
 [![](../../media/factions/solar_auxilia/tactical_command.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Auxilia Tactical Command Detachment* – 1 Tactical Command model.
+*Auxilia Tactical Command Detachment* - 1 Tactical Command model.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 8 Auxiliaries models and 2 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 8 Auxiliaries models and 2 Auxiliaries with Flamers models.
 
 [![](../../media/factions/solar_auxilia/veletaris.jpg)](../../factions/solar_auxilia/detachments.md#support-detachments)
-*Auxilia Veletaris Storm Section* – 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+*Auxilia Veletaris Storm Section* - 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/aethon_sentinel.jpg)](../../factions/solar_auxilia/detachments.md#vanguard-detachments)
-*Auxilia Aethon Heavy Sentinel Patrol* – 4 Aethon Heavy Sentinel models.
+*Auxilia Aethon Heavy Sentinel Patrol* - 4 Aethon Heavy Sentinel models.
 
 **EXPANDED DETACHMENTS: +330 Points**
 
 [![](../../media/factions/solar_auxilia/tactical_command.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Auxilia Tactical Command Detachment* – 1 Tactical Command model.
+*Auxilia Tactical Command Detachment* - 1 Tactical Command model.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 8 Auxiliaries models and 2 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 8 Auxiliaries models and 2 Auxiliaries with Flamers models.
 
 [![](../../media/factions/solar_auxilia/veletaris.jpg)](../../factions/solar_auxilia/detachments.md#support-detachments)
-*Auxilia Veletaris Storm Section* – 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+*Auxilia Veletaris Storm Section* - 8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/malcador_infernus.jpg)](../../factions/solar_auxilia/detachments.md#battle-tank-detachments)
-*Auxilia Malcador Infernus Squadron* – 2 Malcador Infernus models. These models are equipped with Malcador autocannon sponsons.
+*Auxilia Malcador Infernus Squadron* - 2 Malcador Infernus models. These models are equipped with Malcador autocannon sponsons.
 
 ---
 
@@ -201,33 +201,33 @@
 **STANDARD DETACHMENTS: 385 Points**
 
 [![](../../media/factions/solar_auxilia/tactical_command.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Auxilia Tactical Command Detachment* – 1 Tactical Command model.
+*Auxilia Tactical Command Detachment* - 1 Tactical Command model.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
 
 [![](../../media/factions/solar_auxilia/lasrifle_tercio.jpg)](../../factions/solar_auxilia/detachments.md#core-detachments)
-*Auxilia Lasrifle Tercio* – 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
+*Auxilia Lasrifle Tercio* - 12 Auxiliaries models and 4 Auxiliaries with Flamers models.
 
 [![](../../media/factions/solar_auxilia/rapier.jpg)](../../factions/solar_auxilia/detachments.md#bastion-detachments)
-*Auxilia Rapier Battery* – 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
+*Auxilia Rapier Battery* - 8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
 
 **EXPANDED DETACHMENTS: +360 Points**
 
 [![](../../media/factions/solar_auxilia/legate_commander.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments)
-*Legate Commander Detachment* – 1 Auxilia Commander model.
+*Legate Commander Detachment* - 1 Auxilia Commander model.
 
 [![](../../media/factions/solar_auxilia/rapier.jpg)](../../factions/solar_auxilia/detachments.md#bastion-detachments)
-*Auxilia Rapier Battery* – 8 Auxilia Rapier models. These models are equipped with quad launchers.
+*Auxilia Rapier Battery* - 8 Auxilia Rapier models. These models are equipped with quad launchers.
 
 [![](../../media/factions/solar_auxilia/basilisk.jpg)](../../factions/solar_auxilia/detachments.md#artillery-detachments)
-*Auxilia Basilisk Battery* – 4 Basilisk models.
+*Auxilia Basilisk Battery* - 4 Basilisk models.
 
 [![](../../media/factions/solar_auxilia/basilisk.jpg)](../../factions/solar_auxilia/detachments.md#artillery-detachments)
-*Auxilia Basilisk Battery* – 4 Basilisk models.
+*Auxilia Basilisk Battery* - 4 Basilisk models.
 
 ---
 

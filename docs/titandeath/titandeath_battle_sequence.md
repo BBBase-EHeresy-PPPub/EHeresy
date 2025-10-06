@@ -45,7 +45,7 @@ Future supplements may explore additional Allegiances - such supplements will de
 
 #### 2. Choose Formations
 
-Once a player has declared their Army's Allegiance, they can then select Formations up to the agreed points limit for their battle. In Titandeath battles, players can only select the Legion Support or Knight Household Lance Strategic Asset Formations ([see page 205](../strategic_assets/formations.md)). Note that the normal restrictions on how many of these Formations your Army can contain, and what percentage of the agreed points limit these can comprise, do not apply in Titandeath battles. As such, a player may select as many of these Formations as they wish, limited only by the points cost of those Formations.
+Once a player has declared their Army's Allegiance, they can then select Formations up to the agreed points limit for their battle. In Titandeath battles, players can only select the Legion Support or Knight Household Lance Strategic Asset Formations (see page 205). Note that the normal restrictions on how many of these Formations your Army can contain, and what percentage of the agreed points limit these can comprise, do not apply in Titandeath battles. As such, a player may select as many of these Formations as they wish, limited only by the points cost of those Formations.
 
 **Engine Killer Weaponry**
 

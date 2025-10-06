@@ -120,7 +120,7 @@ An Army must include the minimum number of Formations drawn from the Primary Arm
 
 Allied Contingents represent forces from the Army List available to other armies, such as battlegroups of Legiones Astartes warriors lending their strength to a Solar Auxilia force.
 
-For each Formation drawn from the Primary Army List, an Army can include a single Allied Contingent by choosing a Formation from a different Army List or the Strategic Assets list [on page 198](../strategic_assets/index.md). This Formation is assembled in the normal way using Detachments from that Army List or the Strategic Assets list - Detachments from the Primary Army List cannot fill slots in an Allied Contingent.
+For each Formation drawn from the Primary Army List, an Army can include a single Allied Contingent by choosing a Formation from a different Army List or the Strategic Assets list on page 198. This Formation is assembled in the normal way using Detachments from that Army List or the Strategic Assets list - Detachments from the Primary Army List cannot fill slots in an Allied Contingent.
 
 Each Allied Contingent in an Army can be drawn from a different list if the player wishes. The total points cost of all Detachments within Allied Contingents in an Army cannot be greater than 30% of the points limit of the Army. An Allied Contingent functions like any other Formation on the battlefield.
 

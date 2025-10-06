@@ -94,7 +94,6 @@ nav:
           - Formations: factions/knight_households/formations.md
           - Detachments: factions/knight_households/detachments.md
   - Formations:
-      - Formations: formations/index.md
       - Iconic Formations: 
           - Iconic Formations: formations/iconic_formations/index.md
           - Legiones Astartes: formations/iconic_formations/legiones_astartes.md

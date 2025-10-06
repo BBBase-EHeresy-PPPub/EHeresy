@@ -12,10 +12,10 @@ search:
 | Legion Sicaran Commander | 8" | 3+ | +3 | 2+ | 1 | 1 | Vehicle (2) | 70 |
 | Legion Kratos Commander | 8" | 2+ | +3 | 2+ | 2 | 1 | Vehicle (2) | 100 |
 | Legion Tactical Detachment | 5" | 5+ | +2 | 3+ | 1 | 4 | Infantry (1) | 35 |
-| - Plasma Gun Support Legionaries | 5" | 5+ | +2 | 3+ | 1 | +2 | Infantry (1) | +15 |
-| - Legion Terminators | 5" | 4+ | +4 | 3+ | 1 | +2 | Infantry (1) | +20 |
-| - Assault Legionaries | 7" | 5+ | +3 | 3+ | 1 | +2 | Infantry (1) | +20 |
-| - Missile Launcher Support Legionaries | 5" | 5+ | +1 | 3+ | 1 | +2 | Infantry (1) | +20 |
+| *- Plasma Gun Support Legionaries* | 5" | 5+ | +2 | 3+ | 1 | +2 | Infantry (1) | +15 |
+| *- Legion Terminators* | 5" | 4+ | +4 | 3+ | 1 | +2 | Infantry (1) | +20 |
+| *- Assault Legionaries* | 7" | 5+ | +3 | 3+ | 1 | +2 | Infantry (1) | +20 |
+| *- Missile Launcher Support Legionaries* | 5" | 5+ | +1 | 3+ | 1 | +2 | Infantry (1) | +20 |
 | Legion Plasma Gun Support Detachment | 5" | 5+ | +2 | 3+ | 1 | 4 | Infantry (1) | 35 |
 | Legion Missile Launcher Support Detachment | 5" | 5+ | +1 | 3+ | 1 | 4 | Infantry (1) | 40 |
 | Legion Assault Detachment | 5" | 4+ | +3 | 3+ | 1 | 4 | Infantry (1) | 30 |
@@ -39,9 +39,9 @@ search:
 | Legate Commander Detachment | 5" | 6+ | +3 | 2+ | 1 | 1 | Infantry (1) | 16 |
 | Auxilia Tactical Command Detachment | 5" | 6+ | +0 | 3+ | 1 | 1 | Infantry (1) | 10 |
 | Auxilia Lasrifle Tercio | 5" | 6+ | +0 | 4+ | 1 | 4 | Infantry (1) | 10 |
-| - Auxiliaries with Flamers | 5" | 6+ | +1 | 4+ | 1 | +2 | Infantry (1) | +12 |
-| - Veletarii | 5" | 6+ | +1 | 4+ | 1 | +2 | Infantry (1) | +12 |
-| - Charonite Ogryns | 5" | 4+ | +3 | 4+ | 1 | +2 | Infantry (1) | +30 |
+| *- Auxiliaries with Flamers* | 5" | 6+ | +1 | 4+ | 1 | +2 | Infantry (1) | +12 |
+| *- Veletarii* | 5" | 6+ | +1 | 4+ | 1 | +2 | Infantry (1) | +12 |
+| *- Charonite Ogryns* | 5" | 4+ | +3 | 4+ | 1 | +2 | Infantry (1) | +30 |
 | Auxilia Ogryn Charonite Section | 5" | 4+ | +3 | 4+ | 1 | 4 | Infantry (1) | 70 |
 | Auxilia Veletaris Storm Section | 5" | 6+ | +1 | 4+ | 1 | 4 | Infantry (1) | 20 |
 | Auxilia Cyclops Battery | 5" | 6+ | +2 | 3+ | 1 | 1 | Infantry (1) | 40 |
@@ -73,9 +73,9 @@ search:
 | Auxilia Avenger Strike Fighter Squadron | 28" | 4+ | +0 | - | 1 | 1 | Vehicle (2) | 85 |
 | Auxilia Lightning Fighter Squadron | 34" | 3+ | +0 | - | 1 | 1 | Vehicle (2) | 85 |
 | Auxilia Marauder Bomber Squadron | 24" | 3+ | +0 | - | 2 | 1 | Vehicle (2) | 100 |
-| - Auxilia Marauder Colossus Squadron | 24" | 3+ | +0 | - | 2 | 1 | Vehicle (2) | 100 |
-| - Auxilia Marauder Destroyer Squadron | 24" | 3+ | +0 | - | 2 | 1 | Vehicle (2) | 100 |
-| - Auxilia Marauder Pathfinder | 22" | 3+ | +0 | - | 2 | 1 | Vehicle (2) | 100 |
+| *- Auxilia Marauder Colossus Squadron* | 24" | 3+ | +0 | - | 2 | 1 | Vehicle (2) | 100 |
+| *- Auxilia Marauder Destroyer Squadron* | 24" | 3+ | +0 | - | 2 | 1 | Vehicle (2) | 100 |
+| *- Auxilia Marauder Pathfinder* | 22" | 3+ | +0 | - | 2 | 1 | Vehicle (2) | 100 |
 
 ## Mechanicum Taghmata Detachments
 

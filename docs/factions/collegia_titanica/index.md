@@ -1,8 +1,8 @@
 The following section presents the Collegia Titanica Army List, representing a Titan Legion deploying a demi-Legio or greater strength of titans to the battlefield, supported by Knight Banners. Within you'll find all the rules needed to build a Collegia Titanica Army.
 
-**Designer’s Note: Collegia Titanica Army List**
+**Designer's Note: Collegia Titanica Army List**
 
-The Collegia Titanica Army List presented over the following pages is intended as a thematic alternative Primary Army List. In Matched Play missions, they suffer from a lack of Objective control – with a Tactical Strength of 0, Titans will find it difficult to capture or contest Objectives – which makes achieving a conventional victory difficult. Allied Contingents mitigate this disadvantage to a degree and an Army of Titans and Knights is a destructive force, but the enemy will have a much easier time seizing and holding Objectives, making Victory Points easier to come by for them.
+The Collegia Titanica Army List presented over the following pages is intended as a thematic alternative Primary Army List. In Matched Play missions, they suffer from a lack of Objective control - with a Tactical Strength of 0, Titans will find it difficult to capture or contest Objectives - which makes achieving a conventional victory difficult. Allied Contingents mitigate this disadvantage to a degree and an Army of Titans and Knights is a destructive force, but the enemy will have a much easier time seizing and holding Objectives, making Victory Points easier to come by for them.
 
 **Individual Detachment Roles**
 

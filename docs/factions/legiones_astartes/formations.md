@@ -90,7 +90,7 @@ One of the following:
 
 ## Legion Drop Pod Assault
 
-**Dedicated Transports:** All Legiones Astartes Detachments within the Formation that contain only Infantry models (excluding models with the Deep Strike special rule) must be upgraded with [Legion Drop Pods](detachments.md#legion-drop-pod-detachment-6-points-per-model) as Dedicated Transports, and all Legiones Astartes Detachments within the Formation that contain only Walker models (excluding models with the Deep Strike special rule) must be upgraded with [Dreadnought Drop Pods](detachments.md#dreadnought-drop-pod-detachment-7-points-per-model) as Dedicated Transports.
+**Dedicated Transports:** All Legiones Astartes Detachments within the Formation that contain only Infantry models (excluding models with the Deep Strike special rule) must be upgraded with [Legion Drop Pods](detachments.md#legion-drop-pod-detachment-10-points-per-model) as Dedicated Transports, and all Legiones Astartes Detachments within the Formation that contain only Walker models (excluding models with the Deep Strike special rule) must be upgraded with [Dreadnought Drop Pods](detachments.md#dreadnought-drop-pod-detachment-12-points-per-model) as Dedicated Transports.
 
 All Detachments within this Formation that are upgraded with Dedicated Transports must start the battle deployed within them.
 
@@ -106,7 +106,7 @@ All Detachments within this Formation that are upgraded with Dedicated Transport
 
 ## Legion Heavy Assault Spearhead
 
-**Heavy Assault:** At least two Compulsory Support Detachment slots in this Formation must be filled with [Legion Terminator](detachments.md#legion-terminator-detachment-50-points) Detachments. Any remaining Compulsory Support Detachment slots in this Formation must be filled with Legion Terminator Detachments, [Legion Contemptor Dreadnought Talons](detachments.md#legion-dreadnought-talon-70-points) or [Leviathan Siege Dreadnoughts](detachments.md#leviathan-siege-dreadnought-detachment-75-points).
+**Heavy Assault:** At least two Compulsory Support Detachment slots in this Formation must be filled with [Legion Terminator](detachments.md#legion-terminator-detachment-50-points) Detachments. Any remaining Compulsory Support Detachment slots in this Formation must be filled with Legion Terminator Detachments, [Legion Contemptor Dreadnought Talons](detachments.md#legion-contemptor-dreadnought-talon-70-points) or [Leviathan Siege Dreadnoughts](detachments.md#leviathan-siege-dreadnought-detachment-75-points).
 
 **Dedicated Transports:** All Legiones Astartes Detachments within this Formation that contain only Infantry models must be upgraded with [Legion Spartans](detachments.md#legion-spartan-detachment-70-points-per-model) or [Legion Land Raiders](detachments.md#legion-land-raider-detachment-35-points-per-model) as Dedicated Transports.
 

@@ -11,7 +11,7 @@
 [![](../../media/factions/solar_auxilia/optional_transport.jpg)](detachments.md#transport-detachments) [![](../../media/factions/solar_auxilia/optional_transport.jpg)](detachments.md#transport-detachments) [![](../../media/factions/solar_auxilia/optional_transport.jpg)](detachments.md#transport-detachments) [![](../../media/factions/solar_auxilia/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/solar_auxilia/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/solar_auxilia/optional_core.jpg)](detachments.md#core-detachments)
 
 One of the following:
-[![](../../media/factions/solar_auxilia/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/solar_auxilia/optional_vanguard.jpg)](detachments.md#vanguard-detachments)
+[![](../../media/factions/solar_auxilia/optional_light_armour.jpg)] [![](../../media/factions/solar_auxilia/optional_vanguard.jpg)](detachments.md#vanguard-detachments)
 
 One of the following:
 [![](../../media/factions/solar_auxilia/optional_artillery.jpg)](detachments.md#artillery-detachments) [![](../../media/factions/solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments)
@@ -124,4 +124,4 @@ One of the following:
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/solar_auxilia/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/solar_auxilia/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments)
+[![](../../media/factions/solar_auxilia/optional_light_armour.jpg)] [![](../../media/factions/solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/solar_auxilia/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments)

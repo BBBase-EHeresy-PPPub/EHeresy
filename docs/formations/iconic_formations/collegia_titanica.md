@@ -4,27 +4,43 @@
 
 **STANDARD DETACHMENTS: 780 Points**
 
-[![](../../media/strategic_assets/reaver_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
-*Reaver Battle Titan* – 1 Reaver Battle Titan model equipped with Reaver volcano cannon, Reaver gatling blaster and Reaver vulcan mega-bolter.
+[![](../../media/factions/collegia_titanica/reaver_battle_titan.jpg)](../../factions/collegia_titanica/detachments.md#reaver-battle-titan-400-points)
 
-[![](../../media/factions/legiones_astartes/questoris_knight.jpg)](../../factions/legiones_astartes/detachments.md#knight-detachments)
-*Questoris Knight Banner* – 1 Knight Errant and 1 Knight Gallant models. These models are equipped with rocket pods.
+* **Reaver Battle Titan**
 
-[![](../../media/factions/mechanicum_taghmata/krios_venator.jpg)](../../factions/mechanicum_taghmata/detachments.md#battle-tank-detachments)
-*Krios Venator Squadron* – 6 Krios Venator models.
+1 Reaver Battle Titan model equipped with Reaver volcano cannon, Reaver gatling blaster and Reaver vulcan mega-bolter.
 
-[![](../../media/strategic_assets/warhound_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
-*Warhound Hunting Pack* – 2 Warhound Titan models. One model is equipped with plasma blastgun and vulcan mega-bolter and the other is equipped with volkite eradicator and vulcan mega-bolter.
+[![](../../media/factions/legiones_astartes/questoris_knight.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points)
+
+* **Questoris Knight Banner**
+
+1 Knight Errant and 1 Knight Gallant models. These models are equipped with rocket pods.
+
+[![](../../media/factions/mechanicum_taghmata/compulsory_battle_tank.jpg)](../../factions/mechanicum_taghmata/detachments.md#krios-venator-squadron-60-points)
+
+* **Krios Venator Squadron**
+
+6 Krios Venator models.
 
 **EXPANDED DETACHMENTS: +960 Points**
 
-[![](../../media/factions/legiones_astartes/cerastus_knight.jpg)](../../factions/legiones_astartes/detachments.md#knight-detachments)
-*Cerastus Knight Banner* – 2 Knight Lancer models.
+[![](../../media/factions/knight_households/cerastus_knight_banner.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points)
 
-[![](../../media/factions/mechanicum_taghmata/vultarax.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
-*Vultarax Stratos-automata Squadron* – 4 Vultarax models.
+* **Cerastus Knight Banner**
 
----
+2 Knight Lancer models.
+
+[![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vultarax-stratos-automata-squadron-35-points)
+
+* **Vultarax Stratos-automata Squadron**
+
+4 Vultarax models.
+
+[![](../../media/factions/collegia_titanica/warhound_hunting_pack.jpg)](../../factions/collegia_titanica/detachments.md#warhound-hunting-pack-300-points)
+
+* **Warhound Hunting Pack**
+
+2 Warhound Titan models. One model is equipped with plasma blastgun and vulcan mega-bolter and the other is equipped with volkite eradicator and vulcan mega-bolter.
 
 **Defenders of Magma City:** This Formation can only be included in an Army with the Loyalist Allegiance. In addition, an Army can only include one Demi-Maniple Aeterna Formation.
 

@@ -14,7 +14,7 @@
 
 The following special rules apply to all Dark Angels models in a Legiones Astartes Army.
 
-**Formations of the Hexagrammaton:** At the start of the battle, before any Detachment is deployed, determine which Dark Angels Formations contain a total of three or more different Detachment types – Dedicated Transports are ignored for the purposes of this calculation.
+**Formations of the Hexagrammaton:** At the start of the battle, before any Detachment is deployed, determine which Dark Angels Formations contain a total of three or more different Detachment types - Dedicated Transports are ignored for the purposes of this calculation.
 
 Any Formation that meets these requirements gains one of the following benefits, chosen by the controlling player from the list below:
 
@@ -96,7 +96,7 @@ The following special rules apply to all White Scars models in a Legiones Astart
 
 **Primogenitor:** Leman Russ
 
-**Cognomen:** (Prior) None officially recorded. Various informal and idiomatic cognomens inconsistently used such as Vlka Fenryka, The Sky Warriors, The Emperor’s Executioners
+**Cognomen:** (Prior) None officially recorded. Various informal and idiomatic cognomens inconsistently used such as Vlka Fenryka, The Sky Warriors, The Emperor's Executioners
 
 **Noteworthy Domains:** Fenris (Enforced Dominion), Lucan (Tertiary rights)
 
@@ -161,7 +161,7 @@ The following special rules apply to all Night Lords models in a Legiones Astart
 
 When making Save rolls against these Hits, models count their Save characteristic as equal to their Morale characteristic and cannot use any additional saves, such as an Invulnerable Save, Cover Save, etc., nor can these Hits be allocated to Void Shields. Models that are part of a Detachment that is Broken subtract 2 from the result of these Save rolls.
 
-Knights, Titans and models with a Morale characteristic of ‘-’ are unaffected by this rule.
+Knights, Titans and models with a Morale characteristic of '-' are unaffected by this rule.
 
 ---
 ## The IXth Legion - Blood Angels
@@ -336,7 +336,7 @@ The following special rules apply to all Word Bearers models in a Legiones Astar
 
 **Primogenitor:** Vulkan
 
-**Cognomen:** (Prior) None officially recognised (see ref: The Manticore Cataclysm – informal designation 'The Fearless' used by Imperial Army units)
+**Cognomen:** (Prior) None officially recognised (see ref: The Manticore Cataclysm - informal designation 'The Fearless' used by Imperial Army units)
 
 **Noteworthy Domains:** The Nocturne System (Nocturne Primary, Moon of Prometheus Legion-Fortress), Caldera (Protectorate), Battle Station Geryon Deep (Ateraxis System)
 
@@ -368,7 +368,7 @@ The following special rules apply to all Salamanders models in a Legiones Astart
 
 The following special rules apply to all Raven Guard models in a Legiones Astartes Army.
 
-**By Wing and Talon:** All Detachments that contain only Raven Guard Infantry models gain the Infiltrate special rule – if the Formation has Dedicated Transports, it does not gain this rule. All Detachments that contain only Raven Guard Cavalry or Walker models, or Raven Guard Infantry models with Dedicated Transports, gain the Forward Deployment special rule.
+**By Wing and Talon:** All Detachments that contain only Raven Guard Infantry models gain the Infiltrate special rule - if the Formation has Dedicated Transports, it does not gain this rule. All Detachments that contain only Raven Guard Cavalry or Walker models, or Raven Guard Infantry models with Dedicated Transports, gain the Forward Deployment special rule.
 
 ---
 
@@ -390,4 +390,4 @@ The following special rules apply to all Alpha Legion models in a Legiones Astar
 
 **Mutable Tactics:** At the start of the battle, before any Detachments are deployed, for each Formation in an Army made up entirely of Alpha Legion Detachments (ignoring Allied Contingents), the controlling player may select up to 3 Alpha Legion Detachments in the Army to be affected by Mutable Tactics. For each Allied Contingent in an Army made up entirely of Alpha Legion Detachments, the controlling player may select up to 1 Alpha Legion Detachment to be affected by Mutable Tactics. Detachments with the Flyer special rule cannot be chosen.
 
-A Detachment chosen to be affected by Mutable Tactics gains a special rule dependent on the Detachment Type. If a selected Detachment is made up of Infantry, Cavalry or Walkers, all models within it gain either the Infiltrate, Outflank or Forward Deployment special rule – this is chosen by the controlling player and different Detachments can choose different rules. If the selected Detachment is of another type, it gains the Forward Deployment rule.
+A Detachment chosen to be affected by Mutable Tactics gains a special rule dependent on the Detachment Type. If a selected Detachment is made up of Infantry, Cavalry or Walkers, all models within it gain either the Infiltrate, Outflank or Forward Deployment special rule - this is chosen by the controlling player and different Detachments can choose different rules. If the selected Detachment is of another type, it gains the Forward Deployment rule.

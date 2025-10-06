@@ -417,6 +417,47 @@ A Leman Russ Strike Squadron can purchase one of the following upgrades:
 
 <div class="unitCard" markdown>
 
+### Leman Russ Vanquisher Squadron [175 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
+
+| Name | Movement | Sv | CAF | Morale | W |
+| --------------- | :------: | :-: | :-: | :----: | :-: |
+| Leman Russ Vanquisher | 8" | 2+ | +2 | 4+ | 1 |
+
+**Weapons**
+
+* Vanquisher battlecannon  
+* Hull Mounted heavy bolter or Hull Mounted lascannon  
+
+| Weapon | Range | Dice | To Hit | AP | Traits |
+| ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
+| Vanquisher battlecannon | 32" | 1 | 4+ | -2 | [Anti-tank], [Armourbane] |
+| Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Hull Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
+| Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
+
+**Upgrades**
+
+A Leman Russ Vanquisher Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 2** [+85 points]  
+* **Increase the Detachment size by 4** [+170 points]  
+* **Increase the Detachment size by 6** [+230 points]  
+
+Any Leman Russ Vanquisher may be equipped with one Pintle Mounted heavy stubber for **+5 points per model.**
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
 ### Leman Russ Executioner Squadron [175 Points]
 
 * **Type:** Vehicle (2)

@@ -11,4 +11,4 @@ For each non-Support Formation in an army, it can include one Support Formation 
 Support Formations cannot be taken as Allied Formations. Each Support Formation will have a section above the Detachments it can include, formatted as *Support Formation: Army List name* to indicate which Army List it is a Support Formation for.
 *For example, a Support Formation for the Solar Auxilia Army List will have "Support Formation: Solar Auxilia" noted above the Detachments it can include.*
 
-Support Formations will often include the option to choose Detachments from other Army Lists – unless otherwise stated, these do not count as allies and so do not count towards the Allied Contingents points limit.
+Support Formations will often include the option to choose Detachments from other Army Lists - unless otherwise stated, these do not count as allies and so do not count towards the Allied Contingents points limit.

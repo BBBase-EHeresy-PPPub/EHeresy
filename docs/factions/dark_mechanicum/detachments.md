@@ -2,7 +2,7 @@
 
 <div class="unitCard" markdown>
 
-### Scintillax ‘Cyclops’ Noospheric Stalker Network [75 Points]
+### Scintillax 'Cyclops' Noospheric Stalker Network [75 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
@@ -23,7 +23,7 @@
 
 **Upgrades**
 
-A Scintillax ‘Cyclops’ Noospheric Stalker Network can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
+A Scintillax 'Cyclops' Noospheric Stalker Network can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * Increase the Detachment size by 1 [+70 points]
 * Increase the Detachment size by 2 [+130 points]
@@ -37,11 +37,27 @@ A Scintillax ‘Cyclops’ Noospheric Stalker Network can purchase any of the fo
 
 ---
 
+<div class="unitCard" markdown>
+
+### [Archmagos Prime [25 Points]](../mechanicum_taghmata/detachments.md#archmagos-prime-25-points)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### [Archmagos Prime on Abeyant [45 Points]](../mechanicum_taghmata/detachments.md#archmagos-prime-on-abeyant-45-points)
+
+</div>
+
+---
+
 ## CORE DETACHMENTS
 
 <div class="unitCard" markdown>
 
-### Errax ‘Butcher’ Assault Stalker Cohort [45 Points]
+### Errax 'Butcher' Assault Stalker Cohort [45 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
@@ -62,7 +78,7 @@ A Scintillax ‘Cyclops’ Noospheric Stalker Network can purchase any of the fo
 
 **Upgrades**
 
-An Errax ‘Butcher’ Assault Stalker Cohort can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 9:
+An Errax 'Butcher' Assault Stalker Cohort can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 9:
 
 * Increase the Detachment size by 1 [+40 points]
 * Increase the Detachment size by 2 [+80 points]
@@ -76,11 +92,53 @@ An Errax ‘Butcher’ Assault Stalker Cohort can purchase any of the following 
 
 ---
 
+<div class="unitCard" markdown>
+
+### [Adsecularis Tech-thrall Covenant [40 Points]](../mechanicum_taghmata/detachments.md#adsecularis-tech-thrall-covenant-40-points)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### [Thallax Cohort [25 Points]](../mechanicum_taghmata/detachments.md#thallax-cohort-25-points)
+
+</div>
+
+---
+
+## SUPPORT DETACHMENTS
+
+<div class="unitCard" markdown>
+
+### [Tech-Priest Auxilia [15 Points]](../mechanicum_taghmata/detachments.md#tech-priest-auxilia-15-points)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### [Myrmidon Secutor Host [30 Points]](../mechanicum_taghmata/detachments.md#myrmidon-secutor-host-30-points)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### [Myrmidon Destructor Host [30 Points]](../mechanicum_taghmata/detachments.md#myrmidon-destructor-host-30-points)
+
+</div>
+
+---
+
 ## VANGUARD DETACHMENTS
 
 <div class="unitCard" markdown>
 
-### Harpax ‘Swarmer’ Scout Host [30 Points]
+### Harpax 'Swarmer' Scout Host [30 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -100,7 +158,7 @@ An Errax ‘Butcher’ Assault Stalker Cohort can purchase any of the following 
 
 **Upgrades**
 
-A Harpax ‘Swarmer’ Scout Host can purchase one of the following upgrades:
+A Harpax 'Swarmer' Scout Host can purchase one of the following upgrades:
 
 * Increase the Detachment size by 2 [+15 points]
 * Increase the Detachment size by 4 [+25 points]
@@ -114,11 +172,19 @@ A Harpax ‘Swarmer’ Scout Host can purchase one of the following upgrades:
 
 ---
 
+<div class="unitCard" markdown>
+
+### [Ursarax Cohort [30 Points]](../mechanicum_taghmata/detachments.md#ursarax-cohort-30-points)
+
+</div>
+
+---
+
 ## LIGHT ARMOUR DETACHMENTS
 
 <div class="unitCard" markdown>
 
-### Tenebrax ‘Archer’ Battle Stalker Cohort [35 Points]
+### Tenebrax 'Archer' Battle Stalker Cohort [35 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
@@ -141,7 +207,7 @@ A Harpax ‘Swarmer’ Scout Host can purchase one of the following upgrades:
 
 **Upgrades**
 
-A Tenebrax ‘Archer’ Battle Stalker Cohort can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
+A Tenebrax 'Archer' Battle Stalker Cohort can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * Increase the Detachment size by 1 [+35 points]
 * Increase the Detachment size by 2 [+65 points]
@@ -155,11 +221,29 @@ A Tenebrax ‘Archer’ Battle Stalker Cohort can purchase any of the following 
 
 ---
 
+## BATTLE TANK DETACHMENTS
+
+<div class="unitCard" markdown>
+
+### [Karacnos Assault Tank Squadron [40 Points]](../mechanicum_taghmata/detachments.md#karacnos-assault-tank-squadron-40-points)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### [Krios Battle Tank Squadron [100 Points]](../mechanicum_taghmata/detachments.md#krios-battle-tank-squadron-100-points)
+
+</div>
+
+---
+
 ## HEAVY ARMOUR DETACHMENTS
 
 <div class="unitCard" markdown>
 
-### Serperos ‘Overlord’ Heavy Stalker Maniple [175 Points]
+### Serperos 'Overlord' Heavy Stalker Maniple [175 Points]
 
 * **Type:** Super-heavy Vehicle (3)
 * **Detachment Size:** 2
@@ -182,7 +266,7 @@ A Tenebrax ‘Archer’ Battle Stalker Cohort can purchase any of the following 
 
 **Upgrades**
 
-A Serperos ‘Overlord’ Heavy Stalker Maniple can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
+A Serperos 'Overlord' Heavy Stalker Maniple can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * Increase the Detachment size by 1 [+85 points]
 * Increase the Detachment size by 2 [+150 points]
@@ -190,6 +274,16 @@ A Serperos ‘Overlord’ Heavy Stalker Maniple can purchase any of the followin
 
 **Special Rules**
 
-[Construct Shields (2)], [Networked Anima], [Nimble], [Traitor]
+[Construct Shields] (2), [Networked Anima], [Nimble], [Traitor]
+
+</div>
+
+---
+
+## TRANSPORT DETACHMENTS
+
+<div class="unitCard" markdown>
+
+### [Triaros Armoured Conveyor [22 Points per Model]](../mechanicum_taghmata/detachments.md#triaros-armoured-conveyor-22-points-per-model)
 
 </div>

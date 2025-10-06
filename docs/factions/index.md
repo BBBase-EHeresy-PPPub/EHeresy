@@ -1,6 +1,6 @@
 ## LIBER STRATEGIA
 
-This book contains Army Lists for each Army in Warhammer: The Horus Heresy – Legions Imperialis. Each Army List has been updated and revised to fully accommodate the breadth of Detachments available in this game, including a number which are brand new for this volume. It also contains a wealth of new material including updated Iconic Formations and Support Formations to supplement these Army Lists.
+This book contains Army Lists for each Army in Warhammer: The Horus Heresy - Legions Imperialis. Each Army List has been updated and revised to fully accommodate the breadth of Detachments available in this game, including a number which are brand new for this volume. It also contains a wealth of new material including updated Iconic Formations and Support Formations to supplement these Army Lists.
 
 **How to Use This Book**
 

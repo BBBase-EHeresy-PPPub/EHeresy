@@ -14,9 +14,9 @@ If a Support slot is filled with a Tech-Priest Auxilia Detachment, up to two add
 
 ### Cybernetica Cortex (X)
 
-Detachments with the Cybernetica Cortex (X) special rule can only be issued an Order shown in brackets unless instructed otherwise. If a Detachment is not eligible to be issued any of the Orders listed – for example, if it is within a Transport and cannot be issued with anything other than the Advance Order – then this rule is temporarily ignored.
+Detachments with the Cybernetica Cortex (X) special rule can only be issued an Order shown in brackets unless instructed otherwise. If a Detachment is not eligible to be issued any of the Orders listed - for example, if it is within a Transport and cannot be issued with anything other than the Advance Order - then this rule is temporarily ignored.
 
-*Note: Cybernetica Cortex (X) is sometimes referred to as Cybernetica Cortex, such as within the Neutron-flux trait – this is the same rule.*
+*Note: Cybernetica Cortex (X) is sometimes referred to as Cybernetica Cortex, such as within the Neutron-flux trait - this is the same rule.*
 
 ### Cortex Controller
 

@@ -38,7 +38,7 @@ search:
 | Castigator pattern bolt cannon | 14" | 4 | 5+ | -2 | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane] |
 | Charonite claws  | - | - | - | - | [Rend] |
 | Co-axial autocannon  | 16" | 2 | 5+ | -1 | [Co-axial], [Light AT] |
-| Colossus bomb  | 6" | 3+ | -4 | [Arc] (Rear), [Bombing Run], [Bunker Buster], [Limited] (1) |
+| Colossus bomb  | - | 6" | 3+ | -4 | [Arc] (Rear), [Bombing Run], [Bunker Buster], [Limited] (1) |
 | Conversion beam cannon  | 6" | 1 | 4+ | -2 | [Arc] (Front) |
 |   | 6"-18" | 1 | 3+ | -3 | [Arc] (Front), [Demolisher] |
 |   | 18"-35" | 2 | 3+ | -4 | [Arc] (Front), [Demolisher] |
