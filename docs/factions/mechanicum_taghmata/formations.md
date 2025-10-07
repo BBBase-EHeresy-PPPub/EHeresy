@@ -18,7 +18,7 @@
 
 [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
 
-[![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 ---
 
@@ -36,11 +36,11 @@
 
 **One of the following:**
 
-[![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 **OR**
 
-[![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments) [![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments)
+[![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments) [![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)
 
 ---
 
@@ -60,11 +60,11 @@
 
 **One of the following:**
 
-[![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 **OR**
 
-[![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments) [![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments)
+[![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments) [![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)
 
 ---
 
@@ -80,11 +80,11 @@
 
 **One of the following:**
 
-[![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 **OR**
 
-[![](../../media/factions/knight_households/optional_acastus.jpg)](../../strategic_assets/detachments.md#acastus-knight-banner-250-points)
+[![](../../media/factions/knight_households/optional_acastus.jpg)](../../factions/knight_households/detachments.md#acastus-knight-asterius-banner-240-points)
 
 ---
 

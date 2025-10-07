@@ -4,13 +4,13 @@
 
 **STANDARD DETACHMENTS: 780 Points**
 
-[![](../../media/factions/collegia_titanica/reaver_battle_titan.jpg)](../../factions/collegia_titanica/detachments.md#reaver-battle-titan-400-points)
+[![](../../media/factions/collegia_titanica/compulsory_reaver.jpg)](../../factions/collegia_titanica/detachments.md#reaver-battle-titan-400-points)
 
 * **Reaver Battle Titan**
 
 1 Reaver Battle Titan model equipped with Reaver volcano cannon, Reaver gatling blaster and Reaver vulcan mega-bolter.
 
-[![](../../media/factions/legiones_astartes/questoris_knight.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points)
+[![](../../media/factions/knight_households/compulsory_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points)
 
 * **Questoris Knight Banner**
 
@@ -24,7 +24,7 @@
 
 **EXPANDED DETACHMENTS: +960 Points**
 
-[![](../../media/factions/knight_households/cerastus_knight_banner.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points)
+[![](../../media/factions/knight_households/compulsory_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points)
 
 * **Cerastus Knight Banner**
 
@@ -36,7 +36,7 @@
 
 4 Vultarax models.
 
-[![](../../media/factions/collegia_titanica/warhound_hunting_pack.jpg)](../../factions/collegia_titanica/detachments.md#warhound-hunting-pack-300-points)
+[![](../../media/factions/collegia_titanica/compulsory_warhound.jpg)](../../factions/collegia_titanica/detachments.md#warhound-hunting-pack-300-points)
 
 * **Warhound Hunting Pack**
 

@@ -8,11 +8,11 @@ All Titan Detachments within this Support Formation gain the Cortex Controller s
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/strategic_assets/compulsory_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
+[![](../../media/factions/collegia_titanica/compulsory_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/mechanicum_taghmata/optional_core.jpg)](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/factions/mechanicum_taghmata/optional_core.jpg)](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments) [![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
+[![](../../media/factions/mechanicum_taghmata/optional_core.jpg)](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/factions/mechanicum_taghmata/optional_core.jpg)](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments) [![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 **One of the following:**
 

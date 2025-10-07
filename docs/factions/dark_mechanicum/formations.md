@@ -14,11 +14,11 @@
 
 **One of the following:**
 
-[![](../../media/factions/dark_mechanicum/optional_warhound_pack.jpg)](../../strategic_assets/detachments.md#warhound-hunting-pack-330-points)
+[![](../../media/factions/dark_mechanicum/optional_warhound_pack.jpg)](../../factions/collegia_titanica/detachments.md#warhound-hunting-pack-300-points)
 
 **OR**
 
-[![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments)
+[![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)
 
 ---
 
@@ -43,7 +43,7 @@
 
 [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments)
 
-[![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 ---
 
@@ -63,7 +63,7 @@ Any Harpax 'Swarmer' Scout Host Detachment selected within a Compulsory Detachme
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments)
+[![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)
 
 ---
 
@@ -87,8 +87,8 @@ Any Harpax 'Swarmer' Scout Host Detachment selected within a Compulsory Detachme
 
 **One of the following:**
 
-[![](../../media/strategic_assets/optional_titan.jpg)](../../strategic_assets/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 **OR**
 
-[![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments) [![](../../media/strategic_assets/optional_knight.jpg)](../../strategic_assets/detachments.md#knight-detachments)
+[![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments) [![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)

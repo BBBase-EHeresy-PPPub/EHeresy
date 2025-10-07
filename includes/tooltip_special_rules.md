@@ -50,7 +50,7 @@
 [Scout]: /legions_imperialis_rules/special_rules/#scout
 [Shield Generator]: /legions_imperialis_rules/special_rules/#shield-generator-x
 [Skimmer]: /legions_imperialis_rules/special_rules/#skimmer
-[Solar Auxilia HQ]: /the_solar_auxilia/#solar-auxilia-hq-x
+[Solar Auxilia HQ]: /factions/the_solar_auxilia/#solar-auxilia-hq-x
 [Steadfast]: /legions_imperialis_rules/special_rules/#steadfast
 [Tech-Priest Auxilia]: /factions/mechanicum_taghmata/#tech-priest-auxilia
 [Tracking Array]: /legions_imperialis_rules/special_rules/#tracking-array
@@ -58,3 +58,4 @@
 [Transport]: /legions_imperialis_rules/special_rules/#transport-x
 [Unique]: /legions_imperialis_rules/special_rules/#unique
 [Void Shields]: /legions_imperialis_rules/special_rules/#void-shields-x
+[Tank Commander]: /factions/the_solar_auxilia/#tank-commander
