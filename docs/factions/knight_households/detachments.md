@@ -24,7 +24,7 @@
 
 **Special Rules**
 
-[Ion Shields (5+)], [Nimble]
+[Ion Shields] (5+), [Nimble]
 
 </div>
 
@@ -50,11 +50,11 @@
 | ----------------------- | :---: | :--: | :----: | :-: | ------ |
 | Armiger lightning locks | 12"   | 2   | 5+ | -2 | [Arc] (Front) |
 | Volkite veuglaire       | 14"   | 2   | 4+ | -1 | [Arc] (Front), [Deflagrate], [Light AT] |
-| Gyges siege claw        | -     | -   | -  | -4 | [Rend], [Wrecker (2)] |
+| Gyges siege claw        | -     | -   | -  | -4 | [Rend], [Wrecker] (2) |
 
 **Special Rules**
 
-[Ionic Flare Shield], [Ion Shields (5+)], [Nimble]
+[Ionic Flare Shield], [Ion Shields] (5+), [Nimble]
 
 </div>
 
@@ -89,7 +89,7 @@ Each Questoris Knight has one of the following weapon loadouts:
 | Heavy stubber                 | 14"   | 1   | 5+ | 0  | [Arc] (Front), [Light], [Point Defence] |
 | Meltagun                      | 6"    | 1   | 4+ | -3 | [Arc] (Front), [Anti-tank] |
 | Reaper chainsword             | -     | -   | -  | -  | [Rend] |
-| Thunderstrike gauntlet        | -     | -   | -  | -  | [Rend], [Wrecker (1)] |
+| Thunderstrike gauntlet        | -     | -   | -  | -  | [Rend], [Wrecker] (1) |
 | Rocket pods                   | 16"   | 2   | 4+ | -1 | [Arc] (Front), [Barrage] |
 
 **Upgrades**
@@ -102,7 +102,7 @@ Each Questoris Knight has one of the following weapon loadouts:
 
 **Special Rules**
 
-[Independent], [Ion Shields (3+)], [Nimble]
+[Independent], [Ion Shields] (3+), [Nimble]
 
 </div>
 
@@ -131,7 +131,7 @@ Each Questoris Mechanicum Knight has one of the following weapon loadouts:
 | Volkite chieorovile | 12" | 3   | 4+ | -2 | [Arc] (Front), [Deflagrate], [Light AT] |
 | Graviton gun      | 6"    | 1   | -  | -4 | [Arc] (Front), [Light AT], [Shieldbane] |
 | Lightning cannon  | 22"   | 2   | 5+ | -2 | [Graviton Pulse] |
-| Hekaton siege claw| -     | -   | -  | -5 | [Rend], [Wrecker (3)] |
+| Hekaton siege claw| -     | -   | -  | -5 | [Rend], [Wrecker] (3) |
 | Phased plasma-fusil | 10" | 1   | 4+ | -2 | [Arc] (Front), [Light AT] |
 
 **Upgrades**
@@ -143,7 +143,7 @@ A Questoris Mechanicum Knight Banner can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Blessed Auto-simulacra], [Independent], [Ionic Flare Shield], [Ion Shields (3+)], [Nimble]
+[Blessed Auto-simulacra], [Independent], [Ionic Flare Shield], [Ion Shields] (3+), [Nimble]
 
 </div>
 
@@ -170,7 +170,7 @@ Each Cerastus Knight has one of the following weapon loadouts:
 * **Knight Castigator:** Castigator pattern bolt cannon and a Tempest warblade
 * **Knight Lancer:** Shock lance and an ion gauntlet shield*
 
-\*A Knight Lancer exchanges the Ion Shields (3+) special rule for [Ion Shields (2+)].
+\*A Knight Lancer exchanges the Ion Shields (3+) special rule for [Ion Shields] (2+).
 
 | Weapon                        | Range | Dice | To Hit | AP | Traits |
 | ----------------------------- | :---: | :--: | :----: | :-: | ------ |
@@ -191,7 +191,7 @@ A Cerastus Knight Banner can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Furious Charge], [Independent], [Ion Shields (3+)], [Nimble]
+[Furious Charge], [Independent], [Ion Shields] (3+), [Nimble]
 
 </div>
 
@@ -216,7 +216,7 @@ A Cerastus Knight Banner can purchase one of the following upgrades:
 | Weapon                    | Range | Dice | To Hit | AP | Traits |
 | ------------------------- | :---: | :--: | :----: | :-: | ------ |
 | Graviton singularity cannon | 16" | 2   | 3+ | -3 | [Arc] (Front), [Armourbane], [Collapsing Singularity] |
-| Atropos lascutter         | 6"    | 1   | 2+ | -4 | [Arc] (Front), [Engine Killer] (1), [Rend], [Wrecker (3)] |
+| Atropos lascutter         | 6"    | 1   | 2+ | -4 | [Arc] (Front), [Engine Killer] (1), [Rend], [Wrecker] (3) |
 
 **Upgrades**
 
@@ -227,7 +227,7 @@ A Cerastus Knight Atropos Banner can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Furious Charge], [Independent], [Ion Shields (3+)], [Ionic Flare Shield], [Macro-extinction Targeting Protocols], [Nimble]
+[Furious Charge], [Independent], [Ion Shields] (3+), [Ionic Flare Shield], [Macro-extinction Targeting Protocols], [Nimble]
 
 </div>
 
@@ -264,7 +264,7 @@ An Acastus Knight Porphyrion Banner can increase its Detachment size by 1 [+220 
 
 **Special Rules**
 
-[Blessed Auto-simulacra], [Independent], [Ion Shields (3+)]
+[Blessed Auto-simulacra], [Independent], [Ion Shields] (3+)
 
 </div>
 
@@ -301,6 +301,6 @@ An Acastus Knight Asterius Banner can increase its Detachment size by 1 [+230 po
 
 **Special Rules**
 
-[Blessed Auto-simulacra], [Independent], [Ion Shields (3+)], [Ionic Flare Shield]
+[Blessed Auto-simulacra], [Independent], [Ion Shields] (3+), [Ionic Flare Shield]
 
 </div>

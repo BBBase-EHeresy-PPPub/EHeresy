@@ -12,11 +12,11 @@
 
 [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_transport.jpg)](detachments.md#transport-detachments) [![](../../media/factions/legiones_astartes/optional_transport.jpg)](detachments.md#transport-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_vanguard.jpg)](detachments.md#vanguard-detachments)
 
-One of the following:
+**One of the following:**
 
 [![](../../media/factions/legiones_astartes/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments)
 
-One of the following:
+**One of the following:**
 
 ![](../../media/factions/legiones_astartes/optional_artillery.jpg) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
 
@@ -32,7 +32,7 @@ One of the following:
 
 [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) ![](../../media/factions/legiones_astartes/optional_artillery.jpg)
 
-One of the following:
+**One of the following:**
 
 [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) ![](../../media/factions/legiones_astartes/optional_artillery.jpg)
 
@@ -50,7 +50,7 @@ One of the following:
 
 [![](../../media/factions/legiones_astartes/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments)
 
-One of the following:
+**One of the following:**
 
 [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
 

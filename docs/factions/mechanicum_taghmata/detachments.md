@@ -17,11 +17,11 @@
 
 | Weapon           | Range | Dice | To Hit | AP | Traits                 |
 | ---------------- | :---: | :--: | :----: | :-: | ---------------------- |
-| Volkite serpenta | 6"    | 1    | 5+     | 0  | Deflagrate, [Light]    |
+| Volkite serpenta | 6"    | 1    | 5+     | 0  | [Deflagrate], [Light]    |
 
 **Special Rules**
 
-[Battlesmith], [Commander], [Cortex Controller], [Invulnerable Save (5+)]
+[Battlesmith], [Commander], [Cortex Controller], [Invulnerable Save] (5+)
 
 </div>
 
@@ -45,12 +45,12 @@
 
 | Weapon           | Range | Dice | To Hit | AP  | Traits                 |
 | ---------------- | :---: | :--: | :----: | :-: | ---------------------- |
-| Volkite serpenta | 6"    | 1    | 5+     | 0   | Deflagrate, [Light]    |
+| Volkite serpenta | 6"    | 1    | 5+     | 0   | [Deflagrate], [Light]    |
 | Meltagun         | 6"    | 1    | 4+     | -3  | [Anti-tank]            |
 
 **Special Rules**
 
-[Battlesmith], [Commander], [Cortex Controller], [Invulnerable Save (5+)]
+[Battlesmith], [Commander], [Cortex Controller], [Invulnerable Save] (5+)
 
 </div>
 
@@ -140,7 +140,7 @@ A Thallax Cohort can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Attached Deployment], [Battlesmith], [Cortex Controller], [Invulnerable Save (6+)]
+[Attached Deployment], [Battlesmith], [Cortex Controller], [Invulnerable Save] (6+)
 
 </div>
 
@@ -252,7 +252,7 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 
 **Special Rules**
 
-[Armoured], [Cybernetica Cortex (Advance, Charge)], [Invulnerable Save (6+)], [Jump Packs]
+[Armoured], [Cybernetica Cortex] (Advance, Charge), [Invulnerable Save] (6+), [Jump Packs]
 
 </div>
 
@@ -278,7 +278,7 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 | ----------------------- | :---: | :--: | :----: | :-: | ------------------------------- |
 | Domitar missile launcher| 20"   | 1    | 4+     | 0  | [Light], [Ignores Cover]        |
 | Graviton hammers        | 20"   | 1    | 4+     | -1 | [Anti-tank]                     |
-| Graviton hammers        | -     | -    | -      | -2 | [Wrecker (1)]                   |
+| Graviton hammers        | -     | -    | -      | -2 | [Wrecker] (1)                   |
 
 **Upgrades**
 
@@ -291,7 +291,7 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 
 **Special Rules**
 
-[Armoured], [Cybernetica Cortex (Advance, March)], [Invulnerable Save (6+)]
+[Armoured], [Cybernetica Cortex] (Advance, March), [Invulnerable Save] (6+)
 
 </div>
 
@@ -328,7 +328,7 @@ A Castellax Battle-automata Maniple can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Armoured], [Cybernetica Cortex (Advance, March)], [Invulnerable Save (6+)]
+[Armoured], [Cybernetica Cortex] (Advance, March), [Invulnerable Save] (6+)
 
 </div>
 
@@ -406,7 +406,7 @@ A Vorax Battle-automata Maniple can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Cybernetica Cortex (Charge, March)], [Forward Deployment], [Invulnerable Save (6+)]
+[Cybernetica Cortex] (Charge, March), [Forward Deployment], [Invulnerable Save] (6+)
 
 </div>
 
@@ -443,7 +443,7 @@ A Vultarax Stratos-automata Squadron can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Armoured], [Cybernetica Cortex (Advance, March)], [Invulnerable Save (6+)], [Outflank], [Skimmer]
+[Armoured], [Cybernetica Cortex] (Advance, March), [Invulnerable Save] (6+), [Outflank], [Skimmer]
 
 </div>
 
@@ -479,7 +479,7 @@ Any Thanatar may instead be equipped with the following for **+5 points per mode
 | --------------- | :---: | :--: | :----: | :-: | ------------------------------ |
 | Plasma mortar   | 18"   | 1    | 3+     | -3 | [Demolisher], [Ignores Cover]  |
 | Sollex heavy-las| 22"   | 1    | 4+     | -1 | [Armourbane]                   |
-| Graviton ram    | -     | -    | -      | -  | [Wrecker (2)]                  |
+| Graviton ram    | -     | -    | -      | -  | [Wrecker] (2)                  |
 | Mauler bolt cannon| 8"  | 3    | 5+     | -1 | [Light AT]                     |
 
 **Upgrades**
@@ -493,7 +493,7 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 
 **Special Rules**
 
-[Armoured], [Cybernetica Cortex (Advance, First Fire)], [Invulnerable Save (6+)]
+[Armoured], [Cybernetica Cortex] (Advance, First Fire), [Invulnerable Save] (6+)
 
 </div>
 
@@ -522,7 +522,7 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 | --------------------- | :---: | :--: | :----: | :-: | -------------------------------------- |
 | Lightning locks       | 12"   | 2    | 5+     | -1 | [Arc] (Front), [Point Defence]         |
 | Karacnos mortar battery| 30"  | 2    | 4+     | -1 | [Arc] (Front), [Barrage], [Ignores Cover] |
-| Shock ram             | -     | -    | -      | -2 | [Wrecker (2)]                          |
+| Shock ram             | -     | -    | -      | -2 | [Wrecker] (2)                          |
 
 **Upgrades**
 
@@ -625,12 +625,10 @@ A Krios Venator Squadron can purchase one of the following upgrades:
 | ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------ |
 | Twin-linked volkite calivers  | 12"   | 1    | 4+     | 0  | [Accurate], [Deflagrate], [Light]          |
 | Twin-linked mauler bolt cannon| 8"    | 3    | 5+     | -1 | [Arc] (Front), [Light AT]                  |
-| Shock ram                     | -     | -    | -      | -2 | [Wrecker (2)]                              |
+| Shock ram                     | -     | -    | -      | -2 | [Wrecker] (2)                              |
 
 **Special Rules**
 
-[Transport (4)]
+[Transport] (4)
 
 </div>
-
----

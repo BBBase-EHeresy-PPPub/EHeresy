@@ -38,6 +38,6 @@ When one or more Hits are scored against a Detachment which contains one or more
 
 ### Networked Anima
 
-Detachments with the Networked Anima special rule may gain additional benefits when within 8" of a model with the Noosphere Controller special rule that is part of the same Formation. These rules can be found in the respective Formation.
+Detachments with the Networked Anima special rule may gain additional benefits when within 8" of a model with the [Noosphere Controller] special rule that is part of the same Formation. These rules can be found in the respective Formation.
 
 *Note: The Noosphere Controller is a special rule that triggers other effects, most often in the case of Formation special rules - it does not have a specific effect itself.*

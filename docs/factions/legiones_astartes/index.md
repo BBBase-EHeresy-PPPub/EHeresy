@@ -1,4 +1,4 @@
-## LEGIONES ASTARTES ARMY LIST
+## Legiones Astartes Army List
 
 The following section presents the Legiones Astartes Army List, reflecting the Space Marine Legions during the final years of the Great Crusade and throughout the Horus Heresy. Within you'll find all the rules needed to build a Legiones Astartes Army.
 

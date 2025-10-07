@@ -414,7 +414,7 @@ A Warmaster Iconoclast can exchange its Kirus siege drill for a Kiris grav implo
 
 | Weapon                        | Range   | Dice | To Hit | AP | Traits |
 | ----------------------------- | :-----: | :--: | :----: | :-: | ------ |
-| Desolator chainsword          | -       | -   | -  | -7 | [Engine Killer] (2), [Reach], [Rend], [Wrecker (8)] |
+| Desolator chainsword          | -       | -   | -  | -7 | [Engine Killer] (2), [Reach], [Rend], [Wrecker] (8) |
 | Kirus siege drill             | -       | -   | -  | -6 | [Demolisher], [Ignores Cover], [Quake] |
 | Cruciaris gatling array       | 24"     | 14  | 5+ | -1 | [Arc] (Front), [Light AT], [Shieldbane], [Shred] |
 | Kiris grav imploder           | 30"     | 2   | 3+ | -3 | [Rend], [Wrecker] (5) |
