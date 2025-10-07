@@ -181,7 +181,7 @@ There will be instances where a Detachment is Engaged with two or more enemy Det
 
 ***LIR52.1:** A Legio Astorum Warhound Titan issued with a Charge Order Engages a Legion Tactical Detachment. As the Titan is a larger Scale than the Tactical Marines (1 vs. 5 respectively), the Titan is Engaged but not Pinned.*
 
-![](../media/legions_imperialis_rules/multiple_engaged_1.jpg)
+![](../media/legions_imperialis_rules/multiple_engaged_2.jpg)
 
 ***LIR52.2:** A Warhound Titan charges into the combat in LIR52.1. As the two Titans are the same Scale (5), both Titans are now Engaged and Pinned. If, during the subsequent Combat phase, the charging Titan is destroyed, then the Legio Astorum Titan is no longer Pinned and so can fire as normal even if it remains Engaged.*
 
