@@ -1146,7 +1146,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Rear Mounted heavy bolter
 * Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs\*
 
-\* A model can take multiples of the same option. [See page 195](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
+\* A model can take multiples of the same option. [See page 111](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
 
 | Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------------- |
@@ -1174,7 +1174,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Colossus bomb
 * Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs\*
 
-\* A model can take multiples of the same option. [See page 195](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
+\* A model can take multiples of the same option. [See page 111](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
 
 | Weapon  | Range | Dice | To Hit | AP | Traits    |
 | ------------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------------------- |
@@ -1204,7 +1204,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Destroyer bomb bay
 * Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs\*
 
-\* A model can take multiples of the same option. [See page 195](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
+\* A model can take multiples of the same option. [See page 111](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
 
 | Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ----------------------------- | :---: | :--: | :----: | :-: | ---------------------------------------------------- |
