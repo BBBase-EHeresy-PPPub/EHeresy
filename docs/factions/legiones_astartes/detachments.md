@@ -18,7 +18,7 @@
 
 | Weapon           | Range | Dice | To Hit | AP | Traits              |
 | ---------------- | :---: | :--: | :----: | :-: | ------------------- |
-| Legion bolters   | 18"   | 2    | 5+     | 0  | [Assault], [Light]  |
+| Legion bolters   | 8"   | 2    | 5+     | 0  | [Assault], [Light]  |
 | Volkite chargers | 8"    | 1    | 5+     | 0  | [Deflagrate], [Light] |
 
 **Special Rules**
@@ -165,7 +165,7 @@ A Kratos Commander may be equipped with one Pintle Mounted heavy bolter for **+5
 
 | Weapon         | Range | Dice | To Hit | AP | Traits             |
 | -------------- | :---: | :--: | :----: | :-: | ------------------ |
-| Legion bolters | 18"   | 1    | 5+     | 0  | [Assault], [Light] |
+| Legion bolters | 8"   | 1    | 5+     | 0  | [Assault], [Light] |
 
 **Upgrades**
 
