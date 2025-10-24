@@ -81,16 +81,17 @@ Each Questoris Knight has one of the following weapon loadouts:
 * **Knight Gallant:** Thunderstrike gauntlet, meltagun and a Reaper chainsword
 * **Knight Crusader:** Heavy stubber and either a Questoris avenger gatling cannon and thermal cannon, or a rapid-fire battlecannon and thermal cannon
 
-| Weapon                        | Range | Dice | To Hit | AP | Traits |
-| ----------------------------- | :---: | :--: | :----: | :-: | ------ |
-| Thermal cannon                | 12"   | 2   | 4+ | -3 | [Arc] (Front), [Anti-tank], [Demolisher] |
-| Rapid-fire battlecannon       | 28"   | 2   | 3+ | -2 | [Arc] (Front), [Anti-tank], [Demolisher], [Engine Killer] (1) |
-| Questoris avenger gatling cannon | 16" | 5   | 5+ | -2 | [Arc] (Front), [Light AT], [Rapid Fire] |
-| Heavy stubber                 | 14"   | 1   | 5+ | 0  | [Arc] (Front), [Light], [Point Defence] |
-| Meltagun                      | 6"    | 1   | 4+ | -3 | [Arc] (Front), [Anti-tank] |
-| Reaper chainsword             | -     | -   | -  | -  | [Rend] |
-| Thunderstrike gauntlet        | -     | -   | -  | -  | [Rend], [Wrecker] (1) |
-| Rocket pods                   | 16"   | 2   | 4+ | -1 | [Arc] (Front), [Barrage] |
+| Weapon                         | Range | Dice | To Hit | AP  | Traits                                                   |
+| ------------------------------- | :---: | :--: | :----: | :-: | -------------------------------------------------------- |
+| Thermal cannon                  | 12"   | 2    | 4+     | -3  | [Arc] (Front), [Anti-tank], [Demolisher]                |
+|                                | 6"    | 1    | 3+     | -4  | [Arc] (Front), [Anti-tank], [Demolisher], [Engine Killer] (1) |
+| Rapid-fire battlecannon         | 28"   | 2    | 4+     | -2  | [Arc] (Front), [Rapid Fire]                              |
+| Questoris avenger gatling cannon| 16"   | 5    | 5+     | -2  | [Arc] (Front), [Light AT], [Rapid Fire]                  |
+| Heavy stubber                   | 14"   | 1    | 5+     | 0   | [Arc] (Front), [Light], [Point Defence]                  |
+| Meltagun                        | 6"    | 1    | 4+     | -3  | [Arc] (Front), [Anti-tank]                               |
+| Reaper chainsword               | -     | -    | -      | -   | [Rend]                                                   |
+| Thunderstrike gauntlet          | -     | -    | -      | -2  | [Rend], [Wrecker] (1)                                    |
+| Rocket pods                     | 16"   | 2    | 4+     | -1  | [Arc] (Front), [Barrage]                                 |
 
 **Upgrades**
 
@@ -126,13 +127,13 @@ Each Questoris Mechanicum Knight has one of the following weapon loadouts:
 * **Knight Styrix:** Volkite chieorovile, Hekaton siege claw, graviton gun
 * **Knight Magaera:** Lightning cannon, Hekaton siege claw, phased plasma-fusil
 
-| Weapon            | Range | Dice | To Hit | AP | Traits |
-| ----------------- | :---: | :--: | :----: | :-: | ------ |
-| Volkite chieorovile | 12" | 3   | 4+ | -2 | [Arc] (Front), [Deflagrate], [Light AT] |
-| Graviton gun      | 6"    | 1   | -  | -4 | [Arc] (Front), [Light AT], [Shieldbane] |
-| Lightning cannon  | 22"   | 2   | 5+ | -2 | [Graviton Pulse] |
-| Hekaton siege claw| -     | -   | -  | -5 | [Rend], [Wrecker] (3) |
-| Phased plasma-fusil | 10" | 1   | 4+ | -2 | [Arc] (Front), [Light AT] |
+| Weapon                 | Range | Dice | To Hit | AP  | Traits                                               |
+| ----------------------- | :---: | :--: | :----: | :-: | ---------------------------------------------------- |
+| Volkite chieorovile     | 12"   | 3    | 4+     | -2  | [Arc] (Front), [Deflagrate], [Light AT], [Shieldbane] |
+| Graviton gun            | 6"    | 1    | -      | -1  | [Arc] (Front), [Graviton Pulse]                      |
+| Lightning cannon        | 22"   | 2    | 5+     | -2  | [Arc] (Front)                                        |
+| Hekaton siege claw      | -     | -    | -      | -5  | [Rend], [Wrecker] (3)                                |
+| Phased plasma-fusil     | 10"   | 1    | 4+     | -2  | [Arc] (Front), [Light AT]                            |
 
 **Upgrades**
 
