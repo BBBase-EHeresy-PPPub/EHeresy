@@ -60,7 +60,7 @@ Models Embarked within a Flyer cannot leave the battlefield in this way.
 
 At the end of the battle, the player with this Secondary Objective scores 5 VPs if one friendly Detachment carrying supplies broke through the enemy line, 10 VPs if two friendly Detachments carrying supplies broke through the enemy line and 15 VPs if three or more friendly Detachments carrying supplies broke through the enemy line.
 
-## Plant the Standard Defiant
+## Plant the Standard
 
 At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective nominates one of their models, whether on the battlefield or in Reserve, to be carrying a standard. Titans and models with the Flyer, Hover and/or Transport special rule cannot be chosen to carry the standard, nor can they pick it up in battle.
 
