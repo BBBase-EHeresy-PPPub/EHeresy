@@ -32,7 +32,7 @@
 
 * **Myrmidon Secutor Host**
 
-6 Myrmidon Secutor models. 
+6 Myrmidon Secutor models.
 
 This Detachment has 2 [Triaros](../../factions/dark_mechanicum/detachments.md#triaros-armoured-conveyor-22-points-per-model) models as Dedicated Transports.
 
@@ -48,7 +48,7 @@ This Detachment has 2 [Triaros](../../factions/dark_mechanicum/detachments.md#tr
 
 * **Myrmidon Secutor Host**
 
-6 Myrmidon Secutor models. 
+6 Myrmidon Secutor models.
 
 This Detachment has 2 [Triaros](../../factions/dark_mechanicum/detachments.md#triaros-armoured-conveyor-22-points-per-model) models as Dedicated Transports.
 

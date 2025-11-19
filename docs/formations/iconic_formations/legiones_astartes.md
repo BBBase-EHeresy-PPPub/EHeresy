@@ -144,7 +144,7 @@ This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments
 
 * **Legion Command Detachment**
 
-1 Command Squad model. 
+1 Command Squad model.
 
 This Detachment has 1 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) model as a Dedicated Transport. That Rhino model is equipped with a Pintle Mounted multi-melta.
 
@@ -152,7 +152,7 @@ This Detachment has 1 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 * **Legion Tactical Detachment**
 
-8 Tactical Legionaries models. One model has an Apothecary. 
+8 Tactical Legionaries models. One model has an Apothecary.
 
 This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports.
 
@@ -160,7 +160,7 @@ This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 * **Legion Tactical Detachment**
 
-8 Tactical Legionaries models. One model has an Apothecary. 
+8 Tactical Legionaries models. One model has an Apothecary.
 
 This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports.
 
@@ -170,7 +170,7 @@ This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 * **Legion Plasma Gun Support Detachment**
 
-4 Support Legionaries models. 
+4 Support Legionaries models.
 
 This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports. Both Rhino models are equipped with a Pintle Mounted havoc launcher.
 
@@ -178,7 +178,7 @@ This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 * **Legion Missile Launcher Support Detachment**
 
-4 Heavy Support Legionaries models. 
+4 Heavy Support Legionaries models.
 
 This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports.
 
@@ -204,7 +204,7 @@ This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 * **Legion Command Detachment**
 
-1 Command Squad model. 
+1 Command Squad model.
 
 This Detachment has 1 [Drop Pod](../../factions/legiones_astartes/detachments.md#legion-drop-pod-detachment-10-points-per-model) model as a Dedicated Transport.
 
@@ -212,7 +212,7 @@ This Detachment has 1 [Drop Pod](../../factions/legiones_astartes/detachments.md
 
 * **Legion Tactical Detachment**
 
-4 Tactical Legionaries models, 2 Plasma Gun Support models and 2 Missile Launcher Support models. One Tactical Legionaries model has an Apothecary. 
+4 Tactical Legionaries models, 2 Plasma Gun Support models and 2 Missile Launcher Support models. One Tactical Legionaries model has an Apothecary.
 
 This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md#legion-drop-pod-detachment-10-points-per-model) models as Dedicated Transports.
 
@@ -220,7 +220,7 @@ This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md
 
 * **Legion Tactical Detachment**
 
-4 Tactical Legionaries models, 2 Plasma Gun Support models and 2 Missile Launcher Support models. One Tactical Legionaries model has an Apothecary. 
+4 Tactical Legionaries models, 2 Plasma Gun Support models and 2 Missile Launcher Support models. One Tactical Legionaries model has an Apothecary.
 
 This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md#legion-drop-pod-detachment-10-points-per-model) models as Dedicated Transports.
 
@@ -236,7 +236,7 @@ This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md
 
 * **Leviathan Siege Dreadnought Talon**
 
-4 Leviathan Dreadnought models. These models are equipped with cyclonic melta lances. 
+4 Leviathan Dreadnought models. These models are equipped with cyclonic melta lances.
 
 This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/detachments.md#dreadnought-drop-pod-detachment-12-points-per-model) models as Dedicated Transports.
 
@@ -244,7 +244,7 @@ This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/de
 
 * **Legion Contemptor Dreadnought Talon**
 
-4 Contemptor Dreadnought models. These models are equipped with twin-linked lascannon. 
+4 Contemptor Dreadnought models. These models are equipped with twin-linked lascannon.
 
 This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/detachments.md#dreadnought-drop-pod-detachment-12-points-per-model) models as Dedicated Transports.
 
@@ -268,7 +268,7 @@ This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/de
 
 * **Legion Command Detachment**
 
-1 Command Squad model. 
+1 Command Squad model.
 
 This Detachment has 1 [Land Raider](../../factions/legiones_astartes/detachments.md#legion-land-raider-detachment-35-points-per-model) model as a Dedicated Transport. That Land Raider model is equipped with a Pintle Mounted multi-melta.
 
@@ -276,7 +276,7 @@ This Detachment has 1 [Land Raider](../../factions/legiones_astartes/detachments
 
 * **Legion Tactical Detachment**
 
-8 Tactical Legionaries models. One model has an Apothecary. 
+8 Tactical Legionaries models. One model has an Apothecary.
 
 This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments.md#legion-land-raider-detachment-35-points-per-model) models as Dedicated Transports.
 
@@ -298,7 +298,7 @@ This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments
 
 * **Legion Terminator Detachment**
 
-6 Legion Terminator models. 
+6 Legion Terminator models.
 
 This Detachment has 6 [Land Raider](../../factions/legiones_astartes/detachments.md#legion-land-raider-detachment-35-points-per-model) models as Dedicated Transports.
 
@@ -334,7 +334,7 @@ This Detachment has 6 [Land Raider](../../factions/legiones_astartes/detachments
 
 * **Legion Terminator Detachment**
 
-4 Legion Terminator models. 
+4 Legion Terminator models.
 
 This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#legion-spartan-detachment-70-points-per-model) models as Dedicated Transports. These Spartan models are equipped with Sponson Mounted laser destroyers and Hull Mounted lascannon.
 
@@ -362,7 +362,7 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 * **Legion Terminator Detachment**
 
-4 Legion Terminator models. 
+4 Legion Terminator models.
 
 This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#legion-spartan-detachment-70-points-per-model) models as Dedicated Transports. These Spartan models are equipped with Sponson Mounted laser destroyers and Hull Mounted lascannon.
 
@@ -414,7 +414,7 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 * **Legion Tactical Detachment**
 
-8 Tactical Legionaries models. One model has an Apothecary. 
+8 Tactical Legionaries models. One model has an Apothecary.
 
 This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports.
 

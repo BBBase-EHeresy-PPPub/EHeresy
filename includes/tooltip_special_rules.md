@@ -46,7 +46,7 @@
 [Orbital Assault]: /legions_imperialis_rules/special_rules/#orbital-assault
 [Outflank]: /legions_imperialis_rules/special_rules/#outflank
 [Phosphex]: /legions_imperialis_rules/special_rules/#phosphex
-[Remote Controlled Detonation]: /legions_imperialis_rules/special_rules/#remote-controlled-detonation
+[Remote Controlled Detonation]: /factions/solar_auxilia/#remote-controlled-detonation
 [Scout]: /legions_imperialis_rules/special_rules/#scout
 [Shield Generator]: /legions_imperialis_rules/special_rules/#shield-generator-x
 [Skimmer]: /legions_imperialis_rules/special_rules/#skimmer
