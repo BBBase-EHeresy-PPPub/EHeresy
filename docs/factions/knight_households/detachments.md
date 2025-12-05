@@ -238,26 +238,26 @@ A Cerastus Knight Atropos Banner can purchase one of the following upgrades:
 
 ### Acastus Knight Porphyrion Banner [230 Points]
 
-* **Type:** Knight (4)
+* **Type:** Knight (4)  
 * **Detachment Size:** 1
 
-| Name                   | Movement | Sv | CAF | Morale | W |
-| ---------------------- | :------: | :-: | :-: | :----: | :-: |
+| Name                     | Movement | Sv | CAF | Morale | W |
+| ------------------------ | :------: | :-: | :-: | :----: | :-: |
 | Acastus Knight Porphyrion | 6" | 2+ | +7 | 2+ | 4 |
 
 **Weapons**
 
-* Two twin magna lascannon
-* Acastus lascannon or Acastus autocannon
-* Ironstorm missile pod or Helios defence missiles
+* Two twin magna lascannon  
+* Acastus lascannon or Acastus autocannon  
+* Ironstorm missile pod or Helios defence missiles  
 
-| Weapon               | Range | Dice | To Hit | AP | Traits |
-| -------------------- | :---: | :--: | :----: | :-: | ------ |
-| Twin magna lascannon | 25"   | 2   | 4+ | -3 | [Arc] (Front), [Accurate], [Anti-tank] |
-| Ironstorm missile pod| 25"   | 3   | 4+ | -1 | [Arc] (Front), [Light AT] |
-| Helios defence missiles | 25" | 2   | 4+ | -2 | [Arc] (Front), [Light AT], [Skyfire], [Tracking] |
-| Acastus autocannon   | 16"   | 3   | 5+ | -1 | [Arc] (Front), [Light AT] |
-| Acastus lascannon    | 22"   | 1   | 4+ | -1 | [Arc] (Front), [Anti-tank] |
+| Weapon                 | Range | Dice | To Hit | AP | Traits |
+| ---------------------- | :---: | :--: | :----: | :-: | ------- |
+| Twin magna lascannon  | 25" | 2 | 4+ | -3 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Ironstorm missile pod | 25" | 3 | 4+ | -1 | [Arc] (Front), [Light AT] |
+| Helios defence missiles | 25" | 2 | 4+ | -2 | [Arc] (Front), [Anti-tank], [Skyfire], [Tracking] |
+| Acastus autocannon    | 16" | 3 | 5+ | -1 | [Arc] (Front), [Light AT] |
+| Acastus lascannon     | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
 
 **Upgrades**
 
