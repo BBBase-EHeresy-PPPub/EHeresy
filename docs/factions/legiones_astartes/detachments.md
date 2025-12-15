@@ -1533,26 +1533,24 @@ Any Land Raider may be equipped with one of the following:
 
 ## AIR SUPPORT DETACHMENTS
 
-<div class="unitCard" markdown>
-
 ### Legion Xiphon Interceptor Squadron [95 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name             | Movement | Sv  | CAF | Morale | W |
-| ---------------- | :------: | :-: | :-: | :----: | :-: |
-| Xiphon Interceptor | 30" | 3+ | +0 | - | 1 |
+| Name               | Movement | Sv  | CAF | Morale | W |
+| ------------------ | :------: | :-: | :-: | :----: | :-: |
+| Xiphon Interceptor | 30"      | 3+  | +0  |   -    | 1 |
 
 **Weapons**
 
 * Xiphon lascannon array
 * Xiphon rotary missile launcher
 
-| Weapon                      | Range | Dice | To Hit | AP | Traits |
-| --------------------------- | :---: | :--: | :----: | :-: | -------------------------------- |
-| Xiphon lascannon array      | 22"   | 2    | 4+     | -1  | [Arc] (Front), [Accurate], [Anti-tank], [Skyfire] |
-| Xiphon rotary missile launcher | 24" | 2 | 4+ | -1 | [Arc] (Front), [Skyfire], [Tracking] |
+| Weapon                          | Range | Dice | To Hit | AP | Traits |
+| ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Xiphon lascannon array          | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Accurate], [Anti-tank], [Skyfire] |
+| Xiphon rotary missile launcher  | 24"   | 2    | 4+     | -1 | [Arc] (Front), [Skyfire], [Tracking] |
 
 **Upgrades**
 A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
@@ -1580,7 +1578,7 @@ A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 
 | Name        | Movement | Sv  | CAF | Morale | W |
 | ----------- | :------: | :-: | :-: | :----: | :-: |
-| Storm Eagle | 25" | 3+ | +0 | - | 1 |
+| Storm Eagle | 25"      | 3+  | +0  |   -    | 1 |
 
 **Weapons**
 
@@ -1588,11 +1586,11 @@ A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 * Vengeance launcher
 * Wing Mounted lascannon
 
-| Weapon                  | Range | Dice | To Hit | AP | Traits |
-| ----------------------- | :---: | :--: | :----: | :-: | --------------------------- |
-| Storm Eagle heavy bolter | 12"  | 3    | 5+     | 0   | [Arc] (Front), [Light], [Point Defence], [Skyfire] |
-| Vengeance launcher       | 25"  | 2    | 4+     | -1  | [Arc] (Front), [Light AT] |
-| Wing Mounted lascannon   | 22"  | 2    | 4+     | -1  | [Arc] (Front), [Anti-tank], [Skyfire] |
+| Weapon                       | Range | Dice | To Hit | AP | Traits |
+| ---------------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------- |
+| Storm Eagle heavy bolter     | 12"   | 3    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence], [Skyfire] |
+| Vengeance launcher           | 25"   | 2    | 4+     | -1 | [Arc] (Front), [Light AT] |
+| Wing Mounted lascannon       | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
 
 **Upgrades**
 A Legion Storm Eagle Squadron can purchase one of the following upgrades:
@@ -1616,24 +1614,23 @@ A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name       | Movement | Sv  | CAF | Morale | W |
-| ---------- | :------: | :-: | :-: | :----: | :-: |
-| Fire Raptor | 25" | 3+ | +0 | - | 1 |
+| Name        | Movement | Sv  | CAF | Morale | W |
+| ----------- | :------: | :-: | :-: | :----: | :-: |
+| Fire Raptor | 25"      | 3+  | +0  |   -    | 1 |
 
 **Weapons**
 
 * Avenger bolt cannon
 * Tempest rockets
-* Quad heavy bolter batteries
-* Lascannon batteries or Gravis autocannon batteries
+* Quad heavy bolter batteries, lascannon batteries or Gravis autocannon batteries
 
-| Weapon                    | Range | Dice | To Hit | AP | Traits |
-| ------------------------- | :---: | :--: | :----: | :-: | --------------------------- |
-| Avenger bolt cannon       | 16"  | 5    | 5+     | -1  | [Arc] (Front), [Light AT], [Rapid Fire], [Skyfire] |
-| Tempest rockets           | 20"  | 2    | 4+     | 0   | [Arc] (Front), [Skyfire] |
-| Quad heavy bolter batteries | 12" | 4 | 5+ | 0 | [Light], [Point Defence], [Skyfire] |
-| Gravis autocannon batteries | 16" | 2 | 5+ | -1 | [Skyfire] |
-| Lascannon batteries       | 22"  | 2    | 4+     | -1  | [Anti-tank], [Skyfire] |
+| Weapon                          | Range | Dice | To Hit | AP | Traits |
+| ------------------------------- | :---: | :--: | :----: | :-: | ---------------------------------------------- |
+| Avenger bolt cannon             | 16"   | 5    | 5+     | -1 | [Arc] (Front), [Light AT], [Rapid Fire], [Skyfire] |
+| Tempest rockets                 | 35"   | 1    | 2+     | -2 | [Arc] (Front), [Skyfire] |
+| Quad heavy bolter batteries     | 12"   | 4    | 5+     | 0  | [Light], [Point Defence], [Skyfire] |
+| Gravis autocannon batteries     | 16"   | 3    | 5+     | -1 | [Light AT], [Skyfire] |
+| Lascannon batteries             | 22"   | 2    | 4+     | -1 | [Anti-tank], [Skyfire] |
 
 **Upgrades**
 A Legion Fire Raptor Squadron can purchase one of the following upgrades:
@@ -1657,9 +1654,9 @@ A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name              | Movement | Sv  | CAF | Morale | W |
-| ----------------- | :------: | :-: | :-: | :----: | :-: |
-| Thunderhawk Gunship | 20" | 2+ | +0 | - | 2 |
+| Name                 | Movement | Sv  | CAF | Morale | W |
+| -------------------- | :------: | :-: | :-: | :----: | :-: |
+| Thunderhawk Gunship  | 20"      | 2+  | +0  |   -    | 2 |
 
 **Weapons**
 
@@ -1668,12 +1665,12 @@ A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 * Thunderhawk lascannon
 * Hellstrike missiles
 
-| Weapon                   | Range | Dice | To Hit | AP | Traits |
-| ------------------------ | :---: | :--: | :----: | :-: | --------------------------- |
-| Turbo-laser destructor   | 40"  | 2    | 4+     | -3  | [Arc] (Front), [Accurate] |
-| Thunderhawk heavy bolters | 12" | 3 | 5+ | 0 | [Arc] (Front), [Light AT], [Point Defence], [Skyfire] |
-| Thunderhawk lascannon    | 22"  | 2    | 4+     | -1  | [Arc] (Front), [Anti-tank], [Skyfire] |
-| Hellstrike missiles      | 30"  | 2    | 4+     | -2  | [Arc] (Front), [Armourbane] |
+| Weapon                     | Range | Dice | To Hit | AP | Traits |
+| -------------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------- |
+| Turbo-laser destructor     | 40"   | 2    | 4+     | -3 | [Arc] (Front), [Accurate] |
+| Thunderhawk heavy bolters  | 12"   | 3    | 5+     | 0  | [Arc] (Front), [Light AT], [Point Defence], [Skyfire] |
+| Thunderhawk lascannon      | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
+| Hellstrike missiles        | 30"   | 2    | 4+     | -1 | [Arc] (Front), [Armourbane] |
 
 **Upgrades**
 A Legion Thunderhawk Gunship Detachment can purchase one of the following upgrades:
