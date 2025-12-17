@@ -1533,6 +1533,8 @@ Any Land Raider may be equipped with one of the following:
 
 ## AIR SUPPORT DETACHMENTS
 
+<div class="unitCard" markdown>
+
 ### Legion Xiphon Interceptor Squadron [95 Points]
 
 * **Type:** Vehicle (2)
