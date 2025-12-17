@@ -238,7 +238,7 @@ A Cerastus Knight Atropos Banner can purchase one of the following upgrades:
 
 ### Acastus Knight Porphyrion Banner [230 Points]
 
-* **Type:** Knight (4)  
+* **Type:** Knight (4)
 * **Detachment Size:** 1
 
 | Name                     | Movement | Sv | CAF | Morale | W |
@@ -247,9 +247,9 @@ A Cerastus Knight Atropos Banner can purchase one of the following upgrades:
 
 **Weapons**
 
-* Two twin magna lascannon  
-* Acastus lascannon or Acastus autocannon  
-* Ironstorm missile pod or Helios defence missiles  
+* Two twin magna lascannon
+* Acastus lascannon or Acastus autocannon
+* Ironstorm missile pod or Helios defence missiles
 
 | Weapon                 | Range | Dice | To Hit | AP | Traits |
 | ---------------------- | :---: | :--: | :----: | :-: | ------- |

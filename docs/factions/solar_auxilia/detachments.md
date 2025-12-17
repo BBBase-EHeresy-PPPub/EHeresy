@@ -872,7 +872,7 @@ Any Valdor may be equipped with one Pintle Mounted heavy stubber for +5 points p
 * **Detachment Size:** 1
 
 | Name | Movement | Sv | CAF | Morale | W |
-| -------------------- | :------: | :-: | :-: | :----: | :-: |
+| ------------- | :------: | :-: | :-: | :----: | :-: |
 | Auxilia Baneblade | 7" | 2+ | +4 | 4+ | 3 |
 
 **Weapons**
@@ -884,13 +884,13 @@ Any Valdor may be equipped with one Pintle Mounted heavy stubber for +5 points p
 * Lascannon sponson turrets
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
-| ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------- |
-| Baneblade cannon | 25" | 1 | 4+ | -3 | [Co-axial], [Light AT] |
+| ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
+| Baneblade cannon | 25" | 1 | 4+ | -3 | — |
 | Co-axial autocannon | 16" | 2 | 5+ | -1 | [Co-axial], [Light AT] |
 | Hull Mounted demolisher cannon | 12" | 1 | 4+ | -3 | [Arc] (Front), [Ignores Cover], [Demolisher] |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Lascannon sponson turrets | 22" | 2 | 4+ | -1 | [Anti-tank] |
-| Super-heavy heavy bolter sponsons | 12" | 2 | 5+ | 0 | [Light], [Point Defence] |
+| Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
 | Super-heavy autocannon sponsons | 16" | 2 | 5+ | -1 | [Light AT], [Point Defence] |
 | Super-heavy heavy flamer sponsons | 6" | 2 | 4+ | 0 | [Light], [Ignores Cover], [Point Defence] |
 | Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
@@ -920,7 +920,7 @@ Any Auxilia Baneblade may be equipped with one Pintle Mounted heavy stubber for 
 * **Detachment Size:** 1
 
 | Name | Movement | Sv | CAF | Morale | W |
-| ---------------------- | :------: | :-: | :-: | :----: | :-: |
+| ------------- | :------: | :-: | :-: | :----: | :-: |
 | Auxilia Hellhammer | 7" | 2+ | +4 | 4+ | 3 |
 
 **Weapons**
@@ -932,13 +932,13 @@ Any Auxilia Baneblade may be equipped with one Pintle Mounted heavy stubber for 
 * Lascannon sponson turrets
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
-| -------------------------------- | :---: | :--: | :----: | :-: | ------------------------------- |
+| ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
 | Hellhammer cannon | 14" | 1 | 4+ | -3 | [Demolisher], [Ignores Cover] |
 | Co-axial autocannon | 16" | 2 | 5+ | -1 | [Co-axial], [Light AT] |
 | Hull Mounted demolisher cannon | 12" | 1 | 4+ | -3 | [Arc] (Front), [Ignores Cover], [Demolisher] |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Lascannon sponson turrets | 22" | 2 | 4+ | -1 | [Anti-tank] |
-| Super-heavy heavy bolter sponsons | 12" | 2 | 5+ | 0 | [Light], [Point Defence] |
+| Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
 | Super-heavy autocannon sponsons | 16" | 2 | 5+ | -1 | [Light AT], [Point Defence] |
 | Super-heavy heavy flamer sponsons | 6" | 2 | 4+ | 0 | [Light], [Ignores Cover], [Point Defence] |
 | Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
@@ -968,7 +968,7 @@ Any Auxilia Hellhammer may be equipped with one Pintle Mounted heavy stubber for
 * **Detachment Size:** 1
 
 | Name | Movement | Sv | CAF | Morale | W |
-| ----------- | :------: | :-: | :-: | :----: | :-: |
+| ------------- | :------: | :-: | :-: | :----: | :-: |
 | Stormhammer | 6" | 2+ | +2 | 4+ | 3 |
 
 **Weapons**
@@ -979,13 +979,13 @@ Any Auxilia Hellhammer may be equipped with one Pintle Mounted heavy stubber for
 * Stormhammer multi-laser sponsons
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
-| ------------------------------ | :---: | :--: | :----: | :-: | ---------------------------- |
+| ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
 | Stormhammer cannon | 28" | 2 | 4+ | -2 | [Shred] |
 | Dual battlecannon | 25" | 2 | 4+ | -1 | [Arc] (Front) |
 | Co-axial multi-laser | 12" | 2 | 4+ | 0 | [Co-axial], [Light AT] |
 | Hull Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
-| Stormhammer multi-laser sponsons | 12" | 4 | 5+ | 0 | [Light AT], [Point Defence] |
-| Lascannon sponsons | 22" | 2 | 4+ | -1 | [Anti-tank] |
+| Stormhammer multi-laser sponsons | 12" | 5 | 4+ | 0 | [Light AT], [Point Defence] |
+| Stormhammer lascannon sponsons | 22" | 4 | 4+ | -1 | [Anti-tank] |
 | Pintle Mounted multi-laser | 12" | 2 | 5+ | 0 | [Light AT], [Point Defence] |
 
 **Upgrades**
@@ -1058,7 +1058,7 @@ Any Shadowsword may be equipped with one Pintle Mounted heavy stubber for +5 poi
 * **Detachment Size:** 1
 
 | Name | Movement | Sv | CAF | Morale | W |
-| ----------- | :------: | :-: | :-: | :----: | :-: |
+| ------------- | :------: | :-: | :-: | :----: | :-: |
 | Stormsword | 6" | 2+ | +2 | 4+ | 3 |
 
 **Weapons**
@@ -1069,7 +1069,7 @@ Any Shadowsword may be equipped with one Pintle Mounted heavy stubber for +5 poi
 * Lascannon sponson turrets
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
-| -------------------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
+| ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
 | Stormsword siege cannon | 30" | 1 | 3+ | -2 | [Arc] (Front), [Demolisher], [Ignores Cover] |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
@@ -1283,8 +1283,8 @@ None
 
 **Weapons**
 
-* Quad autocannon  
-* Thunderbolt twin-linked lascannon  
+* Quad autocannon
+* Thunderbolt twin-linked lascannon
 * Hellstrike missiles or Skystrike missiles or wing bombs
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
@@ -1327,9 +1327,9 @@ An Auxilia Thunderbolt Squadron can purchase one of the following upgrades:
 
 **Weapons**
 
-* Avenger bolt cannon  
-* Heavy stubber tail gun  
-* Avenger lascannon or Avenger autocannon  
+* Avenger bolt cannon
+* Heavy stubber tail gun
+* Avenger lascannon or Avenger autocannon
 * Hellstrike missiles or Skystrike missiles or wing bombs
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
@@ -1371,8 +1371,8 @@ An Auxilia Avenger Strike Fighter Squadron can purchase one of the following upg
 
 **Weapons**
 
-* Lightning twin lascannon or Lightning twin multi-laser  
-* Any two of the following: Hellstrike missiles, Skystrike missiles or phosphex bomb clusters\*  
+* Lightning twin lascannon or Lightning twin multi-laser
+* Any two of the following: Hellstrike missiles, Skystrike missiles or phosphex bomb clusters\*
 
 \* *A model can take multiples of the same option.*
 
@@ -1413,10 +1413,10 @@ An Auxilia Lightning Fighter Squadron can purchase one of the following upgrades
 
 **Weapons**
 
-* Nose Mounted lascannon  
-* Marauder heavy bolter turrets  
-* Marauder bomb bay  
-* Any two of the following: Hellstrike missiles, Skystrike missiles or wing bombs*  
+* Nose Mounted lascannon
+* Marauder heavy bolter turrets
+* Marauder bomb bay
+* Any two of the following: Hellstrike missiles, Skystrike missiles or wing bombs*
 
 \* *A model can take multiples of the same option.*
 
