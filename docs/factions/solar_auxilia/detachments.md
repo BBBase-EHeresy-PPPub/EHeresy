@@ -1278,27 +1278,27 @@ None
 * **Detachment Size:** 1
 
 | Name | Movement | Sv | CAF | Morale | W |
-| ------------------- | :------: | :-: | :-: | :----: | :-: |
-| Thunderbolt Fighter | 25" | 4+ | +0 | 4+ | 1 |
+| -------------------- | :------: | :-: | :-: | :----: | :-: |
+| Thunderbolt Fighter | 25" | 4+ | +0 | - | 1 |
 
 **Weapons**
 
-* Quad autocannon
-* Thunderbolt twin-linked lascannon
+* Quad autocannon  
+* Thunderbolt twin-linked lascannon  
 * Hellstrike missiles or Skystrike missiles or wing bombs
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
-| ------------------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------- |
+| ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
 | Quad autocannon | 16" | 4 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire] |
-| Thunderbolt twin-linked lascannon | 22" | 2 | 5+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
+| Thunderbolt twin-linked lascannon | 22" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
 | Avenger bolt cannon | 16" | 5 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire], [Rapid Fire] |
-| Hellstrike missiles | 30" | 1 | 4+ | -2 | [Arc] (Front), [Anti-tank], [Skyfire] |
-| Skystrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Armourbane], [Skyfire] |
+| Hellstrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Armourbane] |
+| Skystrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire], [Tracking] |
 | Wing bombs | - | 2 | 4+ | -2 | [Arc] (Rear), [Bombing Run] |
 
 **Upgrades**
 
-Any Thunderbolt Fighter may exchange its quad autocannon for an Avenger bolt cannon for +3 points per model.
+Any Thunderbolt Fighter can exchange its quad autocannon for an Avenger bolt cannon for +3 points per model.
 
 An Auxilia Thunderbolt Squadron can purchase one of the following upgrades:
 
@@ -1322,23 +1322,23 @@ An Auxilia Thunderbolt Squadron can purchase one of the following upgrades:
 * **Detachment Size:** 1
 
 | Name | Movement | Sv | CAF | Morale | W |
-| ------------------------- | :------: | :-: | :-: | :----: | :-: |
-| Avenger Strike Fighter | 28" | 4+ | +0 | 4+ | 1 |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Avenger Strike Fighter | 28" | 4+ | +0 | - | 1 |
 
 **Weapons**
 
-* Avenger bolt cannon
-* Heavy stubber tail gun
-* Avenger lascannon or Avenger autocannon
+* Avenger bolt cannon  
+* Heavy stubber tail gun  
+* Avenger lascannon or Avenger autocannon  
 * Hellstrike missiles or Skystrike missiles or wing bombs
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
-| ------------------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------- |
+| ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
 | Avenger bolt cannon | 16" | 5 | 5+ | -1 | [Arc] (Front), [Light AT], [Rapid Fire], [Skyfire] |
 | Avenger autocannon | 16" | 4 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire] |
-| Avenger lascannon | 22" | 2 | 5+ | -2 | [Anti-tank], [Arc] (Front), [Skyfire] |
+| Avenger lascannon | 22" | 2 | 4+ | -1 | [Anti-tank], [Arc] (Front), [Skyfire] |
 | Heavy stubber tail gun | 14" | 2 | 6+ | 0 | [Arc] (Rear), [Light AT], [Point Defence], [Skyfire] |
-| Hellstrike missiles | 30" | 1 | 4+ | -2 | [Arc] (Front), [Armourbane], [Skyfire] |
+| Hellstrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Armourbane] |
 | Skystrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire], [Tracking] |
 | Wing bombs | - | 2 | 4+ | -2 | [Arc] (Rear), [Bombing Run] |
 
@@ -1367,12 +1367,12 @@ An Auxilia Avenger Strike Fighter Squadron can purchase one of the following upg
 
 | Name | Movement | Sv | CAF | Morale | W |
 | ------------------- | :------: | :-: | :-: | :----: | :-: |
-| Lightning Fighter | 30" | 4+ | +0 | 4+ | 1 |
+| Lightning Fighter | 30" | 4+ | +0 | - | 1 |
 
 **Weapons**
 
-* Lightning twin lascannon or Lightning twin multi-laser
-* Any two of the following: Hellstrike missiles, Skystrike missiles or phosphex bomb clusters\*
+* Lightning twin lascannon or Lightning twin multi-laser  
+* Any two of the following: Hellstrike missiles, Skystrike missiles or phosphex bomb clusters\*  
 
 \* *A model can take multiples of the same option.*
 
@@ -1380,7 +1380,7 @@ An Auxilia Avenger Strike Fighter Squadron can purchase one of the following upg
 | ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
 | Lightning twin lascannon | 22" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
 | Lightning twin multi-laser | 12" | 4 | 5+ | 0 | [Arc] (Front), [Light AT], [Skyfire] |
-| Hellstrike missiles | 30" | 2 | 4+ | -2 | [Arc] (Front), [Armourbane] |
+| Hellstrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Armourbane] |
 | Skystrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire], [Tracking] |
 | Phosphex bomb clusters | - | 2 | 4+ | -1 | [Arc] (Rear), [Bombing Run], [Light AT], [Ignores Cover] |
 
@@ -1409,14 +1409,14 @@ An Auxilia Lightning Fighter Squadron can purchase one of the following upgrades
 
 | Name | Movement | Sv | CAF | Morale | W |
 | ---------------- | :------: | :-: | :-: | :----: | :-: |
-| Marauder Bomber | 24" | 3+ | +0 | 4+ | 2 |
+| Marauder Bomber | 24" | 3+ | +0 | - | 2 |
 
 **Weapons**
 
-* Nose Mounted lascannon
-* Marauder heavy bolter turrets
-* Marauder bomb bay
-* Any two of the following: Hellstrike missiles, Skystrike missiles or wing bombs*
+* Nose Mounted lascannon  
+* Marauder heavy bolter turrets  
+* Marauder bomb bay  
+* Any two of the following: Hellstrike missiles, Skystrike missiles or wing bombs*  
 
 \* *A model can take multiples of the same option.*
 
@@ -1425,7 +1425,7 @@ An Auxilia Lightning Fighter Squadron can purchase one of the following upgrades
 | Nose Mounted lascannon | 22" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
 | Marauder heavy bolter turrets | 12" | 3 | 6+ | 0 | [Arc] (Rear), [Light AT], [Point Defence], [Skyfire] |
 | Marauder bomb bay | - | 3 | 4+ | -2 | [Arc] (Rear), [Bombing Run] |
-| Hellstrike missiles | 30" | 1 | 4+ | -2 | [Arc] (Front), [Armourbane] |
+| Hellstrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Armourbane] |
 | Skystrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire], [Tracking] |
 | Wing bombs | - | 2 | 4+ | -2 | [Arc] (Rear), [Bombing Run] |
 

@@ -59,7 +59,7 @@ All Solar Auxilia Detachments within a Solar Auxilia Pioneer Company that consis
 
 ## Solar Auxilia Artillery Company
 
-**Pulverising Volleys**: Earthshaker cannon and Medusa siege guns that models in this Formation are equipped with do not suffer a –1 penalty to all Hit rolls when firing against a target they cannot draw line of sight to.
+**Pulverising Volleys**: Earthshaker cannon and Medusa siege guns that models in this Formation are equipped with do not suffer a -1 penalty to all Hit rolls when firing against a target they cannot draw line of sight to.
 
 **COMPULSORY DETACHMENTS**
 

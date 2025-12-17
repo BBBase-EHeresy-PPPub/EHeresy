@@ -14,7 +14,7 @@ Many Solar Auxilia Detachments have the Chain of Command special rule, which lim
 
 ### Tank Commander
 
-Certain Formations and/or Detachments allow a model to be upgraded to a Tank Commander – where applicable, this will be stated in the relevant description. A model upgraded to a Tank Commander gains the [Solar Auxilia HQ] (6") special rule and increases its Morale characteristic by 1, to a maximum of 2+.
+Certain Formations and/or Detachments allow a model to be upgraded to a Tank Commander - where applicable, this will be stated in the relevant description. A model upgraded to a Tank Commander gains the [Solar Auxilia HQ] (6") special rule and increases its Morale characteristic by 1, to a maximum of 2+.
 
 ### Chain of Command
 
@@ -26,7 +26,7 @@ If a Detachment with the Chain of Command special rule has at least one model wh
 
 ### Remote Controlled Detonation
 
-If a model with the Remote Controlled Detonation special rule ends its movement within 12" of a friendly model with the [Commander] special rule, it may detonate. When a model detonates, it attacks with all of its weapons that have the [Blast] (3"/5") trait. The central hole of the Blast template is placed within 1" of the detonating model – it does no damage to itself (i.e., don't make Hit rolls for the detonating model) and the template does not Scatter. Once the effects of the detonation have been resolved, the detonating model is destroyed.
+If a model with the Remote Controlled Detonation special rule ends its movement within 12" of a friendly model with the [Commander] special rule, it may detonate. When a model detonates, it attacks with all of its weapons that have the [Blast] (3"/5") trait. The central hole of the Blast template is placed within 1" of the detonating model - it does no damage to itself (i.e., don't make Hit rolls for the detonating model) and the template does not Scatter. Once the effects of the detonation have been resolved, the detonating model is destroyed.
 
 If a Detachment contains more than one model with this rule, the controlling player can choose which models detonate and which do not, doing so before resolving any detonation. Models that detonate are not affected by friendly models that are detonating at the same time. Any model that does not detonate is affected if it is under the Blast template as normal.
 
