@@ -111,9 +111,9 @@ A Sicaran Commander may be equipped with one Pintle Mounted heavy bolter for **+
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name              | Movement | Sv | CAF | Morale | W |
-| ----------------- | :------: | :-: | :-: | :----: | :-: |
-| Kratos Commander  | 8"       | 2+  | +4  | 2+     | 2 |
+| Name             | Movement | Sv | CAF | Morale | W |
+| ---------------- | :------: | :-: | :-: | :----: | :-: |
+| Kratos Commander | 8"       | 2+ | +4  | 2+     | 2 |
 
 **Weapons**
 
@@ -121,22 +121,22 @@ A Sicaran Commander may be equipped with one Pintle Mounted heavy bolter for **+
 * Hull Mounted heavy bolters or Kratos lascannon or Kratos autocannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| Weapon                        | Range | Dice | To Hit | AP | Traits                                        |
-| ----------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
-| Kratos battlecannon           | 20"   | 2    | 4+     | -1 |                                               |
-|                               | 10"   | 1    | 4+     | -4 | [Anti-tank], [Armourbane]                     |
-| Co-axial autocannon           | 16"   | 2    | 5+     | -1 | [Co-axial], [Light AT]                        |
-| Melta blastgun                | 8"    | 1    | 4+     | -4 | [Anti-tank], [Armourbane], [Bunker Buster]    |
-| Hull Mounted heavy bolters    | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence]       |
-| Sponson Mounted heavy bolters | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence]       |
-| Sponson Mounted lascannon     | 22"   | 1    | 4+     | -1 | [Arc] (Front), [Anti-tank]                    |
-| Kratos autocannon             | 16"   | 2    | 5+     | -1 | [Arc] (Front), [Light AT]                     |
-| Kratos lascannon              | 22"   | 1    | 4+     | -1 | [Arc] (Front), [Anti-tank]                    |
-| Pintle Mounted heavy bolter   | 12"   | 2    | 5+     | 0  | [Light], [Point Defence]                      |
+| Weapon                         | Range | Dice | To Hit | AP | Traits                                   |
+| ------------------------------ | :---: | :--: | :----: | :-: | ---------------------------------------- |
+| Kratos battlecannon            | 20"   | 2    | 4+     | -1 |                                          |
+|             | 10"   | 1    | 4+     | -4 | [Anti-tank], [Armourbane]                |
+| Co-axial autocannon            | 16"   | 2    | 5+     | -1 | [Co-axial], [Light AT]                   |
+| Melta blastgun                 | 8"    | 1    | 4+     | -4 | [Anti-tank], [Armourbane], [Bunker Buster] |
+| Hull Mounted heavy bolters     | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted heavy bolters  | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon      | 22"   | 1    | 4+     | -1 | [Arc] (Front), [Anti-tank]              |
+| Kratos autocannon              | 16"   | 2    | 5+     | -1 | [Arc] (Front), [Light AT]               |
+| Kratos lascannon               | 22"   | 1    | 4+     | -1 | [Arc] (Front), [Anti-tank]              |
+| Pintle Mounted heavy bolter    | 12"   | 2    | 5+     | 0  | [Light], [Point Defence]                |
 
 **Upgrades**
 
-A Kratos Commander may be equipped with one Pintle Mounted heavy bolter for **+5 points**.
+Any Kratos Commander may be equipped with one Pintle Mounted heavy bolter for **+5 points**.
 
 **Special Rules**
 
@@ -1104,9 +1104,9 @@ A Legion Vindicator Squadron can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
 
-| Name        | Movement | Sv  | CAF | Morale | W |
-| ----------- | :------: | :-: | :-: | :----: | :-: |
-| Legion Kratos | 8" | 2+ | +3 | 3+ | 2 |
+| Name          | Movement | Sv | CAF | Morale | W |
+| ------------- | :------: | :-: | :-: | :----: | :-: |
+| Legion Kratos | 8"       | 2+ | +3  | 3+     | 2 |
 
 **Weapons**
 
@@ -1114,30 +1114,30 @@ A Legion Vindicator Squadron can purchase one of the following upgrades:
 * Hull Mounted heavy bolters or Kratos lascannon or Kratos autocannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| Weapon                    | Range | Dice | To Hit | AP | Traits |
-| ------------------------- | :---: | :--: | :----: | :-: | ----------------------------- |
-| Kratos battlecannon       | 20"   | 2    | 4+     | -1  | [Anti-tank], [Armourbane] |
-|                           | 10"   | 1    | 4+     | -2  | [Anti-tank], [Armourbane] |
-| Co-axial autocannon       | 16"   | 2    | 5+     | -1  | [Co-axial], [Light AT] |
-| Melta blastgun            | 8"    | 1    | 4+     | -4  | [Anti-tank], [Armourbane], [Bunker Buster] |
-| Hull Mounted heavy bolters | 12"  | 2    | 5+     | 0   | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted lascannon | 22"   | 1    | 4+     | -1  | [Arc] (Front), [Anti-tank] |
-| Kratos autocannon         | 16"   | 2    | 5+     | -1  | [Arc] (Front), [Light AT] |
-| Kratos lascannon          | 22"   | 1    | 4+     | -1  | [Arc] (Front), [Anti-tank] |
-| Pintle Mounted heavy bolter | 12" | 2    | 5+     | 0   | [Light], [Point Defence] |
+| Weapon                         | Range | Dice | To Hit | AP | Traits                                   |
+| ------------------------------ | :---: | :--: | :----: | :-: | ---------------------------------------- |
+| Kratos battlecannon            | 20"   | 2    | 4+     | -1 |                                          |
+|             | 10"   | 1    | 4+     | -2 | [Anti-tank], [Armourbane]                |
+| Co-axial autocannon            | 16"   | 2    | 5+     | -1 | [Co-axial], [Light AT]                   |
+| Melta blastgun                 | 8"    | 1    | 4+     | -4 | [Anti-tank], [Armourbane], [Bunker Buster] |
+| Hull Mounted heavy bolters     | 12"   | 2    | 5+     | 0  | [Arc (Front)], [Light], [Point Defence] |
+| Sponson Mounted heavy bolters  | 12"   | 2    | 5+     | 0  | [Arc (Front)], [Light], [Point Defence] |
+| Sponson Mounted lascannon      | 22"   | 1    | 4+     | -1 | [Arc (Front)], [Anti-tank]              |
+| Kratos autocannon              | 16"   | 2    | 5+     | -1 | [Arc (Front)], [Light AT]               |
+| Kratos lascannon               | 22"   | 1    | 4+     | -1 | [Arc (Front)], [Anti-tank]              |
+| Pintle Mounted heavy bolter    | 12"   | 2    | 5+     | 0  | [Light], [Point Defence]                |
 
 **Upgrades**
-A Legion Kratos Squadron can purchase any of the following upgrades.
+
+A Legion Kratos Squadron can purchase any of the following upgrades.  
 It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * **Increase the Detachment size by 1** [+65 points]
-
 * **Increase the Detachment size by 2** [+130 points]
-
 * **Increase the Detachment size by 4** [+250 points]
 
 Any Legion Kratos may be equipped with one Pintle Mounted heavy bolter for +5 points per model.
+
 </div>
 
 ---

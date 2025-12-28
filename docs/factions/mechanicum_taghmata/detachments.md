@@ -267,22 +267,22 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 
 | Name    | Movement | Sv | CAF | Morale | W |
 | ------- | :------: | :-: | :-: | :----: | :-: |
-| Domitar | 5"       | 4+  | +4  | -      | 2 |
+| Domitar | 5"       | 4+ | +4  | -      | 2 |
 
 **Weapons**
 
 * Domitar missile launcher
 * Graviton hammers
 
-| Weapon                  | Range | Dice | To Hit | AP | Traits                          |
-| ----------------------- | :---: | :--: | :----: | :-: | ------------------------------- |
-| Domitar missile launcher| 20"   | 1    | 4+     | 0  | [Light], [Ignores Cover]        |
-| Graviton hammers        | 20"   | 1    | 4+     | -1 | [Anti-tank]                     |
-| Graviton hammers        | -     | -    | -      | -2 | [Wrecker] (1)                   |
+| Weapon                    | Range | Dice | To Hit | AP | Traits                  |
+| ------------------------- | :---: | :--: | :----: | :-: | ----------------------- |
+| Domitar missile launcher  | 20"   | 1    | 4+     | 0  | [Light], [Ignores Cover] |
+|   | 20"   | 1    | 4+     | -1 | [Anti-tank]             |
+| Graviton hammers          | -     | -    | -      | -2 | [Wrecker (1)]           |
 
 **Upgrades**
 
-A Domitar Battle-automata Maniple can purchase any of the following upgrades.
+A Domitar Battle-automata Maniple can purchase any of the following upgrades.  
 It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * **Increase the Detachment size by 1** [+30 points]
@@ -306,17 +306,17 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 
 | Name      | Movement | Sv | CAF | Morale | W |
 | --------- | :------: | :-: | :-: | :----: | :-: |
-| Castellax | 5"       | 4+  | +4  | -      | 2 |
+| Castellax | 5"       | 4+ | +4  | -      | 2 |
 
 **Weapons**
 
 * Mauler bolt cannon
 * In-built bolters
 
-| Weapon            | Range | Dice | To Hit | AP | Traits                 |
-| ----------------- | :---: | :--: | :----: | :-: | ---------------------- |
-| Mauler bolt cannon| 8"    | 3    | 5+     | -1 | [Light AT]             |
-| In-built bolters  | 8"    | 1    | 5+     | 0  | [Assault], [Light]     |
+| Weapon              | Range | Dice | To Hit | AP | Traits            |
+| ------------------- | :---: | :--: | :----: | :-: | ----------------- |
+| Mauler bolt cannon  | 8"    | 3    | 5+     | -1 | [Light AT]        |
+| In-built bolters    | 8"    | 1    | 5+     | 0  | [Assault], [Light] |
 
 **Upgrades**
 
@@ -549,7 +549,7 @@ A Karacnos Assault Tank Squadron can purchase one of the following upgrades:
 
 **Weapons**
 
-* Krios lightning cannon **or** Irad-scourer
+* Krios lightning cannon or Irad-scourer
 * Volkite caliver sponsons
 
 | Weapon                   | Range | Dice | To Hit | AP | Traits                                      |
