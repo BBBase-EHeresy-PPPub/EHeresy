@@ -2,8 +2,16 @@ site_name: Epic Heresy
 theme:
   name: material
   palette:
-    primary: blue grey
-    accent: amber
+    - scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off-outline
   custom_dir: overrides
   logo: assets/EH_Logo.png
   favicon: assets/EH_Favicon.ico
