@@ -146,6 +146,35 @@ Any Kratos Commander may be equipped with one Pintle Mounted heavy bolter for **
 
 ---
 
+<div class="unitCard" markdown>
+
+### Legion Saturnine Command [50 Points]
+
+* **Type:** Infantry (1)
+* **Detachment Size:** 1
+
+| Name                    | Movement | Sv | CAF | Morale | W |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Saturnine Command Squad | 4"       | 4+  | +4  | 2+     | 2 |
+
+**Weapons**
+
+* Saturnine power weapons
+* Particle shredders
+
+| Weapon                  | Range | Dice | To Hit | AP | Traits                         |
+| ----------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
+| Particle shredders      | 4"    | 1    | 4+     | -1 | [Ignores Cover], [Light AT]    |
+| Saturnine power weapons | -     | -    | -      | -  | [Rend]                         |
+
+**Special Rules**
+
+[Very Bulky], [Armoured], [Commander], [Inspire] (8"), [Invulnerable Save] (5+), [Master Tactician], [Implacable]
+
+</div>
+
+---
+
 ## CORE DETACHMENTS
 
 <div class="unitCard" markdown>
@@ -302,7 +331,6 @@ A model with an Apothecary has the **Medicae** special rule.
 A Legion Plasma Gun Support Detachment can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+15 points]
-
 * **Increase the Detachment size by 4** [+30 points]
 
 </div>
@@ -334,7 +362,6 @@ A Legion Plasma Gun Support Detachment can purchase one of the following upgrade
 A Legion Missile Launcher Support Detachment can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+20 points]
-
 * **Increase the Detachment size by 4** [+40 points]
 
 </div>
@@ -365,7 +392,6 @@ A Legion Missile Launcher Support Detachment can purchase one of the following u
 A Legion Assault Detachment can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+12 points]
-
 * **Increase the Detachment size by 4** [+24 points]
 
 **Special Rules**
@@ -400,7 +426,6 @@ A Legion Assault Detachment can purchase one of the following upgrades:
 A Legion Terminator Detachment can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+20 points]
-
 * **Increase the Detachment size by 4** [+40 points]
 
 **Special Rules**
@@ -437,9 +462,7 @@ A Legion Terminator Detachment can purchase one of the following upgrades:
 A Legion Rapier Battery can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+30 points]
-
 * **Increase the Detachment size by 4** [+60 points]
-
 * **Increase the Detachment size by 6** [+90 points]
 
 **Special Rules**
@@ -479,7 +502,6 @@ A Legion Rapier Battery can purchase one of the following upgrades:
 A Leviathan Siege Dreadnought Detachment can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+35 points]
-
 * **Increase the Detachment size by 4** [+70 points]
 
 **Special Rules**
@@ -517,9 +539,7 @@ A Leviathan Siege Dreadnought Detachment can purchase one of the following upgra
 A Legion Contemptor Dreadnought Talon can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+30 points]
-
 * **Increase the Detachment size by 4** [+60 points]
-
 * **Increase the Detachment size by 6** [+90 points]
 
 **Special Rules**
@@ -554,7 +574,6 @@ A Legion Contemptor Dreadnought Talon can purchase one of the following upgrades
 A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+35 points]
-
 * **Increase the Detachment size by 4** [+70 points]
 
 **Special Rules**
@@ -588,6 +607,51 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 
 ---
 
+<div class="unitCard" markdown>
+
+### Legion Saturnine Terminator Detachment [85 Points]
+
+* **Type:** Infantry (1)
+* **Detachment Size:** 3
+
+| Name                  | Movement | Sv | CAF | Morale | W |
+| --------------------- | :------: | :-: | :-: | :----: | :-: |
+| Saturnine Terminators | 4"       | 4+  | +3  | 3+     | 2 |
+
+**Weapons**
+
+Each model has one of the following:
+
+* Plasma bombards and disruption fists
+* Paired plasma bombards
+* Twin heavy disintegrators and disruption fists
+* Paired twin heavy disintegrators
+
+| Weapon                           | Range | Dice | To Hit | AP | Traits                            |
+| -------------------------------- | :---: | :--: | :----: | :-: | --------------------------------- |
+| Twin heavy disintegrators        | 8"    | 1    | 4+     | -2 | [Power Capacitor]                 |
+| Paired twin heavy disintegrators | 8"    | 1    | 4+     | -2 | [Accurate], [Power Capacitor]     |
+| Plasma bombards                  | 12"   | 2    | 4+     | -1 | [Barrage], [Light AT]             |
+| Paired plasma bombards           | 12"   | 2    | 4+     | -1 | [Accurate], [Barrage], [Light AT] |
+| Disruption fists                 | -     | -    | -      | -  | [Disruptive]                      |
+
+**Upgrades**
+
+Any Saturnine Terminator model can exchange its selected weapons for plasma bombards and twin heavy disintegrators for [+10 points].
+
+A Legion Saturnine Terminator Detachment can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 3** [+80 points]
+* **Increase the Detachment size by 6** [+150 points]
+
+**Special Rules**
+
+[Very Bulky], [Armoured], [Implacable], [Invulnerable Save] (5+), [Steadfast]
+
+</div>
+
+---
+
 ## VANGUARD DETACHMENTS
 
 <div class="unitCard" markdown>
@@ -616,7 +680,6 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 A Legion Outrider Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+20 points]
-
 * **Increase the Detachment size by 4** [+40 points]
 
 **Special Rules**
@@ -647,10 +710,10 @@ A Legion Outrider Squadron can purchase one of the following upgrades:
 | Scimitar heavy bolter | 12" | 2 | 5+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
+
 A Legion Scimitar Jetbike Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 3** [+30 points]
-
 * **Increase the Detachment size by 6** [+60 points]
 
 **Special Rules**
@@ -685,12 +748,12 @@ A Legion Scimitar Jetbike Squadron can purchase one of the following upgrades:
 | Nose Mounted heavy flamer | 6" | 1    | 4+     | 0   | [Arc] (Front), [Light], [Ignores Cover] |
 
 **Upgrades**
+
 Any Land Speeder can exchange its plasma cannon and heavy bolter for a Nose Mounted heavy flamer and a multi-melta for free.
 
 A Legion Land Speeder Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+25 points]
-
 * **Increase the Detachment size by 4** [+50 points]
 
 **Special Rules**
@@ -724,10 +787,10 @@ A Legion Land Speeder Squadron can purchase one of the following upgrades:
 | Cyclone missile launcher  | 20"  | 2    | 4+     | 0   | [Arc] (Front), [Light], [Ignores Cover] |
 
 **Upgrades**
+
 A Legion Javelin Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+30 points]
-
 * **Increase the Detachment size by 4** [+60 points]
 
 **Special Rules**
@@ -761,10 +824,10 @@ A Legion Javelin Squadron can purchase one of the following upgrades:
 | Hyperios air-defence missile launcher | 25" | 1 | 4+ | -1 | [Skyfire], [Tracking] |
 
 **Upgrades**
+
 A Legion Tarantula Battery can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+15 points]
-
 * **Increase the Detachment size by 4** [+30 points]
 
 **Special Rules**
@@ -800,15 +863,56 @@ A Legion Tarantula Battery can purchase one of the following upgrades:
 | Anvilus autocannon battery | 16"   | 2    | 5+     | -1  | [Accurate], [Light AT] |
 
 **Upgrades**
+
 A Legion Deredeo Dreadnought Detachment can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+40 points]
-
 * **Increase the Detachment size by 4** [+80 points]
 
 **Special Rules**
 
 [Armoured], [Invulnerable Save] (5+), [Tracking Array]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Saturnine Dreadnought Detachment [70 Points]
+
+* **Type:** Walker (1)
+* **Detachment Size:** 2
+
+| Name                  | Movement | Sv  | CAF | Morale | W |
+| --------------------- | :------: | :-: | :-: | :----: | :-: |
+| Saturnine Dreadnought | 5" | 4+ | +2 | 3+ | 2 |
+
+**Weapons**
+
+Each model has one of the following:
+
+* Heavy plasma bombard and disintegrator cannon  
+* Graviton pulveriser and inversion beamer
+
+| Weapon               | Range | Dice | To Hit | AP | Traits |
+| -------------------- | :---: | :--: | :----: | :-: | ------------------------- |
+| Disintegrator cannon | 10" | 1 | 4+ | -3 | [Power Capacitor] |
+| Graviton pulveriser  | 8" | 1 | - | -2 | [Graviton Pulse] |
+| Heavy plasma bombard | 16" | 2 | 4+ | -1 | [Barrage], [Light AT] |
+| Inversion beamer     | 8" | 1 | 3+ | -2 | |
+|                      | 16" | 1 | 4+ | -1 | |
+
+**Upgrades**
+
+A Legion Saturnine Dreadnought Detachment can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 2** [+65 points]
+* **Increase the Detachment size by 4** [+120 points]
+
+**Special Rules**
+
+[Armoured], [Invulnerable Save] (5+)
 
 </div>
 
@@ -846,12 +950,50 @@ A Legion Deredeo Dreadnought Detachment can purchase one of the following upgrad
 A Legion Sabre Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+55 points]
-
 * **Increase the Detachment size by 4** [+110 points]
 
 **Special Rules**
 
 [Nimble]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Araknae Weapons Platform Battery [30 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 1
+
+| Name                    | Movement | Sv  | CAF | Morale | W |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Araknae Weapons Platform | - | 4+ | -2 | - | 1 |
+
+**Weapons**
+
+All models in a Detachment have one of the following weapons. All models in a Detachment must select the same option:
+
+* Quad accelerator autocannon or twin punisher cannon or Orias heavy frag missiles
+
+| Weapon                        | Range | Dice | To Hit | AP | Traits |
+| ----------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
+| Quad accelerator autocannon   | 18" | 5 | 5+ | -1 | [Tracking] |
+| Twin punisher cannon          | 12" | 4 | 4+ | -1 | [Accurate], [Light AT], [Rapid Fire], [Skyfire] |
+| Orias heavy frag missiles     | 24" | 2 | 4+ | 0 | [Barrage], [Blast (3")], [Light], [Limited (2)] |
+
+**Upgrades**
+
+An Araknae Weapons Platform Battery can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+30 points]
+* **Increase the Detachment size by 2** [+55 points]
+* **Increase the Detachment size by 3** [+80 points]
+
+**Special Rules**
+
+[Invulnerable Save] (5+)
 
 </div>
 
@@ -885,16 +1027,16 @@ A Legion Sabre Squadron can purchase one of the following upgrades:
 | Pintle Mounted heavy bolter   | 12"   | 2    | 5+     | 0   | [Light], [Point Defence] |
 
 **Upgrades**
+
 A Legion Sicaran Squadron can purchase any of the following upgrades.
 It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * **Increase the Detachment size by 1** [+40 points]
-
 * **Increase the Detachment size by 2** [+80 points]
-
 * **Increase the Detachment size by 4** [+150 points]
 
 Any Legion Sicaran may be equipped with one Pintle Mounted heavy bolter for +5 points per model.
+
 </div>
 
 ---
@@ -925,16 +1067,16 @@ Any Legion Sicaran may be equipped with one Pintle Mounted heavy bolter for +5 p
 | Pintle Mounted heavy bolter   | 12"   | 2    | 5+     | 0   | [Light], [Point Defence] |
 
 **Upgrades**
+
 A Legion Sicaran Omega Squadron can purchase any of the following upgrades.
 It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * **Increase the Detachment size by 1** [+40 points]
-
 * **Increase the Detachment size by 2** [+80 points]
-
 * **Increase the Detachment size by 4** [+150 points]
 
 Any Sicaran Omega may be equipped with one Pintle Mounted heavy bolter for +5 points per model.
+
 </div>
 
 ---
@@ -965,16 +1107,16 @@ Any Sicaran Omega may be equipped with one Pintle Mounted heavy bolter for +5 po
 | Pintle Mounted heavy bolter   | 12"   | 2    | 5+     | 0   | [Light], [Point Defence] |
 
 **Upgrades**
+
 A Legion Sicaran Punisher Squadron can purchase any of the following upgrades.
 It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * **Increase the Detachment size by 1** [+40 points]
-
 * **Increase the Detachment size by 2** [+80 points]
-
 * **Increase the Detachment size by 4** [+150 points]
 
 Any Sicaran Punisher may be equipped with one Pintle Mounted heavy bolter for +5 points per model.
+
 </div>
 
 ---
@@ -1011,9 +1153,7 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades.
 It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
 * **Increase the Detachment size by 1** [+45 points]
-
 * **Increase the Detachment size by 2** [+90 points]
-
 * **Increase the Detachment size by 4** [+170 points]
 
 </div>
@@ -1050,12 +1190,11 @@ A Legion Predator Detachment can purchase any of the following upgrades.
 It may purchase the same upgrade multiple times, to a maximum Detachment size of 9:
 
 * **Increase the Detachment size by 1** [+35 points]
-
 * **Increase the Detachment size by 3** [+95 points]
-
 * **Increase the Detachment size by 6** [+185 points]
 
 Any Legion Predator may be equipped with one Pintle Mounted heavy bolter for +5 points per model.
+
 </div>
 
 ---
@@ -1086,9 +1225,7 @@ Any Legion Predator may be equipped with one Pintle Mounted heavy bolter for +5 
 A Legion Vindicator Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+65 points]
-
 * **Increase the Detachment size by 4** [+130 points]
-
 * **Increase the Detachment size by 6** [+180 points]
 
 </div>
@@ -1136,7 +1273,7 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 * **Increase the Detachment size by 2** [+130 points]
 * **Increase the Detachment size by 4** [+250 points]
 
-Any Legion Kratos may be equipped with one Pintle Mounted heavy bolter for +5 points per model.
+Any Legion Kratos may be equipped with one Pintle Mounted heavy bolter for [+5 points] per model.
 
 </div>
 
@@ -1167,6 +1304,7 @@ Any Legion Kratos may be equipped with one Pintle Mounted heavy bolter for +5 po
 | Pintle Mounted multi-melta   | 6"   | 1    | 5+     | -3  | [Anti-tank] |
 
 **Upgrades**
+
 Any Cerberus may be equipped with one of the following:
 
 * **Pintle Mounted heavy bolter** [+5 points per model]
@@ -1176,10 +1314,9 @@ Any Cerberus may be equipped with one of the following:
 A Legion Cerberus Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+80 points]
-
 * **Increase the Detachment size by 2** [+150 points]
-
 * **Increase the Detachment size by 3** [+210 points]
+
 </div>
 
 ---
@@ -1209,6 +1346,7 @@ A Legion Cerberus Squadron can purchase one of the following upgrades:
 | Pintle Mounted multi-melta      | 6"  | 1 | 5+ | -3 | [Anti-tank] |
 
 **Upgrades**
+
 Any Typhon may be equipped with one of the following:
 
 * **Pintle Mounted heavy bolter** [+5 points per model]
@@ -1218,10 +1356,9 @@ Any Typhon may be equipped with one of the following:
 A Legion Typhon Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+75 points]
-
 * **Increase the Detachment size by 2** [+140 points]
-
 * **Increase the Detachment size by 3** [+200 points]
+
 </div>
 
 ---
@@ -1253,17 +1390,184 @@ A Legion Typhon Squadron can purchase one of the following upgrades:
 | Sponson Mounted lascannon    | 22"  | 1    | 4+     | -1  | [Arc] (Front), [Anti-tank] |
 
 **Upgrades**
+
 A Legion Mastodon Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+120 points]
-
 * **Increase the Detachment size by 2** [+240 points]
-
 * **Increase the Detachment size by 3** [+350 points]
 
 **Special Rules**
 
 [Large Assault Transport] (8), [Void Shields] (2)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Falchion Squadron [130 Points]
+
+* **Type:** Super-heavy Vehicle (3)
+* **Detachment Size:** 1
+
+| Name     | Movement | Sv | CAF | Morale | W |
+| -------- | :------: | :-: | :-: | :----: | :-: |
+| Falchion | 8" | 2+ | +4 | 3+ | 3 |
+
+**Weapons**
+
+* Neutron wave cannon
+* Sponson Mounted quad lascannon, Sponson Mounted laser destroyers or Sponson Mounted quad heavy bolters
+
+| Weapon                              | Range | Dice | To Hit | AP | Traits |
+| ----------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
+| Neutron wave cannon                 | 30"   | 2    | 4+     | -3 | [Arc] (Front), [Accurate], [Shock Pulse] |
+| Sponson Mounted quad heavy bolters  | 12"   | 4    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted quad lascannon      | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Sponson Mounted laser destroyers    | 15"   | 2    | 4+     | -2 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Pintle Mounted heavy bolter         | 12"   | 2    | 5+     | 0  | [Light], [Point Defence] |
+| Pintle Mounted multi-melta          | 6"    | 1    | 5+     | -3 | [Anti-tank] |
+
+**Upgrades**
+
+Any Falchion may be equipped with one of the following:
+
+* **Pintle Mounted heavy bolter** [+5 points per model]
+* **Pintle Mounted multi-melta** [+5 points per model]
+
+A Legion Falchion Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+120 points]
+* **Increase the Detachment size by 2** [+240 points]
+* **Increase the Detachment size by 3** [+350 points]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Ascalon Squadron [110 Points]
+
+* **Type:** Super-heavy Vehicle (3)
+* **Detachment Size:** 1
+
+| Name    | Movement | Sv | CAF | Morale | W |
+| ------- | :------: | :-: | :-: | :----: | :-: |
+| Ascalon | 8" | 2+ | +4 | 3+ | 3 |
+
+**Weapons**
+
+* Ascalon inferno gun
+* Sponson Mounted quad lascannon, Sponson Mounted laser destroyers or Sponson Mounted quad heavy bolter
+
+| Weapon                             | Range | Dice | To Hit | AP | Traits |
+| ---------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
+| Ascalon inferno gun                | T     | -    | 4+     | -2 | [Arc] (Front), [Firestorm], [Light AT] |
+| Sponson Mounted quad heavy bolters | 12"   | 4    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted quad lascannon     | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Sponson Mounted laser destroyers   | 15"   | 2    | 4+     | -2 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Pintle Mounted heavy bolter        | 12"   | 2    | 5+     | 0  | [Light], [Point Defence] |
+| Pintle Mounted multi-melta         | 6"    | 1    | 5+     | -3 | [Anti-tank] |
+
+**Upgrades**
+
+Any Ascalon may be equipped with one of the following:
+
+* **Pintle Mounted heavy bolter** [+5 points per model]
+* **Pintle Mounted multi-melta** [+5 points per model]
+
+A Legion Ascalon Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+100 points]
+* **Increase the Detachment size by 2** [+200 points]
+* **Increase the Detachment size by 3** [+290 points]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Glaive Squadron [110 Points]
+
+* **Type:** Super-heavy Vehicle (3)
+* **Detachment Size:** 1
+
+| Name   | Movement | Sv | CAF | Morale | W |
+| ------ | :------: | :-: | :-: | :----: | :-: |
+| Glaive | 8" | 2+ | +4 | 3+ | 3 |
+
+**Weapons**
+
+* Volkite carronade
+* Hull Mounted heavy bolters
+* Sponson Mounted quad lascannon, Sponson Mounted laser destroyers or Sponson Mounted quad heavy bolters
+
+| Weapon                             | Range | Dice | To Hit | AP | Traits |
+| ---------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
+| Volkite carronade                  | 18"   | 3    | 4+     | -2 | [Beam], [Light AT], [Deflagrate] |
+| Hull Mounted heavy bolters         | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted quad heavy bolters | 12"   | 4    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted quad lascannon     | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Sponson Mounted laser destroyers   | 15"   | 2    | 4+     | -2 | [Arc] (Front), [Accurate], [Anti-tank] |
+
+**Upgrades**
+
+A Legion Glaive Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+100 points]
+* **Increase the Detachment size by 2** [+200 points]
+* **Increase the Detachment size by 3** [+290 points]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Fellblade Squadron [120 Points]
+
+* **Type:** Super-heavy Vehicle (3)
+* **Detachment Size:** 1
+
+| Name      | Movement | Sv | CAF | Morale | W |
+| --------- | :------: | :-: | :-: | :----: | :-: |
+| Fellblade | 8" | 2+ | +4 | 3+ | 3 |
+
+**Weapons**
+
+* Fellblade accelerator cannon
+* Hull Mounted demolisher cannon
+* Hull Mounted heavy bolters
+* Sponson Mounted quad lascannon, Sponson Mounted laser destroyers or Sponson Mounted quad heavy bolters
+
+| Weapon                              | Range | Dice | To Hit | AP | Traits |
+| ----------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
+| Fellblade accelerator cannon        | 30"   | 3    | 4+     | -1 | [Light AT] |
+| Fellblade accelerator cannon        | 25"   | 2    | 4+     | -3 | [Anti-tank], [Armourbane] |
+| Hull Mounted demolisher cannon       | 12"   | 1    | 4+     | -3 | [Arc] (Front), [Demolisher], [Ignores Cover] |
+| Hull Mounted heavy bolters           | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted quad heavy bolters   | 12"   | 4    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted quad lascannon       | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Sponson Mounted laser destroyers     | 15"   | 2    | 4+     | -2 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Pintle Mounted heavy bolter          | 12"   | 2    | 5+     | 0  | [Light], [Point Defence] |
+| Pintle Mounted multi-melta           | 6"    | 1    | 5+     | -3 | [Anti-tank] |
+
+**Upgrades**
+
+Any Fellblade may be equipped with one of the following:
+
+* **Pintle Mounted heavy bolter** [+5 points per model]
+* **Pintle Mounted multi-melta** [+5 points per model]
+
+A Legion Fellblade Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+110 points]
+* **Increase the Detachment size by 2** [+220 points]
+* **Increase the Detachment size by 3** [+320 points]
 
 </div>
 
@@ -1293,13 +1597,13 @@ A Legion Mastodon Squadron can purchase one of the following upgrades:
 | Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
 
 **Upgrades**
+
 A Legion Scorpius Battery can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+90 points]
-
 * **Increase the Detachment size by 4** [+180 points]
-
 * **Increase the Detachment size by 6** [+270 points]
+
 </div>
 
 ---
@@ -1326,13 +1630,13 @@ A Legion Scorpius Battery can purchase one of the following upgrades:
 | Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
 
 **Upgrades**
+
 A Legion Whirlwind Battery can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 2** [+80 points]
-
 * **Increase the Detachment size by 4** [+160 points]
-
 * **Increase the Detachment size by 6** [+240 points]
+
 </div>
 
 ---
@@ -1362,6 +1666,7 @@ A Legion Whirlwind Battery can purchase one of the following upgrades:
 | Hunter-killer missile          | 12"  | 1    | 5+     | -2  | [Anti-tank], [Limited] (1) |
 
 **Upgrades**
+
 A Rhino may be equipped with one of the following:
 
 * **Pintle Mounted havoc launcher** [+5 points per model]
@@ -1404,6 +1709,7 @@ A Rhino may also be equipped with one hunter-killer missile for +5 points per mo
 | Pintle Mounted heavy bolter    | 12"   | 2    | 5+     | 0   | [Light], [Point Defence] |
 
 **Upgrades**
+
 Any Spartan may be equipped with one of the following:
 
 * **Pintle Mounted heavy bolter** [+5 points per model]
@@ -1440,6 +1746,7 @@ Any Spartan may be equipped with one of the following:
 | Pintle Mounted heavy bolter   | 12"   | 2    | 5+     | 0   | [Light], [Point Defence] |
 
 **Upgrades**
+
 Any Land Raider may be equipped with one of the following:
 
 * **Pintle Mounted heavy bolter** [+5 points per model]
@@ -1555,12 +1862,11 @@ Any Land Raider may be equipped with one of the following:
 | Xiphon rotary missile launcher  | 24"   | 2    | 4+     | -1 | [Arc] (Front), [Skyfire], [Tracking] |
 
 **Upgrades**
+
 A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+85 points]
-
 * **Increase the Detachment size by 2** [+160 points]
-
 * **Increase the Detachment size by 3** [+215 points]
 
 **Special Rules**
@@ -1595,10 +1901,10 @@ A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 | Wing Mounted lascannon       | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
 
 **Upgrades**
+
 A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+75 points]
-
 * **Increase the Detachment size by 2** [+150 points]
 
 **Special Rules**
@@ -1635,10 +1941,10 @@ A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 | Lascannon batteries             | 22"   | 2    | 4+     | -1 | [Anti-tank], [Skyfire] |
 
 **Upgrades**
+
 A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+90 points]
-
 * **Increase the Detachment size by 2** [+180 points]
 
 **Special Rules**
@@ -1675,10 +1981,10 @@ A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 | Hellstrike missiles        | 30"   | 2    | 4+     | -1 | [Arc] (Front), [Armourbane] |
 
 **Upgrades**
+
 A Legion Thunderhawk Gunship Detachment can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+140 points]
-
 * **Increase the Detachment size by 2** [+280 points]
 
 **Special Rules**

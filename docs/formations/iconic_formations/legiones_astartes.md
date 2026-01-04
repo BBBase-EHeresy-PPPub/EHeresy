@@ -428,3 +428,120 @@ This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 **Ride the Wind:** Standard Detachments in this Formation gain the [Forward Deployment] special rule.
 
+---
+
+## Saturnine Excubitor Cadre
+
+**ICONIC FORMATION: LEGIONES ASTARTES**
+
+**STANDARD DETACHMENTS: 570 Points**
+
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-command-50-points)
+
+* **Saturnine Command Squad**
+
+1 Saturnine Command Squad model.
+
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
+
+* **Legion Saturnine Terminator Detachment**
+
+6 Saturnine Terminator models.  
+Three models are equipped with plasma bombards and disruption fists and three models are equipped with paired plasma bombards.
+
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
+
+* **Legion Saturnine Terminator Detachment**
+
+6 Saturnine Terminator models.  
+Three models are equipped with plasma bombards and disruption fists and three models are equipped with paired plasma bombards.
+
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-mastodon-squadron-130-points)
+
+* **Legion Mastodon Squadron**
+
+2 Mastodon models.  
+These models are equipped with Sponson Mounted lascannon.
+
+**EXPANDED DETACHMENTS: +495 Points**
+
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
+
+* **Legion Saturnine Terminator Detachment**
+
+6 Saturnine Terminator models.  
+These models are equipped with twin heavy disintegrators and disruption fists.
+
+[![](../../media/factions/legiones_astartes/compulsory_bastion.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-dreadnought-detachment-70-points)
+
+* **Legion Saturnine Dreadnought Detachment**
+
+4 Saturnine Dreadnought models.  
+These models are equipped with heavy plasma bombard and disintegrator cannon.
+
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-mastodon-squadron-130-points)
+
+* **Legion Mastodon Squadron**
+
+2 Mastodon models.  
+These models are equipped with Sponson Mounted lascannon.
+
+**Heavy Assault Cadre:** When a Saturnine Terminator model from this Formation Disembarks from a Mastodon model from this Formation, weapons that Saturnine Terminator model has gain the Shred trait until the end of the round.
+
+**Sons of Vulkan:** This Formation must be from the Salamanders Legion and can only be included in an Army with the Loyalist Allegiance. In addition, an Army can only include one Salamanders Saturnine Heavy Assault Cadre Formation.
+
+---
+
+## Iron Warriors Obliteration Century
+
+**ICONIC FORMATION: LEGIONES ASTARTES**
+
+**STANDARD DETACHMENTS: 620 Points**
+
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-kratos-commander-100-points)
+
+* **Legion Kratos Commander**
+
+1 Kratos Commander model.  
+This model is equipped with a melta blastgun with co-axial autocannon, Kratos lascannon and Sponson Mounted lascannon.
+
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-kratos-squadron-140-points)
+
+* **Legion Kratos Squadron**
+
+3 Legion Kratos models.  
+These models are equipped with melta blastguns with co-axial autocannon, Kratos lascannon and Sponson Mounted lascannon.
+
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-fellblade-squadron-120-points)
+
+* **Legion Fellblade Squadron**
+
+3 Fellblade models.  
+These models are equipped with Sponson Mounted quad lascannon.
+
+**EXPANDED DETACHMENTS: +790 Points**
+
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-falchion-squadron-130-points)
+
+* **Legion Falchion Squadron**
+
+3 Falchion models.  
+These models are equipped with Sponson Mounted quad lascannon.
+
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-glaive-squadron-110-points)
+
+* **Legion Glaive Squadron**
+
+3 Glaive models.  
+These models are equipped with Sponson Mounted quad lascannon.
+
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-typhon-squadron-80-points)
+
+* **Legion Typhon Squadron**
+
+3 Typhon models.  
+These models are equipped with Sponson Mounted lascannon.
+
+**Overwhelming Destruction:** If a Morale check would be made for an enemy Detachment as a result of being fired at by a Detachment from this Formation, the controlling player subtracts 1 from the result of that Morale check.
+
+**Breakers of Legions:** This Formation must be from the Iron Warriors Legion and can only be included in an Army with the Traitor Allegiance.

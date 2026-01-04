@@ -45,3 +45,4 @@
 [Tracking]: /legions_imperialis_rules/weapon_traits/#tracking
 [Warp]: /legions_imperialis_rules/weapon_traits/#warp
 [Wrecker]: /legions_imperialis_rules/weapon_traits/#wrecker-x
+[Disruptive]: /factions/legiones_astartes/#disruptive

@@ -59,3 +59,4 @@
 [Unique]: /legions_imperialis_rules/special_rules/#unique
 [Void Shields]: /legions_imperialis_rules/special_rules/#void-shields-x
 [Tank Commander]: /factions/the_solar_auxilia/#tank-commander
+[Very Bulky]: /factions/legiones_astartes/#very-bulky

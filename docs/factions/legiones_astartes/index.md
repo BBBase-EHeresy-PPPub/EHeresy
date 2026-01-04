@@ -15,4 +15,12 @@ If Legiones Astartes Formations are included in a non-Legiones Astartes Army thr
 
 *For example, Tom selects the Legiones Astartes Army List as his Primary Army List, and chooses the Thousand Sons Legion for two of his Formations. As such, all Detachments within those Formations are referred to as Thousand Sons Formations, Detachments and models. If a third Formation is added and Tom decides they will be Dark Angels, then all Detachments within the Formation are referred to as Dark Angels Detachments.*
 
-A player can declare their Formations are drawn from any Legion, regardless of the Army's Allegiance - though the main strength of certain Legions sided with the Emperor or the Warmaster, it was not unknown for disparate elements to go against the will of their Primarch and choose a different path during the Horus Heresy. The only restrictions are units that are specifically Loyalist or Traitor (see the Loyalist and Traitor special rules in the Special Rules section of the *Legions Imperialis Rulebook*).
+A player can declare their Formations are drawn from any Legion, regardless of the Army's Allegiance - though the main strength of certain Legions sided with the Emperor or the Warmaster, it was not unknown for disparate elements to go against the will of their Primarch and choose a different path during the Horus Heresy. The only restrictions are units that are specifically Loyalist or Traitor (see the [Loyalist] and [Traitor] special rules in the Special Rules section of the *Legions Imperialis Rulebook*).
+
+### Very Bulky 
+
+Models with the Very Bulky special rule can only Embark on a model with either the [Large Transport] (X) or [Large Assault Transport] (X) special rules. In addition, models with the Very Bulky special rule count as two models for the purposes of determining how many models a Transport can carry.
+
+### Disruptive
+
+If a model using a weapon with the Disruptive trait wins a Fight, if the difference between the results is 4 or more, the losing model suffers two Wounds instead of one.

@@ -133,3 +133,55 @@ All Detachments within this Formation that are upgraded with Dedicated Transport
 **OPTIONAL DETACHMENTS**
 
 [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments)
+
+---
+
+## Legion Saturnine Heavy Assault Cadre
+
+**Saturnine Assault:** HQ Detachment slots in this Formation must be filled with [Legion Saturnine Command Detachments](detachments.md#legion-saturnine-command-50-points), Support Detachment slots in this Formation must be filled with [Legion Saturnine Terminator Detachments](detachments.md#legion-saturnine-terminator-detachment-85-points) and Bastion Detachment slots in this Formation must be filled with [Legion Saturnine Dreadnought Detachments](detachments.md#legion-saturnine-dreadnought-detachment-70-points).
+
+**Saturnine Teleportation Transponder:** [Legion Saturnine Command Detachments](detachments.md#legion-saturnine-command-50-points) and [Legion Saturnine Terminator Detachments](detachments.md#legion-saturnine-terminator-detachment-85-points) from this Formation have the [Deep Strike] special rule. All Detachments in this Formation with the [Deep Strike] special rule must Deep Strike in the same Movement phase as the Detachment that includes the Legion Saturnine Command Detachment.
+
+During that Movement phase, the Detachment that includes the Legion Saturnine Command Detachment must be the first from this Formation to Deep Strike, and all other Detachments from this Formation that Deep Strike must have their first model placed within 6" of the Legion Saturnine Command Squad model from that Detachment. If the Saturnine Command Squad model would be destroyed before all such Deep Strikes have been completed, leave the model in place until all such Deep Strikes have been completed, and then remove the model from the battlefield.
+
+**COMPULSORY DETACHMENTS**
+
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments)
+
+**OPTIONAL DETACHMENTS**
+
+[![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments)
+
+---
+
+## Legion Super-heavy Spearhead
+
+**Unstoppable Advance:** While a Heavy Armour Detachment from this Formation has two or more models, models in that unit have the following additional weapon:
+
+| Weapon      | Range | Dice | To Hit | AP | Traits       |
+|-------------------|-------|------|--------|----|--------------------|
+| Crushing treads | -   | -  | -   | -1 | [Rend], [Wrecker] (1) |
+
+**COMPULSORY DETACHMENTS**
+
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
+
+**OPTIONAL DETACHMENTS**
+
+[![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments)
+
+---
+
+## Legion Aegis Defence Strongpoint
+
+**Defensive Strongpoint:** Bastion Detachment slots in this Formation must be filled with [Araknae Weapons Platform Battery Detachments](detachments.md#araknae-weapons-platform-battery-30-points) or [Legion Tarantula Battery Detachments](detachments.md#legion-tarantula-battery-36-points). Detachments in this Formation may not be deployed using the Infiltrate special rule.
+
+**Overlapping Fire:** Weapons that Araknae Weapons Platform models in this Formation have gain the Point Defence trait.
+
+**COMPULSORY DETACHMENTS**
+
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg)](detachments.md#bastion-detachments)
+
+**OPTIONAL DETACHMENTS**
+
+[![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_artillery.jpg)](detachments.md#artillery-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments)

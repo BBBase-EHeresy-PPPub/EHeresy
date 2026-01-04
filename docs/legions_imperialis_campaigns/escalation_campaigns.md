@@ -53,7 +53,7 @@ Once the first pair is chosen, the next Faction Commander chooses a player from 
 
 #### 2. Muster Armies
 
-Each player musters an Army, using the rules found in the *Legions Imperialis Rulebook* to a points limit equal to the points limit of the Cycle. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
+Each player musters an Army, using the rules found [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/mustering_an_army.md) to a points limit equal to the points limit of the Cycle. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
 
 After mustering their Army, if players have any Requisition Points, they can spend any of these to add a single additional Detachment to their Army for this battle. This does not change the agreed points limit for that battle, only allowing a player to go over it, but does not affect the maximum amount of points that can be spent on Strategic Asset Formations, or the number of Formations or certain Detachments that are required to be included in an Army. That player then deducts a number of Requisition Points from their total equal to the points cost of the selected Detachment.
 
