@@ -918,6 +918,45 @@ A Legion Saturnine Dreadnought Detachment can purchase one of the following upgr
 
 ---
 
+<div class="unitCard" markdown>
+
+### Araknae Weapons Platform Battery [30 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 1
+
+| Name                    | Movement | Sv  | CAF | Morale | W |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Araknae Weapons Platform | - | 4+ | -2 | - | 1 |
+
+**Weapons**
+
+All models in a Detachment have one of the following weapons. All models in a Detachment must select the same option:
+
+* Quad accelerator autocannon or twin punisher cannon or Orias heavy frag missiles
+
+| Weapon                        | Range | Dice | To Hit | AP | Traits |
+| ----------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
+| Quad accelerator autocannon   | 18" | 5 | 5+ | -1 | [Tracking] |
+| Twin punisher cannon          | 12" | 4 | 4+ | -1 | [Accurate], [Light AT], [Rapid Fire], [Skyfire] |
+| Orias heavy frag missiles     | 24" | 2 | 4+ | 0 | [Barrage], [Blast (3")], [Light], [Limited (2)] |
+
+**Upgrades**
+
+An Araknae Weapons Platform Battery can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+30 points]
+* **Increase the Detachment size by 2** [+55 points]
+* **Increase the Detachment size by 3** [+80 points]
+
+**Special Rules**
+
+[Invulnerable Save] (5+)
+
+</div>
+
+---
+
 ## LIGHT ARMOUR DETACHMENTS
 
 <div class="unitCard" markdown>
@@ -955,45 +994,6 @@ A Legion Sabre Squadron can purchase one of the following upgrades:
 **Special Rules**
 
 [Nimble]
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### Araknae Weapons Platform Battery [30 Points]
-
-* **Type:** Vehicle (2)
-* **Detachment Size:** 1
-
-| Name                    | Movement | Sv  | CAF | Morale | W |
-| ----------------------- | :------: | :-: | :-: | :----: | :-: |
-| Araknae Weapons Platform | - | 4+ | -2 | - | 1 |
-
-**Weapons**
-
-All models in a Detachment have one of the following weapons. All models in a Detachment must select the same option:
-
-* Quad accelerator autocannon or twin punisher cannon or Orias heavy frag missiles
-
-| Weapon                        | Range | Dice | To Hit | AP | Traits |
-| ----------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
-| Quad accelerator autocannon   | 18" | 5 | 5+ | -1 | [Tracking] |
-| Twin punisher cannon          | 12" | 4 | 4+ | -1 | [Accurate], [Light AT], [Rapid Fire], [Skyfire] |
-| Orias heavy frag missiles     | 24" | 2 | 4+ | 0 | [Barrage], [Blast (3")], [Light], [Limited (2)] |
-
-**Upgrades**
-
-An Araknae Weapons Platform Battery can purchase one of the following upgrades:
-
-* **Increase the Detachment size by 1** [+30 points]
-* **Increase the Detachment size by 2** [+55 points]
-* **Increase the Detachment size by 3** [+80 points]
-
-**Special Rules**
-
-[Invulnerable Save] (5+)
 
 </div>
 
