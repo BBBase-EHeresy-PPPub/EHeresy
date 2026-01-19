@@ -45,25 +45,25 @@ The following Orders can be issued to Detachments during play. Note that the Fal
 
 #### First Fire Orders
 
-![](../media/legions_imperialis_rules/first_fire.jpg)
+![](../media/legions_imperialis_rules/first_fire.jpg){ width=76 height=76 }
 
 A Detachment issued with the First Fire Order may fire during the First Fire stage of the Combat phase but cannot move during the Movement phase.
 
 #### Advance Orders
 
-![](../media/legions_imperialis_rules/advance.jpg)
+![](../media/legions_imperialis_rules/advance.jpg){ width=77 height=76 }
 
 Each model within a Detachment issued with the Advance Order may move up to a number of inches equal to its Movement characteristic during the Movement phase and may fire in the Advancing Fire stage of the Combat phase. The Advance Order is the only Order which can be issued to a Detachment that is not in Detachment Coherency ([see page 50](../legions_imperialis_rules/playing_the_game.md#coherency)), and one of two Orders which can be issued to a Detachment that is Broken (see Morale, [page 63](../legions_imperialis_rules/playing_the_game.md#broken)). A model cannot move within 1" of an enemy model, unless instructed otherwise (see Engagement Zones [on page 51](../legions_imperialis_rules/playing_the_game.md#engagement-zone)).
 
 #### March Orders
 
-![](../media/legions_imperialis_rules/march.jpg)
+![](../media/legions_imperialis_rules/march.jpg){ width=76 height=76 }
 
 ~~Each model within a Detachment issued with the March Order may move up to a number of inches equal to twice its Movement characteristic. If the Detachment is made up entirely of Infantry models that are not Embarked upon a Transport when the Detachment is activated, it may move up to three times its Movement Characteristic during the Movement phase. Models in a Detachment issued a March Order may not fire during the First Fire or Advancing Fire stages of the Combat phase.~~ <span style="color: darkmagenta">Each model within a Detachment issued with the March Order may move up to a number of inches equal to twice its Movement characteristic. Models in a Detachment issued a March Order may not fire during the First Fire or Advancing Fire stages of the Combat phase.</span>
 
 #### Charge Orders
 
-![](../media/legions_imperialis_rules/charge.jpg)
+![](../media/legions_imperialis_rules/charge.jpg){ width=77 height=76 }
 
 Models within a Detachment issued with a Charge Order may move up to a number of inches equal to its Movement characteristic, or the Detachment may Charge. If a Detachment Charges, models within the Detachment may move up to a number of inches equal to twice its Movement characteristic so long as at least one model within the Detachment ends in base- to-base contact with an enemy model.
 
@@ -73,7 +73,7 @@ Models in a Detachment issued with a Charge Order add 1 to any Fight roll they m
 
 #### Fall Back Orders
 
-![](../media/legions_imperialis_rules/fall_back.jpg)
+![](../media/legions_imperialis_rules/fall_back.jpg){ width=77 height=76 }
 
 Certain situations, such as failing a Morale test, may require a Detachment to be issued with a Fall Back Order or to have its existing Order replaced with a Fall Back Order. When a Fall Back Order is issued to a Detachment, the controlling player must remove any other Order it is issued with. However, unless stated otherwise, a Detachment cannot voluntarily be issued with a Fall Back Order by a player.
 
@@ -133,7 +133,7 @@ At times, a player may forget to issue an Order to a Detachment. In such instanc
 
 If a Detachment has two or more models within it then those models must remain in Detachment Coherency whilst on the battlefield. When a Detachment is set up on the battlefield, all models within the Detachment must be deployed within 2" of one other model from that Detachment. During the battle, all models must remain within 2" of at least one other model from the same Detachment that is on the battlefield - this is known as 'Detachment Coherency'. If a Detachment cannot finish a move without breaking Detachment Coherency, then the move cannot be made.
 
-![](../media/legions_imperialis_rules/with_coherency.jpg)
+![](../media/legions_imperialis_rules/with_coherency.jpg){ width=460 height=410 }
 
 ***LIR50.1:** A Detachment in Coherency.*
 
@@ -143,7 +143,7 @@ Sometimes, a Detachment's Coherency is broken for reasons beyond the controlling
 
 The next time the Detachment moves, it must re-establish Coherency; if it cannot do so, any model that is not within 2" of at least one other model from the same Detachment is destroyed and removed from the battlefield. If a Detachment has not yet established Detachment Coherency after models are destroyed in this way, the largest group of models from that Detachment (i.e., the most models in Coherency with one another) are left on the battlefield, while any remaining groups are destroyed. If two or more groups are of equal size, randomly determine which group is not destroyed.
 
-![](../media/legions_imperialis_rules/without_coherency.jpg)
+![](../media/legions_imperialis_rules/without_coherency.jpg){ width=459 height=409 }
 
 ***LIR50.2:** A Detachment with broken Coherency.*
 
@@ -151,9 +151,9 @@ The next time the Detachment moves, it must re-establish Coherency; if it cannot
 
 A model can move through any friendly model, so long as it does not end its movement with its base (or model) overlapping another base or model. A model cannot move within 1" of an enemy model of equal or higher Scale than its own unless instructed otherwise. A model can move within 1" of an enemy model and through an enemy model of lower Scale so long as it does not end its movement within 1" of an enemy model. This 1" zone is known as the 'Engagement Zone'.
 
-![](../media/legions_imperialis_rules/movement_through_1.jpg)
+![](../media/legions_imperialis_rules/movement_through_1.jpg){ width=460 height=363 }
 
-![](../media/legions_imperialis_rules/movement_through_2.jpg)
+![](../media/legions_imperialis_rules/movement_through_2.jpg){ width=459 height=434 }
 
 ***LIR51.1:** (Top) A Solar Auxilia Lasrifle model cannot move through enemy Space Marine models due to their Engagement Zones. (Bottom) A Warhound Titan however can move through enemy Space Marine models, as it is of higher Scale - 5 vs 1 respectively.*
 
@@ -177,11 +177,11 @@ An Engaged but not Pinned model issued with a Charge Order cannot move out of ba
 
 There will be instances where a Detachment is Engaged with two or more enemy Detachments. In such instances, a Detachment is deemed Engaged & Pinned if any of the Detachments it is Engaged with are of a Scale equal to or greater than its own.
 
-![](../media/legions_imperialis_rules/multiple_engaged_1.jpg)
+![](../media/legions_imperialis_rules/multiple_engaged_1.jpg){ width=459 height=241 }
 
 ***LIR52.1:** A Legio Astorum Warhound Titan issued with a Charge Order Engages a Legion Tactical Detachment. As the Titan is a larger Scale than the Tactical Marines (1 vs. 5 respectively), the Titan is Engaged but not Pinned.*
 
-![](../media/legions_imperialis_rules/multiple_engaged_2.jpg)
+![](../media/legions_imperialis_rules/multiple_engaged_2.jpg){ width=459 height=313 }
 
 ***LIR52.2:** A Warhound Titan charges into the combat in LIR52.1. As the two Titans are the same Scale (5), both Titans are now Engaged and Pinned. If, during the subsequent Combat phase, the charging Titan is destroyed, then the Legio Astorum Titan is no longer Pinned and so can fire as normal even if it remains Engaged.*
 
@@ -207,7 +207,7 @@ When a Detachment calls Overwatch, the normal sequence of the phase is paused. T
 
 Once the Overwatch has been resolved, the controlling player removes the firing Detachment's Order token - it is no longer issued with that Order and cannot be activated later during the round, even if only some of the models in the Detachment fired during the Overwatch. The enemy Detachment then finishes its activation.
 
-![](../media/legions_imperialis_rules/overwatch.jpg)
+![](../media/legions_imperialis_rules/overwatch.jpg){ width=459 height=337 }
 
 ***LIR53.1:** The moving Solar Auxilia pass through the line of sight of the Contemptor Dreadnought. As such,* *the Dreadnought can call Overwatch.*
 
@@ -255,15 +255,15 @@ To determine which Detachments are within the same Combat, pick a Detachment and
 
 The following diagrams highlight examples of Combat.
 
-![](../media/legions_imperialis_rules/engagement_1.jpg)
+![](../media/legions_imperialis_rules/engagement_1.jpg){ width=504 height=264 }
 
 ***LIR54.1:** A Legion Tactical Detachment (A) and a Solar Auxilia Lasrifle Tercio Detachment (B) are Engaged with one another and are said to be in a Combat.*
 
-![](../media/legions_imperialis_rules/engagement_2.jpg)
+![](../media/legions_imperialis_rules/engagement_2.jpg){ width=503 height=307 }
 
 ***LIR55.1:** A Contemptor Dreadnought Detachment (C) has engaged the Lasrifle Tercio (B) from LIR54.1. All three Detachments are said to be in a Combat.*
 
-![](../media/legions_imperialis_rules/engagement_3.jpg)
+![](../media/legions_imperialis_rules/engagement_3.jpg){ width=503 height=395 }
 
 ***LIR55.2:** A more complex example. The Legion Tactical Detachment (A) is Engaged with a Lasrifle Tercio (B) and an Auxilia Aethon Heavy Sentinel Patrol Detachment (D). The Lasrifle Tercio is also Engaged with the Dreadnought Detachment (C). As such, all four Detachments are within the same Combat, even though the Dreadnoughts and Sentinels are not Engaged with one another.*
 
@@ -357,7 +357,7 @@ When a Hit is allocated against a Vehicle, Super-heavy Vehicle, Knight or Titan,
 
 Any Hits scored by a firing model in a target's Rear Arc that are allocated to a Void Shield ([see page 97](../legions_imperialis_rules/special_rules.md#void-shields-x)) do not improve their AP by 1. In other words, a weapon with an AP of 0 or worse would still be automatically discarded when allocated to a Void Shield, even if the firing model was in the target's Rear Arc.
 
-![](../media/legions_imperialis_rules/rear_armour.jpg)
+![](../media/legions_imperialis_rules/rear_armour.jpg){ width=459 height=519 }
 
 ***LIR58.1:** Two Leman Russ Vanquishers target a Predator. The Leman Russ in the Predator's Rear Arc improves the AP of its weapons by 1; any Hits caused by its Vanquisher battle cannon will have an AP of -3.*
 
@@ -391,7 +391,7 @@ another into 'Fights'.
 
 Any model that is in base to base contact with one or more enemy models can be paired - models from a Detachment that is in a Combat but are not in base to base contact with an enemy model are ignored.
 
-![](../media/legions_imperialis_rules/pair_off_fights.jpg)
+![](../media/legions_imperialis_rules/pair_off_fights.jpg){ width=504 height=397 }
 
 ***LIR60.1:** A Legion Tactical Detachment (highlighted in red) is Engaged with a Solar Auxilia Tercio (highlighted in green). Models A and D are paired off against one another as they are only in base-to-base contact with one another. Tactical Legionary C is in base-to-base contact with two enemy miniatures - it is paired with Solar Auxilia C to form a single one-on-one combat. The two Space Marines B are paired off with Solar Auxilia B - this is two Fights that will be resolved one after another.*
 

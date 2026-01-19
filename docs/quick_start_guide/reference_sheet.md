@@ -48,31 +48,31 @@ Each Hit scored is allocated one at a time to a model in the target Detachment b
 
 **First Fire Orders**
 
-![](../media/legions_imperialis_rules/first_fire.jpg)
+![](../media/legions_imperialis_rules/first_fire.jpg){ width=76 height=76 }
 
 May fire in the First Fire stage of the Combat phase. Can call Overwatch. Cannot move in the Movement phase.
 
 **Advance Orders**
 
-![](../media/legions_imperialis_rules/advance.jpg)
+![](../media/legions_imperialis_rules/advance.jpg){ width=77 height=76 }
 
 May move up to a number of inches equal to the model's Movement characteristic in the Movement phase and may fire in the Advancing Fire stage of the Combat phase. Can call Overwatch.
 
 **March Orders**
 
-![](../media/legions_imperialis_rules/march.jpg)
+![](../media/legions_imperialis_rules/march.jpg){ width=76 height=76 }
 
 May move up to a number of inches equal to twice a model's Movement characteristic in the Movement phase, or equal to three times for Infantry. Cannot fire during the round.
 
 **Charge Orders**
 
-![](../media/legions_imperialis_rules/charge.jpg)
+![](../media/legions_imperialis_rules/charge.jpg){ width=77 height=76 }
 
 May move as if issued the Advance Order or Charge, moving up to twice the model's Movement characteristic so long as at least one model in the Detachment ends in base to base contact with an enemy model. Models issued with a Charge Order add 1 to any Fight roll. Cannot fire during the round.
 
 **Fall Back Orders**
 
-![](../media/legions_imperialis_rules/fall_back.jpg)
+![](../media/legions_imperialis_rules/fall_back.jpg){ width=77 height=76 }
 
 Replaces other Orders. Cannot be activated until the End phase, where the Detachment flees.
 

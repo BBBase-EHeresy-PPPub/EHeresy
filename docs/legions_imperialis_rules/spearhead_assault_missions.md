@@ -16,7 +16,7 @@ At the end of each round, the player who destroyed the most Detachments from the
 
 At the end of the battle, each player scores a number of VPs for each Detachment from their Army that is wholly within their opponent's deployment zone, equal to the Scale of that Detachment.
 
-![](../media/legions_imperialis_rules/armoured_engagement.jpg)
+![](../media/legions_imperialis_rules/armoured_engagement.jpg){ width=904 height=725 }
 
 ---
 
@@ -32,7 +32,7 @@ At the end of each round, the player who destroyed the most Detachments from the
 
 At the end of the battle, each player scores a number of VPs for each Detachment from their Army that is wholly within their opponent's deployment zone, equal to the Scale of that Detachment.
 
-![](../media/legions_imperialis_rules/sweeping_front.jpg)
+![](../media/legions_imperialis_rules/sweeping_front.jpg){ width=900 height=724 }
 
 ---
 
@@ -48,7 +48,7 @@ At the end of each round, the player who destroyed the most Detachments from the
 
 At the end of the battle, each player scores a number of VPs for each Detachment from their Army that is wholly within their opponent's deployment zone, equal to the Scale of that Detachment.
 
-![](../media/legions_imperialis_rules/clash_of_columns.jpg)
+![](../media/legions_imperialis_rules/clash_of_columns.jpg){ width=904 height=729 }
 
 ---
 

@@ -6,7 +6,7 @@ If players wish, when starting a Breakthrough campaign, they can instead fight t
 
 The Northern Desolation campaign uses the following campaign map.
 
-![](../media/legions_imperialis_campaigns/the_northern_desolation_campaign_map.jpg)
+![](../media/legions_imperialis_campaigns/the_northern_desolation_campaign_map.jpg){ width=975 height=248 }
 
 ### Ravaged World
 

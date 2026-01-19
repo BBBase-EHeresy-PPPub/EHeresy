@@ -47,7 +47,7 @@ The rules for including Knight Households Detachments in full Formations are pre
 
 **COMPULSORY DETACHMENTS**
 
-![](../../media/factions/knight_households/compulsory_knight.jpg)
+![](../../media/factions/knight_households/compulsory_knight.jpg){ width=100 height=100 }
 
 **Paragons of Duty:** Each Knight model within this Formation that has the Independent special rule always forms its own Independent Unit, even if there are several models within a Detachment that have the same name.
 

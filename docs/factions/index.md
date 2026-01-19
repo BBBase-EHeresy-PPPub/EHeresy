@@ -17,4 +17,4 @@ One of the main changes since the *Legions Imperialis Rulebook* was published is
 #### [Collegia Titanica](collegia_titanica/index.md)
 #### [Knight Households](knight_households/index.md)
 
-![](../media/factions/LegionsImperialisLiberStrategiaHBBook1.jpg)
+![](../media/factions/LegionsImperialisLiberStrategiaHBBook1.jpg){ width=918 height=948 }

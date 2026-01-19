@@ -43,4 +43,4 @@ For example, a Legion Kratos Squadron consisting of four models has a points cos
 
 In this Mission, each player has two battlefield edges. When a Detachment flees, determine which of the controlling player's battlefield edges is closest to the majority of models in that Detachment. Each model in that Detachment must move towards that battlefield edge. If there is no majority, the controlling player should randomise which battlefield edge that Detachment flees towards.
 
-![](../media/legions_imperialis_campaigns/slaughter_at_the_crucible.jpg)
+![](../media/legions_imperialis_campaigns/slaughter_at_the_crucible.jpg){ width=849 height=686 }

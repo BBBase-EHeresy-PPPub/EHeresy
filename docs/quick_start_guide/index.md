@@ -58,6 +58,6 @@ At the end of the battle, you score:
 
 **To The Death!** - During this Mission, Formations do not become Broken. Both players must agree before the game for this Special Rule to be used.
 
-![](../media/quick_start_guide/opening_manoeuvres.jpg)
+![](../media/quick_start_guide/opening_manoeuvres.jpg){ width=673 height=659 }
 
 ---

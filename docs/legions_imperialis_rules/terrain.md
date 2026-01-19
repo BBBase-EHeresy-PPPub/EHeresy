@@ -35,7 +35,7 @@ Models wholly within an area of Difficult terrain gain a Cover Save of 6+.
 *Some terrain types have specific effects on line of sight, as detailed in the section that follows. If the area of terrain has no specific rules related to line of sight then it only blocks it if a piece of the terrain (such as a large rock or network of pipes) hides a model. This may seem abstract but it allows for easy resolution of how terrain affects models on the battlefield. The key thing to remember is all pieces of terrain occupy an area, regardless of their physical appearance
 over that defined area.*
 
-![](../media/legions_imperialis_rules/terrain_types.jpg)
+![](../media/legions_imperialis_rules/terrain_types.jpg){ width=946 height=426 }
 
 ***LIR67.1:** A selection of areas of terrain - the boundaries of each are marked in blue.*
 
@@ -115,7 +115,7 @@ Towering city spires, fortified bunkers and promethium processing plants are all
 
 Each individual Structure is its own area of terrain. Unless instructed otherwise, a Structure blocks line of sight and is classed as Impassable terrain to all models except Infantry. Infantry Detachments can Garrison Structures - [see page 72](../legions_imperialis_rules/terrain.md#garrisoning-structures) for more details.
 
-![](../media/legions_imperialis_rules/structures.jpg)
+![](../media/legions_imperialis_rules/structures.jpg){ width=1038 height=486 }
 
 ***LIR71.1:** A series of areas of Terrain constructed using Civitas terrain sets, detailing examples of Structures or non-Structures.*
 

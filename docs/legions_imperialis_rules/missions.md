@@ -14,7 +14,7 @@ At the end of each round, you score:
 
 * 7 VPs for each Uncontested Objective marker in your opponent's deployment zone that you control.
 
-![](../media/legions_imperialis_rules/mission_confrontation.jpg)
+![](../media/legions_imperialis_rules/mission_confrontation.jpg){ width=660 height=466 }
 
 ## SEIZE AND HOLD
 
@@ -28,7 +28,7 @@ At the end of each round, you score:
 
 * 7 VPs for each Uncontested Objective marker in your opponent's deployment zone that you control.
 
-![](../media/legions_imperialis_rules/mission_seize_and_hold.jpg)
+![](../media/legions_imperialis_rules/mission_seize_and_hold.jpg){ width=659 height=465 }
 
 ## NO MAN'S LAND
 
@@ -42,7 +42,7 @@ At the end of each round, you score:
 
 * 11 VPs if you control three Uncontested Objective markers.
 
-![](../media/legions_imperialis_rules/mission_no_mans_land.jpg)
+![](../media/legions_imperialis_rules/mission_no_mans_land.jpg){ width=659 height=465 }
 
 ## HOLD GROUND
 
@@ -56,7 +56,7 @@ At the end of each round, you score:
 
 * 9 VPs if you control the Objective marker in the centre of the battlefield and it is Uncontested.
 
-![](../media/legions_imperialis_rules/mission_hold_ground.jpg)
+![](../media/legions_imperialis_rules/mission_hold_ground.jpg){ width=659 height=465 }
 
 ## STRONGHOLD ASSAULT
 
@@ -72,7 +72,7 @@ At the end of the battle, you score:
 
 * 7 VPs if you control the Objective marker in your deployment zone and it is Uncontested.
 
-![](../media/legions_imperialis_rules/mission_stronghold_assault.jpg)
+![](../media/legions_imperialis_rules/mission_stronghold_assault.jpg){ width=659 height=465 }
 
 ## DEVASTATION
 
@@ -90,7 +90,7 @@ At the end of each round, you score:
 
 At the end of each round, if a player controls an Objective marker in their opponent's deployment zone, they destroy it. If they do so, remove the Objective marker from the battlefield - it no longer plays any part in the battle. In addition, the player that destroyed it immediately gains 10 VPs.
 
-![](../media/legions_imperialis_rules/mission_devastation.jpg)
+![](../media/legions_imperialis_rules/mission_devastation.jpg){ width=659 height=466 }
 
 ## FLANKING ACTION
 
@@ -104,7 +104,7 @@ At the end of each round, you score:
 
 * 8 VPs if you control the Objective marker in your opponent's deployment zone and it is Uncontested.
 
-![](../media/legions_imperialis_rules/mission_flanking_action.jpg)
+![](../media/legions_imperialis_rules/mission_flanking_action.jpg){ width=659 height=465 }
 
 ## RETRIEVAL
 
@@ -122,7 +122,7 @@ At the end of each round, after Victory Points have been scored, if a player con
 
 Each Objective marker can move a maximum of 5" in any direction. The Objective marker cannot move through enemy models, cannot end its movement overlapping its base with any other model, a Structure or an area of Impassable terrain, and cannot move off the battlefield.
 
-![](../media/legions_imperialis_rules/mission_retrieval.jpg)
+![](../media/legions_imperialis_rules/mission_retrieval.jpg){ width=660 height=465 }
 
 ## FORWARD PUSH
 
@@ -138,7 +138,7 @@ At the end of each round, you score:
 
 * 9 VPs for each Uncontested Objective marker that you control that is 42" away from your battlefield edge.
 
-![](../media/legions_imperialis_rules/mission_forward_push.jpg)
+![](../media/legions_imperialis_rules/mission_forward_push.jpg){ width=661 height=497 }
 
 ## CONQUEST
 
@@ -150,7 +150,7 @@ At the end of each round, you score:
 
 * An additional 5 VPs if you control at least three Uncontested Objective markers; if one of those markers is within your opponent's deployment zone, you score an additional 9 VPs instead.
 
-![](../media/legions_imperialis_rules/mission_conquest.jpg)
+![](../media/legions_imperialis_rules/mission_conquest.jpg){ width=656 height=465 }
 
 ## ALL OUT WAR
 
@@ -172,7 +172,7 @@ At the end of each round, you score:
 
 * 7 VPs for each Uncontested Objective marker in your opponent's deployment zone that you control.
 
-![](../media/legions_imperialis_rules/mission_all_out_war.jpg)
+![](../media/legions_imperialis_rules/mission_all_out_war.jpg){ width=665 height=465 }
 
 ## POINT ASSAULT
 
@@ -190,4 +190,4 @@ At the end of each round, you score:
 
 * 4 VPs each for any Uncontested neutral Objective marker you control; the Objective marker in the centre of the battlefield is counted as a neutral Objective. If you control two or more Uncontested neutral Objective markers, and one of these is the Objective in the centre of the battlefield, you gain an additional 4 VPs.
 
-![](../media/legions_imperialis_rules/mission_point_assault.jpg)
+![](../media/legions_imperialis_rules/mission_point_assault.jpg){ width=657 height=465 }

@@ -12,11 +12,11 @@ When a Titan turns, it may turn up to a maximum of 90°. A Titan turns by pivoti
 
 Titans can move in their Rear Arc if they wish to but, if they do so, they move slower. For every 1" a Titan moves in its Rear Arc, it counts as having moved 2". The Titan's facing does not change. If it is unclear which Arc a Titan is moving in (for example, if the Titan is sidestepping), then it is assumed they are moving in their Rear Arc and thus move slower.
 
-![](../media/legions_imperialis_rules/titan_move_1.jpg)
+![](../media/legions_imperialis_rules/titan_move_1.jpg){ width=460 height=433 }
 
 ***LIR75.1:** Example of a Titan turning during a move*
 
-![](../media/legions_imperialis_rules/titan_move_2.jpg)
+![](../media/legions_imperialis_rules/titan_move_2.jpg){ width=460 height=197 }
 
 ***LIR75.2:** When moving in its Rear Arc, the Titan's move is measured from the back of its base*
 

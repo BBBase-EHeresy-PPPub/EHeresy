@@ -53,4 +53,4 @@ During the First Fire stage, a Defending player may activate a defence gun inste
 | Defence guns  | 20"   | 3    | 4+     | -2  |                      |
 |               | 20"   | 5    | 5+     | -1  | [Anti-tank], [Skyfire]   |
 
-![](../media/legions_imperialis_campaigns/the_fall_of_magma_city.jpg)
+![](../media/legions_imperialis_campaigns/the_fall_of_magma_city.jpg){ width=1001 height=606 }

@@ -16,7 +16,7 @@ Before going further, it is worth establishing some core principles and conventi
 
 **Scattering:** The term **'Scatter'** is used to refer to when an object has the potential to deviate from its current position. When a rule states to Scatter an object or model, roll the Scatter dice and the number of dice specified in the rule - usually this is D6 or 2D6. The object or model moves a number of inches equal to the result of the roll in the direction shown on the Scatter dice. If a Hit symbol is rolled, the object does not move. If instructed to Scatter even if the Hit symbol is rolled, the direction of Scatter can be determined by the small arrow.
 
-![](../media/legions_imperialis_rules/scatter.jpg)
+![](../media/legions_imperialis_rules/scatter.jpg){ width=460 height=338 }
 
 ***LIR33.1:** Scattering a template.*
 
@@ -124,13 +124,13 @@ If a rule states it affects models/Detachments with no qualifier if they are fri
 
 In Legions Imperialis, distances are measured in inches (") using a tape measure or range ruler. Players can measure distances whenever they wish during the course of a battle.
 
-![](../media/legions_imperialis_rules/measuring_model.jpg)
+![](../media/legions_imperialis_rules/measuring_model.jpg){ width=460 height=218 }
 
 ***LIR39.1:** Measuring the Distance from one model to another.*
 
 Distances between models, as well as between models and other battlefield features (such as terrain or objectives), are measured from the closest point of one base to the closest point of the other. If a model or object does not have a base, measure to or from the closest point of that model or object overall. Insignificant elements on a model, such as protruding weapon barrels, banners or armour spikes, are ignored when measuring distances.
 
-![](../media/legions_imperialis_rules/measuring_vehicle.jpg)
+![](../media/legions_imperialis_rules/measuring_vehicle.jpg){ width=460 height=290 }
 
 ***LIR39.2:** Measuring the distance from a Vehicle's hull.*
 
@@ -152,7 +152,7 @@ If it is unclear if a model can see another model, then players can check by get
 
 When determining line of sight, ignore models that are from the same Detachment - it is presumed they manoeuvre out of the way to allow a clear shot. Other models, however, can block line of sight; for example, if you can't see an enemy Infantry model behind an enemy, or friendly, Baneblade model, then you cannot target it.
 
-![](../media/legions_imperialis_rules/line_of_sight.jpg)
+![](../media/legions_imperialis_rules/line_of_sight.jpg){ width=461 height=319 }
 
 ***LIR40.1:** The Iron Hands Legionaries can fire at some but not all of these potential targets. They can clearly see the Death Guard Command Detachment (A), while the Death Guard Legionaries (B) are partially hidden beyond an Obstacle but still visible; both are valid targets. Only the barrel of the Leman Russ (C) can be seen and so it is not a valid target and cannot be chosen.*
 
@@ -162,9 +162,9 @@ In Legions Imperialis, most models have bases. When a model's base is touching a
 
 As with measuring distances and determining line of sight, protruding elements - such as weapons that extend outside of the model's main body, or large banners - are ignored when checking if a model is in base contact with another model. However, these elements do not block a model from getting into base contact - only other models can do that. If a model can reach another model, and the only thing preventing the two models from touching is a protruding weapon or other insignificant element, the models are classed as being in base contact.
 
-![](../media/legions_imperialis_rules/base_to_base_with.jpg)
+![](../media/legions_imperialis_rules/base_to_base_with.jpg){ width=460 height=222 }
 
-![](../media/legions_imperialis_rules/base_to_base_without.jpg)
+![](../media/legions_imperialis_rules/base_to_base_without.jpg){ width=460 height=218 }
 
 ***LIR41.1:** Examples of base to base contact (top) and base to base contact where one miniature has no base (bottom).*
 
@@ -174,7 +174,7 @@ Most weapons can be fired in any direction, and for the majority of Detachments 
 
 To facilitate this, every model in Legions Imperialis has two 180° 'Arcs' - a 'Front Arc' and a 'Rear Arc' - that are determined by an imaginary line cutting through the centre of the model's base, or the centre of the model if it does not have a base.
 
-![](../media/legions_imperialis_rules/arc.jpg)
+![](../media/legions_imperialis_rules/arc.jpg){ width=459 height=360 }
 
 ***LIR42.1:** Front arcs of a Leman Russ (left) and a Warhound Titan (right).*
 
@@ -192,7 +192,7 @@ All games are played on a 'battlefield'. The exact size and nature of the battle
 
 On the battlefield, each model is represented by a characteristics profile, which details their capabilities in battle. A model's profile can be found in their respective 'datasheet'. The Army Lists section of this book ([see page 126](../legions_imperialis_rules/mustering_an_army.md)) presents a number of datasheets for Detachments which you can field on the battlefield; future supplements will add to this. A datasheet shows the characteristics of each model within the Detachment alongside any special rules that affect them and upgrade options available to the Detachment. The datasheet for a Legion Assault Detachment is shown below as an example:
 
-![](../media/legions_imperialis_rules/datasheet.jpg)
+![](../media/legions_imperialis_rules/datasheet.jpg){ width=742 height=543 }
 
 **Detachment Name**
 

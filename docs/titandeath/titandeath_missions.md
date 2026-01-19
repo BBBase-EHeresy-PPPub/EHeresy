@@ -20,7 +20,7 @@ At the end of the battle, each player scores:
 
 - 5 VPs for each Uncontested Objective marker that player controls.
 
-![](../media/titandeath/mission_domination.jpg)
+![](../media/titandeath/mission_domination.jpg){ width=720 height=546 }
 
 ---
 
@@ -36,7 +36,7 @@ At the end of each round, each player scores:
 
 - 8 VPs for each Uncontested Objective marker in their opponent's deployment zone that they control.
 
-![](../media/titandeath/mission_breakthrough.jpg)
+![](../media/titandeath/mission_breakthrough.jpg){ width=722 height=511 }
 
 ---
 
@@ -50,4 +50,4 @@ At the end of each round, each player scores:
 
 - 5 VPs if that player controls the central Uncontested Objective marker.
 
-![](../media/titandeath/mission_point_of_conflict.jpg)
+![](../media/titandeath/mission_point_of_conflict.jpg){ width=720 height=546 }

@@ -28,4 +28,4 @@ The rules for including Collegia Titanica Detachments in full Formations are pre
 
 **COMPULSORY DETACHMENTS**
 
-![](../../media/factions/collegia_titanica/compulsory_titan.jpg)
+![](../../media/factions/collegia_titanica/compulsory_titan.jpg){ width=100 height=100 }

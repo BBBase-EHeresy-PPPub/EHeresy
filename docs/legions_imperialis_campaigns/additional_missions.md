@@ -39,7 +39,7 @@ At the end of the battle:
 
 In this Mission, each player has two battlefield edges. When a Detachment flees, determine which of the controlling player's battlefield edges is closest to the majority of models in that Detachment. Each model in that Detachment must move towards that battlefield edge. If there is no majority, the controlling player should randomise which battlefield edge that Detachment flees towards.
 
-![](../media/legions_imperialis_campaigns/mission_ambush.jpg)
+![](../media/legions_imperialis_campaigns/mission_ambush.jpg){ width=725 height=547 }
 
 ---
 
@@ -71,7 +71,7 @@ At the end of the battle:
 
 - The Defender scores 3 VPs for each Uncontested Objective marker that they control. If the Defender controls all four Objective markers in their deployment zones, they score 4 VPs for each of these instead.
 
-![](../media/legions_imperialis_campaigns/mission_strongpoint_defence.jpg)
+![](../media/legions_imperialis_campaigns/mission_strongpoint_defence.jpg){ width=722 height=550 }
 
 ---
 
@@ -97,7 +97,7 @@ At the end of the battle:
 
 - Each player scores 3 VPs for each Uncontested Objective marker that they control.
 
-![](../media/legions_imperialis_campaigns/mission_planetary_assault.jpg)
+![](../media/legions_imperialis_campaigns/mission_planetary_assault.jpg){ width=757 height=547 }
 
 ---
 
@@ -143,7 +143,7 @@ At the end of the battle:
 
 - Each player scores 3 VPs for each Uncontested Objective marker that is not within the Defender's deployment zone that they control and 5 VPs for each Uncontested Objective marker that is within the Defender's deployment zone that they control.
 
-![](../media/legions_imperialis_campaigns/mission_seize_the_terminal.jpg)
+![](../media/legions_imperialis_campaigns/mission_seize_the_terminal.jpg){ width=723 height=552 }
 
 ---
 
@@ -199,4 +199,4 @@ At the end of the battle:
 
 * Each player scores 5 VPs for each Uncontested Objective marker that they control.
 
-![](../media/legions_imperialis_campaigns/breach_the_stronghold.jpg)
+![](../media/legions_imperialis_campaigns/breach_the_stronghold.jpg){ width=905 height=762 }

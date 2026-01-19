@@ -4,7 +4,7 @@ Breakthrough campaigns represent two opposing strongholds sending forces out to 
 
 To play a Breakthrough campaign, the players will need a campaign map, consisting of two Strongholds and a number of 'Routes' equal to the number of players in each Faction. Each Route has three stages, each of which contains a Breakthrough marker which will move between the different stages as each Faction wins battles. Below is an example of a map for a campaign with three players in each Faction. The Campaign Master should ensure that a copy of the campaign map is available to all players to consult whenever they require.
 
-![](../media/legions_imperialis_campaigns/breakthrough_campaign_map.jpg)
+![](../media/legions_imperialis_campaigns/breakthrough_campaign_map.jpg){ width=971 height=246 }
 
 ## The Routes
 
@@ -16,15 +16,15 @@ While the example above shows a campaign map for three players, it is possible t
 
 **Example**
 
-![](../media/legions_imperialis_campaigns/breakthrough_campaign_example_1.jpg)
+![](../media/legions_imperialis_campaigns/breakthrough_campaign_example_1.jpg){ width=971 height=245 }
 
 At the start of a campaign, each Breakthrough marker begins in the middle stage of that Route, as shown above.
 
-![](../media/legions_imperialis_campaigns/breakthrough_campaign_example_2.jpg)
+![](../media/legions_imperialis_campaigns/breakthrough_campaign_example_2.jpg){ width=971 height=247 }
 
 In the first Campaign Cycle, the Loyalists were victorious on Route A and Route B, and the Traitors were victorious on Route C. As such, each Breakthrough marker is moved one stage along the respective Routes towards the enemy Stronghold.
 
-![](../media/legions_imperialis_campaigns/breakthrough_campaign_example_3.jpg)
+![](../media/legions_imperialis_campaigns/breakthrough_campaign_example_3.jpg){ width=971 height=246 }
 
 In the second Campaign Cycle, the Loyalists were victorious on Route A again, moving the Breakthrough marker onto the Traitors' Stronghold stage. The Loyalists were also victorious on Route C, while the Traitors were victorious on Route B, moving both of these Breakthrough markers back to their respective middle stages.
 

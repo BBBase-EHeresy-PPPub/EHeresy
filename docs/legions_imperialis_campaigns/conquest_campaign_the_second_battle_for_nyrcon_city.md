@@ -16,7 +16,7 @@ The following changes apply when fighting the Second Battle of Nyrcon City campa
 
 At the end of any Campaign Cycle, if the Traitor Faction controls the central Hive City territory and all six Inner City territories, then the campaign ends immediately and the Traitor Faction is victorious, regardless of Campaign Point totals.
 
-![](../media/legions_imperialis_campaigns/nyrcon_city.jpg)
+![](../media/legions_imperialis_campaigns/nyrcon_city.jpg){ width=1037 height=825 }
 
 
 ### New Territory
@@ -35,4 +35,4 @@ When Invading, a player that controls the Nyrcon City Mag-rail Terminus territor
 
 ## Campaign Map: The Second Battle For Nyrcon City
 
-![](../media/legions_imperialis_campaigns/campaign_map.jpg)
+![](../media/legions_imperialis_campaigns/campaign_map.jpg){ width=945 height=1020 }

@@ -110,7 +110,7 @@ Once a Faction reaches 120 Campaign Points at the end of a Campaign Cycle, the c
 
 The following section contains a list of territories which can be used in a Conquest campaign. A generalised example territory is shown below:
 
-![](../media/legions_imperialis_campaigns/territory_example.jpg)
+![](../media/legions_imperialis_campaigns/territory_example.jpg){ width=1037 height=300 }
 
 &emsp;1. The name of the territory, such as Hive City or Munitorum Depot.
 

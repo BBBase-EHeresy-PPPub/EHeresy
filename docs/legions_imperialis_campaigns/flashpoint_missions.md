@@ -26,7 +26,7 @@ At the end of the battle, you score:
 
 During the Grand Clash, each player from the Faction that was victorious during this Cycle may choose a Formation they control. All units in that Formation gain the [Forward Deployment] special rule.
 
-![](../media/legions_imperialis_campaigns/river_crossing.jpg)
+![](../media/legions_imperialis_campaigns/river_crossing.jpg){ width=880 height=703 }
 
 ---
 
@@ -76,7 +76,7 @@ During the Grand Clash, each player from the Faction that was victorious during 
 
 In addition, Requisition Points are added to the total points cost allowed for Allied Contingents, i.e., each player will have 30% of their points limit plus the total amount of Requisition Points.
 
-![](../media/legions_imperialis_campaigns/assault_the_city.jpg)
+![](../media/legions_imperialis_campaigns/assault_the_city.jpg){ width=880 height=702 }
 
 ---
 
@@ -118,4 +118,4 @@ During the Grand Clash, the Faction that was victorious during this Cycle gains 
 |-----------------------|-------|------|--------|-----|----------------|
 | Artillery bombardment | 200"  | 2    | 4+     | -2  | Heavy Barrage  |
 
-![](../media/legions_imperialis_campaigns/depot_raid.jpg)
+![](../media/legions_imperialis_campaigns/depot_raid.jpg){ width=880 height=702 }
