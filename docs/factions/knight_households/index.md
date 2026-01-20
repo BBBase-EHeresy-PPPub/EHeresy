@@ -10,7 +10,7 @@ Knight Households Formations cannot be taken as part of an Allied Contingent.
 
 Each Knight Households Detachment is also assigned a specific battlefield role for the purpose of building a Knight Households Army. They still fill the Knight Detachment role as well.
 
-![](../../media/factions/knight_households/questoris_knight_banner.jpg) **Questoris Knight Banner**
+![](../../media/factions/knight_households/questoris_knight_banner.jpg){ width=100 height=100 } **Questoris Knight Banner**
 
 The following Detachments can be used to fill this Detachment role slot:
 
@@ -18,21 +18,21 @@ The following Detachments can be used to fill this Detachment role slot:
 - Questoris Knight Banner
 - Questoris Knight Banner
 
-![](../../media/factions/knight_households/cerastus_knight_banner.jpg) **Cerastus Knight Banner**
+![](../../media/factions/knight_households/cerastus_knight_banner.jpg){ width=100 height=100 } **Cerastus Knight Banner**
 
 The following Detachments can be used to fill this Detachment role slot:
 
 - Cerastus Knight Banner
 - Cerastus Knight Atrapos Banner
 
-![](../../media/factions/knight_households/acastus_knight_banner.jpg) **Acastus Knight Banner**
+![](../../media/factions/knight_households/acastus_knight_banner.jpg){ width=100 height=100 } **Acastus Knight Banner**
 
 The following Detachments can be used to fill this Detachment role slot:
 
 - Acastus Knight Porphyrion Banner
 - Acastus Knight Asterius Banner
 
-![](../../media/factions/knight_households/armiger_knight_banner.jpg) **Armiger Knight Banner**
+![](../../media/factions/knight_households/armiger_knight_banner.jpg){ width=100 height=100 } **Armiger Knight Banner**
 
 The following Detachments can be used to fill this Detachment role slot:
 

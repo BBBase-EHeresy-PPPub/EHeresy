@@ -4,19 +4,19 @@
 
 **STANDARD DETACHMENTS: 410 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../../factions/legiones_astartes/detachments.md#legion-sicaran-squadron-90-points)
+[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-sicaran-squadron-90-points)
 
 * **Legion Sicaran Squadron**
 
 4 Legion Sicaran models. These models are equipped with Sponson Mounted lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../../factions/legiones_astartes/detachments.md#legion-sicaran-omega-squadron-90-points)
+[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-sicaran-omega-squadron-90-points)
 
 * **Legion Sicaran Omega Squadron**
 
 4 Legion Sicaran Omega models. These models are equipped with Sponson Mounted lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
+[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
 
 * **Legion Sabre Squadron**
 
@@ -24,13 +24,13 @@
 
 **EXPANDED DETACHMENTS: +260 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../../factions/legiones_astartes/detachments.md#legion-sicaran-squadron-90-points)
+[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-sicaran-squadron-90-points)
 
 * **Legion Sicaran Squadron**
 
 4 Legion Sicaran models. These models are equipped with Sponson Mounted lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
+[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
 
 * **Legion Sabre Squadron**
 
@@ -48,7 +48,7 @@
 
 **STANDARD DETACHMENTS: 340 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 
 * **Legion Terminator Detachment**
 
@@ -56,7 +56,7 @@
 
 This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#legion-spartan-detachment-70-points-per-model) models as Dedicated Transports. These Spartan models are equipped with Sponson Mounted quad lascannon and Hull Mounted lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 
 * **Legion Terminator Detachment**
 
@@ -66,7 +66,7 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 **EXPANDED DETACHMENTS: +410 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 
 * **Legion Terminator Detachment**
 
@@ -74,7 +74,7 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#legion-spartan-detachment-70-points-per-model) models as Dedicated Transports. These Spartan models are equipped with Sponson Mounted quad lascannon and Hull Mounted lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-kratos-squadron-140-points)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-kratos-squadron-140-points)
 
 * **Legion Kratos Squadron**
 
@@ -92,19 +92,19 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 **STANDARD DETACHMENTS: 495 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../../factions/legiones_astartes/detachments.md#legion-sicaran-punisher-squadron-90-points)
+[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-sicaran-punisher-squadron-90-points)
 
 * **Legion Sicaran Punisher Squadron**
 
 4 Sicaran Punisher models. These models are equipped with Sponson Mounted heavy bolters.
 
-[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../../factions/legiones_astartes/detachments.md#legion-sicaran-punisher-squadron-90-points)
+[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-sicaran-punisher-squadron-90-points)
 
 * **Legion Sicaran Punisher Squadron**
 
 4 Sicaran Punisher models. These models are equipped with Sponson Mounted heavy bolters.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-plasma-gun-support-detachment-35-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-plasma-gun-support-detachment-35-points)
 
 * **Legion Plasma Gun Support Detachment**
 
@@ -114,13 +114,13 @@ This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments
 
 **EXPANDED DETACHMENTS: +300 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
+[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-sabre-squadron-120-points)
 
 * **Legion Sabre Squadron**
 
 4 Sabre models. These models are equipped with Hull Mounted Anvilus autocannon and Hull Mounted heavy bolter.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-plasma-gun-support-detachment-35-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-plasma-gun-support-detachment-35-points)
 
 * **Legion Plasma Gun Support Detachment**
 
@@ -140,7 +140,7 @@ This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments
 
 **STANDARD DETACHMENTS: 230 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
 
 * **Legion Command Detachment**
 
@@ -148,7 +148,7 @@ This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments
 
 This Detachment has 1 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) model as a Dedicated Transport. That Rhino model is equipped with a Pintle Mounted multi-melta.
 
-[![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
+[![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
 
 * **Legion Tactical Detachment**
 
@@ -156,7 +156,7 @@ This Detachment has 1 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
+[![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
 
 * **Legion Tactical Detachment**
 
@@ -166,7 +166,7 @@ This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 **EXPANDED DETACHMENTS: +140 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#support-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#support-detachments)
 
 * **Legion Plasma Gun Support Detachment**
 
@@ -174,7 +174,7 @@ This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports. Both Rhino models are equipped with a Pintle Mounted havoc launcher.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#support-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#support-detachments)
 
 * **Legion Missile Launcher Support Detachment**
 
@@ -182,7 +182,7 @@ This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#support-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#support-detachments)
 
 * **Legion Assault Detachment**
 
@@ -200,7 +200,7 @@ This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 **STANDARD DETACHMENTS: 230 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
 
 * **Legion Command Detachment**
 
@@ -208,7 +208,7 @@ This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 This Detachment has 1 [Drop Pod](../../factions/legiones_astartes/detachments.md#legion-drop-pod-detachment-10-points-per-model) model as a Dedicated Transport.
 
-[![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
+[![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
 
 * **Legion Tactical Detachment**
 
@@ -216,7 +216,7 @@ This Detachment has 1 [Drop Pod](../../factions/legiones_astartes/detachments.md
 
 This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md#legion-drop-pod-detachment-10-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
+[![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
 
 * **Legion Tactical Detachment**
 
@@ -224,7 +224,7 @@ This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md
 
 This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md#legion-drop-pod-detachment-10-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-palisade-drop-pod-25-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-palisade-drop-pod-25-points)
 
 * **Legion Palisade Drop Pod**
 
@@ -232,7 +232,7 @@ This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md
 
 **EXPANDED DETACHMENTS: +205 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#leviathan-siege-dreadnought-detachment-75-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#leviathan-siege-dreadnought-detachment-75-points)
 
 * **Leviathan Siege Dreadnought Talon**
 
@@ -240,7 +240,7 @@ This Detachment has 4 [Drop Pod](../../factions/legiones_astartes/detachments.md
 
 This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/detachments.md#dreadnought-drop-pod-detachment-12-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-contemptor-dreadnought-talon-70-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-contemptor-dreadnought-talon-70-points)
 
 * **Legion Contemptor Dreadnought Talon**
 
@@ -248,7 +248,7 @@ This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/de
 
 This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/detachments.md#dreadnought-drop-pod-detachment-12-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-palisade-drop-pod-25-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-palisade-drop-pod-25-points)
 
 * **Legion Palisade Drop Pod**
 
@@ -264,7 +264,7 @@ This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/de
 
 **STANDARD DETACHMENTS: 370 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
 
 * **Legion Command Detachment**
 
@@ -272,7 +272,7 @@ This Detachment has 4 [Dreadnought Drop Pod](../../factions/legiones_astartes/de
 
 This Detachment has 1 [Land Raider](../../factions/legiones_astartes/detachments.md#legion-land-raider-detachment-35-points-per-model) model as a Dedicated Transport. That Land Raider model is equipped with a Pintle Mounted multi-melta.
 
-[![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
+[![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-tactical-detachment-35-points)
 
 * **Legion Tactical Detachment**
 
@@ -280,7 +280,7 @@ This Detachment has 1 [Land Raider](../../factions/legiones_astartes/detachments
 
 This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments.md#legion-land-raider-detachment-35-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../../factions/legiones_astartes/detachments.md#legion-vindicator-squadron-140-points)
+[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-vindicator-squadron-140-points)
 
 * **Legion Vindicator Squadron**
 
@@ -288,13 +288,13 @@ This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments
 
 **EXPANDED DETACHMENTS: +520 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_artillery.jpg)](../../factions/legiones_astartes/detachments.md#legion-whirlwind-battery-90-points)
+[![](../../media/factions/legiones_astartes/compulsory_artillery.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-whirlwind-battery-90-points)
 
 * **Legion Whirlwind Battery**
 
 6 Whirlwind models.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 
 * **Legion Terminator Detachment**
 
@@ -302,7 +302,7 @@ This Detachment has 4 [Land Raider](../../factions/legiones_astartes/detachments
 
 This Detachment has 6 [Land Raider](../../factions/legiones_astartes/detachments.md#legion-land-raider-detachment-35-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../../factions/legiones_astartes/detachments.md#legion-vindicator-squadron-140-points)
+[![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-vindicator-squadron-140-points)
 
 * **Legion Vindicator Squadron**
 
@@ -318,19 +318,19 @@ This Detachment has 6 [Land Raider](../../factions/legiones_astartes/detachments
 
 **STANDARD DETACHMENTS: 285 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-command-25-points)
 
 * **Legion Command Detachment**
 
 1 Command Squad model.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-missile-launcher-support-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-missile-launcher-support-detachment-50-points)
 
 * **Legion Missile Launcher Support Detachment**
 
 8 Heavy Support Legionaries models.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 
 * **Legion Terminator Detachment**
 
@@ -340,25 +340,25 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 **EXPANDED DETACHMENTS: +350 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-missile-launcher-support-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-missile-launcher-support-detachment-50-points)
 
 * **Legion Missile Launcher Support Detachment**
 
 4 Heavy Support Legionaries models.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-rapier-battery-40-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-rapier-battery-40-points)
 
 * **Legion Rapier Battery**
 
 4 Legion Rapier models. These models are equipped with quad launchers.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-rapier-battery-40-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-rapier-battery-40-points)
 
 * **Legion Rapier Battery**
 
 4 Legion Rapier models. These models are equipped with quad launchers.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 
 * **Legion Terminator Detachment**
 
@@ -378,25 +378,25 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 **STANDARD DETACHMENTS: 305 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
 
 * **Legion Scimitar Jetbike Squadron**
 
 9 Scimitar Jetbike models.
 
-[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
 
 * **Legion Scimitar Jetbike Squadron**
 
 9 Scimitar Jetbike models.
 
-[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
 
 * **Legion Land Speeder Squadron**
 
 4 Land Speeder models. These models are equipped with Nose Mounted heavy flamers and multi-meltas.
 
-[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
 
 * **Legion Javelin Squadron**
 
@@ -404,13 +404,13 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 **EXPANDED DETACHMENTS: +265 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#vanguard-detachments)
 
 * **Legion Outrider Squadron**
 
 6 Outrider models.
 
-[![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#core-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#core-detachments)
 
 * **Legion Tactical Detachment**
 
@@ -418,7 +418,7 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) models as Dedicated Transports.
 
-[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg)](../../factions/legiones_astartes/detachments.md#light-armour-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_light_armour.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#light-armour-detachments)
 
 * **Legion Sabre Squadron**
 
@@ -436,27 +436,27 @@ This Detachment has 4 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 **STANDARD DETACHMENTS: 570 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-command-50-points)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-saturnine-command-50-points)
 
 * **Saturnine Command Squad**
 
 1 Saturnine Command Squad model.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
 
 * **Legion Saturnine Terminator Detachment**
 
 6 Saturnine Terminator models.  
 Three models are equipped with plasma bombards and disruption fists and three models are equipped with paired plasma bombards.
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
 
 * **Legion Saturnine Terminator Detachment**
 
 6 Saturnine Terminator models.  
 Three models are equipped with plasma bombards and disruption fists and three models are equipped with paired plasma bombards.
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-mastodon-squadron-130-points)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-mastodon-squadron-130-points)
 
 * **Legion Mastodon Squadron**
 
@@ -465,21 +465,21 @@ These models are equipped with Sponson Mounted lascannon.
 
 **EXPANDED DETACHMENTS: +495 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-saturnine-terminator-detachment-85-points)
 
 * **Legion Saturnine Terminator Detachment**
 
 6 Saturnine Terminator models.  
 These models are equipped with twin heavy disintegrators and disruption fists.
 
-[![](../../media/factions/legiones_astartes/compulsory_bastion.jpg)](../../factions/legiones_astartes/detachments.md#legion-saturnine-dreadnought-detachment-70-points)
+[![](../../media/factions/legiones_astartes/compulsory_bastion.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-saturnine-dreadnought-detachment-70-points)
 
 * **Legion Saturnine Dreadnought Detachment**
 
 4 Saturnine Dreadnought models.  
 These models are equipped with heavy plasma bombard and disintegrator cannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-mastodon-squadron-130-points)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-mastodon-squadron-130-points)
 
 * **Legion Mastodon Squadron**
 
@@ -498,21 +498,21 @@ These models are equipped with Sponson Mounted lascannon.
 
 **STANDARD DETACHMENTS: 620 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-kratos-commander-100-points)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-kratos-commander-100-points)
 
 * **Legion Kratos Commander**
 
 1 Kratos Commander model.  
 This model is equipped with a melta blastgun with co-axial autocannon, Kratos lascannon and Sponson Mounted lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-kratos-squadron-140-points)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-kratos-squadron-140-points)
 
 * **Legion Kratos Squadron**
 
 3 Legion Kratos models.  
 These models are equipped with melta blastguns with co-axial autocannon, Kratos lascannon and Sponson Mounted lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-fellblade-squadron-120-points)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-fellblade-squadron-120-points)
 
 * **Legion Fellblade Squadron**
 
@@ -521,21 +521,21 @@ These models are equipped with Sponson Mounted quad lascannon.
 
 **EXPANDED DETACHMENTS: +790 Points**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#legion-falchion-squadron-130-points)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-falchion-squadron-130-points)
 
 * **Legion Falchion Squadron**
 
 3 Falchion models.  
 These models are equipped with Sponson Mounted quad lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-glaive-squadron-110-points)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-glaive-squadron-110-points)
 
 * **Legion Glaive Squadron**
 
 3 Glaive models.  
 These models are equipped with Sponson Mounted quad lascannon.
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](../../factions/legiones_astartes/detachments.md#legion-typhon-squadron-80-points)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/legiones_astartes/detachments.md#legion-typhon-squadron-80-points)
 
 * **Legion Typhon Squadron**
 

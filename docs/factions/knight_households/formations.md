@@ -4,11 +4,11 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/knight_households/compulsory_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/compulsory_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/compulsory_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points)
+[![](../../media/factions/knight_households/compulsory_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/compulsory_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/compulsory_cerastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/knight_households/optional_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
+[![](../../media/factions/knight_households/optional_cerastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
 
 ---
 
@@ -18,11 +18,11 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/knight_households/compulsory_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/compulsory_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/compulsory_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
+[![](../../media/factions/knight_households/compulsory_cerastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/compulsory_cerastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/compulsory_armiger.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/knight_households/optional_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
+[![](../../media/factions/knight_households/optional_cerastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_cerastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
 
 ---
 
@@ -30,11 +30,11 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/knight_households/compulsory_acastus.jpg)](../../factions/knight_households/detachments.md#acastus-knight-asterius-banner-240-points) [![](../../media/factions/knight_households/compulsory_acastus.jpg)](../../factions/knight_households/detachments.md#acastus-knight-asterius-banner-240-points) [![](../../media/factions/knight_households/compulsory_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points)
+[![](../../media/factions/knight_households/compulsory_acastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#acastus-knight-asterius-banner-240-points) [![](../../media/factions/knight_households/compulsory_acastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#acastus-knight-asterius-banner-240-points) [![](../../media/factions/knight_households/compulsory_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/knight_households/optional_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
+[![](../../media/factions/knight_households/optional_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
 
 ---
 
@@ -44,8 +44,8 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/knight_households/compulsory_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/compulsory_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points)
+[![](../../media/factions/knight_households/compulsory_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/compulsory_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/knight_households/optional_questoris.jpg)](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/optional_acastus.jpg)](../../factions/knight_households/detachments.md#acastus-knight-asterius-banner-240-points) [![](../../media/factions/knight_households/optional_cerastus.jpg)](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg)](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)
+[![](../../media/factions/knight_households/optional_questoris.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#questoris-knight-banner-130-points) [![](../../media/factions/knight_households/optional_acastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#acastus-knight-asterius-banner-240-points) [![](../../media/factions/knight_households/optional_cerastus.jpg){ width=100 height=100 }](../../factions/knight_households/detachments.md#cerastus-knight-banner-160-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points) [![](../../media/factions/knight_households/optional_armiger.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-armiger-banner-120-points)

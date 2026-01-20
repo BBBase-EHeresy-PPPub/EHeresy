@@ -6,19 +6,19 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/compulsory_hq.jpg)](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments)
+[![](../../media/factions/dark_mechanicum/compulsory_hq.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/optional_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/optional_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments)
+[![](../../media/factions/dark_mechanicum/optional_core.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/optional_core.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/dark_mechanicum/optional_warhound_pack.jpg)](../../factions/collegia_titanica/detachments.md#warhound-hunting-pack-300-points)
+[![](../../media/factions/dark_mechanicum/optional_warhound_pack.jpg){ width=100 height=100 }](../../factions/collegia_titanica/detachments.md#warhound-hunting-pack-300-points)
 
 **OR**
 
-[![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)
+[![](../../media/factions/knight_households/optional_knight.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-detachments)
 
 ---
 
@@ -28,22 +28,22 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/compulsory_heavy_armour.jpg)](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments)
-[![](../../media/factions/dark_mechanicum/compulsory_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/compulsory_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments)
+[![](../../media/factions/dark_mechanicum/compulsory_heavy_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments)
+[![](../../media/factions/dark_mechanicum/compulsory_light_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/compulsory_light_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#light-armour-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg)](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg)](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_hq.jpg)](../../factions/dark_mechanicum/detachments.md#hq-detachments)
+[![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_hq.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#hq-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/dark_mechanicum/optional_heavy_armour.jpg)](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_heavy_armour.jpg)](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments)
+[![](../../media/factions/dark_mechanicum/optional_heavy_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_heavy_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments)
 
 **OR**
 
-[![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments)
+[![](../../media/factions/dark_mechanicum/optional_light_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#light-armour-detachments)
 
-[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg){ width=99 height=99 }](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 ---
 
@@ -59,11 +59,11 @@ Any Harpax 'Swarmer' Scout Host Detachment selected within a Compulsory Detachme
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments)
+[![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)
+[![](../../media/factions/dark_mechanicum/optional_vanguard.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/knight_households/optional_knight.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-detachments)
 
 ---
 
@@ -75,20 +75,20 @@ Any Harpax 'Swarmer' Scout Host Detachment selected within a Compulsory Detachme
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/compulsory_hq.jpg)](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/compulsory_support.jpg)](../../factions/dark_mechanicum/detachments.md#support-detachments) [![](../../media/factions/dark_mechanicum/compulsory_support.jpg)](../../factions/dark_mechanicum/detachments.md#support-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments)
+[![](../../media/factions/dark_mechanicum/compulsory_hq.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/compulsory_support.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#support-detachments) [![](../../media/factions/dark_mechanicum/compulsory_support.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#support-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/compulsory_core.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/dark_mechanicum/optional_hq.jpg)](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/optional_core.jpg)](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/optional_support.jpg)](../../factions/dark_mechanicum/detachments.md#support-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg)](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg)](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg)](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_transport.jpg)](../../factions/dark_mechanicum/detachments.md#transport-detachments)
+[![](../../media/factions/dark_mechanicum/optional_hq.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#hq-detachments) [![](../../media/factions/dark_mechanicum/optional_core.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#core-detachments) [![](../../media/factions/dark_mechanicum/optional_support.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#support-detachments) [![](../../media/factions/dark_mechanicum/optional_vanguard.jpg){ width=99 height=99 }](../../factions/dark_mechanicum/detachments.md#vanguard-detachments) [![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_light_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#light-armour-detachments) [![](../../media/factions/dark_mechanicum/optional_transport.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#transport-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg)](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_heavy_armour.jpg)](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments)
+[![](../../media/factions/dark_mechanicum/optional_battle_tank.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#battle-tank-detachments) [![](../../media/factions/dark_mechanicum/optional_heavy_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#heavy-armour-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/collegia_titanica/optional_titan.jpg)](../../factions/collegia_titanica/detachments.md#titan-detachments)
+[![](../../media/factions/collegia_titanica/optional_titan.jpg){ width=99 height=99 }](../../factions/collegia_titanica/detachments.md#titan-detachments)
 
 **OR**
 
-[![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments) [![](../../media/factions/knight_households/optional_knight.jpg)](../../factions/knight_households/detachments.md#knight-detachments)
+[![](../../media/factions/knight_households/optional_knight.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-detachments) [![](../../media/factions/knight_households/optional_knight.jpg){ width=99 height=99 }](../../factions/knight_households/detachments.md#knight-detachments)

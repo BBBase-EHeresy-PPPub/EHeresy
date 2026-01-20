@@ -22,21 +22,21 @@ The Space Marine Legions had a long history of inducting Solar Auxilia Cohorts i
 
 **Legion**
 
-[![](../media/factions/legiones_astartes/compulsory_hq.jpg)](../factions/legiones_astartes/detachments.md#hq-detachments) [![](../media/factions/legiones_astartes/compulsory_core.jpg)](../factions/legiones_astartes/detachments.md#core-detachments) [![](../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](../factions/legiones_astartes/detachments.md#battle-tank-detachments)
+[![](../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../factions/legiones_astartes/detachments.md#hq-detachments) [![](../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../factions/legiones_astartes/detachments.md#core-detachments) [![](../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](../factions/legiones_astartes/detachments.md#battle-tank-detachments)
 
 **Solar Auxilia**
 
-[![](../media/factions/solar_auxilia/compulsory_hq.jpg)](../factions/solar_auxilia/detachments.md#hq-detachments) [![](../media/factions/solar_auxilia/compulsory_core.jpg)](../factions/solar_auxilia/detachments.md#core-detachments) [![](../media/factions/solar_auxilia/compulsory_battle_tank.jpg)](../factions/solar_auxilia/detachments.md#battle-tank-detachments)
+[![](../media/factions/solar_auxilia/compulsory_hq.jpg){ width=100 height=100 }](../factions/solar_auxilia/detachments.md#hq-detachments) [![](../media/factions/solar_auxilia/compulsory_core.jpg){ width=100 height=100 }](../factions/solar_auxilia/detachments.md#core-detachments) [![](../media/factions/solar_auxilia/compulsory_battle_tank.jpg){ width=101 height=101 }](../factions/solar_auxilia/detachments.md#battle-tank-detachments)
 
 **OPTIONAL DETACHMENTS**
 
 **Legion**
 
-[![](../media/factions/legiones_astartes/optional_support.jpg)](../factions/legiones_astartes/detachments.md#support-detachments)
+[![](../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](../factions/legiones_astartes/detachments.md#support-detachments)
 
 **Solar Auxilia**
 
-[![](../media/factions/solar_auxilia/optional_vanguard.jpg)](../factions/solar_auxilia/detachments.md#vanguard-detachments)
+[![](../media/factions/solar_auxilia/optional_vanguard.jpg){ width=99 height=99 }](../factions/solar_auxilia/detachments.md#vanguard-detachments)
 
 ---
 

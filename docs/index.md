@@ -2,7 +2,7 @@
 
 Shown here is an example of a game of Legions Imperialis in full swing, as Loyalist and Traitor forces clash over a ruined city, giving you an idea of how a game is set up.
 
-[![](media/playfield_thumbnail.jpg)](media/playfield.jpg)
+[![](media/playfield_thumbnail.jpg){ width=1000 height=449 }](media/playfield.jpg)
 
 &emsp;1. **The Battlefield**
 

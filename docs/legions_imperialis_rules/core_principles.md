@@ -70,15 +70,15 @@ A target number can never be improved past 1+; if the end result after multiple 
 
 In Legions Imperialis, Detachments act according to the '**Order**' issued to them at the start of each round ([see page 46](../legions_imperialis_rules/playing_the_game.md#orders-phase)). Orders are issued through the use of '**Order tokens**'. There are five kinds of Order tokens used in Legions Imperialis:
 
-![](../media/legions_imperialis_rules/advance.jpg) Advance
+![](../media/legions_imperialis_rules/advance.jpg){ width=77 height=76 } Advance
 
-![](../media/legions_imperialis_rules/first_fire.jpg) First Fire
+![](../media/legions_imperialis_rules/first_fire.jpg){ width=76 height=76 } First Fire
 
-![](../media/legions_imperialis_rules/charge.jpg) Charge
+![](../media/legions_imperialis_rules/charge.jpg){ width=77 height=76 } Charge
 
-![](../media/legions_imperialis_rules/fall_back.jpg) Fall Back
+![](../media/legions_imperialis_rules/fall_back.jpg){ width=77 height=76 } Fall Back
 
-![](../media/legions_imperialis_rules/march.jpg) March
+![](../media/legions_imperialis_rules/march.jpg){ width=76 height=76 } March
 
 Order tokens are placed during the Order phase of each round. Once a player has chosen a Detachment's Order, they place an Order token face-down on the Detachment's Order token slot on the army roster. Alternatively, Order tokens may be placed face-down next to the Detachment. Some Detachments have restrictions as to what Order they can be issued. Where this is the case, it will be noted in the Detachment's special rules on its datasheet.
 

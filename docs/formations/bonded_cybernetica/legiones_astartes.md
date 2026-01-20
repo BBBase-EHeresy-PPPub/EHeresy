@@ -12,18 +12,18 @@ Detachments from the Mechanicum Taghmata Army List in this Support Formation do 
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](../../factions/legiones_astartes/detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](../../factions/legiones_astartes/detachments.md#core-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_core.jpg)](../../factions/legiones_astartes/detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](../../factions/legiones_astartes/detachments.md#bastion-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
+[![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](../../factions/legiones_astartes/detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](../../factions/legiones_astartes/detachments.md#bastion-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
+[![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
 
 **OR**
 
-[![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
+[![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
 
 ---

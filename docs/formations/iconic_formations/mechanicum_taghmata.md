@@ -4,43 +4,43 @@
 
 **STANDARD DETACHMENTS: 610 Points**
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_hq.jpg)](../../factions/mechanicum_taghmata/detachments.md#archmagos-prime-on-abeyant-45-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_hq.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#archmagos-prime-on-abeyant-45-points)
 
 * **Archmagos Prime on Abeyant**
 
 1 Archmagos on Abeyant model.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
 
 * **Domitar Battle-automata Maniple**
 
 3 Domitar models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
 
 * **Castellax Battle-automata Maniple**
 
 6 Castellax models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
 
 * **Castellax Battle-automata Maniple**
 
 6 Castellax models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
 
 * **Castellax Battle-automata Maniple**
 
 6 Castellax models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
 
 * **Domitar Battle-automata Maniple**
 
 3 Domitar models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#vorax-battle-automata-maniple-40-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#vorax-battle-automata-maniple-40-points)
 
 * **Vorax Battle-automata Maniple**
 
@@ -48,19 +48,19 @@
 
 **EXPANDED DETACHMENTS: +800 Points**
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#tech-priest-auxilia-15-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#tech-priest-auxilia-15-points)
 
 * **Tech-Priest Auxilia**
 
 3 Tech-Priest Auxilia Detachments.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vorax-battle-automata-maniple-40-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#vorax-battle-automata-maniple-40-points)
 
 * **Vorax Battle-automata Maniple**
 
 4 Vorax models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_bastion.jpg)](../../factions/mechanicum_taghmata/detachments.md#thanatar-siege-automata-maniple-110-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_bastion.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#thanatar-siege-automata-maniple-110-points)
 
 * **Thanatar Siege-automata Maniple**
 

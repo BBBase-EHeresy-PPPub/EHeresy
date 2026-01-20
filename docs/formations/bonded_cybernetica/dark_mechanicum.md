@@ -8,18 +8,18 @@ All Detachments included in this Support Formation with the Cybernetica Cortex (
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_hq.jpg)](../../factions/mechanicum_taghmata/detachments.md#hq-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
+[![](../../media/factions/mechanicum_taghmata/compulsory_hq.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#hq-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_bastion.jpg)](../../factions/mechanicum_taghmata/detachments.md#bastion-detachments)
+[![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_bastion.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#bastion-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
+[![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
 
 **OR**
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
+[![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
 
 ---

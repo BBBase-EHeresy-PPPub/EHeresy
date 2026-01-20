@@ -12,18 +12,18 @@ Core Detachment slots in this Support Formation may be filled by Core Detachment
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/solar_auxilia/compulsory_hq.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_tech_priest_auxilia.jpg)](../../factions/mechanicum_taghmata/detachments.md#tech-priest-auxilia-15-points) [![](../../media/factions/mechanicum_taghmata/compulsory_core.jpg)](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_core.jpg)](../../factions/mechanicum_taghmata/detachments.md#core-detachments)
+[![](../../media/factions/solar_auxilia/compulsory_hq.jpg){ width=100 height=100 }](../../factions/solar_auxilia/detachments.md#hq-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_tech_priest_auxilia.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#tech-priest-auxilia-15-points) [![](../../media/factions/mechanicum_taghmata/compulsory_core.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/factions/mechanicum_taghmata/compulsory_core.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/solar_auxilia/optional_hq.jpg)](../../factions/solar_auxilia/detachments.md#hq-detachments) [![](../../media/factions/mechanicum_taghmata/optional_core.jpg)](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_bastion.jpg)](../../factions/mechanicum_taghmata/detachments.md#bastion-detachments)
+[![](../../media/factions/solar_auxilia/optional_hq.jpg){ width=99 height=99 }](../../factions/solar_auxilia/detachments.md#hq-detachments) [![](../../media/factions/mechanicum_taghmata/optional_core.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#core-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_bastion.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#bastion-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg)](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
+[![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments) [![](../../media/factions/mechanicum_taghmata/optional_support.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#support-detachments)
 
 **OR**
 
-[![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg)](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
+[![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
 
 ---

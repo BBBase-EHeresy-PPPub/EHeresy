@@ -6,19 +6,19 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_transport.jpg)](detachments.md#transport-detachments) [![](../../media/factions/legiones_astartes/optional_transport.jpg)](detachments.md#transport-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_vanguard.jpg)](detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_transport.jpg){ width=99 height=99 }](detachments.md#transport-detachments) [![](../../media/factions/legiones_astartes/optional_transport.jpg){ width=99 height=99 }](detachments.md#transport-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_vanguard.jpg){ width=99 height=99 }](detachments.md#vanguard-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/legiones_astartes/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments)
+[![](../../media/factions/legiones_astartes/optional_light_armour.jpg){ width=99 height=99 }](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments)
 
 **One of the following:**
 
-![](../../media/factions/legiones_astartes/optional_artillery.jpg) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
+![](../../media/factions/legiones_astartes/optional_artillery.jpg){ width=99 height=99 } [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg){ width=99 height=99 }](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments)
 
 ---
 
@@ -26,15 +26,15 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg)](detachments.md#bastion-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg){ width=101 height=101 }](detachments.md#bastion-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) ![](../../media/factions/legiones_astartes/optional_artillery.jpg)
+[![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) ![](../../media/factions/legiones_astartes/optional_artillery.jpg){ width=99 height=99 }
 
 **One of the following:**
 
-[![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) ![](../../media/factions/legiones_astartes/optional_artillery.jpg)
+[![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments) ![](../../media/factions/legiones_astartes/optional_artillery.jpg){ width=99 height=99 }
 
 ---
 
@@ -44,15 +44,15 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg)](detachments.md#battle-tank-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/compulsory_battle_tank.jpg){ width=101 height=101 }](detachments.md#battle-tank-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments)
+[![](../../media/factions/legiones_astartes/optional_light_armour.jpg){ width=99 height=99 }](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg){ width=99 height=99 }](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg){ width=99 height=99 }](detachments.md#battle-tank-detachments)
 
 **One of the following:**
 
-[![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
+[![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments)
 
 ---
 
@@ -64,11 +64,11 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_vanguard.jpg)](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments)
+[![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_vanguard.jpg){ width=99 height=99 }](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments)
 
 ---
 
@@ -80,11 +80,11 @@
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg)](detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](detachments.md#vanguard-detachments) [![](../../media/factions/legiones_astartes/compulsory_vanguard.jpg){ width=100 height=100 }](detachments.md#vanguard-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_light_armour.jpg)](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_vanguard.jpg)](detachments.md#vanguard-detachments)
+[![](../../media/factions/legiones_astartes/optional_light_armour.jpg){ width=99 height=99 }](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_light_armour.jpg){ width=99 height=99 }](detachments.md#light-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_vanguard.jpg){ width=99 height=99 }](detachments.md#vanguard-detachments)
 
 ---
 
@@ -96,11 +96,11 @@ All Detachments within this Formation that are upgraded with Dedicated Transport
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments)
+[![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments)
 
 ---
 
@@ -112,11 +112,11 @@ All Detachments within this Formation that are upgraded with Dedicated Transport
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
+[![](../../media/factions/legiones_astartes/optional_battle_tank.jpg){ width=99 height=99 }](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_battle_tank.jpg){ width=99 height=99 }](detachments.md#battle-tank-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments)
 
 ---
 
@@ -128,11 +128,11 @@ All Detachments within this Formation that are upgraded with Dedicated Transport
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg)](detachments.md#core-detachments)
+[![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/optional_core.jpg){ width=99 height=99 }](detachments.md#core-detachments)
 
 ---
 
@@ -146,11 +146,11 @@ During that Movement phase, the Detachment that includes the Legion Saturnine Co
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg)](detachments.md#support-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments)
+[![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](detachments.md#bastion-detachments)
 
 ---
 
@@ -164,11 +164,11 @@ During that Movement phase, the Detachment that includes the Legion Saturnine Co
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/compulsory_heavy_armour.jpg){ width=101 height=101 }](detachments.md#heavy-armour-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg)](detachments.md#air-support-detachments)
+[![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_heavy_armour.jpg){ width=99 height=99 }](detachments.md#heavy-armour-detachments) [![](../../media/factions/legiones_astartes/optional_air_support.jpg){ width=99 height=99 }](detachments.md#air-support-detachments)
 
 ---
 
@@ -180,8 +180,8 @@ During that Movement phase, the Detachment that includes the Legion Saturnine Co
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg)](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg)](detachments.md#bastion-detachments)
+[![](../../media/factions/legiones_astartes/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/legiones_astartes/compulsory_core.jpg){ width=100 height=100 }](detachments.md#core-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg){ width=101 height=101 }](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/compulsory_bastion.jpg){ width=101 height=101 }](detachments.md#bastion-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../../media/factions/legiones_astartes/optional_support.jpg)](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_artillery.jpg)](detachments.md#artillery-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg)](detachments.md#bastion-detachments)
+[![](../../media/factions/legiones_astartes/optional_support.jpg){ width=99 height=99 }](detachments.md#support-detachments) [![](../../media/factions/legiones_astartes/optional_artillery.jpg){ width=99 height=99 }](detachments.md#artillery-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](detachments.md#bastion-detachments) [![](../../media/factions/legiones_astartes/optional_bastion.jpg){ width=99 height=99 }](detachments.md#bastion-detachments)
