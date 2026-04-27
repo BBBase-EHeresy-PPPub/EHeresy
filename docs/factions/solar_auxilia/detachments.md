@@ -413,7 +413,7 @@ An Auxilia Tarantula Battery can purchase one of the following upgrades:
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ----------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
-| Leman Russ battlecannon | 25" | 1 | 4+ | -1 | [Arc] (Front), [Light], [Point Defence] |
+| Leman Russ battlecannon | 25" | 1 | 4+ | -1 |  |
 | Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Hull Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
 | Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
