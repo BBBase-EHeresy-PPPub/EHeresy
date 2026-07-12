@@ -324,6 +324,33 @@ Most Titans are not designed for close quarters combat, but when there is no oth
 |---|---:|---:|---:|---:|---:|---:|---|
 | Smash Attack | 1" | - | - | - | D3 | Scale+1 | Melee |
 
+# The End Phase
+
+> *+++ Archive: 32/AT-Ignatum-34402/*  
+> *Moderati 3rd Class Van Venner +++*  
+> *++ Debriefing officer: Joam Sureval, Princeps Seniores,*  
+> *Balor Maniple ++*
+>
+> *“The berth clamps took hold of us, and one by one we disengaged from the manifold. The sense of relief was palpable.”*
+>
+> *[Sureval] “And the Princeps?”*
+>
+> *“She was clasping a hand to her hip as she stood from the throne; a mega-bolter round had cut deep into Cúhullin’s flank, and she was feeling it. But she stood straight nonetheless. I’ll say it again: she handled a challenging first engagement impeccably. If I may say, my lord, I believe she will prove to be a most capable Princeps.”*
+
+The End phase is usually over very quickly, and is mainly a chance for players to prepare for the next round.
+
+## Resolve End Phase Effects
+
+Some game effects take place during the End phase. For example, if a Warlord Titan has a Reactor Leak (a form of Critical Damage), it states that the Reactor Status marker is advanced a number of times in each End phase.
+
+If a player has multiple effects that must be resolved in the End phase, they can choose the order in which to resolve them. If both players have effects that are resolved in the End phase, the First Player resolves all of theirs first then the other player resolves theirs.
+
+> **Designer’s Note**
+>
+> **Don’t Forget the End Phase!**
+>
+> Although it might not look like the End phase does much, be careful not to forget it! A lot of rules are triggered in this phase, especially once you start using the Advanced Rules. For example, any Order dice that are on Command Terminals are removed in the End phase.
+
 # TITANIC WEAPONRY
 
 > *+++ Munitions overview: Gloria Inferius, Legio Gryphonicus +++*  

@@ -1,0 +1,7 @@
+# Campaign Compendium
+
+## Adeptus Titanicus Campaign Compendium
+
+The Horus Heresy was a war unlike any the Imperium had faced before. When the Warmaster turned against the Emperor of Mankind he did not just sunder the Legiones Astartes but the very integrity of the Imperium. The Collegia Titanica were not spared disunity and across the galaxy Titan Legion fought Titan Legion, god-engines turning worlds to ash beneath their guns. Of those battles held in greatest infamy during this age, few were absent of god-engines, for they were the hammer of the Imperium, the unyielding might that could shatter the most resilient of strongholds. From the basalt sands of Isstvan V to the blasted ground before the Imperial Palace on Terra, the Titan Legions proved their might again and again, carving scars into worlds unnumbered.
+
+The *Adeptus Titanicus: Campaign Compendium* is a collection of such battles, bringing together the narrative and rules from previously published Adeptus Titanicus supplements into a single tome. Within, you’ll find the tales of god-engines during The Shadow Crusade, Molech, The Crusade of Iron, The Defence of Ryza and the Titandeath. In addition, you’ll find a total of 27 Narrative Missions relating to the tales told in this book, rules for creating your own Titan Legions, for running your own Knight Households, hostile battlefields rules, Adeptus Titanicus campaign rules, and Echoes of Glory, a series of general purpose scenarios with a narrative focus for you to play.

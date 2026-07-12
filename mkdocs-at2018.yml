@@ -46,6 +46,7 @@ nav:
       - Assembling a Battlegroup: rulebook/assembling_a_battlegroup.md
       - Fighting a Battle: rulebook/fighting_a_battle.md
       - Stratagems: rulebook/stratagems.md
+      - Additional Stratagems: rulebook/additional_stratagems.md
       - Open Play: rulebook/open_play.md
       - Narrative Play: rulebook/narrative_play.md
       - Matched Play: rulebook/matched_play.md
@@ -57,6 +58,33 @@ nav:
       - Doubles Events & Narrative Events: matched_play_guide/doubles_and_narrative_events.md
       - "Appendix: Battlegroup Allegiances": matched_play_guide/battlegroup_allegiances.md
       - Rules References: matched_play_guide/rules_references.md
+  - Missions:
+      - Missions: missions/index.md
+      - The Iron Crusade: missions/iron_crusade.md
+      - The Battle of Molech: missions/battle_of_molech.md
+      - Beast Hunt: missions/beast_hunt.md
+      - White Dwarf: missions/white_dwarf.md
+      - The Cataclysm of Iron: missions/cataclysm_of_iron.md
+      - The Battle for Ryza: missions/battle_for_ryza.md
+      - The War for Beta-Garmon: missions/beta_garmon.md
+      - The Siege of Kado: missions/siege_of_kado.md
+      - Echoes of Glory: missions/echoes_of_glory.md
+      - Death Worlds: missions/death_worlds.md
+      - Forge Worlds: missions/forge_worlds.md
+      - Hive Worlds: missions/hive_worlds.md
+      - Open Engine War: missions/open_engine_war.md
+  - Campaigns:
+      - Campaigns: campaigns/index.md
+      - Knight Households in Campaigns: campaigns/knight_households_in_campaigns.md
+      - Sub-sector Map Campaigns: campaigns/sub_sector_map_campaigns.md
+      - Optional Campaign Rules: campaigns/optional_campaign_rules.md
+      - Planetary Traits: campaigns/planetary_traits.md
+      - Titan Upgrades: campaigns/titan_upgrades.md
+  - Campaign Compendium:
+      - Campaign Compendium: campaign_compendium/index.md
+      - Creating a Titan Legion: campaign_compendium/creating_a_titan_legion.md
+      - The Household Marches: campaign_compendium/household_marches.md
+      - Hostile Battlefields: campaign_compendium/hostile_battlefields.md
   - Loyalist Legios:
       - Loyalist Legios: loyalist_legios/index.md
       - Assembling a Battlegroup: loyalist_legios/assembling_a_battlegroup.md
