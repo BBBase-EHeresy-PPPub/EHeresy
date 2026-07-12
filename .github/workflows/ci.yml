@@ -1,25 +1,48 @@
-name: ci 
+name: ci
+
 on:
   push:
     branches:
-      - master 
+      - master
       - main
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v7
+
+      - name: Prepare gh-pages
+        run: |
+          git fetch origin gh-pages || true
+          git worktree add gh-pages gh-pages || git worktree add gh-pages origin/gh-pages
+
+      - name: Configure Git credentials
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v6
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v3
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+
+      - name: Install dependencies
+        run: pip install mkdocs-material mike
+
+      - name: Build games
+        run: |
+          mike delete --all --config-file mkdocs-li2023.yml --branch gh-pages --ignore-remote-status
+          mike deploy --config-file mkdocs-at2018.yml at2018
+          mike deploy --config-file mkdocs-li2023.yml li2023
+          mike set-default --config-file mkdocs-li2023.yml li2023
+          git -C gh-pages reset --hard gh-pages
+          sh .github/pages-root-files.sh
+          git -C gh-pages add -A
+          git -C gh-pages diff --cached --quiet || git -C gh-pages commit -m "Sync GitHub Pages root files"
+
+      - name: Push gh-pages
+        run: git -C gh-pages push origin gh-pages

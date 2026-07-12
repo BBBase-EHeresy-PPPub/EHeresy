@@ -1,0 +1,82 @@
+site_name: Epic Heresy
+docs_dir: docs/at2018
+
+theme:
+  name: material
+  palette:
+    scheme: adeptus-titanicus
+  custom_dir: overrides
+  logo: assets/AT_logo.png
+  favicon: assets/EH_Favicon.ico
+  features:
+    - header.autohide
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - versioning
+
+plugins:
+  - search
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/search-result-navigation.js
+
+markdown_extensions:
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.tilde
+  - attr_list
+
+validation:
+  absolute_links: ignore
+
+nav:
+  - Rulebook:
+      - The Rules: rulebook/the_rules.md
+      - Basic Rules: rulebook/basic_rules.md
+      - Advanced Rules: rulebook/advanced_rules.md
+      - Optional Rules: rulebook/optional_rules.md
+      - Assembling a Battlegroup: rulebook/assembling_a_battlegroup.md
+      - Fighting a Battle: rulebook/fighting_a_battle.md
+      - Stratagems: rulebook/stratagems.md
+      - Open Play: rulebook/open_play.md
+      - Narrative Play: rulebook/narrative_play.md
+      - Matched Play: rulebook/matched_play.md
+      - Legions of the Adeptus Titanicus: rulebook/legions_of_the_adeptus_titanicus.md
+  - Matched Play Guide:
+      - Matched Play Guide: matched_play_guide/index.md
+      - Organised Play: matched_play_guide/organised_play.md
+      - "Running an Event: Tournaments": matched_play_guide/running_an_event_tournaments.md
+      - Doubles Events & Narrative Events: matched_play_guide/doubles_and_narrative_events.md
+      - "Appendix: Battlegroup Allegiances": matched_play_guide/battlegroup_allegiances.md
+      - Rules References: matched_play_guide/rules_references.md
+  - Loyalist Legios:
+      - Loyalist Legios: loyalist_legios/index.md
+      - Assembling a Battlegroup: loyalist_legios/assembling_a_battlegroup.md
+      - Warmaster Heavy Battle Titan: loyalist_legios/warmaster_heavy_battle_titan.md
+      - Titan Maniples: loyalist_legios/titan_maniples.md
+      - Loyalist Titan Legions: loyalist_legios/loyalist_titan_legions.md
+      - Loyalist Knight Households: loyalist_legios/loyalist_knight_households.md
+      - The Ordo Sinister: loyalist_legios/the_ordo_sinister.md
+      - Weapon Charts: loyalist_legios/weapon_charts.md
+      - Titan Upgrades: loyalist_legios/titan_upgrades.md
+      - Stratagems: loyalist_legios/stratagems.md
+  - Traitor Legios:
+      - Traitor Legios: traitor_legios/index.md
+      - Assembling a Battlegroup: traitor_legios/assembling_a_battlegroup.md
+      - Warmaster Iconoclast Heavy Battle Titan: traitor_legios/warmaster_iconoclast_heavy_battle_titan.md
+      - Titan Maniples: traitor_legios/titan_maniples.md
+      - Traitor Titan Legions: traitor_legios/traitor_titan_legions.md
+      - Traitor Knight Households: traitor_legios/traitor_knight_households.md
+      - Titanica Infernus: traitor_legios/titanica_infernus.md
+      - Weapon Charts: traitor_legios/weapon_charts.md
+      - Titan Upgrades: traitor_legios/titan_upgrades.md
+      - Stratagems: traitor_legios/stratagems.md
+  - "[ Legions Imperialis ]": /li2023/

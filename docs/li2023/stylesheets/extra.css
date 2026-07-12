@@ -1,6 +1,6 @@
 @font-face {
  font-family: "DroidSerif";
- src: url(/assets/fonts/DroidSerif.woff) format("woff");
+ src: url(../assets/fonts/DroidSerif.woff) format("woff");
 }
 
 :root {

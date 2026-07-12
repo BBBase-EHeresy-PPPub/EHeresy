@@ -1,4 +1,6 @@
 site_name: Epic Heresy
+docs_dir: docs/li2023
+
 theme:
   name: material
   palette:
@@ -20,6 +22,9 @@ theme:
     - navigation.indexes
     - navigation.tabs
     - navigation.top
+    - versioning
+plugins:
+  - search
 extra:
   generator: false
 extra_css:
@@ -34,9 +39,10 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - pymdownx.snippets:
+      base_path: includes/li2023
       auto_append:
-        - includes/tooltip_special_rules.md
-        - includes/tooltip_weapon_traits.md
+        - tooltip_special_rules.md
+        - tooltip_weapon_traits.md
 validation:
   absolute_links: ignore
 nav:
@@ -125,3 +131,4 @@ nav:
   - Reference Section:
       - Detachment Reference: reference/detachment_reference.md
       - Weapon Profiles: reference/weapon_profiles.md
+  - "[ Adeptus Titanicus ]": /at2018/
