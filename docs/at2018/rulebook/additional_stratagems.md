@@ -1,6 +1,4 @@
-# Additional Stratagems
-
-The following Stratagems are available for use in games of *Adeptus Titanicus* and cannot currently be found within a supplement. These Stratagems are available for use in all types of play; any restrictions, such as being usable by a specific Knight Household, are detailed within the Stratagem itself.
+The following document includes all of the Stratagems available for use in games of Adeptus Titanicus that can not currently be found within a supplement. These Stratagems are available for use in all types of play in Adeptus Titanicus; any restrictions, such as being usable by a specific Knight Household, are detailed within the Stratagem itself.
 
 ## Tertiary Objectives
 
@@ -12,7 +10,7 @@ Play this Stratagem at the end of the battle. Score 2 Victory points for each en
 
 ### Decapitating Strike (2)
 
-Play this Stratagem at the end of the battle. If the opposing player’s Princeps Seniores’ Titan has been destroyed, score Victory points equal to half its Scale (rounding down). Alternatively, if the opponent’s Seneschal and their entire Banner have been destroyed, score 3 additional Victory points.
+Play this Stratagem at the end of the battle. If the opposing player's Princeps Seniores' Titan has been destroyed, score Victory points equal to half its Scale (rounding down). Alternatively, if the opponent's Seneschal and their entire Banner have been destroyed, score 3 additional Victory points.
 
 ### Break Through (1)
 
@@ -37,7 +35,7 @@ This Stratagem can be played once in each Strategy phase of the game. When this 
 If two opposing markers are placed in the same piece of terrain, immediately remove both markers.
 
 | BS/WS | Firing Arc | Range S | Range L | Accuracy S | Accuracy L | Dice | Strength | Traits |
-|---:|:---:|---:|---:|:---:|:---:|---:|---:|:---:|
+|---|:---:|---|---:|:---:|:---:|---|---:|:---:|
 | 5+ | 360° | 6" | 12" | +1 | - | 4 | 5 | - |
 
 ## Knight Stratagems
@@ -106,17 +104,17 @@ This Stratagem can be purchased by any House Indra Knight Household. Play this S
 
 ### Strength of One (1)
 
-This Stratagem can be purchased by any House Kaska Knight Household. Play this Stratagem when a Knight Banner is hit by an attack during the Movement phase or Combat phase. When working out the Banner’s Ion Shield save count the unit as having its maximum number of allowable models, regardless of the actual number of models in the unit.
+This Stratagem can be purchased by any House Kaska Knight Household. Play this Stratagem when a Knight Banner is hit by an attack during the Movement phase or Combat phase. When working out the Banner's Ion Shield save count the unit as having its maximum number of allowable models, regardless of the actual number of models in the unit.
 
 ### Ionic Overload (1)
 
-This Stratagem can be purchased by any House Kaushik Knight Household. Play this Stratagem when a Knight Banner is hit by an attack during the Movement phase or Combat phase. When working out the Banner’s Ion Shield save count the unit as having its maximum number of allowable models, regardless of the actual number of models in the unit.
+This Stratagem can be purchased by any House Kaushik Knight Household. Play this Stratagem when a Knight Banner is hit by an attack during the Movement phase or Combat phase. When working out the Banner's Ion Shield save count the unit as having its maximum number of allowable models, regardless of the actual number of models in the unit.
 
 ### From the Storm (3)
 
 This Stratagem can be purchased by any House Mamaragon Knight Household. Play this Stratagem in the Strategy phase of the first round. The player chooses one of their Knight Banners. This Banner cannot make attacks, nor can it be the target of attacks for the duration of this round.
 
-### Duellist’s Challenge (1)
+### Duellist's Challenge (1)
 
 This Stratagem can be purchased by any House Tazkhar Knight Household. Play this Stratagem when a Knight Banner is attacked by an enemy Knight Banner. For the duration of the Combat phase only the highest ranking model (Lord Scion, High Scion or Seneschal) in both the attacking Banner and the Banner being attacked fight, and must direct their attacks against each other.
 
@@ -126,8 +124,8 @@ The following Stratagems were provided as seasonal promotional content as part o
 
 ### Venerable Machine Spirit (2)
 
-Play this Stratagem in the first Strategy phase of the battle. The player chooses one of their Titans that is not a Titan of Legend or Psi-Titan; for the remainder of the battle that Titan increases its WS and BS values by +1 (to a maximum of 2+). In addition, it may be issued Emergency Repair or Charge orders without the need to make a Command check. However, decrease the Titan’s Command characteristic by 3 (to a maximum of 10+). If, at any point during the battle, the Titan fails its Command check to quell the Machine Spirit, the Belligerent result is automatically applied; do not roll on the Awakened Machine Spirit table.
+Play this Stratagem in the first Strategy phase of the battle. The player chooses one of their Titans that is not a Titan of Legend or Psi-Titan; for the remainder of the battle that Titan increases its WS and BS values by +1 (to a maximum of 2+). In addition, it may be issued Emergency Repair or Charge orders without the need to make a Command check. However, decrease the Titan's Command characteristic by 3 (to a maximum of 10+). If, at any point during the battle, the Titan fails its Command check to quell the Machine Spirit, the Belligerent result is automatically applied; do not roll on the Awakened Machine Spirit table.
 
 ### The Miracle of Mars (3)
 
-Play this Stratagem at the start of the Damage Control phase. The player chooses one of their Titans and places this card next to its Command Terminal. At any point during the Titan’s activation the player may discard the card to cool the Titan’s Reactor. To see how effective this is roll 2D10 and add 5. If the result is 7-15, reduce the Titan’s Reactor by D3 levels. If the result is 16-24, reduce the Titan’s Reactor by D6 levels. If the result is 25, move the reactor tracker to its leftmost hole.
+Play this Stratagem at the start of the Damage Control phase. The player chooses one of their Titans and places this card next to its Command Terminal. At any point during the Titan's activation the player may discard the card to cool the Titan's Reactor. To see how effective this is roll 2D10 and add 5. If the result is 7-15, reduce the Titan's Reactor by D3 levels. If the result is 16-24, reduce the Titan's Reactor by D6 levels. If the result is 25, move the reactor tracker to its leftmost hole.

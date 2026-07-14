@@ -33,12 +33,17 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tilde
   - attr_list
+  - pymdownx.snippets:
+      base_path: includes/at2018
+      auto_append:
+        - tooltip_weapon_traits.md
 
 validation:
   absolute_links: ignore
 
 nav:
   - Rulebook:
+      - Rulebook: rulebook/index.md
       - The Rules: rulebook/the_rules.md
       - Basic Rules: rulebook/basic_rules.md
       - Advanced Rules: rulebook/advanced_rules.md
@@ -60,6 +65,8 @@ nav:
       - Rules References: matched_play_guide/rules_references.md
   - Missions:
       - Missions: missions/index.md
+      - Narrative Missions: missions/rulebook_narrative_missions.md
+      - Meeting Engagement: missions/meeting_engagement.md
       - The Iron Crusade: missions/iron_crusade.md
       - The Battle of Molech: missions/battle_of_molech.md
       - Beast Hunt: missions/beast_hunt.md

@@ -1,5 +1,3 @@
-# Doubles Events
-
 Doubles events involve players teaming up with a friend to do battle against another team, bringing new challenges and exciting experiences to games of *Adeptus Titanicus*. Being part of a team allows players to use their collective gaming experience and knowledge to play a game, develop friendly rivalries about whose Titans or Knight Banners can claim the most Engine Kills and test their mettle against other teams to see whose is the best team out there.
 
 As a departure from the usual play style of *Adeptus Titanicus*, there are additional considerations to take into account when playing Doubles events. Unless otherwise stated a Doubles event will follow the same format as a standard tournament.
@@ -36,7 +34,7 @@ Stratagem Hands are built for the entire battlegroup, with each set of Legio rul
 
 ## Objectives
 
-When choosing objectives before a game, a battlegroup chooses a Primary and Secondary Objective as normal – there is only one of each chosen for the entire Doubles battlegroup per battle. Victory points are shared across a battlegroup, treating the two forces and players as a single battlegroup for the purposes of determining how many Victory points have been scored and their rankings during the event.
+When choosing objectives before a game, a battlegroup chooses a Primary and Secondary Objective as normal - there is only one of each chosen for the entire Doubles battlegroup per battle. Victory points are shared across a battlegroup, treating the two forces and players as a single battlegroup for the purposes of determining how many Victory points have been scored and their rankings during the event.
 
 ## Deployment Maps
 
@@ -44,7 +42,7 @@ During Doubles events, the standard Deployment Maps for Matched Play can be used
 
 ## Event Winners and Prizes
 
-In Doubles events the winner is decided as a team, meaning the highest ranked Doubles team will be declared as victors of the event. As with Organised Play events, it is common for Doubles Tournaments to have prizes at the end. These prize categories will largely be the same as those for Organised Play, with the main difference being the awarding of prizes to two people instead of one for categories such as ‘Most Sporting Players’. ‘Best Painted’ awards can be awarded to Doubles teams as a whole or to individual players as the Tournament Organiser sees fit.
+In Doubles events the winner is decided as a team, meaning the highest ranked Doubles team will be declared as victors of the event. As with Organised Play events, it is common for Doubles Tournaments to have prizes at the end. These prize categories will largely be the same as those for Organised Play, with the main difference being the awarding of prizes to two people instead of one for categories such as "Most Sporting Players". "Best Painted" awards can be awarded to Doubles teams as a whole or to individual players as the Tournament Organiser sees fit.
 
 # Doubles Deployment Maps
 
@@ -134,7 +132,7 @@ Rare was an assault where one side committed their full strength, for to wager a
 
 Not every event needs a competitive focus. Instead, some events focus on the rich narrative of the Horus Heresy, the backdrop for the game of *Adeptus Titanicus*, and run Narrative events that focus on players crafting a story through the games that take place across the event.
 
-These events are often called Narrative events to represent their focus on storytelling rather than competitive gaming. Normally based upon a particular conflict of the Horus Heresy, whether that is one of the event’s own invention or one drawn from the existing background, a Narrative event groups players in factions and allows them to fight key battles that will directly influence the event going forwards. This adds an extra layer, where the results of the entire faction matter, rather than just those of each individual player.
+These events are often called Narrative events to represent their focus on storytelling rather than competitive gaming. Normally based upon a particular conflict of the Horus Heresy, whether that is one of the event's own invention or one drawn from the existing background, a Narrative event groups players in factions and allows them to fight key battles that will directly influence the event going forwards. This adds an extra layer, where the results of the entire faction matter, rather than just those of each individual player.
 
 What follows is a number of different rules and suggestions for running your own Narrative events.
 
@@ -156,7 +154,7 @@ At the end of each event round, Conquest Benefits are awarded to the faction tha
 
 ## Branching Narrative
 
-A Branching Narrative is a term used to describe a tree-style mission format, where the outcomes of an event round determine which mission is played in the next event round. In practice, this means if a Loyalist faction claims victory in the first event round then the mission played will be different compared to if the Traitor faction claimed victory in the first event round. This format hands the reins of the narrative to the players and shapes the event’s story in response to the outcome of their games.
+A Branching Narrative is a term used to describe a tree-style mission format, where the outcomes of an event round determine which mission is played in the next event round. In practice, this means if a Loyalist faction claims victory in the first event round then the mission played will be different compared to if the Traitor faction claimed victory in the first event round. This format hands the reins of the narrative to the players and shapes the event's story in response to the outcome of their games.
 
 It pays to bear in mind that using a Branching Narrative requires significantly more pre-planning and bookkeeping than a Narrative event using Conquest Benefits, especially if there are more than two factions taking part in the event. For an event with five games there are numerous potential outcomes and this can create a considerable workload if the Tournament Organiser is hoping to make each unique. To aid this, missions should borrow rules from existing Narrative missions or Organised Play objectives, adding a new rule or battlefield rule to make each mission unique. Less, in many cases, is more.
 
@@ -172,7 +170,7 @@ During each event round, participants will play a mission assigned to them for t
 
 When starting a Narrative event, players will need to be split into factions. Factions in Adeptus Titanicus can be as simple as splitting the players into Loyalist and Traitor, with half of the players going into each. More complex options include opening it up to Loyalist, Traitor and Blackshield players and/or including the individual battlegroup allegiance for both Titan Legions and Knight Households as separate factions. It is important to note that the more factions an event includes, the more record-keeping needed.
 
-When choosing factions, the Tournament Organiser should consider if players within a particular faction will have any restrictions on how they can build their battlegroup. It is suggested that a faction should dictate the allegiance of its players’ battlegroups (e.g., the Loyalist faction can only contain Loyalist Legio battlegroups and Questoris Imperialis and Mechanicus Household battlegroups) but not restrict the rules players can use, to allow players to play the Titan Legion or Knight Household they wish – after all, the line between Loyalist and Traitor was rarely a clean one.
+When choosing factions, the Tournament Organiser should consider if players within a particular faction will have any restrictions on how they can build their battlegroup. It is suggested that a faction should dictate the allegiance of its players' battlegroups (e.g., the Loyalist faction can only contain Loyalist Legio battlegroups and Questoris Imperialis and Mechanicus Household battlegroups) but not restrict the rules players can use, to allow players to play the Titan Legion or Knight Household they wish - after all, the line between Loyalist and Traitor was rarely a clean one.
 
 ## Battlegroups
 
@@ -186,33 +184,33 @@ In Narrative events, it is advisable to have a system in place that allows playe
 
 ## Event Winners and Prizes
 
-At a Narrative event with factions, the winner is normally every player in that faction, meaning all share in victory or defeat. If the Tournament Organiser wishes, individual ‘Best of Faction’ awards can be given to the highest ranked player of each faction – where possible these should be thematically named such as ‘The Warmaster’s Chosen’. Prizes for ‘Best Painted’ can be done in a similar fashion to other events described in this book.
+At a Narrative event with factions, the winner is normally every player in that faction, meaning all share in victory or defeat. If the Tournament Organiser wishes, individual "Best of Faction" awards can be given to the highest ranked player of each faction - where possible these should be thematically named such as "The Warmaster's Chosen". Prizes for "Best Painted" can be done in a similar fashion to other events described in this book.
 
-# ADDITIONAL RULES
+# Additional Rules
 
-When designing an event, the Tournament Organiser should consider if they wish to add something extra to their event in order to add a unique element to the battles that take place. In general, these should be small things that do not change the core gameplay of Adeptus Titanicus – too complex and players will often forget these elements during the course of play. There are countless things a Tournament Organiser can do to add something extra to an event and over the following pages we’ve presented some methods to do this.
+When designing an event, the Tournament Organiser should consider if they wish to add something extra to their event in order to add a unique element to the battles that take place. In general, these should be small things that do not change the core gameplay of Adeptus Titanicus - too complex and players will often forget these elements during the course of play. There are countless things a Tournament Organiser can do to add something extra to an event and over the following pages we've presented some methods to do this.
 
 For individual battles, regardless of the event type, there are Battlefield Rules which represent the nature of the world the forces are fighting over. Battlefield Rules can be found in various Adeptus Titanicus supplements and twelve are presented in this section that provide an extra element to a battle, without unduly slowing the game down. In addition, this section also presents six Conquest Benefits (see page 37) to include in your Narrative events, as well as serve as examples for writing your own.
 
-## BATTLEFIELD RULES
+## Battlefield Rules
 
 During the Horus Heresy, innumerable worlds were fought over by the factions vying for control of the galaxy. Each world was its own diverse entity, and to the forces that sought to conquer them each presented their own challenges and dangers. The Hostile Battlefield rules offer a perfect way to represent these dangers, presented by varying rules without overburdening the game with too many extra elements.
 
-Tournament Organisers wishing to add an extra twist to certain battles during an event, especially Narrative events, should feel free to apply one or two Battlefield rules to an event round. Ideally, these rules should affect both players equally and to facilitate this, we’ve included a list of Hostile Battlefield rules that Tournament Organisers may include in their events.
+Tournament Organisers wishing to add an extra twist to certain battles during an event, especially Narrative events, should feel free to apply one or two Battlefield rules to an event round. Ideally, these rules should affect both players equally and to facilitate this, we've included a list of Hostile Battlefield rules that Tournament Organisers may include in their events.
 
 **Gas Pockets:** *Certain worlds harbour pockets of combustible gases that Titan weaponry is prone to igniting.*
 
-Whenever a weapon with the Blast trait misses its target and scatters, there’s a chance that it might ignite a gas pocket. After working out the effects of the weapon’s attack, leave the Blast marker on the table and roll a D6. On a 4+, place the Flame template so the narrowest part is touching the Blast template’s central hole and the template is pointing in a direction indicated by a Scatter dice. Any unit underneath the Flame template suffers D6 S5 hits.
+Whenever a weapon with the Blast trait misses its target and scatters, there's a chance that it might ignite a gas pocket. After working out the effects of the weapon's attack, leave the Blast marker on the table and roll a D6. On a 4+, place the Flame template so the narrowest part is touching the Blast template's central hole and the template is pointing in a direction indicated by a Scatter dice. Any unit underneath the Flame template suffers D6 S5 hits.
 
 **Automated Defences:** *An infusion of scrap code has overwritten the targeting algorithms of the local defences, causing them to fire upon anything that enters their threat range.*
 
-After a unit moves in the Movement phase, roll a D10. On a 1 or 2, the Titan has triggered the facility’s Automated Defences. That unit suffers D6 S4 Hits, as if resolving an attack from a Shieldbane weapon.
+After a unit moves in the Movement phase, roll a D10. On a 1 or 2, the Titan has triggered the facility's Automated Defences. That unit suffers D6 S4 Hits, as if resolving an attack from a Shieldbane weapon.
 
 **Firestorm:** *The battlefield is covered in flames ignited by the escalating conflicts, taxing the systems of the warring Titans and straining their reactors.*
 
 Titans Vent Plasma on a 5+ instead of a 4+ during the Damage Control phase. In addition, a Titan with the Reactor Leak damage effect advances its Reactor Track by one extra hole than normal.
 
-**Sun Locked:** *The planet is tidally locked, and the forces do battle on the side exposed to the constant punishing heat of the system’s star.*
+**Sun Locked:** *The planet is tidally locked, and the forces do battle on the side exposed to the constant punishing heat of the system's star.*
 
 Whenever a Titan pushes its reactor, roll an additional Reactor dice and apply the worst result of the two rolls, this being, from worst to best: Awakened Machine Spirit then two Reactor symbols, one Reactor symbol, then the blank face.
 
@@ -222,9 +220,9 @@ Attacks made against targets more than 18" away suffer a -1 penalty to Hit rolls
 
 **Magnetic Storm:** *The atmosphere is magnetically charged, releasing devastating bursts of energy when agitated by the blowout of void shields.*
 
-Whenever a Titan’s Void Shields collapse, any unit with active Void Shields within 3" of that Titan suffers a single S5 hit that bypasses Void Shields, as if hit by a weapon with the Shock trait. Titans suffer this hit to their Body.
+Whenever a Titan's Void Shields collapse, any unit with active Void Shields within 3" of that Titan suffers a single S5 hit that bypasses Void Shields, as if hit by a weapon with the Shock trait. Titans suffer this hit to their Body.
 
-**Ocean Planet:** *Much of the world’s surface is flooded with shallow seas, above which stand raised cities.*
+**Ocean Planet:** *Much of the world's surface is flooded with shallow seas, above which stand raised cities.*
 
 Titans cannot move more than 10" during a single round. Knight Banners have their movement halved (rounding up), but firing at Knight Banners incurs a -1 modifier to all Hit rolls. Whenever a Titan moves more than 6" during a single activation, every unit in its Front arc and within 3" of the Titan once it has finished its movement is concussed, as if successfully hit by a Concussive weapon not deflected by its shields.
 
@@ -234,17 +232,17 @@ At the start of each Stratagem phase, before any orders have been issued, the Fi
 
 **Radiation Barrage:** *The planet is bombarded by hard radiation. Only shielded vehicles can survive on its surface.*
 
-Whenever a Titan with a Void Shield level of X activates during the Movement phase, it immediately suffers a S6 Direct Hit to its Body – this can cause Critical Damage as normal. When a Knight Banner activates during the Movement phase, it immediately suffers a single S8 hit. No Shield saves can be made against this hit.
+Whenever a Titan with a Void Shield level of X activates during the Movement phase, it immediately suffers a S6 Direct Hit to its Body - this can cause Critical Damage as normal. When a Knight Banner activates during the Movement phase, it immediately suffers a single S8 hit. No Shield saves can be made against this hit.
 
-**Thick Foliage:** *The world’s surface is rich in thick forests that offer concealment to smaller engines of war.*
+**Thick Foliage:** *The world's surface is rich in thick forests that offer concealment to smaller engines of war.*
 
-Models with a Scale of 5 or lower are always counted as at least 25% obscured while within 3” of a piece of terrain, unless they have already suffered one or more hits from a weapon with the Firestorm trait that round.
+Models with a Scale of 5 or lower are always counted as at least 25% obscured while within 3" of a piece of terrain, unless they have already suffered one or more hits from a weapon with the Firestorm trait that round.
 
 **Corrosive Downpour:** *A constant deluge of corrosive liquid, whether natural or released from industrial processes, is a danger to wounded engines of war.*
 
 Whenever a Titan with a Void Shield level of X suffers a Direct Hit or Devastating Hit, roll a D6. On a 1, that Titan suffers that hit twice, i.e., a Titan that suffers a Direct Hit and rolls a 1 would suffer two Direct Hits instead. Roll once per weapon attack, no matter how many Hits are inflicted by one attack; the target suffers the most damaging Hit twice (i.e., Devastating instead of Direct if both are caused by a weapon attack).
 
-**Unstable Ground:** *The planet’s surface is porous, riddled with concealed pitfalls that pose a danger to fast moving Titans.*
+**Unstable Ground:** *The planet's surface is porous, riddled with concealed pitfalls that pose a danger to fast moving Titans.*
 
 Whenever a Titan declares Power to Locomotors! and moves further than its default Movement characteristic, roll a D6 at the end of its activation. On a 1, the Titan counts as having suffered a successful hit by a Quake weapon not deflected by its shields; this Hit does not have a Strength value, does not result in an Armour roll and no damage is caused, simply the effects of the Quake trait.
 
@@ -256,25 +254,24 @@ Conquest Benefits are awarded after the results of a round have been gathered an
 
 **Enhanced Intel:** *The faction has seized a vital command network that facilitates rapid communication between allied forces.*
 
-If a player’s faction has this Conquest Benefit, during the Strategy phase of the first round they may issue orders to D3+1 friendly units, determined at the start of each game, without the need to make a Command check. These Orders can be issued even if the Strategy phase has ended early.
+If a player's faction has this Conquest Benefit, during the Strategy phase of the first round they may issue orders to D3+1 friendly units, determined at the start of each game, without the need to make a Command check. These Orders can be issued even if the Strategy phase has ended early.
 
 **Materiel Stockpile:** *The faction has secured a valuable stockpile of munitions that will serve to fuel their conquest.*
 
-If a player’s faction has this Conquest Benefit, any weapons with the Limited (X) trait carried by friendly units can be used an additional time during a battle, i.e., a Limited (1) weapon would become Limited (2), unless the Limited (X) trait could not normally be increased (e.g., a Warp Missile with the Vortex Payload upgrade).
+If a player's faction has this Conquest Benefit, any weapons with the Limited (X) trait carried by friendly units can be used an additional time during a battle, i.e., a Limited (1) weapon would become Limited (2), unless the Limited (X) trait could not normally be increased (e.g., a Warp Missile with the Vortex Payload upgrade).
 
 **Notable Conquest:** *The faction has won an important battle that will do much to bolster the morale of its own forces for the coming conflict.*
 
-If a player’s faction has this Conquest Benefit, units may re-roll Command check rolls of a 1.
+If a player's faction has this Conquest Benefit, units may re-roll Command check rolls of a 1.
 
-**Refined Artifice:** *The faction has captured a sect of Tech-Priests well-versed in the engineering of god-engines and, whether through promises of power or threats of force, now benefit from the sect’s expertise.*
+**Refined Artifice:** *The faction has captured a sect of Tech-Priests well-versed in the engineering of god-engines and, whether through promises of power or threats of force, now benefit from the sect's expertise.*
 
-If a player’s faction has this Conquest Benefit, friendly units apply a +1 modifier to all Repair dice when repairing weapons (i.e., a weapon normally repaired on a 4+ would be repaired on a 3+ instead while this Conquest Benefit is in effect).
+If a player's faction has this Conquest Benefit, friendly units apply a +1 modifier to all Repair dice when repairing weapons (i.e., a weapon normally repaired on a 4+ would be repaired on a 3+ instead while this Conquest Benefit is in effect).
 
 **Titan Forge:** *The faction has captured a Forge World or forge-fane capable of producing Titan and Knight grade war machines that has now been turned to aid their war efforts.*
 
-If a player’s faction has this Conquest Benefit, once per round, at the start of the Strategy phase, the player may immediately repair a single point of Critical Damage one of their Titans has suffered. Alternatively, up to three friendly Knight Banners of the player’s choice may immediately recover a single lost Structure point (this cannot bring back a Knight that has previously been destroyed).
+If a player's faction has this Conquest Benefit, once per round, at the start of the Strategy phase, the player may immediately repair a single point of Critical Damage one of their Titans has suffered. Alternatively, up to three friendly Knight Banners of the player's choice may immediately recover a single lost Structure point (this cannot bring back a Knight that has previously been destroyed).
 
 **Sector Command:** *The faction controls a point of strategic importance, whether that be a world that anchors warp travel to neighbouring sectors or a fortified stronghold upon a world.*
 
-If a player’s faction has this Conquest Benefit, the player’s battlegroups increase their Stratagem Pool by one at the start of the battle.
-
+If a player's faction has this Conquest Benefit, the player's battlegroups increase their Stratagem Pool by one at the start of the battle.

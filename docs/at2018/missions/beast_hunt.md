@@ -1,5 +1,3 @@
-# Matched Play Mission: Beast Hunt
-
 *Knight hunting expeditions were common on Molech before the Warmaster's invasion. Sometimes these hunts would become contests between the Houses for honour and bragging rights, the Scions themselves testing their battle skills against not just the beasts but their rivals as well.*
 
 ## Choosing Forces
@@ -25,13 +23,13 @@ The game ends after six rounds have been played. At the end of the game, both pl
 ## Azhdarchid
 
 | Scale | Ballistic Skill | Weapon Skill | Speed | Structure Points |
-|---:|:---:|:---:|---:|---:|
+|---|:---:|:---:|---|---:|
 | 2 | 6+ | 4+ | 10" | 3 |
 
 ### Razor Jaws
 
 | Range | Dice | Strength | Traits |
-|---:|---:|---:|:---|
+|---|---:|---|:---|
 | 2" | 2 | 5 | Melee |
 
 **Agile:** Beasts are not affected by Difficult terrain or Dangerous terrain.
@@ -42,20 +40,20 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Armour Roll | Damage |
 |:---:|:---|
-| 7–11 | Direct Hit |
-| 12–13 | Devastating Hit |
+| 7-11 | Direct Hit |
+| 12-13 | Devastating Hit |
 | 14+ | Critical Hit |
 
 ## Xenosmilus
 
 | Scale | Ballistic Skill | Weapon Skill | Speed | Structure Points |
-|---:|:---:|:---:|---:|---:|
+|---|:---:|:---:|---|---:|
 | 2 | 4+ | 5+ | 10" | 3 |
 
 ### Poison Spit
 
 | Range | Dice | Strength | Traits |
-|---:|---:|---:|:---|
+|---|---:|---|:---|
 | 8" | 2 | 4 | Rapid |
 
 **Agile:** Beasts are not affected by Difficult terrain or Dangerous terrain.
@@ -66,20 +64,20 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Armour Roll | Damage |
 |:---:|:---|
-| 7–11 | Direct Hit |
-| 12–13 | Devastating Hit |
+| 7-11 | Direct Hit |
+| 12-13 | Devastating Hit |
 | 14+ | Critical Hit |
 
 ## Mallahgra
 
 | Scale | Ballistic Skill | Weapon Skill | Speed | Structure Points |
-|---:|:---:|:---:|---:|---:|
+|---|:---:|:---:|---|---:|
 | 3 | 6+ | 3+ | 8" | 4 |
 
 ### Massive Claws
 
 | Range | Dice | Strength | Traits |
-|---:|---:|---:|:---|
+|---|---:|---|:---|
 | 2" | 4 | 7 | Melee |
 
 **Agile:** Beasts are not affected by Difficult terrain or Dangerous terrain.
@@ -90,6 +88,6 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Armour Roll | Damage |
 |:---:|:---|
-| 9–12 | Direct Hit |
-| 13–15 | Devastating Hit |
+| 9-12 | Direct Hit |
+| 13-15 | Devastating Hit |
 | 16+ | Critical Hit |

@@ -1,5 +1,3 @@
-# White Dwarf Material
-
 ## The Invasion of Paramar V: Plain of Fire
 
 This mission represents the assault upon the Paramar Nexus during the Invasion of Paramar V. A world that served both as a vital lynchpin of the Imperium's tangled skein of empyreal travel and a vital staging post and supply terminus for outward expansion, Paramar V proved a primary target for the Warmaster's initial blows against the Imperium. The greater part of the task of conquering the world was entrusted to the Alpha Legion, partially in recognition of the subtlety needed to achieve it and partially as a final demonstration of loyalty for Alpharius and his warriors towards the Warmaster, for many were convinced the Alpha Legion had yet to truly bleed themselves against the Imperium.

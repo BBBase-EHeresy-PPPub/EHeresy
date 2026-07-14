@@ -1,4 +1,7 @@
-# Missions
+## Core Rulebook Missions
+
+- [Core Rulebook Narrative Missions](rulebook_narrative_missions.md)
+- [Meeting Engagement](meeting_engagement.md)
 
 ## Narrative Missions
 
@@ -24,12 +27,12 @@ The following scenarios can be fought to reflect the events of the Crusade of Ir
 
 The following scenarios can be fought to reflect the events of the Doom of Molech:
 
-- Balmorn’s Charge
-- Fortidus’ Last Stand
+- Balmorn's Charge
+- Fortidus' Last Stand
 - Fires from Heaven
-- Into the Wolf’s Jaws
+- Into the Wolf's Jaws
 - Death of a God
-- Devine’s Final Betrayal
+- Devine's Final Betrayal
 
 ### Cataclysm of Iron Narrative Mission
 
@@ -71,7 +74,7 @@ The following scenarios were originally published in *White Dwarf* magazine:
 - The Red Planet Aflame
 - The Siege of Travo'anor
 
-!!! note "Designer’s Note"
+!!! note "Designer's Note"
 
     **Loyalists and Traitors**
 

@@ -1,0 +1,19 @@
+[Barrage]: /rulebook/basic_rules/#barrage
+[Blast]: /rulebook/basic_rules/#blast-35
+[Carapace]: /rulebook/basic_rules/#carapace
+[Concussive]: /rulebook/basic_rules/#concussive
+[Draining]: /rulebook/basic_rules/#draining
+[Firestorm]: /rulebook/basic_rules/#firestorm
+[Fusion]: /rulebook/basic_rules/#fusion
+[Limited]: /rulebook/basic_rules/#limited-x
+[Maximal Fire]: /rulebook/basic_rules/#maximal-fire
+[Melee]: /rulebook/basic_rules/#melee
+[Ordnance]: /rulebook/basic_rules/#ordnance
+[Paired]: /rulebook/basic_rules/#paired
+[Quake]: /rulebook/basic_rules/#quake
+[Rapid]: /rulebook/basic_rules/#rapid
+[Rending]: /rulebook/basic_rules/#rending
+[Shieldbane]: /rulebook/basic_rules/#shieldbane
+[Voidbreaker]: /rulebook/basic_rules/#voidbreaker-x
+[Vortex]: /rulebook/basic_rules/#vortex
+[Warp]: /rulebook/basic_rules/#warp

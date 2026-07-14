@@ -1,28 +1,26 @@
-# Open Engine War
-
-## CARD DRAW
+## Card Draw
 
 Divide the cards into separate decks (Deployment Maps, Primary Objectives, Secondary Objectives, Planetary Effects, and Battlefield Effects).
 
 Shuffle each pile and draw a single card from the Deployment Maps, Primary Objectives, Planetary Effects and Battlefield Effects. Each player then draws two Secondary Objective cards and chooses one of the two as their own.
 
-## DEPLOYMENT MAPS
+## Deployment Maps
 
-Deployment Maps detail where players deploy their battlegroups on the battlefield. Players roll-off to determine who has control of the battlefield, with this player choosing one of the two shaded deployment zones to be their deployment zone. Each deployment map has a portion of the battlefield’s edge highlighted in blue or green which represents the player’s respective battlefield edge. Whichever player controls a deployment zone also controls the adjacent board edge.
+Deployment Maps detail where players deploy their battlegroups on the battlefield. Players roll-off to determine who has control of the battlefield, with this player choosing one of the two shaded deployment zones to be their deployment zone. Each deployment map has a portion of the battlefield's edge highlighted in blue or green which represents the player's respective battlefield edge. Whichever player controls a deployment zone also controls the adjacent board edge.
 
-## PRIMARY OBJECTIVE CARDS
+## Primary Objective Cards
 
 Primary Objective cards detail the victory conditions for the game. Before battlegroups are deployed, place any Objective tokens as detailed on the Primary Objective card. Objective tokens should be represented by a token or base 32mm in diameter.
 
-## SECONDARY OBJECTIVE CARDS
+## Secondary Objective Cards
 
 Secondary Objective cards represent the individual goals of each battlegroup. Both players reveal their Secondary Objectives at the same time. Some Secondary Objectives require a player to note down a unit or objective in secret. In these instances the Secondary Objective is revealed but not the specific target.
 
-## PLANETARY CARDS
+## Planetary Cards
 
 Planetary cards represent the diversity of worlds throughout the galaxy and the unique challenges they present. Some Planetary cards affect the way terrain is deployed and so a Planetary card should be drawn before the battlefield is set up.
 
-## BATTLEFIELD EFFECTS
+## Battlefield Effects
 
 Battlefield effects represent the unique challenges offered by the countless different battlefields fought upon by the Titan Legions. Each battlefield effect is a special rule that affects each player equally, forcing battlegroups to adapt their tactics in order to secure victory.
 
@@ -162,7 +160,7 @@ SPEARHEAD
 
 ### Acquisition
 
-After battlefield set-up, but before either player deploys any units, players take it in turns, starting with the player who has control of the battlefield, to place a single Objective token within 12" of the centre of the board. Each token must be at least 8" away from a previously deployed Objective token. When a unit is activated during the Movement phase or Combat phase, a unit within 1" of an Objective token can retrieve it – this is the unit’s activation. If a Knight Banner has retrieved the objective, choose a Knight to carry it. If the model carrying the objective is destroyed, place the Objective token where the centre of the model’s base was.
+After battlefield set-up, but before either player deploys any units, players take it in turns, starting with the player who has control of the battlefield, to place a single Objective token within 12" of the centre of the board. Each token must be at least 8" away from a previously deployed Objective token. When a unit is activated during the Movement phase or Combat phase, a unit within 1" of an Objective token can retrieve it - this is the unit's activation. If a Knight Banner has retrieved the objective, choose a Knight to carry it. If the model carrying the objective is destroyed, place the Objective token where the centre of the model's base was.
 
 At the end of the battle, a player gains 15 Victory points for each Objective token they carry or 7 Victory points for having one or more units within 6" of an Objective token that is not being carried and has no enemy units within 6" of it.
 
@@ -170,7 +168,7 @@ At the end of the battle, a player gains 15 Victory points for each Objective to
 
 ++ Both forces are attempting to capture a vital strategic location in the centre of the battlefield. ++
 
-During battlefield set-up, an Objective token is placed in the centre of the battlefield. At the start of each End phase both players calculate the total Scale of their units within 6" of the Objective token. The force with the greatest total Scale within 6" of the token is in control of the Objective. If the total Scale of both players’ units is the same, the objective is contested. If a unit is within 6" of the objective, and their force is in control of it, that unit adds 1 to the result of all Command checks it makes.
+During battlefield set-up, an Objective token is placed in the centre of the battlefield. At the start of each End phase both players calculate the total Scale of their units within 6" of the Objective token. The force with the greatest total Scale within 6" of the token is in control of the Objective. If the total Scale of both players' units is the same, the objective is contested. If a unit is within 6" of the objective, and their force is in control of it, that unit adds 1 to the result of all Command checks it makes.
 
 At the end of the battle, the player in control of the Objective token gains 20 Victory points and an additional 10 Victory points if no enemy unit is within 6" of the Objective token. If the objective is contested, both players gain 10 Victory points.
 
@@ -205,7 +203,7 @@ Players earn 5 Victory points for each Objective token they control and an addit
 
 After battlefield set-up, but before either player deploys any units, players take it in turns, starting with the player in control of the battlefield, to each deploy three Objective tokens anywhere within their own deployment zone more than 6" from an already deployed Objective token and more than 5" from a board edge.
 
-If, during the End phase of any round, a unit is within 1" of an Objective token deployed by the opposing player, they may destroy it—remove the token from the battlefield. At the end of the battle, each player gains 10 Victory points for each Objective token their force destroyed.
+If, during the End phase of any round, a unit is within 1" of an Objective token deployed by the opposing player, they may destroy it-remove the token from the battlefield. At the end of the battle, each player gains 10 Victory points for each Objective token their force destroyed.
 
 ## Secondary Objectives
 
@@ -213,9 +211,9 @@ If, during the End phase of any round, a unit is within 1" of an Objective token
 
 **Your battlegroup has been tasked with eliminating the enemy commander.**
 
-After both forces have been deployed, secretly choose one of your opponent’s Princeps Seniores. At the end of the battle, you gain 5 Victory points if the chosen Princeps Seniores’ Titan has been destroyed and an additional 5 Victory points if the Princeps Seniores’ Titan was destroyed in rounds one or two.
+After both forces have been deployed, secretly choose one of your opponent's Princeps Seniores. At the end of the battle, you gain 5 Victory points if the chosen Princeps Seniores' Titan has been destroyed and an additional 5 Victory points if the Princeps Seniores' Titan was destroyed in rounds one or two.
 
-If your opponent is using a Knight Household force, the Seneschal’s Lance is the target. At the end of the battle you gain 5 Victory points if all Banners within the Seneschal’s Lance have been destroyed and an additional 5 Victory points if all Banners in the Seneschal’s Lance were destroyed in rounds one or two.
+If your opponent is using a Knight Household force, the Seneschal's Lance is the target. At the end of the battle you gain 5 Victory points if all Banners within the Seneschal's Lance have been destroyed and an additional 5 Victory points if all Banners in the Seneschal's Lance were destroyed in rounds one or two.
 
 ### Expedient Strike
 
@@ -235,17 +233,17 @@ At the end of the battle, you gain 5 Victory points for having no enemy units wi
 
 *++ Your battlegroup commander wishes to prove themself on the field of battle. ++*
 
-After both players have deployed their forces, secretly choose one of your Princeps Seniores. Then choose two of your opponent’s Titans as Honour Targets, one of which must be a Princeps Seniores. At the end of battle, you gain 6 Victory points if your chosen Princeps Seniores destroyed the Princeps Seniores Honour Target, 4 Victory points if your chosen Princeps Seniores destroyed the other Honour Target or 10 Victory points if they destroyed both.
+After both players have deployed their forces, secretly choose one of your Princeps Seniores. Then choose two of your opponent's Titans as Honour Targets, one of which must be a Princeps Seniores. At the end of battle, you gain 6 Victory points if your chosen Princeps Seniores destroyed the Princeps Seniores Honour Target, 4 Victory points if your chosen Princeps Seniores destroyed the other Honour Target or 10 Victory points if they destroyed both.
 
-If both you and your opponent are using a Knight Household force then you instead gain 10 Victory points if your Seneschal destroys your opponent’s Seneschal with a Targeted Attack. If only your opponent or you is using a Knight Household force, discard this Secondary Objective and draw another.
+If both you and your opponent are using a Knight Household force then you instead gain 10 Victory points if your Seneschal destroys your opponent's Seneschal with a Targeted Attack. If only your opponent or you is using a Knight Household force, discard this Secondary Objective and draw another.
 
 ### Make Them Suffer
 
 ++ Your battlegroup has been tasked with sending a message of pain and suffering. ++
 
-After both forces have been deployed, secretly choose two of your opponent’s Titans as targets. At the end of the battle, you gain 5 Victory points for each chosen target that is Structurally Compromised but not destroyed.
+After both forces have been deployed, secretly choose two of your opponent's Titans as targets. At the end of the battle, you gain 5 Victory points for each chosen target that is Structurally Compromised but not destroyed.
 
-If your opponent is using a Knight Household force, instead nominate a single Banner that contains at least three Knights. At the end of the battle, you gain 10 Victory points if over half of the Knight Banner’s models have been destroyed but the entire Banner has not. If it is not possible to choose targets as stipulated above, discard this Secondary Objective and draw another.
+If your opponent is using a Knight Household force, instead nominate a single Banner that contains at least three Knights. At the end of the battle, you gain 10 Victory points if over half of the Knight Banner's models have been destroyed but the entire Banner has not. If it is not possible to choose targets as stipulated above, discard this Secondary Objective and draw another.
 
 ### Martial Pride
 
@@ -257,7 +255,7 @@ If none of your units have a weapon with the Melee trait (other than a Smash Att
 
 ### Plant the Standard
 
-After both players have deployed their forces, secretly choose one of your Titans or Knights to carry the Battlegroup’s standard. At the start of any round after the first, a model in your opponent’s deployment zone that is carrying the standard may plant it – place an Objective token within 1" of the model. If the model carrying the objective is destroyed, the standard is dropped; place an Objective token where the centre of the model’s base was.
+After both players have deployed their forces, secretly choose one of your Titans or Knights to carry the Battlegroup's standard. At the start of any round after the first, a model in your opponent's deployment zone that is carrying the standard may plant it - place an Objective token within 1" of the model. If the model carrying the objective is destroyed, the standard is dropped; place an Objective token where the centre of the model's base was.
 
 At the end of the battle, you gain 10 Victory points if the standard was planted and no enemy unit is within 8" of the Objective token or 5 Victory points if either the standard was planted but there is one or more enemy units within 8" of the objective token or if the standard was dropped and no enemy unit is within 8" of the Objective token.
 
@@ -265,7 +263,7 @@ At the end of the battle, you gain 10 Victory points if the standard was planted
 
 Your battlegroup has been tasked with guarding the life of an important leader...
 
-After both forces have been deployed, secretly choose one of your Princes Seniores. At the end of the battle, you gain 5 Victory points if that chosen Princes Seniores’ Titan has not been destroyed but is Structurally Compromised or 10 Victory points if the Princes Seniores’ Titan has not been destroyed and has not been Structurally Compromised.
+After both forces have been deployed, secretly choose one of your Princes Seniores. At the end of the battle, you gain 5 Victory points if that chosen Princes Seniores' Titan has not been destroyed but is Structurally Compromised or 10 Victory points if the Princes Seniores' Titan has not been destroyed and has not been Structurally Compromised.
 
 If you are using a Knight Household force, you are attempting to keep the Seneschal alive. At the end of the battle you gain 5 Victory points if the Seneschal has been destroyed but at least one Banner from their Lance is alive or 10 Victory points if the Seneschal has not been destroyed.
 
@@ -281,7 +279,7 @@ If none of your Titans have an arm weapon without the Melee trait, you may disca
 
 **Your battlegroup is tasked with securing an important strategic location.**
 
-After the battlefield has been set-up, but before any forces are deployed, choose a single terrain piece within your deployment zone — this is your Strategic Objective. At the end of the battle, you gain 10 Victory points if no enemy unit is within 12" of the Strategic Objective or 5 Victory points if the total Scale of your units within 12" of the Strategic Objective is greater than your opponent's.
+After the battlefield has been set-up, but before any forces are deployed, choose a single terrain piece within your deployment zone - this is your Strategic Objective. At the end of the battle, you gain 10 Victory points if no enemy unit is within 12" of the Strategic Objective or 5 Victory points if the total Scale of your units within 12" of the Strategic Objective is greater than your opponent's.
 
 Though following all other normal rules for terrain, the Strategic Objective cannot be destroyed.
 
@@ -295,7 +293,7 @@ After battlefield set-up, but before any forces have been deployed, divide the t
 
 **++ One of your Titans is carrying a viral payload designed to devastate enemy territory. ++**
 
-After both forces have been deployed, secretly choose one of your Titans to carry the payload. At the end of the battle, you gain 5 Victory points if the Titan has been destroyed and a further 5 Victory points if the Titan was destroyed in your opponent’s deployment zone. If the Titan was destroyed in your own deployment zone, you gain no Victory points.
+After both forces have been deployed, secretly choose one of your Titans to carry the payload. At the end of the battle, you gain 5 Victory points if the Titan has been destroyed and a further 5 Victory points if the Titan was destroyed in your opponent's deployment zone. If the Titan was destroyed in your own deployment zone, you gain no Victory points.
 
 If you are using a Knight Household force and have no Titans in your battlegroup, discard this Secondary Objective and choose another.
 
@@ -408,7 +406,7 @@ All geyser eruption Blast markers are removed during the End phase.
 
 ++ The battlefield is shrouded in an electrical storm that disrupts active Void Shields and could damage unprotected Titans. ++
 
-All weapons gain the Voidbreaker (1) trait or, if they already have the Voidbreaker (X) trait, increases the value in brackets by 1. In addition, at the start of every End phase roll a D5 for each Titan with a Void Shield level of X. On a 5+, the Titan is struck by lightning. Resolve a single S8 hit against the Titan’s Body.
+All weapons gain the Voidbreaker (1) trait or, if they already have the Voidbreaker (X) trait, increases the value in brackets by 1. In addition, at the start of every End phase roll a D5 for each Titan with a Void Shield level of X. On a 5+, the Titan is struck by lightning. Resolve a single S8 hit against the Titan's Body.
 
 ### Mist
 
