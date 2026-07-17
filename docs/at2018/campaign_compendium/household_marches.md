@@ -284,12 +284,12 @@ If the Household is drawn from one of the Households covered in more detail late
 
 | D6 | Knightly Quality |
 |---|---|
-| 1 | **First Born:** *Familiar since childhood to both their inherited duty and the unquestioning respect of others, the Seneschal is a skilled, if unpopular, commander.*<br><br>The Seneschal may issue Full Stride orders to Banners within their Lance without the need to make a Command check. However, deduct 1 from the results of any Command checks to see if any Banner within the Seneschal's Lance becomes Shaken. |
-| 2 | **Elder Patriarch:** *Many years of commanding impetuous young Knights has taught the Seneschal great patience. They exude a calm that belies their righteous fury.*<br><br>When making a Command check to see if they become Shaken, all Banners within 12" of the Seneschal add 1 to the dice roll. |
-| 3 | **Young Blood:** *The Seneschal is young and new to such high command. They are eager to be proven worthy, but are hot-headed and prone to bravado.*<br><br>The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. |
-| 4 | **Second Son:** *The Seneschal has lived their life with little responsibility, their days spent hunting and perfecting their martial skills rather than their skill as a leader.*<br><br>Any Banner within 12" of the Seneschal's Banner may re-roll results of a 1 when making a Ballistic Skill check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described earlier on this page. |
-| 5 | **Former Freeblade:** *The Seneschal has recently returned to their Household from the Great Crusade, where they have learned the value of individual acts of valour.*<br><br>The Seneschal may issue Split Fire orders to Banners within their Lance without the need to make a Command check. |
-| 6 | **Outcast Bloodline:** *Despite their seniority, the Seneschal belongs to an ill-favoured bloodline. Though their grip on command is weak, their ability is beyond compare.*<br><br>The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described earlier on this page. |
+| 1 | **First Born:** The Seneschal may issue Full Stride orders to Banners within their Lance without the need to make a Command check. However, deduct 1 from the results of any Command checks to see if any Banner within the Seneschal's Lance becomes Shaken. |
+| 2 | **Elder Patriarch:** When making a Command check to see if they become Shaken, all Banners within 12" of the Seneschal add 1 to the dice roll. |
+| 3 | **Young Blood:** The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. |
+| 4 | **Second Son:** Any Banner within 12" of the Seneschal's Banner may re-roll results of a 1 when making a Ballistic Skill check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described earlier on this page. |
+| 5 | **Former Freeblade:** The Seneschal may issue Split Fire orders to Banners within their Lance without the need to make a Command check. |
+| 6 | **Outcast Bloodline:** The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described earlier on this page. |
 
 ## Household Rules
 
@@ -658,9 +658,9 @@ A House Donar High Scion or Seneschal Knightly Quality can either be generated f
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Guardian Preceptor:** *The Seneschal is a direct descendant of the ancient Preceptor himself and holds themselves to impossibly high standards.*<br><br>Banners within the Seneschal's Lance may re-roll any failed Command checks. |
-| 2 | **Kush Veteran:** *The Seneschal is a veteran of many expeditions into the Kush and now few things slow them or those who fight at their side.*<br><br>Banners within the Seneschal's Lance treat Deadly terrain as if it were Dangerous terrain. Note that even Banners with the Agile rule must test as if for Dangerous terrain should they move through Deadly terrain. |
-| 3 | **Beast Killer:** *The Seneschal has killed almost every beast that walks, flies or slithers through the jungles of Kush, and knows just where to land a killing blow.*<br><br>Banners within the Seneschal's Lance may re-roll Hit rolls of a 1 when attacking an enemy unit with a Scale that is higher than theirs. |
+| 1 | **Guardian Preceptor:** Banners within the Seneschal's Lance may re-roll any failed Command checks. |
+| 2 | **Kush Veteran:** Banners within the Seneschal's Lance treat Deadly terrain as if it were Dangerous terrain. Note that even Banners with the Agile rule must test as if for Dangerous terrain should they move through Deadly terrain. |
+| 3 | **Beast Killer:** Banners within the Seneschal's Lance may re-roll Hit rolls of a 1 when attacking an enemy unit with a Scale that is higher than theirs. |
 
 ### House Indra
 
@@ -676,9 +676,9 @@ A House Indra High Scion or Seneschal Knightly Quality can either be generated f
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Dancing Blade:** *The Seneschal is one of the famed Indarii Blade Dancers, bringing their skill to the command throne of their Knight armour.*<br><br>Knights within the Seneschal's Lance may re-roll any Hit roll of a 1 when using a weapon with the Melee trait. |
-| 2 | **Forsaken Indarii:** *The Seneschal is from one of the corrupted Indarii bloodlines, carrying with them some of the madness of those ancient Knight Scions.*<br><br>The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. However, if a Banner within the Seneschal's Lance fails a Command test when being issued with any other order, it does not act on its own initiative; instead, it must act under Charge orders. |
-| 3 | **Banner of the High King:** *The Seneschal has the honour of carrying the colours of the ancient High King of Molech, the first Knight Scion to walk the world.*<br><br>The Seneschal's Banner may include a Battle Standard for free. However, if the Banner is destroyed, the enemy will earn an extra D3 Victory points for claiming the Battle Standard. |
+| 1 | **Dancing Blade:** Knights within the Seneschal's Lance may re-roll any Hit roll of a 1 when using a weapon with the Melee trait. |
+| 2 | **Forsaken Indarii:** The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. However, if a Banner within the Seneschal's Lance fails a Command test when being issued with any other order, it does not act on its own initiative; instead, it must act under Charge orders. |
+| 3 | **Banner of the High King:** The Seneschal's Banner may include a Battle Standard for free. However, if the Banner is destroyed, the enemy will earn an extra D3 Victory points for claiming the Battle Standard. |
 
 ### House Kaska
 
@@ -692,9 +692,9 @@ A House Kaska High Scion or Seneschal Knightly Quality can either be generated f
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Drunken Lord:** *The Seneschal is often deep in their cups and views the world through a haze of Kashaii ale, slowing their reactions but inuring them to both danger and pain.*<br><br>When the Seneschal's Banner suffers a Direct Hit, roll a D6. On a 5 or 6, the hit is ignored. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on page 178. |
-| 2 | **Lord of Rain and Ruin:** *The Seneschal hails from the wild walker tribes, their connection to their surroundings allowing them to swiftly navigate the world even from the throne of a Knight.*<br><br>Banners within the Seneschal's Lance treat Deadly terrain as if it were Dangerous terrain. Note that even Banners with the Agile rule must test as if for Dangerous terrain should they move through Deadly terrain. |
-| 3 | **Scion of the Storm:** *The Seneschal claims ancestry with the Lord of Storms, and all within their Household view them with awe and fear.*<br><br>When making a Command check to see if they become Shaken, all Banners within 12" of the Seneschal add 1 to the dice roll. |
+| 1 | **Drunken Lord:** When the Seneschal's Banner suffers a Direct Hit, roll a D6. On a 5 or 6, the hit is ignored. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on page 178. |
+| 2 | **Lord of Rain and Ruin:** Banners within the Seneschal's Lance treat Deadly terrain as if it were Dangerous terrain. Note that even Banners with the Agile rule must test as if for Dangerous terrain should they move through Deadly terrain. |
+| 3 | **Scion of the Storm:** When making a Command check to see if they become Shaken, all Banners within 12" of the Seneschal add 1 to the dice roll. |
 
 ### House Kaushik
 
@@ -710,9 +710,9 @@ A House Kaushik High Scion or Seneschal Knightly Quality can either be generated
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Stoneblind:** *The Seneschal has spent their life in the caverns beneath the Untar Mesas and knows the importance of detailed reconnaissance to help form a plan of battle.*<br><br>When rolling off to determine who will seize command of the battlefield, the Seneschal's controlling player may re-roll the dice. |
-| 2 | **Iron of the Earth:** *The Seneschal has worked the stone forges of the Sacristans and knows the intricacies of their Knight's armour like their own skin.*<br><br>Knights within the Seneschal's Lance may re-roll any Hit roll of a 1 when using a weapon with the Melee trait. |
-| 3 | **Hardened Soul:** *The Seneschal's mind has entered the Great Quiet of the Kaushik, guided to a cold and unfeeling place by the ghosts of their command throne.*<br><br>Banners within the Seneschal's Lance can never become Shaken. However, all Knights within the Seneschal's Banner have their Speed characteristic reduced by 1". |
+| 1 | **Stoneblind:** When rolling off to determine who will seize command of the battlefield, the Seneschal's controlling player may re-roll the dice. |
+| 2 | **Iron of the Earth:** Knights within the Seneschal's Lance may re-roll any Hit roll of a 1 when using a weapon with the Melee trait. |
+| 3 | **Hardened Soul:** Banners within the Seneschal's Lance can never become Shaken. However, all Knights within the Seneschal's Banner have their Speed characteristic reduced by 1". |
 
 ### House Mamaragon
 
@@ -728,9 +728,9 @@ A House Mamaragon High Scion or Seneschal Knightly Quality can either be generat
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Sea Lord:** *The Seneschal is adept at commanding the fleets of Mamaragon in battle and is just as at home on the rolling deck of a war barge as dry land.*<br><br>Banners within the Seneschal's Lance may re-roll any failed Command checks. |
-| 2 | **Prince of the Waves:** *The Seneschal is one of Lord Erol's offspring and is infected with their sire's insufferable arrogance and reckless overconfidence.*<br><br>Banners within the Seneschal's Lance can never become Shaken. However, at least one Banner within the Seneschal's Lance must be given Charge orders in every round from round 2 onwards. |
-| 3 | **Reaver Lord:** *The Seneschal believes in the piratical ways of their forebears and adheres to their more flexible codes of honour and concept of allies.*<br><br>When making a Command check to see if they become Shaken, all Banners within the Seneschal's Lance add 1 to the dice roll. However, the Seneschal's Banner may not include a Battle Standard. |
+| 1 | **Sea Lord:** Banners within the Seneschal's Lance may re-roll any failed Command checks. |
+| 2 | **Prince of the Waves:** Banners within the Seneschal's Lance can never become Shaken. However, at least one Banner within the Seneschal's Lance must be given Charge orders in every round from round 2 onwards. |
+| 3 | **Reaver Lord:** When making a Command check to see if they become Shaken, all Banners within the Seneschal's Lance add 1 to the dice roll. However, the Seneschal's Banner may not include a Battle Standard. |
 
 ### House Tazkhar
 
@@ -744,6 +744,6 @@ A House Tazkhar High Scion or Seneschal Knightly Quality can either be generated
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Dervish Lord:** *The Seneschal fights in the style of the ancient Dervish Lords, striking like the desert wind before falling back out of their enemy's grasp.*<br><br>The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on page 178. |
-| 2 | **Kharii Savage:** *The Seneschal is from the deep desert Kharii tribes, still primitive and savage despite the rights of their blood and the gifts of the Becoming.*<br><br>The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. Additionally, Banners within the Seneschal's Lance add D3" to their Speed when acting under Charge orders. However, Banners in the Seneschal's Lance cannot be issued First Fire orders. |
-| 3 | **Vizier of Blades:** *The Seneschal has earned the title Vizier of Blades by besting the finest swordsmen of the Tazkhar Steppes during the Feast of the Storm Lord.*<br><br>Knights within the Seneschal's Lance may re-roll any Hit roll of a 1 when using a weapon with the Melee trait. |
+| 1 | **Dervish Lord:** The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on page 178. |
+| 2 | **Kharii Savage:** The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. Additionally, Banners within the Seneschal's Lance add D3" to their Speed when acting under Charge orders. However, Banners in the Seneschal's Lance cannot be issued First Fire orders. |
+| 3 | **Vizier of Blades:** Knights within the Seneschal's Lance may re-roll any Hit roll of a 1 when using a weapon with the Melee trait. |

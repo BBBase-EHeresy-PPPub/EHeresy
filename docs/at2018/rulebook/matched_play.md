@@ -12,4 +12,4 @@ There are several ways to enjoy Matched Play. One-off battles are probably the m
 | Confrontation | 1,250-1,750 | 3 | Around two hours | 200 |
 | Epic Clash | 1,750-2,500 | 4 | Two to three hours | 350 |
 
-In this book, we will primarily cover one-off battles. The standard Matched Play mission is [Meeting Engagement](../missions/meeting_engagement.md), which can easily be used for any form of Matched Play. Later supplements will go into more detail on other ways to engage in Matched Play.
+In this book, we will primarily cover one-off battles, but the Meeting Engagement rules found on the following pages could easily be used for any form of Matched Play. Later supplements will go into more detail on other ways to engage in Matched Play.

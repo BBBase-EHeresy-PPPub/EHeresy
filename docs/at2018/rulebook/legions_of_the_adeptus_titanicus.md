@@ -46,9 +46,9 @@ A Legio Gryphonicus Princeps Seniores' Personal Trait can either be generated fr
 
 | D3 | Personal Trait |
 |---|---|
-| 1 | **Reckless Maverick:** *You could always tell when Uranna was going to do something foolish, because she sat up straight and spoke with clipped precision, as though she thought it improper to slouch when giving an order that would likely doom us all.*<br><br>Once per battle, the Princeps Seniores' Titan can be activated a second time in the Movement phase or Combat phase. After doing so, advance the Titan's Reactor level three times. |
-| 2 | **Master Duellist:** *As far as I saw, Raal only ever did four things: eat, sleep, command Invictus Nova and fight in the duelling halls. His instincts were honed towards close-ranged fighting, whether he was using a chainsword or a laser destructor.*<br><br>Failed Hit rolls for the Princeps Seniores' Titan can be re-rolled when it is making attacks against a target which is within 8". |
-| 3 | **Hunter without Equal:** *Elion was a slight man, with an unusually reserved demeanour for a Princeps. But when he sighted his prey, it was as though he became a beast uncaged. Roaring orders, screaming for blood - his rages were as terrifying as anything I've ever seen.*<br><br>Re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the Lust for Glory rule on page 89). |
+| 1 | **Reckless Maverick:** Once per battle, the Princeps Seniores' Titan can be activated a second time in the Movement phase or Combat phase. After doing so, advance the Titan's Reactor level three times. |
+| 2 | **Master Duellist:** Failed Hit rolls for the Princeps Seniores' Titan can be re-rolled when it is making attacks against a target which is within 8". |
+| 3 | **Hunter without Equal:** Re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the Lust for Glory rule on page 89). |
 
 ## Legio Tempestus
 
@@ -90,6 +90,6 @@ A Legio Tempestus Princeps Seniores' Personal Trait can either be generated from
 
 | D3 | Personal Trait |
 |---|---|
-| 1 | **Adamantium Resolve:** *I've served under four Princeps, and Sulerian was the toughest, no question. She could keep a Titan moving through force of will alone, even when its reactor was screaming hot, and she barely broke a sweat doing it.*<br><br>Once per battle, at any point, the controlling player can remove Shutdown orders from the Princeps Seniores' Titan, even as the Shutdown order is issued, effectively cancelling it. |
-| 2 | **Storm-born:** *Urathi was born during a rad storm, they say. Strong-willed and stubborn, and always eager for a fight, he drilled his subordinates to always strike first, and never let an engagement happen on the enemy's terms.*<br><br>When a Titan in the Princeps Seniores' maniple that has Charge orders moves in the Movement phase, it uses its boosted Speed value without having to push its reactor. |
-| 3 | **Defiant Warrior:** *It may sound strange, but I never saw Amato happier than when the enemy thought they had us beaten. He revelled in the feint, drawing them in before delivering a killing blow.*<br><br>If the Princeps Seniores' Titan's void shields have collapsed, Hit rolls of 1 for its attacks can be re-rolled. |
+| 1 | **Adamantium Resolve:** Once per battle, at any point, the controlling player can remove Shutdown orders from the Princeps Seniores' Titan, even as the Shutdown order is issued, effectively cancelling it. |
+| 2 | **Storm-born:** When a Titan in the Princeps Seniores' maniple that has Charge orders moves in the Movement phase, it uses its boosted Speed value without having to push its reactor. |
+| 3 | **Defiant Warrior:** If the Princeps Seniores' Titan's void shields have collapsed, Hit rolls of 1 for its attacks can be re-rolled. |

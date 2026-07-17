@@ -2,17 +2,17 @@ Tournaments are competitive events aimed at matching players of equal skill agai
 
 The following pages will cover tournament rules, rules for scoring and tiebreakers, as well as suggestions for how to rank players against one another; the roles that need to be filled to ensure a tournament runs smoothly, their responsibilities, and other important things to consider when planning an event.
 
-# Roles and Responsibilities
+### Roles and Responsibilities
 
 At every event there are people working hard behind the scenes to ensure that every participant has the best experience they possibly can. There are various roles that should be filled before a tournament is run and we've listed the key roles below, along with a description of the key tasks of each role.
 
-## Organiser
+#### Organiser
 
 Every event will need at least one Organiser. Their role is to oversee every aspect of the tournament, including venue, gaming equipment (tables, terrain, etc.), appoint additional tournament staff such as Referees, and be around on the day to ensure everything runs as smoothly as possible.
 
 The Organiser is essentially in charge of everything on the day, and all participants must accept that the Organiser has the authority to expel or disqualify anyone for breaking the rules of the event - although this should hopefully never happen! It is also the Organiser's job to check every player's battlegroup roster at the start of the event, so a firm grasp of the rules is ideal.
 
-## Referee
+#### Referee
 
 Every event needs a Referee which, at small events, can be the Organiser, although one or more additional Referees during larger events helps quickly settle issues that might crop up. It is a Referee's job to observe games as they are played, enforce the rules, answer any rules queries the players may have and settle disputes between players in a calm and fair manner.
 
@@ -22,11 +22,11 @@ A Referee's ruling is final during the course of an event and all players must a
 
 The Referee should be impartial and make rulings to their best judgement. When a rules query crops up they should discuss it with both players and, if they are unsure, read the relevant rules section and any relevant FAQs. When, over the course of a weekend, a ruling is made, a Referee should make a note of the ruling so that if the same query arises in a different game the rulings remain consistent across the entire event.
 
-## Scorekeeper
+#### Scorekeeper
 
 Every event will also need a Scorekeeper which can be the Organiser in small events. It is the job of the Scorekeeper to collect the results after each round from each game to ensure players are ranked correctly. They are also responsible for pairing players against one another, including randomly pairing opponents in the first round of the tournament. The Scorekeeper should not participate in the tournament so that they can collect every result as soon as possible.
 
-## Spare Player
+#### Spare Player
 
 Often tournaments will have an odd number of players, either from an odd number of players buying tickets or because a player drops out before or during the tournament, meaning a player would be without an opponent. Whilst this can be settled by a predetermined result, known as a Bye (see page 28), it is much more satisfying for that player if they have a game to play - after all, that is why they are at the event! To allow for this, it is recommended to have a Spare Player on standby for the event.
 
@@ -34,33 +34,33 @@ The Spare Player should be someone who knows how to play the game and will provi
 
 We recommend that the Spare Player is someone different to the Organiser, Referee and Scorekeeper, to ensure these roles are not neglected or a Spare Player's game regularly interrupted.
 
-## Player
+#### Player
 
 Each player is responsible for bringing their own miniatures, dice, rules manuals, Command Terminals and tokens, and for understanding and accepting all of the tournament's rules. It pays to let all players know in advance if they are expected to have a decent working knowledge of the game.
 
-# Tournament Rules
+## Tournament Rules
 
 Every tournament should have a set of rules that dictates the limitations and boundaries for the event. These rules should be clearly explained in the event pack, which should be available to all players before they purchase their ticket to ensure everyone knows where they stand. If players have a question, they should initially check the event pack to see if their query is answered in it before contacting the Tournament Organiser. It is advised to use the rules presented here as the foundation for Organised Play.
 
 All games played at an *Adeptus Titanicus* Organised Play tournament use the *Adeptus Titanicus* rulebook, any supplement books, and the most recent FAQs and rules clarifications as found at warhammer-community.com. All players are expected to know the stated rules.
 
-## Miniatures
+### Miniatures
 
 Players may only use official Citadel and Forge World miniatures at the event, and all miniatures must be fully built, based and painted. Players must use the appropriate miniatures for their army. Conversions are permitted at the Organiser's discretion, so long as they only include parts from official Citadel and Forge World miniatures, and clearly represent what they are meant to be. You may wish to ask for any players wishing to use conversions to submit them to the Organiser before the event so they can check if they are happy with them. In addition, players should notify their opponent of any conversions before the game begins.
 
-## Conduct
+### Conduct
 
 All games of *Adeptus Titanicus* should be played in a civil and generous way. This is especially true for tournament games where all players are expected to show good conduct in all aspects of the event. Players are expected to treat each other with respect and behave in a mature and considerate manner, including during any rules disputes.
 
-# Scoring & Tiebreakers
+## Scoring & Tiebreakers
 
-## Games
+### Games
 
 At the end of each game, players will need to record the result. This includes who won, lost or drew, the total Victory Points each player scored (and the breakdown of how many were Primary and how many were Secondary), and if either player destroyed the enemy battlegroup leader. If the players do not finish their game before time runs out, they must finish the round they are on and then work out the winner at the end of that round. It is important that both players provide all of the information as it is all used for tiebreakers to work out who is where in the rankings.
 
 In a tournament, players will earn a number of Tournament Points (TPs) depending on how they did during their games. Players earn 3 TPs for a win, 1 TP for a draw, and 0 TPs for a loss.
 
-## Determining Objectives During a Tournament
+### Determining Objectives During a Tournament
 
 In a one-off Matched Play game of *Adeptus Titanicus*, players will randomly determine two Primary and two Secondary Objectives and choose which of each to be their objectives for the battle as described on page 17. During events with multiple games, this system can be used as is, with players generating new objectives at the start of each battle.
 
@@ -74,7 +74,7 @@ Individual Objective Pools require substantial record keeping by the Tournament 
 
 Alternatively, Tournament Organisers could specify that each round has one or two Primary Objectives and one or two Secondary Objectives for that round - players then choose the objectives they will aim to complete for the game from those available for that round.
 
-## Ranking and Tiebreakers
+### Ranking and Tiebreakers
 
 During the course of a tournament, players are ranked according to the number of Tournament Points (TPs) they have; the more TPs a player has, the higher they are in the ranking. Where players are tied on the number of TPs, there are a number of Tiebreakers which can be used to determine who is higher placed.
 
@@ -84,11 +84,11 @@ If players are still tied, the second Tiebreaker is the total number of VPs scor
 
 Further Tiebreakers are then used at the Tournament Organiser's discretion. These could be anything from Favourite Opponent scores, Best Painted, or anything else the Tournament Organiser wishes, so long as it is clear to all players before the start of the event (e.g., it is detailed in the event pack) which Tiebreakers will be used and in what order.
 
-# Pairing System
+## Pairing System
 
 There are various methods to pair players against opponents during a tournament, though we would recommend using the system detailed here for running your own events.
 
-## Round 1
+### Round 1
 
 For the first round, players are paired together randomly using player numbers generated upon registration. Randomly generated match-ups work best as players who arrive with their friends are likely to have consecutive numbers, but few wish to play their regular opponents in their first game. If there are an odd number of players then one player will be randomly paired with the Spare Player or given a Bye.
 
@@ -100,7 +100,7 @@ If, during subsequent rounds, a player who has already played the Spare Player i
 
 **Conceding:** Should a player concede a game, their opponent will automatically receive a win, count as having scored full Victory points for both their Primary and Secondary Objectives and count as having killed the enemy battlegroup leader.
 
-## Subsequent Rounds
+### Subsequent Rounds
 
 For subsequent rounds, players are paired as follows:
 
@@ -127,7 +127,7 @@ The points value of the battlegroups used during the event, and the number of da
 | 1,250-1,750 | 3 | 5 | 2-2½ hours | 4'×4' |
 | >1,750 | 2 | 5 | 2½-3 hours | 4'×4' to 6'×4' |
 
-## Tournament Winners and Prizes
+### Tournament Winners and Prizes
 
 At the end of every tournament the Tournament Organiser and/or Scorekeeper should determine the final rankings to see which player has won the tournament. It is common for that player to be crowned champion and awarded a prize - this can be anything from a "Best General" certificate to a customised trophy the player can take home.
 

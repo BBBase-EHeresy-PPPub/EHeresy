@@ -35,22 +35,35 @@ A battlegroup roster should include the following things:
 - The battlegroup Leader - this must be a nominated Princeps Senioris in a Titan Legio battlegroup or the Seneschal in a Knight Household battlegroup.
 - The battlegroup's Stratagem Hand (see page 10).
 
-## Auxiliary Titans and Auxiliary Knight Banners
+---
+
+### Auxiliary Titans and Auxiliary Knight Banners
 
 When building a Legio battlegroup or Household battlegroup, certain Titans are classified as Auxiliary Titans and certain Knight Banners are classified as Auxiliary Knight Banners. These represent the rarer patterns of Titans and Knights during the Horus Heresy. As such, both Legio and Household battlegroups have restrictions on the number of each you can take within your battlegroup during Matched Play.
 
 Below is a list of current Auxiliary Titans and Auxiliary Knight Banners - further such units may be explored in future supplements and will be noted as either Auxiliary Titan or Auxiliary Knight Banners on their Command Terminal where appropriate:
 
-| Support Titans | Auxiliary Knight Banners |
-|---|---|
-| Dire Wolf Heavy Scout Titan | Acastus Knight Banners |
-| Warbringer Nemesis Titan | Acastus Knight Asterius Banners |
-| Warmaster Heavy Battle Titan |  |
-| Warmaster Iconoclast Heavy Battle Titan |  |
+**Support Titans**
+
+Dire Wolf Heavy Scout Titan
+
+Warbringer Nemesis Titan
+
+Warmaster Heavy Battle Titan
+
+Warmaster Iconoclast Heavy Battle Titan
+
+**Auxiliary Knight Banners**
+
+Acastus Knight Banners
+
+Acastus Knight Asterius Banners
+
+---
 
 In general, the following rules and restrictions apply when building a battlegroup and writing a battlegroup roster for Organised Play:
 
-## Battlegroup Type
+**Battlegroup Type**
 
 A battlegroup can be either a Legio battlegroup or a Household battlegroup.
 
@@ -84,7 +97,7 @@ Reinforcements are any Knight Banners within a Household battlegroup that are no
 - A Household battlegroup can include a maximum of one Titan as Reinforcements for each Lance in the battlegroup. A maximum of one of these Titans can be an Auxiliary Titan.
 - A Household battlegroup can include a single Auxiliary Banner of each type as Reinforcements for each Lance in the battlegroup.
 
-## Battlegroup Battle Rating
+### Battlegroup Battle Rating
 
 In Organised Play, each battlegroup is built to a points limit, referred to as a Battle Rating, which is agreed upon between players before the battle or set by a Tournament Organiser before the event. The Battle Rating used can be chosen for any number of reasons but it should be noted that games fought between battlegroups with larger Battle Ratings take more time to complete. In general, games of *Adeptus Titanicus* fit into three broad categories:
 
@@ -96,7 +109,7 @@ In Organised Play, each battlegroup is built to a points limit, referred to as a
 
 Unlike the Matched Play rules presented in the *Adeptus Titanicus* rulebook, there is no Underdog Margin - there is no advantage in Organised Play for not using all of your Battle Rating. The total Battle Rating of the force is calculated by adding together the point values of all units within a battlegroup, which includes the cost of each Titan and Knight Banner and any upgrades they are given. Each Battle Level gives a base number of Stratagem points to both players, as seen in the table above. Additional Stratagem points can be gained by a player through a number of different means.
 
-## Titan Legion Rules
+### Titan Legion Rules
 
 In *Adeptus Titanicus*, Titans can be drawn from a specific Titan Legion, which applies a set of Titan Legion rules that give those Titans additional options and benefits.
 
@@ -108,7 +121,7 @@ Reinforcement Titans may be drawn from the same Legio as a maniple, a different 
 
 Note that players may paint their miniatures in a different scheme to the "historical" scheme of the Titan Legion their Titans are drawn from - e.g., they may paint their models as their own homebrew Legio but use the rules for Legio Astorum. This is allowed so long as it is made clear to their opponent before the game begins which Titans are drawn from which Titan Legion. All Titans painted in the same colour scheme must use the same Titan Legion rules.
 
-## Knight Household Rules
+### Knight Household Rules
 
 In *Adeptus Titanicus*, Knight Banners can be drawn from a specific Knight Household which offers a set of Household-specific Knightly Qualities which the Seneschal can take. This may be any Knight Household published in an *Adeptus Titanicus* supplement.
 
@@ -122,7 +135,7 @@ All battlegroups must declare an allegiance, which must be clearly displayed on 
 
 Regardless of allegiance, all battlegroups can purchase Stratagems available to any player (i.e., those that do not have a specific player type e.g., Thermal Mines) along with Battlefield Assets.
 
-## Battlegroup Leader
+### Battlegroup Leader
 
 Certain objectives reference a battlegroup leader. When writing a battlegroup roster, a player must clearly denote the battlegroup leader on their roster. The exact nature of the battlegroup leader is decided by the battlegroup type:
 
@@ -130,7 +143,7 @@ Certain objectives reference a battlegroup leader. When writing a battlegroup ro
 - In a Household battlegroup, the Seneschal or High King is always the battlegroup leader.
 - Personal Traits for Princeps Seniores, Seneschal and High Kings are chosen by the player when building the battlegroup - they must be noted down on the battlegroup roster. Each Personal Trait can only be selected once per battlegroup.
 
-## Stratagem Hand
+### Stratagem Hand
 
 In Organised Play, Stratagems are handled in a different way to other styles of play. In this case, Stratagems are chosen when building your battlegroup and the chosen Stratagems remain the same over an entire event. This selection of Stratagems is known as the Stratagem Hand.
 
@@ -138,7 +151,7 @@ To create a Stratagem Hand, each player selects a number of Stratagems depending
 
 All Stratagems selected as part of the Stratagem Hand must be clearly noted down on the battlegroup roster. It is common for a player to show their opponent their roster before a battle to ensure fairness; as such, Stratagems will be known by the opponent in Matched Play.
 
-## Stratagem Points
+### Stratagem Points
 
 The number of Stratagem points available to each battlegroup can change from game to game, determined by both the Battle Level and the number of sets of Titan Legion rules the opposing battlegroup is using. As such, the number of Stratagem points is not recorded on the Battlefield Roster.
 
@@ -154,7 +167,7 @@ Points within the Stratagem Pool can be spent during the course of each battle o
 
 A player's Stratagem Hand and Stratagem Pool are refreshed at the start of each battle.
 
-# Matched Play Objectives and Deployment Maps
+## Matched Play Objectives and Deployment Maps
 
 Matched Play games use their own set of objectives and Deployment Maps during battles that are different to those presented as part of the Meeting Engagement rules in the *Adeptus Titanicus* rulebook. The intention behind this change is to create a competitive system that rewards shrewd tactics and player skill while retaining the asymmetric objective system of *Adeptus Titanicus*.
 
@@ -166,7 +179,7 @@ Once players have determined a Battle Rating and assembled their battlegroup, th
 2. Determine objectives
 3. Deploy battlegroups
 
-## Determining Deployment Maps
+### Determining Deployment Maps
 
 Before the battle a Deployment Map needs to be determined. To choose a Deployment Map, both players roll off, with the winner choosing who has control of the battlefield. The player who is in control of the battlefield then chooses one of the two D6 results from the roll-off and compares it against the table that follows to determine a Deployment Map.
 
@@ -175,7 +188,7 @@ Before the battle a Deployment Map needs to be determined. To choose a Deploymen
 For events, it is recommended that a Deployment Map is chosen for each round and applied to all games played that round (for example, Round 2 might be Line of Battle).
 
 | D6 | RESULT |
-|---|:-------|
+|---|-------|
 | 1 | Line of Battle |
 | 2 | Fortified Position |
 | 3 | Chance Engagement |
@@ -187,79 +200,49 @@ Once a Deployment Map has been determined, the player with control of the battle
 
 If a Deployment Map was chosen by a Tournament Organiser then players should roll off now, with the winner determining who has control of the battlefield.
 
-## Battlefield Edge
+### Battlefield Edge
 
 Certain objectives mention a battlefield edge. Each Deployment Map highlights the relevant battlefield edges that this references; the player who owns that battlefield edge is the player whose deployment zone touches it.
 
-# Deployment Maps
+### Deployment Maps
 
-## Line of Battle
+#### Line of Battle
 
 *The movement of a battlegroup is rarely a subtle affair, for few things can conceal the thunderous steps of the god-engines. In the war between once-brothers, it was oft the case that both Loyalist and Traitor Titans met on equal terms; who survived depended solely on the Princeps' skill.*
 
-12"
-
-24"
-
-12"
-
-## Fortified Position
+#### Fortified Position
 
 *Conflict between the war machines of the Mechanicum were not quick affairs, often becoming mired in wars of attrition between battlegroups. When both sides refused to back down or retreat, they would reinforce their position, ensuring their forces had a safe haven to sally forth from or retreat to when the rigours of battle wore them down.*
 
-24"
-
-16"
-
-16"
-
-16"
-
-24"
-
-## Chance Engagement
+#### Chance Engagement
 
 *During war, the flow of information is rarely foolproof and, more often than not, intel can fail to reach those in dire need of it. Such issues were compounded during the Horus Heresy, for one never truly knew who was friend and who was foe, a question often answered by an assault from an unexpected quarter.*
 
-**Diagram measurements:** 12", 12", 24", 12", 12"
-
-## Staggered Front
+#### Staggered Front
 
 *In the maelstrom of war, battlelines are rarely rigid for the constant clash of armies often sees them redrawn, as ground is won by bold charges in one place and ceded in the face of the foe's advance in others. The most talented commanders can perceive the flow of battle with ease, identifying the weak point in the enemy line and using such insight to their advantage.*
 
-**Diagram measurements:** 24", 12", 12", 20", 12", 12", 20", 12", 12", 24"
-
-## Confrontation
+#### Confrontation
 
 *Even the most rigorous of plans can fall apart in the heat of battle, for the foe rarely deigns to stick to the battleplans of their opponent. In the absence of intricate tactics, it falls to the opposing forces to fight on even terms, relying on naught but courage and brute strength to win them the day.*
 
-- Top: 30"
-- Right: 24"
-- Bottom: 30"
-- Left: 24"
-
-## Strengthened Flank
+#### Strengthened Flank
 
 *Few wars are won by strength alone, for shrewd tactics and clever manoeuvring have seen many commanders win the day in the face of dire odds. A common tactic in the arsenal of any commander is deception, moving their forces to leave an apparent weak point for the foe to exploit. Once the enemy has committed, the commander will unleash their own forces, hoping to pick apart their foe from an unexpected angle.*
 
-- Top: 48"
-- Right: 18"
-- Bottom: 48"
-- Left: 18"
-
-# Matched Play Objectives
+## Matched Play Objectives
 
 The Meeting Engagement objectives presented in the *Adeptus Titanicus* rulebook provide one way to play Adeptus Titanicus. This section presents new Matched Play objectives that expand upon the ideas given there. If in use, then only these Primary and Secondary Objectives are used and the ones in the rulebook are ignored.
 
-## Game Length
+### Game Length
 
 Matched Play battles last for five rounds. At the end of the fifth round the battle ends, unless a special rule dictates the battle ends in a different round. When the battle ends, players score their objectives to determine the total number of Victory points each side has. The player who has scored the most Victory points is victorious.
 
-## Determining Objectives
+### Determining Objectives
 
 In Matched Play, objectives are separated into two categories, Primary and Secondary, each of which offers a set number of Victory points and are independent of one another. At the start of each game, each player must select their objectives. To do this, each player generates two Primary Objectives and two Secondary Objectives by rolling two D10 for Primary Objectives and two D6 for Secondary Objectives, re-rolling any duplicates, and looking up the results on the table on page 17 to see which objectives are available to the battlegroup. Each player then secretly chooses one Primary Objective and one Secondary Objective from those available.
 
-## Scoring Objectives
+### Scoring Objectives
 
 Primary Objectives represent the main objective of a battlegroup and hold more value than Secondary Objectives. To this end, all Primary Objectives are worth a maximum of 25 Victory points (VPs) while all Secondary Objectives are worth a maximum of 15 VPs.
 
@@ -271,10 +254,15 @@ To score a Tertiary Objective given by a Stratagem, players must spend the requi
 
 Objectives are the only way to gain Victory points in Matched Play.
 
-!!! note "Objective Markers"
-    Many objectives call for the placement of one or more objective markers. An objective marker is provided on the Adeptus Titanicus accessories sprue. However, players may wish to create their own objective markers in order to theme them to their Legio or simply to add variety. To represent this, objective markers should be mounted upon a 32mm base in order to keep a consistent size for all players. Beyond these restrictions, players have free rein as to the nature of their markers. Note that unless otherwise stated, objective markers do not block movement or line of sight, regardless of their appearance.
+---
 
-# Objectives Tables
+### Objective Markers
+
+Many objectives call for the placement of one or more objective markers. An objective marker is provided on the Adeptus Titanicus accessories sprue. However, players may wish to create their own objective markers in order to theme them to their Legio or simply to add variety. To represent this, objective markers should be mounted upon a 32mm base in order to keep a consistent size for all players. Beyond these restrictions, players have free rein as to the nature of their markers. Note that unless otherwise stated, objective markers do not block movement or line of sight, regardless of their appearance.
+
+---
+
+### Objectives Tables
 
 Players generate their Primary and Secondary Objectives from the tables below, rolling two D10 for Primary Objectives and two D6 for Secondary Objectives, re-rolling duplicates. Players then choose one of the two Primary and one of the two Secondary Objectives available to them, as determined by the rolls. Alternative methods for choosing objectives are presented later in this supplement.
 
@@ -282,7 +270,7 @@ It should be noted that some objectives have the same names as the Meeting Engag
 
 After determining the objectives available to them, each player secretly chooses which of these available Primary and Secondary Objectives they wish to attempt - the others are discarded. Once both players have selected their objectives, they reveal their Primary and Secondary Objectives.
 
-## Primary Objectives
+#### Primary Objectives
 
 | D10 | Primary Objectives |
 |---|---|
@@ -297,7 +285,7 @@ After determining the objectives available to them, each player secretly chooses
 | 9 | Asset Protection |
 | 10 | Defend and Extract |
 
-## Secondary Objectives
+#### Secondary Objectives
 
 | D6 | Secondary Objectives |
 |---|---|
@@ -312,11 +300,11 @@ Some objectives call for the placement of one or more objective markers. If this
 
 It is possible for both players to have the same objective. If this is the case, and the objective calls for an objective marker to be placed, both players place their own objective markers as described in the rules for the relevant objective, starting with the player who has control of the battlefield, making sure all objectives are at least 1" away from another objective. Players cannot use the opposing player's objective markers to gain Victory Points even if both players have the same Primary or Secondary Objectives (i.e., if both players have the Retrieval Primary Objective, they can only retrieve their objective, not the objective marker placed by the opposing player).
 
-# Knight Household Objective Table
+### Knight Household Objective Table
 
 Some of the objectives in the previous tables are unsuited for Household battlegroups. As such, Household battlegroups use a modified Objective table to determine their objectives, as shown below:
 
-## Household Battlegroup Mission Objectives
+#### Household Battlegroup Mission Objectives
 
 | D10 | Primary Objectives |
 |---|---|
@@ -331,7 +319,7 @@ Some of the objectives in the previous tables are unsuited for Household battleg
 | 9 | Asset Protection |
 | 10 | Defend and Extract |
 
-## Secondary Objectives
+#### Secondary Objectives
 
 | D6 | Secondary Objectives |
 |---|---|
@@ -342,23 +330,23 @@ Some of the objectives in the previous tables are unsuited for Household battleg
 | 5 | Honour Duel |
 | 6 | A Matter of Honour |
 
-# Deploy Battlegroups
+### Deploy Battlegroups
 
 Once a Deployment Map has been chosen and players have decided upon their objectives, players will deploy their battlegroups. Unless stated otherwise, players deploy their battlegroups as described below:
 
 Starting with the player who has control of the battlefield, players alternate setting up a unit (be that a Titan or Knight Banner) or squadron within their deployment zone. If one player deploys their final unit, their opponent deploys their remaining units. In the Strategy phase of the first round, the player who finished deploying their units first rolls a D10 when rolling off to see who is the First Player, while their opponent rolls a D6 instead. Units that are not deployed as normal (e.g., Titans that are part of the Canis maniple) count as deployed for the purpose of determining who has deployed first, however they must be deployed before resolving any special rule that occurs after players have deployed their battlegroups (e.g., when choosing units as a part of objectives).
 
-**Secretly Choose**
+---
+
+### Secretly Choose
 
 Some objectives state you must choose one or more Titans or Knight Banners as part of that objective. In some cases the objective states you must secretly choose. If an objective does not explicitly state that you must secretly choose then you must announce your choices to your opponent before the first round begins. If the objective says to secretly choose, then you must write down your choices to ensure you remember them and so you can reveal them to your opponent at the relevant time.
 
-# Primary Objectives
+---
 
-## Retrieval
+## Primary Objectives
 
-*"The crew of the Defiant Martyr sit within those ruins waiting for what might seem like inevitable death. We cannot abide by that outcome. Engines, engage locomotives-we go to war!"*
-
-*Princeps Retiford, He Who Strides, Legio Defensor*
+### Retrieval
 
 If this objective is chosen, the player with this objective places an objective marker anywhere along the horizontal central line of the battlefield. A friendly model that is within 1" of the objective marker when activated in the Combat phase can retrieve the objective-this counts as their activation. Remove the marker from the battlefield. If a Knight Banner retrieves the objective, the model closest to the objective is carrying it-if two or more models from the retrieving unit are within equal distance of the objective, the controlling player may choose which model is carrying it. If the model carrying the objective is destroyed, place the objective marker where the centre of the model's base was, or the controlling player deploys the marker touching the Titan's base if the model is still on the table (e.g., due to a Silenced result).
 
@@ -366,11 +354,7 @@ In the End phase of any round, a model carrying the objective marker that is wit
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 25 VPs if the objective marker has been recovered, 15 VPs if the objective marker is being carried by a friendly unit but is still on the battlefield, or 5 VPs if the objective is not being carried by a friendly unit but no enemy units are within 12" of the objective marker.
 
-## Secure and Hold
-
-*"Cut through until you reach the heart of their defences. Deny them their strongholds and watch them crumble beneath our might."*
-
-*Princeps Gueniver, Blade of the Warmaster, Legio Krytos*
+### Secure and Hold
 
 If this objective is chosen, the player with this objective places three objective markers: one at least 12" from their own battlefield edge, one no more than 12" from their opponent's battlefield edge and one within the centre of the battlefield (or within 1" if this is not possible).
 
@@ -378,11 +362,7 @@ At the end of the battle, each player calculates the total Scale of their units 
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 5 VPs if they control one objective marker, 15 VPs if they control two objective markers or 25 VPs if they control all three objective markers.
 
-## Vital Cargo
-
-*"Ensure the Paragondra breaks through. Only their survival matters."*
-
-*Princeps Tald, Lux Crescente, Legio Solaria*
+### Vital Cargo
 
 If this objective is chosen, then after both players have finished deploying, the player with this objective must secretly choose one of their Titans that is on the battlefield-this is the Titan that is carrying the cargo. Make a note of which Titan is carrying the cargo. In the End phase, a Titan carrying the cargo that is within 1" of their opponent's battlefield edge can deliver the cargo-remove that unit from the battlefield. That unit does not count as destroyed but plays no further part in the battle.
 
@@ -390,39 +370,23 @@ If the Titan carrying the cargo is destroyed, place an objective marker, represe
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 25 VPs if the cargo has been delivered, 15 VPs if the cargo is being carried by a friendly Titan but is still on the battlefield or 5 VPs if the cargo is not being carried by a friendly Titan but no enemy units are within 8" of it.
 
-## Hold the Line
-
-*"Those traitorous curs seek the death of all in this city. We are the only thing standing in their way. Failure is not an option."*
-
-*Princeps Yandor, Sacrificium Honore, Legio Atarus*
+### Hold the Line
 
 **Scoring Victory Points:** If this objective is chosen, then at the end of the battle the player with this objective scores 5 VPs if there are no enemy units within 12" of their battlefield edge, 15 VPs if there are no enemy units within 18" of their battlefield edge or 25 VPs if there are no enemy units within 24" of their battlefield edge.
 
-## Push Forwards
-
-*"Today the pack hunts! Break through their line and tear at their flanks! Teach them the folly of underestimating us!"*
-
-*Princeps Kordaxal, Snarling Maw, Legio Audax*
+### Push Forwards
 
 **Scoring Victory Points:** If this objective is chosen, then at the end of the battle the player with this objective scores 5 VPs if at least one friendly unit is within 24" of the opposing player's battlefield edge, 15 VPs if at least one friendly unit is within 15" of the opposing player's battlefield edge or 25 VPs if at least one friendly unit is within 8" of the opposing player's battlefield edge.
 
 If, at the end of the battle, the player with this objective has at least one enemy Titan within 15" of their battlefield edge, the highest number of VPs they can score is 15, even if they have one of their own units within 8" of the opposing player's battlefield edge.
 
-## Salt the Earth
-
-*"It seems they hold some sentiment for this place. What a shame it would be if something terrible happened to it."*
-
-*Princeps Xultora, Blood of Incaladion, Legio Fureans*
+### Salt the Earth
 
 If this objective is chosen, the opposing player places an objective marker anywhere in their deployment zone at least 10" from any battlefield edge. During the End phase of any round, if a unit controlled by the player with this objective is within 1" of the marker the unit may destroy the objective - remove the marker from the battlefield.
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 25 VPs if the objective was destroyed in round one, two or three, 15 VPs if it was destroyed in round four, or 5 VPs if it was destroyed in round five onwards.
 
-## Seize the Quadrant
-
-*"We cannot allow them to gain a foothold. Secure all quadrants and be alert for enemy movement."*
-
-*Princeps Martusterum, Celeri Assertor, Legio Astorum*
+### Seize the Quadrant
 
 If this objective is chosen, then at the end of the battle divide the battlefield into four 2'x2' sections and determine the total Scale of each player's units in each quarter. Units which have not been destroyed but are Structurally Compromised, or in the case of Household Support units have lost more than half of their models, count as half their Scale (rounding down) when calculating the total Scale. The player with the highest total Scale in a quadrant controls that quadrant. If the total Scale of both players is equal, neither player controls the quadrant. Each unit can only be counted once when scoring VPs - if a unit is within multiple quadrants, the controlling player chooses which Quadrant it counts as within for the purpose of scoring; it is ignored for the remaining quadrants.
 
@@ -430,11 +394,7 @@ If playing on a battlefield larger than 4'x4', then it should be divided into fo
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 5 VPs if they control one quadrant, 15 VPs if they control two quadrants and 25 VPs if they control three or more quadrants.
 
-## Honour Thy Forebears
-
-*"Our Legio is dead, destroyed by the machinations of cowards. We may be the last of our proud legacy. Do not fall before honour is satisfied."*
-
-*Princeps Alvar, Eternal Regret, Legio Fortidus*
+### Honour Thy Forebears
 
 If this objective is chosen, then after both players have finished deploying, the player with this objective must choose one of their Titans on the battlefield to carry their Legio's Honour Banner. Place a marker on that Titan's base or Command Terminal to signify this. If the Titan carrying the Honour Banner is destroyed, place an objective marker where the centre of that Titan's base was, or deployed by the controlling player touching the Titan's base if the model is still on the table (e.g., due to a Silenced result). A friendly Titan can pick up the Honour Banner if they are within 1" of the marker when they activate during the Movement phase or Combat phase - this counts as their activation for that phase.
 
@@ -444,11 +404,7 @@ If using a Household battlegroup, the player with this objective chooses a Knigh
 
 If using a Household battlegroup, the Lance in which the Knight Banner originally carrying the Honour Banner is in is used in determining the number of VPs earned. At the end of the battle, if any Banner from the original Lance is carrying the Honour Banner, the player with this objective scores 25 VPs. Otherwise, they score 15 VPs if the Honour Banner is being carried by any other friendly Knight Banner or 5 VPs if the Honour Banner is not being carried by any friendly Knight Banner but no enemy units are within 8" of the objective marker.
 
-## Asset Protection
-
-*"Upon the battlefield we stand as gods. And like all gods, we must protect those lesser than us."*
-
-*Princeps Nirendar, Stalwart Guardian, Legio Defensor*
+### Asset Protection
 
 If this objective is chosen, the player with this objective places three Asset Protection objective markers; each one must be at least 10" from that player's battlefield edge, at least 5" from any other battlefield edge and at least 10" from another previously placed Asset Protection objective marker.
 
@@ -456,11 +412,7 @@ At the end of the battle, each player calculates the total Scale of their units 
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 5 VPs if they control one objective marker, 15 VPs if they control two objective markers or 25 VPs if they control all three objective markers.
 
-## Defend and Extract
-
-*"Do not let such pitiful foes lay their hands upon this knowledge. Their minds are far too weak for it."*
-
-*Princeps Jan, Ferrum Potentia, Legio Mortis*
+### Defend and Extract
 
 If this objective is chosen, the player with this objective places three Defend and Extract objective markers; each one must be at least 12" from that player's battlefield edge, at least 5" from any other battlefield edge and at least 10" from another previously placed Defend and Extract objective marker.
 
@@ -470,13 +422,9 @@ Whichever player controls an objective marker can move that marker up to 6" in a
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 5 VPs if they control one objective marker, 10 VPs if they control two objective markers, 20 VPs if they control three objective markers or 25 VPs if they control all three objective markers and all are within 12" of the player's battlefield edge.
 
-# Secondary Objectives
+## Secondary Objectives
 
-## Stand Tall
-
-*"Victory is not just completing your task but standing before your foe and laughing in defiance."*
-
-*Princeps Vitus, Death's Conclave, Legio Mortis*
+### Stand Tall
 
 If this objective is chosen, at the end of the battle the player with this objective scores Victory points based on the total number of points from their battlegroup remaining on the battlefield. Determine the total points value of friendly units remaining on the battlefield. Units which have not been destroyed but are Structurally Compromised, or in the case of Household Support units, have lost more than half of their models, count as half their points (rounding down to the nearest whole number) when calculating the total points.
 
@@ -489,23 +437,13 @@ If this objective is chosen, at the end of the battle the player with this objec
 | 50-66% | 10 |
 | >66% | 15 |
 
-## Deny Them
-
-*"Princeps, the Mons Exaltatio is taking heavy damage."*
-
-*"Get me a view of their assailants. None shall fall today."*
-
-*Princeps Asmenal, Hammer of Terra, Legio Solaria*
+### Deny Them
 
 If this objective is chosen, after both players have finished deploying the player with this objective must choose two units from their battlegroup on the battlefield: one must be a Princeps Seniores and the other must have a Scale of 5 or more that is not a Princeps Seniores.
 
 **Scoring Victory Points:** The player with this objective scores 10 VPs if the chosen Princeps Seniores has not been destroyed by the end of the battle. In addition, they score 5 VPs if the second chosen unit has not been destroyed by the end of the battle.
 
-## Glory and Honour
-
-*"Priority Target Located. Moderatus, charge weapons. Flanking units engage. Fire!"*
-
-*Princeps Artemisia, Claws Unsheathed for Edification, Legio Resonantis*
+### Glory and Honour
 
 If this objective is chosen, after both players have finished deploying, the player with this objective must choose three of their opponent's units and designate one as a Primary target and the other two as Secondary targets. The Primary target must be the unit with the largest Scale in the enemy battlegroup - if two or more units have the same Scale, the player with this objective can choose which the Primary target is. The Secondary targets can be any units of Scale 5 or more, chosen by the player with this objective.
 
@@ -517,11 +455,7 @@ If, for whatever reason, the listed targets are not available, discard this obje
 
 If playing at an event where an objective cannot be discarded, then if only one Secondary target can be chosen, that target is worth 8 VPs. If only a Primary target can be chosen, that target is worth 15 VPs instead.
 
-## Engage and Destroy
-
-*"Wipe them from existence!"*
-
-*Princeps Ganundrel, Mors Foedus, Legio Interfector*
+### Engage and Destroy
 
 If this objective is chosen, at the end of the battle the player with this objective scores Victory points based on how much of the enemy's battlegroup they have destroyed. Determine the total points value of destroyed enemy units, rounded to the nearest whole number. Units which have not been destroyed but are Structurally Compromised, or in the case of Household Support units have lost more than half of their models, count as half their points (rounding down) when calculating the total points destroyed.
 
@@ -534,11 +468,7 @@ If this objective is chosen, at the end of the battle the player with this objec
 | 61-80% | 10 |
 | >80% | 15 |
 
-## Priority Assignment
-
-*"Fools. Their petty minds cannot comprehend the true extent of our goals."*
-
-*Princeps Zine, Breaker of Angels, Legio Kulisaetai*
+### Priority Assignment
 
 If this objective is chosen, after both players have finished deploying, the player with this objective must secretly choose two of their units; one must be designated as Shield and the other Spear. In addition, one of the chosen units must be designated as Alpha and the other as Beta.
 
@@ -550,11 +480,7 @@ If enough units cannot be chosen (e.g., due to the enemy battlegroup not having 
 
 **Scoring Victory Points:** The unit designated as Alpha scores 9 VPs if it completed its objective as described above. The unit designated as Beta scores 6 VPs if it completed its objective as described above.
 
-## A Matter of Honour
-
-*"Death is fleeting, shame everlasting."*
-
-*Princeps Nannariliz, Pride Beyond Years, Legio Defensor*
+### A Matter of Honour
 
 If this objective is chosen, after both players have finished deploying, the player with this objective must secretly choose two of their units, designating one as Alpha and the other as Beta. Once chosen, they must secretly pair the chosen units with enemy units of equal or higher Scale; note down which unit is paired with which enemy unit. If a unit controlled by the player cannot be paired in such a way (e.g., due to being of a larger Scale than all enemy units) then it must be paired with two enemy units of lower Scale. A unit cannot be paired if it has already been chosen as part of this objective.
 
@@ -562,37 +488,25 @@ If four units cannot be chosen (e.g., due to the enemy battlegroup having three 
 
 **Scoring Victory Points:** The unit designated as Alpha scores 9 VPs if it destroyed the unit(s) it was paired with. The unit designated as Beta scores 6 VPs if it destroyed the unit(s) it was paired with. In both instances, a weapon attack from the chosen unit must have destroyed the target; this can be because of a direct weapon attack or the target being destroyed due to the result of Catastrophic Damage caused to another unit by the Alpha/Beta unit.
 
-# Household Battlegroup Objectives
+## Household Battlegroup Objectives
 
-## Primary Objectives
+### Primary Objectives
 
-### Break Through
-
-*"Find the foe's weakness and run them through."*
-
-*High Scion Lacerollet, House Mordred*
+#### Break Through
 
 If this objective is chosen, after both players have finished deploying, the player with this objective must secretly choose one of their Knight Lances - this is the Knight Lance that must break through the enemy line. Make a note of which Knight Lance is attempting to Break Through. In the End phase of any round, a Knight Banner from that Lance within 1" of their opponent's battlefield edge can breach the enemy line - remove that unit from the battlefield. That unit does not count as destroyed but plays no further part in the battle.
 
 **Scoring Victory Points:** At the end of the battle, if two or more Banners from the chosen Lance have breached the enemy line, the player with this objective scores 20 VPs. If only one Banner from the chosen Lance has breached the enemy line, they score 10 VPs. In addition, if the Seneschal's, High King's, or a High Scion's Banner is the one that has breached the enemy line then the player with this objective scores an additional 5 VPs.
 
-## Secondary Objectives
+### Secondary Objectives
 
-### Legacy of the Household
-
-*"All we can hope is that we are remembered as heroes who faced certain death with fire and fury."*
-
-*High Scion Nrinul Pollrae, House Vornherr*
+#### Legacy of the Household
 
 If this objective is chosen, after both players have finished deploying, the player with this objective must secretly choose three Knight Banners from their battlegroup; at least one of these Banners must be a Banner containing a Seneschal, High King or High Scion.
 
 **Scoring Victory Points:** At the end of the battle, the player with this objective scores 5 VPs for each chosen Knight Banner that has not been destroyed - Knight Banners that have left the battlefield due to another objective (e.g., Break Through) do not count as being destroyed for the purpose of scoring this objective. If a chosen target was not on the battlefield at the start of the battle (due to a Stratagem or special rule), and has not arrived on the battlefield by the end of battle, they count as destroyed for the purpose of scoring this objective.
 
-### Honour Duel
-
-*"I care not what happens to me, only that they lie dead before the day is done."*
-
-*Seneschal Gallaumn Vyronii, House Vyronii*
+#### Honour Duel
 
 If this objective is chosen, the player must destroy high-value targets within the enemy battlegroup.
 
