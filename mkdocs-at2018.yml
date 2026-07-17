@@ -1,4 +1,5 @@
 site_name: Epic Heresy
+site_url: https://epicheresy.ru/
 docs_dir: docs/at2018
 
 theme:

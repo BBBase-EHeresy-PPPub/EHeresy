@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://epicheresy.ru/sitemap.xml
+Sitemap: https://epicheresy.ru/at2018/sitemap.xml
+Sitemap: https://epicheresy.ru/li2023/sitemap.xml
