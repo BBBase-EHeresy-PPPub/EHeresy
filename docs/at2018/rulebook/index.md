@@ -16,4 +16,4 @@ However, this book is only the beginning. New supplements and miniatures will be
 
 This is not the first time that Games Workshop has released a game centred around Titans going to war, and indeed not the first time that the title Adeptus Titanicus has been used. Veteran players will note that this is a brand new game system rather than a polished re-release of existing rules, but it stands on the shoulders of giants (giant walking robots, that is!). We have made every effort to be respectful to the games that came before, borrowing ideas and marrying new mechanics with old in the hope of creating a game that will appeal to veteran players as much as it does to the new blood. We're really pleased with the result, and hope that you are too.
 
-![](../media/rulebook/cover.jpg)
+![](../media/rulebook/cover.jpg){ width=891 height=920 }

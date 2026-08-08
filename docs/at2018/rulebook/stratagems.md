@@ -115,4 +115,4 @@ Failed Void Shield saves can be re-rolled for units that are within 2" of a frie
 
 *Each Battlefield Asset is represented by a plastic miniature; all six can be found on the Adeptus Titanicus game accessory sprue.*
 
-![](../media/rulebook/battlefield_assets.jpg)
+![](../media/rulebook/battlefield_assets.jpg){ width=1000 height=507 }

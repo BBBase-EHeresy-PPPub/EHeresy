@@ -90,11 +90,11 @@ Wartorn Landscapes - see page 43
 
 When a model is activated in the Movement phase, it can move in a straight line a number of inches up to its default Speed characteristic (the first value shown under Speed on its Command Terminal). The model must move within its Front arc, but its facing does not change even if it moves at a diagonal.
 
-![](../media/rulebook/moving_1.jpg)
+![](../media/rulebook/moving_1.jpg){ width=603 height=442 }
 
 Models are able to change direction partway through a move - for instance, you could move a model straight forward for half its Speed, then move diagonally for the remainder.
 
-![](../media/rulebook/moving_2.jpg)
+![](../media/rulebook/moving_2.jpg){ width=603 height=386 }
 
 **Sidestepping and Backing Up.** Models are also able to move outside their Front arc (again, their facing does not change) but if they do so, every inch they move takes up 2" of their Speed. For example, a Reaver Titan (Speed 6") could sidestep to the right up to 3". Again, forward and sideways movement can be mixed - the Reaver could sidestep 2" to clear a building, then move its remaining 2" within its Front arc.
 
@@ -108,7 +108,7 @@ Models are able to change direction partway through a move - for instance, you c
 
 In the Movement phase, a model can make a number of turns equal to its default Manoeuvre characteristic (the first value shown under Manoeuvre on its Command Terminal). A turning model pivots around the centre of its base, and can turn up to 45°. It can make these turns before, after or during its move, and can use multiple turns at the same time to turn more than 45°.
 
-![](../media/rulebook/turning.jpg)
+![](../media/rulebook/turning.jpg){ width=603 height=442 }
 
 ### Collisions
 

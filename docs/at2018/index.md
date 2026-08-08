@@ -2,7 +2,7 @@
 
 Before reading through the rules, it might be helpful to look over these pages to get an idea of how a game is set up.
 
-![](media/playfield.jpg)
+![](media/playfield.jpg){ width=920 height=448 }
 
 **1. The Battlefield**
 

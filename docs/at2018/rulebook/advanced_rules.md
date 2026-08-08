@@ -32,27 +32,27 @@ Shutdown orders are not automatically removed in the End phase. Instead, when a 
 
 ### Available Orders
 
-![](../media/rulebook/emergency_repairs.jpg) **Emergency Repairs:**
+![](../media/rulebook/emergency_repairs.jpg){ width=127 height=127 } **Emergency Repairs:**
 
 As soon as an Emergency Repairs order is issued, make a Repair roll for the unit (see page 32), adding 1 to the result of each dice. If a unit with Emergency Repairs orders is activated in the Movement phase, it cannot be activated in the subsequent Combat phase.
 
-![](../media/rulebook/first_fire.jpg) **First Fire:**
+![](../media/rulebook/first_fire.jpg){ width=127 height=127 } **First Fire:**
 
 When a unit acting under First Fire orders is activated in the Movement phase, it cannot move or make turns. Instead, pick one of its weapons to attack with, following the full Combat Sequence on page 33. Note that the attacking weapon must be declared before selecting a target. This does not prevent the unit from using that weapon again in the Combat phase.
 
-![](../media/rulebook/charge.jpg) **Charge:**
+![](../media/rulebook/charge.jpg){ width=127 height=127 } **Charge:**
 
 In the Movement phase, a unit acting under Charge orders can only move within its Front arc, and once it starts moving, it cannot make any turns. However, once it has finished moving, it can immediately make either a Smash Attack (see page 36) or an attack with a weapon that has the Melee trait. Add 1 to the attack's Dice value for each full 3" that the model moved before attacking. Note that this does not stop the unit making a Smash Attack in the Combat phase.
 
-![](../media/rulebook/split_fire.jpg) **Split Fire:**
+![](../media/rulebook/split_fire.jpg){ width=127 height=127 } **Split Fire:**
 
 A unit acting under Split Fire orders cannot make any turns in the Movement phase. However, in the Select Target step of the Combat phase (see page 33), a different target can be declared for each of the unit's weapons.
 
-![](../media/rulebook/full_stride.jpg) **Full Stride:**
+![](../media/rulebook/full_stride.jpg){ width=127 height=127 } **Full Stride:**
 
 A unit acting under Full Stride orders cannot attack in the Combat phase. Instead, when it is activated, it can move a number of inches up to its Speed. This move must be made within the unit's Front arc. It cannot make any turns before, during or after this move, and the move must be made in a single straight line.
 
-![](../media/rulebook/shutdown.jpg) **Shutdown:**
+![](../media/rulebook/shutdown.jpg){ width=127 height=127 } **Shutdown:**
 
 If a unit with void shields is issued Shutdown orders, its void shields collapse immediately. A unit with Shutdown orders cannot be activated in the Movement phase or Combat phase. Reactor rolls cannot be made for a unit with Shutdown orders (even if instructed to do so). Shutdown orders are not automatically removed in the End phase (see page 41). A unit that has Shutdown orders at the end of the battle counts as destroyed.
 
@@ -196,7 +196,7 @@ When a maniple goes to war, it is often supported by Banners of Knights, compact
 
 ### Banner Command Terminals
 
-![](../media/rulebook/banner_command_terminals.jpg)
+![](../media/rulebook/banner_command_terminals.jpg){ width=611 height=558 }
 
 Each Banner has a Command Terminal in the same way as a Titan. Most of the information on the Command Terminal will be familiar (Class, Scale, Order space, Characteristics and so on) but as Knights are much smaller than Titans, they do not have multiple Hit locations. Instead, they have a single Damage table and Structure Points Status track. As such, it is never necessary to roll the Location dice when attacking a Banner.
 

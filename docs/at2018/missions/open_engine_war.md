@@ -38,7 +38,7 @@ CHANCE ENGAGEMENT
 
 12"          12"
 
-![Chance Engagement](../media/open_engine_war/deployment_maps_chance_engagement.png)
+![Chance Engagement](../media/open_engine_war/deployment_maps_chance_engagement.png){ width=538 height=803 }
 
 ### Confrontation
 
@@ -50,7 +50,7 @@ CHANCE ENGAGEMENT
 
 30"
 
-![Confrontation](../media/open_engine_war/deployment_maps_confrontation.png)
+![Confrontation](../media/open_engine_war/deployment_maps_confrontation.png){ width=545 height=815 }
 
 ### Flank Engagement
 
@@ -68,7 +68,7 @@ CHANCE ENGAGEMENT
 
 24" | 24"
 
-![Flank Engagement](../media/open_engine_war/deployment_maps_flank_engagement.png)
+![Flank Engagement](../media/open_engine_war/deployment_maps_flank_engagement.png){ width=541 height=792 }
 
 ### Fortified Position
 
@@ -82,7 +82,7 @@ CHANCE ENGAGEMENT
 
 24"
 
-![Fortified Position](../media/open_engine_war/deployment_maps_fortified_position.png)
+![Fortified Position](../media/open_engine_war/deployment_maps_fortified_position.png){ width=527 height=794 }
 
 ### Line of Battle
 
@@ -94,7 +94,7 @@ CHANCE ENGAGEMENT
 
 48"
 
-![Line of Battle](../media/open_engine_war/deployment_maps_line_of_battle.png)
+![Line of Battle](../media/open_engine_war/deployment_maps_line_of_battle.png){ width=535 height=804 }
 
 ### Scattered Front
 
@@ -108,7 +108,7 @@ SCATTERED FRONT
 
 12"          12"
 
-![Scattered Front](../media/open_engine_war/deployment_maps_scattered_front.png)
+![Scattered Front](../media/open_engine_war/deployment_maps_scattered_front.png){ width=535 height=803 }
 
 ### Spearhead
 
@@ -122,7 +122,7 @@ SPEARHEAD
 
 48"
 
-![Spearhead](../media/open_engine_war/deployment_maps_spearhead.png)
+![Spearhead](../media/open_engine_war/deployment_maps_spearhead.png){ width=531 height=801 }
 
 ### Staggered Front
 
@@ -142,7 +142,7 @@ SPEARHEAD
 
 24"
 
-![Staggered Front](../media/open_engine_war/deployment_maps_staggered_front.png)
+![Staggered Front](../media/open_engine_war/deployment_maps_staggered_front.png){ width=533 height=814 }
 
 ### Strengthened Flank
 
@@ -154,7 +154,7 @@ SPEARHEAD
 
 48"
 
-![Strengthened Flank](../media/open_engine_war/deployment_maps_strengthened_flank.png)
+![Strengthened Flank](../media/open_engine_war/deployment_maps_strengthened_flank.png){ width=540 height=802 }
 
 ## Primary Objectives
 

@@ -10,4 +10,4 @@ Princeps Bathus Voltemand of the Canis Ulteriax, Legio Audax
 
 Thissupplement for Adeptus Titanicus contains everything you need to field a Titan Legion or Knight Household which turned against the Emperor. Within, you'll find rules for assembling a Traitor battlegroup, along with the unique weapons and wargear available to such a force. Adeptus Titanicus: Traitor Legios also provides rules for 16 infamous Titan Legions which turned against the Emperor, including the feared Legio Mortis (Death's Heads), the insane Legio Interfector (Murder Lords) and the unparalleled hunters of Legio Audax (Ember Wolves). Adeptus Titanicus: Traitor Legios also contains rules for 12 Traitor Knight Houses, including House Morbidia, House Hyboras and House Devine, 19 Titan maniples, weapon reference charts and every Stratagem available to Traitor battlegroups. In addition, this book contains the dreaded Titanica Infernus, offering Traitor Titan Legions the opportunity to field twisted Corrupted Titans.
 
-![](../media/traitor_legios/cover.jpg)
+![](../media/traitor_legios/cover.jpg){ width=891 height=920 }

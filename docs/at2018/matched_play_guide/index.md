@@ -4,4 +4,4 @@ This supplement offers guidelines and advice for organising, setting up and runn
 
 Within you'll find advice for running "Organised Play" events, including rules for building battlegroups, and new objectives and Deployment Maps, which represent the standard rules for running competitive "Matched Play" style events or games; these significantly expand upon the Matched Play rules presented in the *Adeptus Titanicus* rulebook. Alongside this, the book offers suggestions and tips for running your own events, whether that is Organised Play, Doubles, or Narrative events.
 
-![](../media/matched_play_guide/cover.jpg)
+![](../media/matched_play_guide/cover.jpg){ width=603 height=912 }

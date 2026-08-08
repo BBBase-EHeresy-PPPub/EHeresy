@@ -10,7 +10,7 @@ The game is split into a number of rounds. Each round progresses through five ph
 
 At the start of each round is the Strategy phase. Each player rolls a D10, and the highest scoring player chooses who will be the First Player for this round. In each phase during their round, the First Player is always the first to activate a unit.
 
-![](../media/rulebook/the_strategy_phase.jpg)
+![](../media/rulebook/the_strategy_phase.jpg){ width=355 height=418 }
 
 *The Opus Titanica emblem is given to the First Player each round.*
 
@@ -20,7 +20,7 @@ When a unit is activated in this phase, it can move. Each Titan has a Speed char
 
 A battle can be won or lost in the Movement phase, as each unit's weapons have specific fire arcs which must be taken into consideration. A Warlord might have the firepower to obliterate a lesser Titan in a single salvo, but it is for naught if the target is canny enough to stay out of the line of fire!
 
-![](../media/rulebook/the_movement_phase.jpg)
+![](../media/rulebook/the_movement_phase.jpg){ width=677 height=661 }
 
 *Knight Banner Zholon-Kuthos of House Malinax darts forward to attack the Legio Gryphonicus Reaver Aeterno Rex, moving close enough to bypass its void shields and preparing to target its weaker Rear armour.*
 
@@ -28,7 +28,7 @@ A battle can be won or lost in the Movement phase, as each unit's weapons have s
 
 Titans can suffer horrific damage during battle, and their reactors can run hot enough to risk a catastrophic overload. Thankfully, each has a crew of Enginseers and servitors dedicated to the task of keeping them in the fight. When a Titan is activated in this phase, the controlling player makes a Repair roll then spends the dice to raise fallen void shields, fix critical damage or vent plasma to stave off a reactor overload.
 
-![](../media/rulebook/the_damage_control_phase.jpg)
+![](../media/rulebook/the_damage_control_phase.jpg){ width=812 height=308 }
 
 *The Gryphonicus Warlord Iron Regent suffered several hits last round. Its void shields held, but several of its generators failed and the shields might not survive another salvo. Thankfully, a good Repair roll allows Iron Regent to make the Raise Shields Action twice, restoring its shields to almost full capacity.*
 
@@ -38,13 +38,13 @@ When a Titan is activated in this phase, it attacks with each of its weapons. In
 
 A cunning Princeps will carefully consider the order in which they make their attacks. High rate-of-fire weapons are ideal for stripping void shields, whereas devastating single-shot weapons are best kept for when the shields have fallen.
 
-![](../media/rulebook/the_combat_phase.jpg)
+![](../media/rulebook/the_combat_phase.jpg){ width=899 height=558 }
 
 *Thanks to the combined firepower of the Legio Gryphonicus Titans, the Legio Mortis Warlord Ire Incarnatus has lost its void shields. It suffers a punishing salvo to the head, taking a pair of Devastating Hits which cause it to lose a total of 4 Structure points. This moves its Status marker to the end of its track, meaning that any further damage to that location will be critical...*
 
 **Inflicting Damage.** Once a Titan's shields have collapsed, each of its Hit locations will begin to take structural damage. Eventually, its structure will be compromised and it will start suffering critical damage - systems will fail, weapons will be disabled and the Titan may finally be destroyed! No Titan dies quietly, however, and the death of a war engine is often accompanied by a large explosion that threatens to annihilate anything nearby...
 
-![](../media/rulebook/inflicting_damage.jpg)
+![](../media/rulebook/inflicting_damage.jpg){ width=341 height=158 }
 
 *Status markers are used on each Titan's Command Terminal to track a number of elements (such as void shield strength and the damage suffered at each location). The plastic sprue features two different designs of Status marker, which can be used interchangeably.*
 
@@ -72,7 +72,7 @@ Note that the dice included with Adeptus Titanicus have the Opus Titanica printe
 
 **Order Dice.** Order dice are six-sided and have a unique symbol on each face, but are rarely rolled. Instead, they are placed on a Titan's datacard to show that it has been issued orders.
 
-![](../media/rulebook/dice.jpg)
+![](../media/rulebook/dice.jpg){ width=511 height=414 }
 
 #### Modifying Dice Rolls
 
@@ -124,7 +124,7 @@ Measuring distances is restricted in Adeptus Titanicus, and players are not allo
 
 ### Arcs
 
-![](../media/rulebook/arcs.jpg)
+![](../media/rulebook/arcs.jpg){ width=608 height=608 }
 
 Even the smallest Titans are massive and ponderous - their greatest weakness being their low manoeuvrability. Each Titan has four 90° arcs, converging on the centre of its base: Front, Left Side, Right Side and Rear. Arcs are generally used in the Combat phase; a Titan's armour is strongest to the Front and as such, attacks that come from within its Side or Rear arcs are more likely to damage it. Also, each of a Titan's weapons can only target enemies that fall within a certain arc, most often the Front. Arcs also come into play in the Movement phase as Titans can generally move more swiftly within their Front arc.
 
@@ -134,7 +134,7 @@ In addition to the four arcs already mentioned, some weapons (for example, those
 
 To make it easier to determine a Titan's arcs, you can use an Arc template. Adeptus Titanicus - The Horus Heresy contains three templates, one for each of the different base sizes that are currently used for a Titan. Regardless of the size, the Arc templates all work the same - just align the template with the front of the Titan's base, and the central triangular segment will show the Front arc. Alternatively, align it to the back of the Titan's base to see the Rear arc. Each template is also the same width as the base it is designed to be used with, so it can also be used to determine Corridor firing arcs.
 
-![](../media/rulebook/arc_templates.jpg)
+![](../media/rulebook/arc_templates.jpg){ width=603 height=717 }
 
 ### Command Terminals
 
@@ -148,7 +148,7 @@ In the Advanced Rules, Titans can be issued orders, allowing them to act out of 
 
 Next to the Order space is a space for a round Designation marker. These can be found on the plastic sprue, and are numbered 1 to 10. If a player's battlegroup contains more than one of the same Class of Titan (for example, two Warlords), Designation markers can be used to show which Command Terminal applies to which.
 
-![](../media/rulebook/command_terminal.jpg)
+![](../media/rulebook/command_terminal.jpg){ width=603 height=276 }
 
 **Class, Scale and Points Value.** Titans are built in strict adherence to the specifications laid down by a Standard Template Construct (STC). This means that although no two Titans are wholly identical, they can be easily identified as belonging to one of a number of Classes. The three most common Titan Classes are the mighty Warlord Battle Titan, the mainstay Reaver Battle Titan and the agile Warhound Scout Titan, each of which can be modified or upgraded to a number of different patterns, but which all share certain characteristics.
 
@@ -184,4 +184,4 @@ In addition to the information shown at each of the other locations, a Titan's w
 
 **Weapon Card Slots.** A Titan's weapons are chosen by the controlling player at the start of each battle, by choosing the relevant Weapon cards and placing one on each of the Weapon card slots. Weapon cards are marked with a Class of Titan and a Weapon location, and they must be chosen accordingly - for example, a "Warlord Arm" weapon can be used on the arm mounting of a Warlord Titan.
 
-![](../media/rulebook/weapon_card_slots.jpg)
+![](../media/rulebook/weapon_card_slots.jpg){ width=649 height=1000 }
