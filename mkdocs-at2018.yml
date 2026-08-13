@@ -40,7 +40,7 @@ markdown_extensions:
         - tooltip_weapon_traits.md
 
 validation:
-  absolute_links: ignore
+  absolute_links: relative_to_docs
 
 nav:
   - Rulebook:

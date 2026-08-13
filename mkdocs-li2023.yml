@@ -45,7 +45,7 @@ markdown_extensions:
         - tooltip_special_rules.md
         - tooltip_weapon_traits.md
 validation:
-  absolute_links: ignore
+  absolute_links: relative_to_docs
 nav:
   - Quick Start Guide:
       - Quick Start Guide: quick_start_guide/index.md
