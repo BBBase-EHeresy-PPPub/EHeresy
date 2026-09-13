@@ -13,12 +13,12 @@
 
 **Weapons**
 
-* Legion bolters
+* Legion combi-bolters
 * Volkite chargers
 
 | Weapon           | Range | Dice | To Hit | AP | Traits              |
 | ---------------- | :---: | :--: | :----: | :-: | ------------------- |
-| Legion bolters   | 8"   | 2    | 5+     | 0  | [Assault], [Light]  |
+| Legion combi-bolters | 8" | 1 | 5+ | 0 | [Accurate], [Assault], [Light] |
 | Volkite chargers | 8"    | 1    | 5+     | 0  | [Deflagrate], [Light] |
 
 **Special Rules**
@@ -396,7 +396,7 @@ A Legion Assault Detachment can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Jump Packs]
+[Independent], [Jump Packs]
 
 </div>
 
@@ -886,7 +886,7 @@ A Legion Deredeo Dreadnought Detachment can purchase one of the following upgrad
 
 | Name                  | Movement | Sv  | CAF | Morale | W |
 | --------------------- | :------: | :-: | :-: | :----: | :-: |
-| Saturnine Dreadnought | 5" | 4+ | +2 | 3+ | 2 |
+| Saturnine Dreadnought | 5" | 4+ | +3 | 3+ | 2 |
 
 **Weapons**
 
@@ -939,7 +939,7 @@ All models in a Detachment have one of the following weapons. All models in a De
 | ----------------------------- | :---: | :--: | :----: | :-: | --------------------------------------------- |
 | Quad accelerator autocannon   | 18" | 5 | 5+ | -1 | [Tracking] |
 | Twin punisher cannon          | 12" | 4 | 4+ | -1 | [Accurate], [Light AT], [Rapid Fire], [Skyfire] |
-| Orias heavy frag missiles     | 24" | 2 | 4+ | 0 | [Barrage], [Blast (3")], [Light], [Limited (2)] |
+| Orias heavy frag missiles     | 24" | 2 | 4+ | 0 | [Barrage], [Blast] (3"), [Light], [Limited] (2) |
 
 **Upgrades**
 
@@ -1218,7 +1218,7 @@ Any Legion Predator may be equipped with one Pintle Mounted heavy bolter for +5 
 | Weapon                        | Range | Dice | To Hit | AP | Traits |
 | ----------------------------- | :---: | :--: | :----: | :-: | ----------------------------------- |
 | Hull Mounted demolisher cannon | 12"  | 1    | 4+     | -3  | [Arc] (Front), [Demolisher], [Ignores Cover] |
-| Pintle Mounted twin-linked bolter | 8" | 1    | 5+     | 0   | [Arc] (Front), [Assault], [Light], [Point Defence] |
+| Pintle Mounted twin-linked bolter | 8" | 1    | 5+     | 0   | [Assault], [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1254,14 +1254,14 @@ A Legion Vindicator Squadron can purchase one of the following upgrades:
 | Weapon                         | Range | Dice | To Hit | AP | Traits                                   |
 | ------------------------------ | :---: | :--: | :----: | :-: | ---------------------------------------- |
 | Kratos battlecannon            | 20"   | 2    | 4+     | -1 |                                          |
-|             | 10"   | 1    | 4+     | -2 | [Anti-tank], [Armourbane]                |
+|             | 10"   | 1    | 4+     | -4 | [Anti-tank], [Armourbane]                |
 | Co-axial autocannon            | 16"   | 2    | 5+     | -1 | [Co-axial], [Light AT]                   |
 | Melta blastgun                 | 8"    | 1    | 4+     | -4 | [Anti-tank], [Armourbane], [Bunker Buster] |
-| Hull Mounted heavy bolters     | 12"   | 2    | 5+     | 0  | [Arc (Front)], [Light], [Point Defence] |
-| Sponson Mounted heavy bolters  | 12"   | 2    | 5+     | 0  | [Arc (Front)], [Light], [Point Defence] |
-| Sponson Mounted lascannon      | 22"   | 1    | 4+     | -1 | [Arc (Front)], [Anti-tank]              |
-| Kratos autocannon              | 16"   | 2    | 5+     | -1 | [Arc (Front)], [Light AT]               |
-| Kratos lascannon               | 22"   | 1    | 4+     | -1 | [Arc (Front)], [Anti-tank]              |
+| Hull Mounted heavy bolters     | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted heavy bolters  | 12"   | 2    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon      | 22"   | 1    | 4+     | -1 | [Arc] (Front), [Anti-tank]              |
+| Kratos autocannon              | 16"   | 2    | 5+     | -1 | [Arc] (Front), [Light AT]               |
+| Kratos lascannon               | 22"   | 1    | 4+     | -1 | [Arc] (Front), [Anti-tank]              |
 | Pintle Mounted heavy bolter    | 12"   | 2    | 5+     | 0  | [Light], [Point Defence]                |
 
 **Upgrades**
@@ -1330,7 +1330,7 @@ A Legion Cerberus Squadron can purchase one of the following upgrades:
 
 | Name  | Movement | Sv  | CAF | Morale | W |
 | ----- | :------: | :-: | :-: | :----: | :-: |
-| Typhon | 8" | 2+ | +3 | 2+ | 2 |
+| Typhon | 8" | 2+ | +3 | 3+ | 2 |
 
 **Weapons**
 
@@ -1594,7 +1594,7 @@ A Legion Fellblade Squadron can purchase one of the following upgrades:
 | Weapon                       | Range | Dice | To Hit | AP | Traits |
 | ---------------------------- | :---: | :--: | :----: | :-: | ----------------------------- |
 | Scorpius missile launcher    | 18"   | 2    | 4+     | -2  | [Barrage], [Light AT] |
-| Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
+| Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Assault], [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1627,7 +1627,7 @@ A Legion Scorpius Battery can purchase one of the following upgrades:
 | Weapon                        | Range | Dice | To Hit | AP | Traits |
 | ----------------------------- | :---: | :--: | :----: | :-: | ----------------------------- |
 | Whirlwind missile launcher    | 30"   | 2    | 4+     | 0   | [Barrage], [Ignores Cover], [Rapid Fire] |
-| Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
+| Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Assault], [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1660,9 +1660,9 @@ A Legion Whirlwind Battery can purchase one of the following upgrades:
 
 | Weapon                         | Range | Dice | To Hit | AP | Traits |
 | ------------------------------ | :---: | :--: | :----: | :-: | -------------------------------- |
-| Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
+| Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Assault], [Light], [Point Defence] |
 | Pintle Mounted multi-melta     | 6"   | 1    | 5+     | -3  | [Anti-tank] |
-| Pintle Mounted havoc launcher  | 15"  | 1    | 4+     | 0   | [Arc] (Front), [Light AT], [Point Defence] |
+| Pintle Mounted havoc launcher  | 15"  | 1    | 4+     | 0   | [Light AT], [Point Defence] |
 | Hunter-killer missile          | 12"  | 1    | 5+     | -2  | [Anti-tank], [Limited] (1) |
 
 **Upgrades**

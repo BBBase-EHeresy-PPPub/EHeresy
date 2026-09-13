@@ -13,12 +13,12 @@
 
 **Weapons**
 
-* Thermal lance and Reaper chain-cleaver
+* Thermal spear and Reaper chain-cleaver
 * or Armiger autocannon
 
 | Weapon              | Range | Dice | To Hit | AP | Traits |
 | ------------------- | :---: | :--: | :----: | :-: | ------ |
-| Thermal lance       | 8"    | 1   | 3+ | -3 | [Arc] (Front), [Demolisher], [Engine Killer] (1) |
+| Thermal spear       | 8"    | 1   | 3+ | -3 | [Arc] (Front), [Demolisher], [Engine Killer] (1) |
 | Reaper chain-cleaver| -     | -   | -  | -  | [Rend] |
 | Armiger autocannon  | 16"   | 3   | 4+ | -1 | [Arc] (Front), [Light AT] |
 
@@ -200,28 +200,28 @@ A Cerastus Knight Banner can purchase one of the following upgrades:
 
 <div class="unitCard" markdown>
 
-### Cerastus Knight Atropos Banner [180 Points]
+### Cerastus Knight Atrapos Banner [180 Points]
 
 * **Type:** Knight (4)
 * **Detachment Size:** 1
 
 | Name                 | Movement | Sv | CAF | Morale | W |
 | -------------------- | :------: | :-: | :-: | :----: | :-: |
-| Cerastus Knight Atropos | 9" | 2+ | +11 | 2+ | 3 |
+| Cerastus Knight Atrapos | 9" | 2+ | +11 | 2+ | 3 |
 
 **Weapons**
 
 * Graviton singularity cannon
-* Atropos lascutter
+* Atrapos lascutter
 
 | Weapon                    | Range | Dice | To Hit | AP | Traits |
 | ------------------------- | :---: | :--: | :----: | :-: | ------ |
 | Graviton singularity cannon | 16" | 2   | 3+ | -3 | [Arc] (Front), [Armourbane], [Collapsing Singularity] |
-| Atropos lascutter         | 6"    | 1   | 2+ | -4 | [Arc] (Front), [Engine Killer] (1), [Rend], [Wrecker] (3) |
+| Atrapos lascutter         | 6"    | 1   | 2+ | -4 | [Arc] (Front), [Engine Killer] (1), [Rend], [Wrecker] (3) |
 
 **Upgrades**
 
-A Cerastus Knight Atropos Banner can purchase one of the following upgrades:
+A Cerastus Knight Atrapos Banner can purchase one of the following upgrades:
 
 * Increase the Detachment size by 1 [+170 points]
 * Increase the Detachment size by 2 [+340 points]
@@ -293,7 +293,7 @@ An Acastus Knight Porphyrion Banner can increase its Detachment size by 1 [+220 
 | Conversion beam cannon  | 6"    | 1   | 4+ | -2 | [Arc] (Front) |
 |                         | 6"-18"| 1   | 3+ | -3 | [Arc] (Front), [Demolisher] |
 |                         | 18"-35"| 2  | 3+ | -4 | [Arc] (Front), [Demolisher] |
-| Volkite culverin        | 14"   | 2   | 4+ | 0  | [Arc] (Front), [Deflagrate], [Light AT] |
+| Volkite culverin        | 14"   | 2   | 4+ | 0  | [Arc] (Front), [Deflagrate], [Light] |
 | Karacnos mortar battery | 30"   | 2   | 4+ | -1 | [Arc] (Front), [Barrage], [Ignores Cover] |
 
 **Upgrades**

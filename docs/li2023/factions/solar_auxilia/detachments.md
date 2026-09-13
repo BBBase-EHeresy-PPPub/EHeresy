@@ -800,7 +800,7 @@ Any Malcador Annihilator may be equipped with one Pintle Mounted heavy stubber f
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ---------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
-| Malcador inferno gun | T | 4 | 4+ | -1 | [Arc] (Front), [Firestorm], [Light AT] |
+| Malcador inferno gun | T | - | 4+ | -1 | [Arc] (Front), [Firestorm], [Light AT] |
 | Malcador autocannon sponsons | 16" | 2 | 5+ | -1 | [Light AT] |
 | Malcador lascannon sponsons | 22" | 1 | 4+ | -1 | [Anti-tank] |
 | Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
@@ -843,7 +843,7 @@ Any Malcador Infernus may be equipped with one Pintle Mounted heavy stubber for 
 | Neutron beam laser | 22" | 1 | 4+ | -3 | [Arc] (Front), [Shock Pulse] |
 | Malcador autocannon sponson | 16" | 2 | 5+ | -1 | [Light AT] |
 | Malcador lascannon sponson | 22" | 1 | 4+ | -1 | [Anti-tank] |
-| Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
+| Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -885,7 +885,7 @@ Any Valdor may be equipped with one Pintle Mounted heavy stubber for +5 points p
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
-| Baneblade cannon | 25" | 1 | 4+ | -3 | — |
+| Baneblade cannon | 25" | 1 | 4+ | -3 | |
 | Co-axial autocannon | 16" | 2 | 5+ | -1 | [Co-axial], [Light AT] |
 | Hull Mounted demolisher cannon | 12" | 1 | 4+ | -3 | [Arc] (Front), [Ignores Cover], [Demolisher] |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
@@ -893,7 +893,7 @@ Any Valdor may be equipped with one Pintle Mounted heavy stubber for +5 points p
 | Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
 | Super-heavy autocannon sponsons | 16" | 2 | 5+ | -1 | [Light AT], [Point Defence] |
 | Super-heavy heavy flamer sponsons | 6" | 2 | 4+ | 0 | [Light], [Ignores Cover], [Point Defence] |
-| Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
+| Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -941,7 +941,7 @@ Any Auxilia Baneblade may be equipped with one Pintle Mounted heavy stubber for 
 | Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
 | Super-heavy autocannon sponsons | 16" | 2 | 5+ | -1 | [Light AT], [Point Defence] |
 | Super-heavy heavy flamer sponsons | 6" | 2 | 4+ | 0 | [Light], [Ignores Cover], [Point Defence] |
-| Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
+| Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1030,8 +1030,8 @@ Any Stormhammer may exchange its Stormhammer multi-laser sponsons for Stormhamme
 | Volcano cannon | 70" | 1 | 3+ | -4 | [Arc] (Front), [Engine Killer] (2) |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
-| Lascannon sponson turrets | 22" | 1 | 4+ | -1 | [Anti-tank] |
-| Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
+| Lascannon sponson turrets | 22" | 2 | 4+ | -1 | [Anti-tank] |
+| Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1073,8 +1073,8 @@ Any Shadowsword may be equipped with one Pintle Mounted heavy stubber for +5 poi
 | Stormsword siege cannon | 30" | 1 | 3+ | -2 | [Arc] (Front), [Demolisher], [Ignores Cover] |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
-| Lascannon sponson turrets | 22" | 1 | 4+ | -1 | [Anti-tank] |
-| Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
+| Lascannon sponson turrets | 22" | 2 | 4+ | -1 | [Anti-tank] |
+| Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1113,11 +1113,11 @@ Any Stormsword may be equipped with one Pintle Mounted heavy stubber for +5 poin
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
-| Plasma blastgun | 20" | 3 | 3+ | -3 | [Arc] (Front) |
+| Plasma blastgun | 25" | 3 | 3+ | -3 | [Arc] (Front) |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Super-heavy heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence] |
-| Lascannon sponson turrets | 22" | 1 | 4+ | -1 | [Anti-tank] |
-| Pintle Mounted heavy stubber | 12" | 2 | 6+ | 0 | [Light], [Point Defence] |
+| Lascannon sponson turrets | 22" | 2 | 4+ | -1 | [Anti-tank] |
+| Pintle Mounted heavy stubber | 14" | 2 | 6+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1254,7 +1254,7 @@ Any Dracosan may be equipped with one Pintle Mounted multi-laser for +5 points p
 
 | Name | Movement | Sv | CAF | Morale | W |
 | --------------- | :------: | :-: | :-: | :----: | :-: |
-| Arvus Lighter | 25" | 4+ | +0 | 4+ | 1 |
+| Arvus Lighter | 25" | 4+ | +0 | - | 1 |
 
 **Weapons**
 
@@ -1283,13 +1283,13 @@ None
 
 **Weapons**
 
-* Quad autocannon
+* Quad autocannons
 * Thunderbolt twin-linked lascannon
 * Hellstrike missiles or Skystrike missiles or wing bombs
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
-| Quad autocannon | 16" | 4 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire] |
+| Quad autocannons | 16" | 4 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire] |
 | Thunderbolt twin-linked lascannon | 22" | 2 | 4+ | -1 | [Arc] (Front), [Anti-tank], [Skyfire] |
 | Avenger bolt cannon | 16" | 5 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire], [Rapid Fire] |
 | Hellstrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Armourbane] |
@@ -1298,7 +1298,7 @@ None
 
 **Upgrades**
 
-Any Thunderbolt Fighter can exchange its quad autocannon for an Avenger bolt cannon for +3 points per model.
+Any Thunderbolt Fighter can exchange its quad autocannons for an Avenger bolt cannon for +3 points per model.
 
 An Auxilia Thunderbolt Squadron can purchase one of the following upgrades:
 
@@ -1529,7 +1529,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 * Nose Mounted autocannon array
 * Marauder heavy bolter turrets
-* Marauder assault cannon
+* Marauder assault cannons
 * Destroyer bomb bay
 * Any two of the following: Hellstrike missiles, Skystrike missiles and wing bombs\*
 
@@ -1539,7 +1539,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 | --------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Nose Mounted autocannon array | 16" | 6 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire] |
 | Marauder heavy bolter turrets | 12" | 3 | 6+ | 0 | [Arc] (Rear), [Light AT], [Point Defence], [Skyfire] |
-| Marauder assault cannon | 12" | 3 | 5+ | -1 | [Arc] (Rear), [Light AT], [Rapid Fire], [Skyfire] |
+| Marauder assault cannons | 12" | 3 | 5+ | -1 | [Arc] (Rear), [Light AT], [Rapid Fire], [Skyfire] |
 | Destroyer bomb bay | - | 2 | 4+ | -2 | [Arc] (Rear), [Bombing Run] |
 
 **Special Rules**

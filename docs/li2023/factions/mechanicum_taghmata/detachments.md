@@ -278,7 +278,7 @@ It may purchase the same upgrade multiple times, to a maximum Detachment size of
 | ------------------------- | :---: | :--: | :----: | :-: | ----------------------- |
 | Domitar missile launcher  | 20"   | 1    | 4+     | 0  | [Light], [Ignores Cover] |
 |   | 20"   | 1    | 4+     | -1 | [Anti-tank]             |
-| Graviton hammers          | -     | -    | -      | -2 | [Wrecker (1)]           |
+| Graviton hammers          | -     | -    | -      | -2 | [Wrecker] (1)           |
 
 **Upgrades**
 
@@ -426,12 +426,12 @@ A Vorax Battle-automata Maniple can purchase one of the following upgrades:
 **Weapons**
 
 * Arc blasters
-* Vultarax missile launcher
+* Vultarax havoc launcher
 
 | Weapon                  | Range | Dice | To Hit | AP | Traits           |
 | ----------------------- | :---: | :--: | :----: | :-: | ---------------- |
 | Arc blasters            | 10"   | 2    | 4+     | 0  | [Neutron-flux]   |
-| Vultarax missile launcher| 15"  | 2    | 4+     | 0  | [Light AT]       |
+| Vultarax havoc launcher | 15"  | 2    | 4+     | 0  | [Light AT]       |
 
 **Upgrades**
 
@@ -477,7 +477,7 @@ Any Thanatar may instead be equipped with the following for **+5 points per mode
 
 | Weapon          | Range | Dice | To Hit | AP | Traits                         |
 | --------------- | :---: | :--: | :----: | :-: | ------------------------------ |
-| Plasma mortar   | 18"   | 1    | 3+     | -3 | [Demolisher], [Ignores Cover]  |
+| Plasma mortar   | 18"   | 1    | 3+     | -3 | [Barrage], [Demolisher], [Ignores Cover]  |
 | Sollex heavy-las| 22"   | 1    | 4+     | -1 | [Armourbane]                   |
 | Graviton ram    | -     | -    | -      | -  | [Wrecker] (2)                  |
 | Mauler bolt cannon| 8"  | 3    | 5+     | -1 | [Light AT]                     |

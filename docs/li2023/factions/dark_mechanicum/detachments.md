@@ -17,7 +17,7 @@
 
 | Weapon              | Range | Dice | To Hit | AP | Traits |
 | ------------------- | :---: | :--: | :----: | :-: | ------ |
-| Scintillax lascutter | 4"  | 1 | 3+ | -3 | [Arc] (Front), [Anti-tank], [Bunker Buster] |
+| Scintillax lascutter | 4"  | 1 | 3+ | -1 | [Arc] (Front), [Anti-tank], [Bunker Buster] |
 | Exo-planar cannon    | 10" | 2 | 4+ | -1 | [Light], [Ignores Cover], [Shred] |
 | Storm laser          | 15" | 3 | 5+ | -1 | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane] |
 
