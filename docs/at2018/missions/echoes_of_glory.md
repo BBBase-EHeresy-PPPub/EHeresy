@@ -14,9 +14,9 @@ Unless otherwise stated, each battlefield is designed to be played on a 4'x4' ta
 
 | D6 | World |
 |---|---|
-| 1-2 | Death World |
-| 3-4 | Forge World |
-| 5-6 | Hive World |
+| 1‑2 | Death World |
+| 3‑4 | Forge World |
+| 5‑6 | Hive World |
 
 ### Death World
 

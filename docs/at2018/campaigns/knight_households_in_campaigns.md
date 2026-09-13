@@ -52,8 +52,8 @@ Much of a Knight Household's strength comes from the leadership and wisdom shown
 
 | D6 | Knight Experience Level |
 |---|:------------------------|
-| 1-4 | Tested |
-| 5-6 | Hardened |
+| 1‑4 | Tested |
+| 5‑6 | Hardened |
 
 Each level of Crew Experience provides a beneficial rule or effect to that Banner. These effects are cumulative (i.e., a Banner with the Hardened Experience Level gains the benefits of both the Hardened and Tested levels).
 

@@ -12,8 +12,8 @@ When creating their Campaign roster, or buying new Titans with Armoury points, t
 
 | D6 | Experience Level |
 |---|---|
-| 1-3 | Green |
-| 4-5 | Tested |
+| 1‑3 | Green |
+| 4‑5 | Tested |
 | 6 | Hardened |
 
 Certain Crew Experience levels provide a number of re-rolls. These re-rolls can be applied to any dice roll provided that the result is directly related to the actions of the crew's Titan - the only exception is the dice to determine the result of Catastrophic Damage, which does not benefit from Crew Experience. Each re-roll can be used once per battle. If a dice roll involved multiple dice (for example a To Hit roll made with a weapon with a Dice value of 5), the re-roll can be used to re-roll one dice from the roll or all the dice; it cannot be used to re-roll certain chosen dice. Each level of Crew Experience provides certain benefits as described in the table below:

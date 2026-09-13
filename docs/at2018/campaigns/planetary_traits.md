@@ -22,7 +22,7 @@ Each Planetary Trait is denoted as either (Passive) or (Active). a player can on
 | 2 | Reaver Titan |
 | 3 | Warbringer-Nemesis Titan |
 | 4 | Warlord Titan |
-| 5-6 | Choose a Titan type |
+| 5‑6 | Choose a Titan type |
 
 The chosen Titan is easier to produce and repair while the world is under a player's control. When buying reinforcements (but not when creating their campaign roster), the controlling player can buy the determined Dedicated Production Titan for 30 points less than normal. This reduction only affects the base points value and the controlling player must still pay full points for all weapons. In addition, the controlling player may repair each lost Structure point for an Armoury points cost at their Scale instead of Scale x 2.
 
@@ -82,9 +82,9 @@ If a player controls more than one Knight World with the Advanced Production Fac
 
 | D6 | Dedicated Production Knight Banner |
 |---|---|
-| 1-2 | Questoris Knight Banner |
-| 3-4 | Cerastus Knight Banner |
-| 5-6 | Choose a Knight Banner type from the above list |
+| 1‑2 | Questoris Knight Banner |
+| 3‑4 | Cerastus Knight Banner |
+| 5‑6 | Choose a Knight Banner type from the above list |
 
 The chosen Knight Banner is easier to produce and repair while the world is under a player's control. When buying reinforcements (but not when creating their Campaign roster), the controlling player can buy the Knight Scions of the same type as the determined Dedicated Production Knight for 5 points less than normal. This reduction affects both the base points value and any weapon upgrades (reducing them to a minimum of 5 points).
 
@@ -94,6 +94,6 @@ A player can benefit from multiple Dedicated Production Planetary Traits, so lon
 
 | D6 | Experience Level |
 |---|---|
-| 1-2 | Tested |
-| 3-5 | Seasoned |
+| 1‑2 | Tested |
+| 3‑5 | Seasoned |
 | 6 | Hardened |

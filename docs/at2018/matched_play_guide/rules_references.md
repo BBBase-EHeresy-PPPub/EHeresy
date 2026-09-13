@@ -176,10 +176,10 @@ If a Knight Banner is hit by a weapon with the Warp trait, a roll of a 1 causes 
 
 | D10 | Result |
 |---|---|
-| 1-2 | **Reactor Housing Damaged:** The Titan suffers a Str 9 hit to its Body, bypassing void shields. |
-| 3-5 | **Power Failure:** The Titan's void shields collapse immediately. If the void shields have already collapsed, treat this as a roll of 6-8 instead. |
-| 6-8 | **Plasma Leak:** The Titan suffers D3 Str 9 hits to its Body, bypassing void shields. |
-| 9-10 | **Reactor Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale+1. |
+| 1‑2 | **Reactor Housing Damaged:** The Titan suffers a Str 9 hit to its Body, bypassing void shields. |
+| 3‑5 | **Power Failure:** The Titan's void shields collapse immediately. If the void shields have already collapsed, treat this as a roll of 6-8 instead. |
+| 6‑8 | **Plasma Leak:** The Titan suffers D3 Str 9 hits to its Body, bypassing void shields. |
+| 9‑10 | **Reactor Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale+1. |
 
 ### Awakened Machine Spirit Table
 
@@ -197,9 +197,9 @@ If a Knight Banner is hit by a weapon with the Warp trait, a roll of a 1 causes 
 | D10 | Result |
 |---|---|
 | 1 | **Silenced:** The Titan counts as having been destroyed and will play no further part in the battle, but is left in place. It can still be targeted and collided with by other units; if it suffers any damage, it falls, as described on page 36 of the *Adeptus Titanicus* rulebook. |
-| 2-4 | **Laid Low:** The Titan moves D6" in a random direction (determined by a Scatter dice) then falls as described on page 36 of the *Adeptus Titanicus* rulebook. This may cause it to collide with other units, as described on page 31 of the *Adeptus Titanicus* rulebook. |
-| 5-7 | **Wild Fire:** The Titan turns to face a random direction (determined by a Scatter dice), then shoots with each of its weapons that are not disabled, one after the other. Each one must target the nearest unit, friend or foe, that is within arc, range and line of sight. Count the Titan's Ballistic Skill as 5+ while resolving these shots. Then the Titan falls, as described on page 36 of the *Adeptus Titanicus* rulebook. |
-| 8-9 | **Magazine Detonation:** The Titan is destroyed. Roll a D3 and add the Titan's Scale. Each model within that many inches of the Titan before it is removed suffers D3 hits using the highest Strength from among the Titan's weapons, regardless of whether they have been disabled - weapons with the Melee trait are ignored. |
+| 2‑4 | **Laid Low:** The Titan moves D6" in a random direction (determined by a Scatter dice) then falls as described on page 36 of the *Adeptus Titanicus* rulebook. This may cause it to collide with other units, as described on page 31 of the *Adeptus Titanicus* rulebook. |
+| 5‑7 | **Wild Fire:** The Titan turns to face a random direction (determined by a Scatter dice), then shoots with each of its weapons that are not disabled, one after the other. Each one must target the nearest unit, friend or foe, that is within arc, range and line of sight. Count the Titan's Ballistic Skill as 5+ while resolving these shots. Then the Titan falls, as described on page 36 of the *Adeptus Titanicus* rulebook. |
+| 8‑9 | **Magazine Detonation:** The Titan is destroyed. Roll a D3 and add the Titan's Scale. Each model within that many inches of the Titan before it is removed suffers D3 hits using the highest Strength from among the Titan's weapons, regardless of whether they have been disabled - weapons with the Melee trait are ignored. |
 | 10 | **Catastrophic Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale +1. |
 
 ### Orders
@@ -248,11 +248,11 @@ A Psi-Titan suffers a Psychic Malfunction if it fails its Command check while at
 
 | D10 | Result |
 |---|---|
-| 1-2 | **Preternatural Stillness:** Remove all Orders from any Titan, apart from Corrupted Titans, within 15" of the Psi-Titan that have already been issued an Order. For the remainder of the round, all Titans (other than Corrupted Titans) that are within 15" of this Titan cannot be issued Orders. |
-| 3-4 | **Psychic Overload:** Add 1 to any dice roll made on the Psi-Titan Psychic Manifestation table for the remainder of the battle. This effect is cumulative. This can be tracked with a D6 on the Titan's Command Terminal. |
-| 5-6 | **Choir of the Damned:** This Titan cannot be activated during the Movement phase of this round or the Strategy phase of the next round. |
-| 7-8 | **The Smallest of Cracks:** The Titan suffers Critical Damage to its Head - this can result in Catastrophic Damage. |
-| 9-10 | **The Emperor's Mercy:** For the remainder of the battle, the Titan cannot Channel any Psychic Powers. In addition, any Psi weapons it is armed with are Disabled, if they are not already, and cannot be repaired. Place the Order dice showing the Split Fire order to denote this. |
+| 1‑2 | **Preternatural Stillness:** Remove all Orders from any Titan, apart from Corrupted Titans, within 15" of the Psi-Titan that have already been issued an Order. For the remainder of the round, all Titans (other than Corrupted Titans) that are within 15" of this Titan cannot be issued Orders. |
+| 3‑4 | **Psychic Overload:** Add 1 to any dice roll made on the Psi-Titan Psychic Manifestation table for the remainder of the battle. This effect is cumulative. This can be tracked with a D6 on the Titan's Command Terminal. |
+| 5‑6 | **Choir of the Damned:** This Titan cannot be activated during the Movement phase of this round or the Strategy phase of the next round. |
+| 7‑8 | **The Smallest of Cracks:** The Titan suffers Critical Damage to its Head - this can result in Catastrophic Damage. |
+| 9‑10 | **The Emperor's Mercy:** For the remainder of the battle, the Titan cannot Channel any Psychic Powers. In addition, any Psi weapons it is armed with are Disabled, if they are not already, and cannot be repaired. Place the Order dice showing the Split Fire order to denote this. |
 
 ### Warlord-Sinister Psychic Powers
 

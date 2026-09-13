@@ -230,7 +230,7 @@ Both players have 4 Stratagem points to spend on their choice of Stratagems (see
 
 | Armour Roll Result | Damage Effects |
 |---|---|
-| 12-16 | The reactor loses 1 Structure point |
+| 12‑16 | The reactor loses 1 Structure point |
 | 17+ | The reactor loses 3 Structure points |
 
 The forge-fane has a total of 25 Structure points. When it loses its last Structure point, the forge-fane is destroyed and removed from the battlefield. The forge-fane is a towering structure, and is presumed to be visible and unobscured even if the attacking unit cannot see the marker.

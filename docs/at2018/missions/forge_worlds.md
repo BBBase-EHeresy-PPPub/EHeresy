@@ -54,7 +54,7 @@ The player who controls the most research facilities claims victory. If both pla
 
 | ARMOUR ROLL | DAMAGE EFFECTS |
 |---|---|
-| **15-17** | The Hell Forge loses 1 Structure point |
+| **15‑17** | The Hell Forge loses 1 Structure point |
 | **18+** | The Hell Forge loses 2 Structure points |
 
 The Hell Forge has a total of 10 Structure points. If the Hell Forge loses its last Structure point, it is destroyed and removed from the table. While the Hell Forge is on the table, attacks against it, or units within 6" of the Hell Forge, originating from more than 12" away suffer a -2 to all Hit rolls and decrease their Strength by 1 (to a minimum of 4). In addition, any of the attacker's units within 18" of the Hell Forge suffer a -1 to all Command checks.

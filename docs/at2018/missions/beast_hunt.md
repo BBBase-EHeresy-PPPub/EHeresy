@@ -40,8 +40,8 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Armour Roll | Damage |
 |:---:|:---|
-| 7-11 | Direct Hit |
-| 12-13 | Devastating Hit |
+| 7‑11 | Direct Hit |
+| 12‑13 | Devastating Hit |
 | 14+ | Critical Hit |
 
 ## Xenosmilus
@@ -64,8 +64,8 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Armour Roll | Damage |
 |:---:|:---|
-| 7-11 | Direct Hit |
-| 12-13 | Devastating Hit |
+| 7‑11 | Direct Hit |
+| 12‑13 | Devastating Hit |
 | 14+ | Critical Hit |
 
 ## Mallahgra
@@ -88,6 +88,6 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Armour Roll | Damage |
 |:---:|:---|
-| 9-12 | Direct Hit |
-| 13-15 | Devastating Hit |
+| 9‑12 | Direct Hit |
+| 13‑15 | Devastating Hit |
 | 16+ | Critical Hit |

@@ -104,10 +104,10 @@ When a Titan is activated in the Damage Control phase of each turn, and its Reac
 
 | Roll | Result |
 |---|---|
-| 1-2 | **Reactor Housing Damaged:** The Titan suffers a Strength 9 hit to its Body, bypassing void shields. |
-| 3-5 | **Power Failure:** The Titan's void shields collapse immediately. If the void shields have already collapsed, treat this as a roll of 6-8 instead. |
-| 6-8 | **Plasma Leak:** The Titan suffers D3 Strength 9 hits to its Body, bypassing void shields. |
-| 9-10 | **Reactor Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale+1. |
+| 1‑2 | **Reactor Housing Damaged:** The Titan suffers a Strength 9 hit to its Body, bypassing void shields. |
+| 3‑5 | **Power Failure:** The Titan's void shields collapse immediately. If the void shields have already collapsed, treat this as a roll of 6-8 instead. |
+| 6‑8 | **Plasma Leak:** The Titan suffers D3 Strength 9 hits to its Body, bypassing void shields. |
+| 9‑10 | **Reactor Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale+1. |
 
 ### Awakening the Machine Spirit
 

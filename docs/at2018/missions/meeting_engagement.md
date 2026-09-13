@@ -14,7 +14,7 @@ Each player rolls two D6 and looks their result up on the table below to see whi
 
 | D6 | Mission Objective |
 |---|---|
-| 1-2 | Engage and Destroy |
+| 1‑2 | Engage and Destroy |
 | 3 | Retrieval |
 | 4 | Glory and Honour |
 | 5 | Hold the Line |
@@ -34,9 +34,9 @@ Each Battle level has an Underdog Margin. If one player's Battle Rating is highe
 
 | Scale | Victory Points |
 |---|---|
-| 1-3 | 4 |
-| 4-6 | 6 |
-| 7-9 | 10 |
+| 1‑3 | 4 |
+| 4‑6 | 6 |
+| 7‑9 | 10 |
 | 9+ | 15 |
 
 **Secondary Objective: Minimise Losses.** At the start of the battle, each player calculates the total Scale of their units. If they still have at least half their starting total at the end of the battle, they score 5 Victory points.
@@ -93,7 +93,7 @@ With Stratagems chosen, the battlegroups will now be deployed. The player with t
 | 2 | Chance Engagement (see page 87) |
 | 3 | Stand-off (see page 87) |
 | 4 | Close Quarters (see page 88) |
-| 5-6 | The player with the lowest Battle Rating chooses one of the deployment methods listed above. |
+| 5‑6 | The player with the lowest Battle Rating chooses one of the deployment methods listed above. |
 
 Following the rules described for the chosen deployment method, both battlegroups are now deployed. Once a player has finished deploying their last unit, they immediately deploy any Battlefield Asset Stratagems they have selected with their Stratagem points, as described on page 64.
 

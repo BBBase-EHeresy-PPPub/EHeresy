@@ -406,7 +406,7 @@ The players then reveal their chosen objectives simultaneously, before choosing 
 
 | D6 | Mission Objective |
 |---|---|
-| 1-2 | Engage and Destroy |
+| 1‑2 | Engage and Destroy |
 | 3 | Glory and Honour |
 | 4 | Valiant Defiance |
 | 5 | Hold the Line |
@@ -426,9 +426,9 @@ At the end of the battle, score Victory points for each enemy unit that is Struc
 
 | Scale | Victory Points |
 |---|---:|
-| 1-3 | 4 |
-| 4-6 | 6 |
-| 7-9 | 10 |
+| 1‑3 | 4 |
+| 4‑6 | 6 |
+| 7‑9 | 10 |
 | 10+ | 15 |
 
 **Secondary Objective: Minimise Losses**

@@ -314,9 +314,9 @@ Though many refuse to believe it, even a god-engine is not invincible. When a Ti
 | D10 | Result |
 |---|---|
 | 1 | **Silenced:** The Titan counts as having been destroyed and will play no further part in the battle, but is left in place. It can still be targeted and collided with by other units; if it suffers any damage, it falls, as described to the right. |
-| 2-4 | **Laid Low:** The Titan moves D6" in a random direction (determined by a Scatter dice) then falls as described to the right. This may cause it to collide with other units, as described on page 31. |
-| 5-7 | **Wild Fire:** The Titan turns to face a random direction (determined by a Scatter dice), then shoots with each of its weapons that is not disabled, one after the other. Each one must target the nearest unit, friend or foe, that is within arc, range and line of sight. Count the Titan's Ballistic Skill as 5+ while resolving these shots. Then the Titan falls, as described to the right. |
-| 8-9 | **Magazine Detonation:** The Titan is destroyed. Roll a D3 and add the Titan's Scale. Each model within that many inches of the Titan before it is removed suffers D3 hits using the highest Strength from among the Titan's weapons, regardless of whether they have been disabled - Melee weapons are not counted. |
+| 2‑4 | **Laid Low:** The Titan moves D6" in a random direction (determined by a Scatter dice) then falls as described to the right. This may cause it to collide with other units, as described on page 31. |
+| 5‑7 | **Wild Fire:** The Titan turns to face a random direction (determined by a Scatter dice), then shoots with each of its weapons that is not disabled, one after the other. Each one must target the nearest unit, friend or foe, that is within arc, range and line of sight. Count the Titan's Ballistic Skill as 5+ while resolving these shots. Then the Titan falls, as described to the right. |
+| 8‑9 | **Magazine Detonation:** The Titan is destroyed. Roll a D3 and add the Titan's Scale. Each model within that many inches of the Titan before it is removed suffers D3 hits using the highest Strength from among the Titan's weapons, regardless of whether they have been disabled - Melee weapons are not counted. |
 | 10+ | **Catastrophic Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale+1. |
 
 
