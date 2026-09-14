@@ -339,7 +339,7 @@ An Auxilia Aethon Heavy Sentinel Patrol can purchase one of the following upgrad
 | Weapon                | Range | Dice | To Hit | AP | Traits |
 |-----------------------|:-----:|:----:|:------:|:--:|---------------------------|
 | Laser destroyer array |  15"  |  2   |   4+   | -2 | [Anti-tank] |
-| Quad launcher         | 6"-30"|  2   |   4+   | -1 | [Barrage], [Light] |
+| Quad launcher         | 6"‑30"|  2   |   4+   | -1 | [Barrage], [Light] |
 | Mole mortar           |  20"  |  1   |   4+   | -1 | [Burrowing] |
 | Quad launcher         |  16"  |  1   |   4+   | -1 | [Demolisher], [Light AT] |
 
@@ -1189,7 +1189,7 @@ An Auxilia Medusa Battery can purchase one of the following upgrades:
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ----------------------- | :---: | :--: | :----: | :-: | --------------------------- |
-| Earthshaker cannon | 8"-90" | 1 | 4+ | -2 | [Arc] (Front), [Barrage] |
+| Earthshaker cannon | 8"‑90" | 1 | 4+ | -2 | [Arc] (Front), [Barrage] |
 
 **Upgrades**
 
@@ -1459,7 +1459,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 | Name | Movement | Sv | CAF | Morale | W |
 | ---------------------- | :------: | :-: | :-: | :----: | :-: |
-| Marauder Pathfinder | 22" | 3+ | +0 | 4+ | 2 |
+| Marauder Pathfinder | 22" | 3+ | +0 | - | 2 |
 
 **Weapons**
 
@@ -1490,7 +1490,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 | Name | Movement | Sv | CAF | Morale | W |
 | -------------------- | :------: | :-: | :-: | :----: | :-: |
-| Marauder Colossus | 22" | 3+ | +0 | 4+ | 2 |
+| Marauder Colossus | 22" | 3+ | +0 | - | 2 |
 
 **Weapons**
 
@@ -1523,7 +1523,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 | Name | Movement | Sv | CAF | Morale | W |
 | --------------------- | :------: | :-: | :-: | :----: | :-: |
-| Marauder Destroyer | 24" | 3+ | +0 | 4+ | 2 |
+| Marauder Destroyer | 24" | 3+ | +0 | - | 2 |
 
 **Weapons**
 

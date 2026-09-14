@@ -108,7 +108,7 @@ At the end of the battle, the Defender loses 10 VPs for each Depot that is destr
 
 At the end of each round, you score:
 
-• 5 VPs for each Munition Depot you control.
+- 5 VPs for each Munition Depot you control.
 
 **Flashpoint Boon**
 

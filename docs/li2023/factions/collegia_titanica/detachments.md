@@ -43,8 +43,8 @@ Each Warhound Titan has two weapons chosen from the list below - it may choose t
 | Natrix shock lance              | 8"        | 1    | 2+     | -1  | [Bypass], [Shock Pulse]                                               |
 | Graviton eradicator             | 30"       | 2    | -      | -2  | [Arc] (Front), [Demolisher], [Graviton Pulse]                         |
 | Conversion beam dissolutor      | 6"        | 2    | 4+     | -2  | [Arc] (Front)                                                         |
-|                                | 6"-18"    | 2    | 3+     | -3  | [Arc] (Front), [Demolisher]                                           |
-|                                | 18"-35"   | 2    | 2+     | -4  | [Arc] (Front), [Demolisher]                                           |
+|                                | 6"‑18"    | 2    | 3+     | -3  | [Arc] (Front), [Demolisher]                                           |
+|                                | 18"‑35"   | 2    | 2+     | -4  | [Arc] (Front), [Demolisher]                                           |
 
 
 **Upgrades**
@@ -84,8 +84,8 @@ A Warhound Hunting Pack can purchase one of the following upgrades:
 | Volcano cannon        | 70"     | 1   | 3+ | -4 | [Arc] (Front), [Engine Killer] (2) |
 | Ardex mega-bolters    | 12"     | 9   | 5+ | -1 | [Light AT], [Point Defence], [Rapid Fire], [Shieldbane] |
 | Conversion beam dissipator | 6" | 2   | 4+ | -2 | [Arc] (Front), [Accurate] |
-|                       | 6"-18"  | 3   | 3+ | -3 | [Arc] (Front), [Accurate], [Demolisher] |
-|                       | 18"-35" | 3   | 3+ | -4 | [Arc] (Front), [Accurate], [Demolisher] |
+|                       | 6"‑18"  | 3   | 3+ | -3 | [Arc] (Front), [Accurate], [Demolisher] |
+|                       | 18"‑35" | 3   | 3+ | -4 | [Arc] (Front), [Accurate], [Demolisher] |
 
 **Special Rules**
 
@@ -116,6 +116,8 @@ A Reaver Battle Titan has two weapons chosen from the list below - it may choose
 * Reaver melta cannon
 * Reaver power fist
 * Reaver chainfist
+* Reaver graviton obliterator
+* Reaver volkite annihilator
 
 A Reaver Battle Titan also has one weapon chosen from the list below:
 
@@ -136,15 +138,17 @@ A Reaver Battle Titan also has one weapon chosen from the list below:
 |                                | 8"        | 2    | 3+     | -4  | [Arc] (Front), [Anti-tank], [Demolisher], [Engine Killer] (4)         |
 | Reaver power fist               | -         | -    | -      | -4  | [Engine Killer] (1), [Rend], [Wrecker] (4)                            |
 | Reaver chainfist                | -         | -    | -      | -4  | [Engine Killer] (2), [Rend], [Wrecker] (3)                            |
+| Reaver graviton obliterator     | 30"       | 2    | -      | -3  | [Arc] (Front), [Demolisher], [Graviton Pulse]                         |
+| Reaver volkite annihilator      | 16"       | 4    | 4+     | -2  | [Arc] (Front), [Beam], [Deflagrate], [Light AT], [Shieldbane]         |
 | Reaver volkite eradicator       | 16"       | 3    | 4+     | -2  | [Beam], [Deflagrate], [Light AT], [Shieldbane]                        |
-| Reaver apocalypse missile launcher | 8"-100" | 5    | 4+     | -1  | [Heavy Barrage]                                                       |
+| Reaver apocalypse missile launcher | 8"‑100" | 5    | 4+     | -1  | [Heavy Barrage]                                                       |
 | Reaver Vulcan mega-bolter       | 22"       | 10   | 5+     | -1  | [Light AT], [Rapid Fire], [Shieldbane]                                |
 | Reaver turbo-laser destructor   | 40"       | 2    | 4+     | -3  | [Accurate]                                                            |
-| Reaver Titan warp missile       | 8"-75"    | SP   | 2+     | -3  | [Arc] (Front), [Engine Killer] (3), [Limited] (1), [Warp]             |
+| Reaver Titan warp missile       | 8"‑75"    | SP   | 2+     | -3  | [Arc] (Front), [Engine Killer] (3), [Limited] (1), [Warp]             |
 | Reaver graviton eradicator      | 30"       | 2    | -      | -2  | [Demolisher], [Graviton Pulse]                                        |
 | Reaver conversion beam dissolutor | 6"      | 2    | 4+     | -2  |                                                          |
-|                                | 6"-18"    | 2    | 3+     | -3  | [Demolisher]                                                          |
-|                                | 18"-35"   | 2    | 3+     | -4  | [Demolisher]                                                          |
+|                                | 6"‑18"    | 2    | 3+     | -3  | [Demolisher]                                                          |
+|                                | 18"‑35"   | 2    | 3+     | -4  | [Demolisher]                                                          |
 
 
 **Special Rules**
@@ -178,6 +182,8 @@ A Warbringer Nemesis Titan also has two weapons chosen from the list below - it 
 * Reaver gatling blaster
 * Reaver volcano cannon
 * Reaver melta cannon
+* Reaver graviton obliterator
+* Reaver volkite annihilator
 
 | Weapon                         | Range | Dice | To Hit | AP  | Traits                                                                 |
 | ------------------------------- | :---: | :--: | :----: | :-: | ---------------------------------------------------------------------- |
@@ -186,6 +192,8 @@ A Warbringer Nemesis Titan also has two weapons chosen from the list below - it 
 | Reaver volcano cannon           | 60"   | 1    | 2+     | -4  | [Arc] (Front), [Engine Killer] (3)                                    |
 | Reaver melta cannon             | 14"   | 2    | 4+     | -3  | [Arc] (Front), [Anti-tank], [Demolisher]                              |
 |                                | 8"    | 2    | 3+     | -4  | [Arc] (Front), [Anti-tank], [Demolisher], [Engine Killer] (4)         |
+| Reaver graviton obliterator     | 30"   | 2    | -      | -3  | [Arc] (Front), [Demolisher], [Graviton Pulse]                         |
+| Reaver volkite annihilator      | 16"   | 4    | 4+     | -2  | [Arc] (Front), [Beam], [Deflagrate], [Light AT], [Shieldbane]         |
 | Mori quake cannon               | 80"   | 1    | 3+     | -2  | [Arc] (Front), [Blast] (5"), [Quake]                                  |
 | Belicosa volcano cannon         | 70"   | 1    | 2+     | -5  | [Arc] (Front), [Engine Killer] (4)                                    |
 | Ardex-defensor mauler bolt cannon turrets | 8" | 5    | 5+     | -2  | [Light AT], [Point Defence]                                           |
@@ -243,7 +251,7 @@ In addition, a Warlord Battle Titan also has one weapon chosen from the list bel
 | Arioch power claw               | 18"       | 8    | 5+     | -1  | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane]                 |
 |                                | -         | -    | -      | -4  | [Engine Killer] (1), [Rend], [Wrecker] (5)                            |
 | Volkite destructor              | 16"       | 5    | 4+     | -2  | [Arc] (Front), [Beam], [Deflagrate], [Light AT], [Shieldbane]         |
-| Apocalypse missile launchers    | 8"-100"   | 10   | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
+| Apocalypse missile launchers    | 8"‑100"   | 10   | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
 | Paired gatling blasters         | 35"       | 8    | 4+     | -2  | [Arc] (Front)                                                         |
 | Paired turbo-laser destructors  | 40"       | 4    | 4+     | -3  | [Arc] (Front), [Accurate]                                             |
 | Vulcan mega-bolter array        | 22"       | 20   | 5+     | -1  | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane]                 |
@@ -252,8 +260,8 @@ In addition, a Warlord Battle Titan also has one weapon chosen from the list bel
 | Ardex-defensor lascannon turrets| 16"       | 2    | 5+     | -1  | [Arc] (Rear), [Anti-tank], [Point Defence]                            |
 | Warlord graviton ruinator       | 30"       | 3    | -      | -3  | [Arc] (Front), [Demolisher], [Graviton Pulse]                         |
 | Conversion beam extirpator      | 6"        | 2    | 3+     | -2  | [Arc] (Front)                                                         |
-|                                | 6"-18"    | 3    | 3+     | -3  | [Arc] (Front), [Demolisher]                                           |
-|                                | 18"-35"   | 3    | 2+     | -4  | [Arc] (Front), [Demolisher]                                           |
+|                                | 6"‑18"    | 3    | 3+     | -3  | [Arc] (Front), [Demolisher]                                           |
+|                                | 18"‑35"   | 3    | 2+     | -4  | [Arc] (Front), [Demolisher]                                           |
 
 **Special Rules**
 
@@ -310,7 +318,7 @@ A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of th
 | Arioch power claw               | 18"       | 8    | 5+     | -1  | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane]                 |
 |                                | -         | -    | -      | -4  | [Engine Killer] (1), [Rend], [Wrecker] (5)                            |
 | Volkite destructor              | 16"       | 5    | 4+     | -2  | [Arc] (Front), [Beam], [Deflagrate], [Light AT], [Shieldbane]         |
-| Apocalypse missile launchers    | 8"-100"   | 10   | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
+| Apocalypse missile launchers    | 8"‑100"   | 10   | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
 | Paired gatling blasters         | 35"       | 8    | 4+     | -2  | [Arc] (Front)                                                         |
 | Paired turbo-laser destructors  | 40"       | 4    | 4+     | -3  | [Arc] (Front), [Accurate]                                             |
 | Vulcan mega-bolter array        | 22"       | 20   | 5+     | -1  | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane]                 |
@@ -319,8 +327,8 @@ A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of th
 | Ardex-defensor lascannon turrets| 16"       | 2    | 5+     | -1  | [Arc] (Rear), [Anti-tank], [Point Defence]                            |
 | Warlord graviton ruinator       | 30"       | 3    | -      | -3  | [Arc] (Front), [Demolisher], [Graviton Pulse]                         |
 | Conversion beam extirpator      | 6"        | 2    | 3+     | -2  | [Arc] (Front)                                                         |
-|                                | 6"-18"    | 3    | 3+     | -3  | [Arc] (Front), [Demolisher]                                           |
-|                                | 18"-35"   | 3    | 2+     | -4  | [Arc] (Front), [Demolisher]                                           |
+|                                | 6"‑18"    | 3    | 3+     | -3  | [Arc] (Front), [Demolisher]                                           |
+|                                | 18"‑35"   | 3    | 2+     | -4  | [Arc] (Front), [Demolisher]                                           |
 | Death pulse                    | 7"        | D3+1 | 4+     | -1  | [Psi], [Saturation Fire]                                              |
 | Antipathic tempest              | 20"       | 1    | 4+     | -1  | [Blast] (5"), [Ignores Cover], [Psi], [Quake]                         |
 
@@ -368,7 +376,7 @@ In addition, a Warmaster Titan also has two weapons chosen from the list below -
 |                                | 16"       | 2    | 2+     | -4  | [Arc] (Front), [Demolisher], [Engine Killer] (2)                      |
 | Revelator missile launcher      | 40"       | 2    | 4+     | -2  | [Arc] (Front), [Blast] (5")                                           |
 | Plasma blastgun                 | 25"       | 3    | 3+     | -3  | [Arc] (Front)                                                         |
-| Apocalypse missile array        | 8"-100"   | 4    | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
+| Apocalypse missile array        | 8"‑100"   | 4    | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
 | Vulcan mega-bolter              | 22"       | 10   | 5+     | -1  | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane]                 |
 | Turbo-laser destructor          | 40"       | 2    | 4+     | -3  | [Arc] (Front), [Accurate]                                             |
 | Inferno gun                     | T         | -    | 4+     | -2  | [Arc] (Front), [Firestorm], [Light AT], [Shieldbane]                  |
@@ -426,7 +434,7 @@ A Warmaster Iconoclast can exchange its Kirus siege drill for a Kiris grav implo
 | Kirus grav imploder             | 6"        | 2    | 3+     | -3  | [Demolisher], [Ignores Cover], [Quake]                                |
 |                                | -         | -    | -      | -5  | [Rend], [Wrecker] (5)                                                 |
 | Plasma blastgun                 | 25"       | 3    | 3+     | -3  | [Arc] (Front)                                                         |
-| Apocalypse missile array        | 8"-100"   | 4    | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
+| Apocalypse missile array        | 8"‑100"   | 4    | 4+     | -1  | [Arc] (Front), [Heavy Barrage]                                        |
 | Vulcan mega-bolter              | 22"       | 10   | 5+     | -1  | [Arc] (Front), [Light AT], [Rapid Fire], [Shieldbane]                 |
 | Turbo-laser destructor          | 40"       | 2    | 4+     | -3  | [Arc] (Front), [Accurate]                                             |
 | Inferno gun                     | T         | -    | 4+     | -2  | [Arc] (Front), [Firestorm], [Light AT], [Shieldbane]                  |

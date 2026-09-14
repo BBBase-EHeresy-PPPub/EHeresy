@@ -30,6 +30,8 @@ A Dark Mechanicum Army List includes the following Detachments from the Mechanic
 
 * Triaros Armoured Conveyor
 
+<span style="color: darkmagenta">If your Army includes any Archmagos Prime, Archmagos Prime on Abeyant or Tech-Priest Auxilia Detachments, these are also subject to the [Masters of Machines](../mechanicum_taghmata/index.md#masters-of-machines) and [Tech-Priest Auxilia](../mechanicum_taghmata/index.md#tech-priest-auxilia) special rules.</span>
+
 ### Construct Shields (X)
 
 Construct Shields count as [Void Shields], following the rules presented on page 97 of the *Legions Imperialis Rulebook*. Unlike Void Shields, Construct Shields cannot be reignited and are not rolled for in the End Phase - when the level is reduced, it cannot be increased unless instructed otherwise.

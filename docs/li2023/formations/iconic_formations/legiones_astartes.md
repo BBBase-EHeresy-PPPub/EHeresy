@@ -64,7 +64,7 @@ This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#
 
 This Detachment has 2 [Spartan](../../factions/legiones_astartes/detachments.md#legion-spartan-detachment-70-points-per-model) models as Dedicated Transports. These Spartan models are equipped with Sponson Mounted quad lascannon and Hull Mounted lascannon.
 
-**EXPANDED DETACHMENTS: +410 Points**
+**EXPANDED DETACHMENTS: +355 Points**
 
 [![](../../media/factions/legiones_astartes/compulsory_support.jpg){ width=100 height=100 }](../../factions/legiones_astartes/detachments.md#legion-terminator-detachment-50-points)
 

@@ -1,4 +1,4 @@
-## Exomnis-Tertia Cybernetica Cohort
+## Exsomnis-Tertia Cybernetica Cohort
 
 **ICONIC FORMATION: MECHANICUM TAGHMATA**
 
@@ -16,19 +16,33 @@
 
 3 Domitar models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#castellax-battle-automata-maniple-70-points)
 
 * **Castellax Battle-automata Maniple**
 
 6 Castellax models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#castellax-battle-automata-maniple-70-points)
 
 * **Castellax Battle-automata Maniple**
 
 6 Castellax models.
 
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#domitar-battle-automata-maniple-35-points)
+[![](../../media/factions/mechanicum_taghmata/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#vorax-battle-automata-maniple-40-points)
+
+* **Vorax Battle-automata Maniple**
+
+4 Vorax models.
+
+**EXPANDED DETACHMENTS: +890 Points**
+
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#castellax-battle-automata-maniple-70-points)
+
+* **Castellax Battle-automata Maniple**
+
+6 Castellax models.
+
+[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#castellax-battle-automata-maniple-70-points)
 
 * **Castellax Battle-automata Maniple**
 
@@ -39,14 +53,6 @@
 * **Domitar Battle-automata Maniple**
 
 3 Domitar models.
-
-[![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#vorax-battle-automata-maniple-40-points)
-
-* **Vorax Battle-automata Maniple**
-
-4 Vorax models.
-
-**EXPANDED DETACHMENTS: +800 Points**
 
 [![](../../media/factions/mechanicum_taghmata/compulsory_support.jpg){ width=100 height=100 }](../../factions/mechanicum_taghmata/detachments.md#tech-priest-auxilia-15-points)
 

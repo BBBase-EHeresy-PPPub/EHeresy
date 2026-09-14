@@ -291,8 +291,8 @@ An Acastus Knight Porphyrion Banner can increase its Detachment size by 1 [+220 
 | Weapon                  | Range | Dice | To Hit | AP | Traits |
 | ----------------------- | :---: | :--: | :----: | :-: | ------ |
 | Conversion beam cannon  | 6"    | 1   | 4+ | -2 | [Arc] (Front) |
-|                         | 6"-18"| 1   | 3+ | -3 | [Arc] (Front), [Demolisher] |
-|                         | 18"-35"| 2  | 3+ | -4 | [Arc] (Front), [Demolisher] |
+|                         | 6"‑18"| 1   | 3+ | -3 | [Arc] (Front), [Demolisher] |
+|                         | 18"‑35"| 2  | 3+ | -4 | [Arc] (Front), [Demolisher] |
 | Volkite culverin        | 14"   | 2   | 4+ | 0  | [Arc] (Front), [Deflagrate], [Light] |
 | Karacnos mortar battery | 30"   | 2   | 4+ | -1 | [Arc] (Front), [Barrage], [Ignores Cover] |
 

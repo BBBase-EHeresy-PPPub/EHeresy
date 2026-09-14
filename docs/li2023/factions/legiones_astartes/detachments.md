@@ -454,7 +454,7 @@ A Legion Terminator Detachment can purchase one of the following upgrades:
 | Weapon               | Range | Dice | To Hit | AP | Traits                        |
 | -------------------- | :---: | :--: | :----: | :-: | ----------------------------- |
 | Laser destroyer array | 15"  | 2    | 4+     | -2 | [Anti-tank]                   |
-| Quad launcher        | 6"-30"| 2    | 4+     | -1 | [Barrage], [Light]            |
+| Quad launcher        | 6"‑30"| 2    | 4+     | -1 | [Barrage], [Light]            |
 |                      | 16"  | 1    | 4+     | -1 | [Demolisher], [Light AT]      |
 
 **Upgrades**

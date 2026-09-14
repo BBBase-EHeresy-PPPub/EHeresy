@@ -46,7 +46,7 @@
 
 ## Taghma Sub-Covenant
 
-**Dedicated Transports:** Detachments within this Formation that contain only Infantry or Walker models may be upgraded with Triaros Armoured Conveyors as Dedicated Transports.
+**Dedicated Transports:** ~~Detachments within this Formation that contain only Infantry or Walker models may be upgraded with Triaros Armoured Conveyors as Dedicated Transports.~~ <span style="color: darkmagenta">Detachments within this Formation that contain only Infantry models may be upgraded with Triaros Armoured Conveyors as Dedicated Transports.</span>
 
 **Servants of the Lacrymaerta:** Compulsory Core Detachment slots in this Formation must be filled with Adsecularis Tech-thrall Covenant Detachments.
 

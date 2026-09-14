@@ -15,8 +15,8 @@ search:
 | Antipathic tempest | 20" | 1 | 4+ | -1 | [Blast] (5"), [Ignores Cover], [Psi], [Quake] |
 | Anvilus autocannon battery | 16" | 2 | 5+ | -1 | [Accurate], [Light AT] |
 | Anvilus pattern defence batteries | 20" | 5 | 5+ | -1 | [Point Defence], [Skyfire] |
-| Apocalypse missile array | 8"-100" | 4 | 4+ | -1 | [Arc] (Front), [Heavy Barrage] |
-| Apocalypse missile launcher | 8"-100" | 10 | 4+ | -1 | [Arc] (Front), [Heavy Barrage] |
+| Apocalypse missile array | 8"‑100" | 4 | 4+ | -1 | [Arc] (Front), [Heavy Barrage] |
+| Apocalypse missile launcher | 8"‑100" | 10 | 4+ | -1 | [Arc] (Front), [Heavy Barrage] |
 | Arc blasters | 10" | 2 | 4+ | 0 | [Neutron-flux] |
 | Archeotech pistol | 6" | 1 | 5+ | -1 | [Accurate], [Light] |
 | Arcus missile launcher | 16" | 2 | 4+ | -2 | [Anti-tank], [Ripple Fire] |
@@ -48,18 +48,18 @@ search:
 | Co-axial multi-laser | 12" | 2 | 4+ | 0 | [Co-axial], [Light AT] |
 | Colossus bomb | - | 6 | 3+ | -4 | [Arc] (Rear), [Bombing Run], [Bunker Buster], [Limited] (1) |
 | Conversion beam cannon | 6" | 1 | 4+ | -2 | [Arc] (Front) |
-|  | 6"-18" | 1 | 3+ | -3 | [Arc] (Front), [Demolisher] |
-|  | 18"-35" | 2 | 3+ | -4 | [Arc] (Front), [Demolisher] |
+|  | 6"‑18" | 1 | 3+ | -3 | [Arc] (Front), [Demolisher] |
+|  | 18"‑35" | 2 | 3+ | -4 | [Arc] (Front), [Demolisher] |
 | Conversion beam dissipator | 6" | 2 | 4+ | -2 | [Arc] (Front), [Accurate] |
-|  | 6"-18" | 3 | 3+ | -3 | [Arc] (Front), [Accurate], [Demolisher] |
-|  | 18"-35" | 3 | 3+ | -4 | [Arc] (Front), [Accurate], [Demolisher] |
+|  | 6"‑18" | 3 | 3+ | -3 | [Arc] (Front), [Accurate], [Demolisher] |
+|  | 18"‑35" | 3 | 3+ | -4 | [Arc] (Front), [Accurate], [Demolisher] |
 | Conversion beam dissolutor | 6" | 2 | 4+ | -2 | [Arc] (Front) |
-|  | 6"-18" | 2 | 3+ | -3 | [Arc] (Front), [Demolisher] |
-|  | 18"-35" | 2 | 2+ | -4 | [Arc] (Front), [Demolisher] |
+|  | 6"‑18" | 2 | 3+ | -3 | [Arc] (Front), [Demolisher] |
+|  | 18"‑35" | 2 | 2+ | -4 | [Arc] (Front), [Demolisher] |
 | Conversion beam extripator | 6" | 2 | 3+ | -2 | [Arc] (Front) |
-|  | 6"-18" | 3 | 3+ | -3 | [Arc] (Front), [Demolisher] |
-|  | 18"-35" | 3 | 2+ | -4 | [Arc] (Front), [Demolisher] |
-| Conversion beamers | 4"-22" | 1 | 4+ | -2 |  |
+|  | 6"‑18" | 3 | 3+ | -3 | [Arc] (Front), [Demolisher] |
+|  | 18"‑35" | 3 | 2+ | -4 | [Arc] (Front), [Demolisher] |
+| Conversion beamers | 4"‑22" | 1 | 4+ | -2 |  |
 | Cruciator gatling array | 24" | 14 | 5+ | -1 | [Arc] (Front), [Light AT], [Shieldbane], [Shred] |
 | Crushing bulk | "-" | - | - | 0 | [Rend] |
 | Crushing treads | "-" | - | - | -1 | [Rend], [Wrecker] (1) |
@@ -76,7 +76,7 @@ search:
 | Domitar missile launcher | 20" | 1 | 4+ | 0 | [Light], [Ignores Cover] |
 |  | 20" | 1 | 4+ | -1 | [Anti-tank] |
 | Dual battlecannon | 25" | 2 | 4+ | -1 | [Arc] (Front) |
-| Earthshaker cannon | 8"-90" | 1 | 4+ | -2 | [Arc] (Front), [Barrage] |
+| Earthshaker cannon | 8"‑90" | 1 | 4+ | -2 | [Arc] (Front), [Barrage] |
 | Errax lascutters | 4" | 1 | 4+ | -2 | [Anti-tank], [Bunker Buster] |
 | Errax meltagun | 6" | 1 | 4+ | -3 | [Anti-tank] |
 | Executioner plasma cannon | 12" | 2 | 4+ | -1 | [Light AT] |
@@ -147,7 +147,6 @@ search:
 | Las-locks | 6" | 1 | 6+ | 0 | [Light] |
 | Lascannon batteries  | 22" | 2 | 4+ | -1 | [Anti-tank], [Skyfire] |
 | Lascannon sponson turrets | 22" | 2 | 4+ | -1 | [Anti-tank] |
-| Lascannon sponson turrets | 22" | 1 | 4+ | -1 | [Anti-tank] |
 | Laser destroyer array | 15" | 2 | 4+ | -2 | [Anti-tank] |
 | Legion bolt pistols | 6" | 1 | 5+ | 0 | [Light] |
 | Legion bolter | 8" | 1 | 5+ | 0 | [Assault], [Light] |
@@ -225,7 +224,7 @@ search:
 | Quad accelerator autocannon | 18" | 5 | 5+ | -1 | [Tracking] |
 | Quad autocannons | 16" | 4 | 5+ | -1 | [Arc] (Front), [Light AT], [Skyfire] |
 | Quad heavy bolter batteries | 12" | 4 | 5+ | 0 | [Light], [Point Defence], [Skyfire] |
-| Quad-launcher | 6"-30" | 2 | 4+ | -1 | [Barrage], [Light] |
+| Quad-launcher | 6"‑30" | 2 | 4+ | -1 | [Barrage], [Light] |
 |  | 16" | 1 | 4+ | -1 | [Demolisher], [Light AT] |
 | Questoris-avenger gatling cannon | 16" | 5 | 5+ | -2 | [Arc] (Front), [Light AT], [Rapid Fire] |
 | Rapid-fire battlecannon | 28" | 2 | 4+ | -2 | [Arc] (Front), [Rapid Fire] |
@@ -233,11 +232,11 @@ search:
 | Reaper chainfist | - | - | - | - | [Rend] |
 | Reaper chainsword | - | - | - | - | [Rend] |
 | Rear Mounted heavy bolter | 12" | 3 | 6+ | 0 | [Arc] (Rear), [Light AT], [Point Defence], [Skyfire] |
-| Reaver apocalypse missile launcher | 8"-100" | 5 | 4+ | -1 | [Heavy Barrage] |
+| Reaver apocalypse missile launcher | 8"‑100" | 5 | 4+ | -1 | [Heavy Barrage] |
 | Reaver chain fist | - | - | - | -4 | [Engine Killer] (2), [Rend], [Wrecker] (3) |
 | Reaver conversion beam dissolutor | 6" | 2 | 4+ | -2 |  |
-|  | 6"-18" | 2 | 3+ | -3 | [Demolisher] |
-|  | 18"-35" | 2 | 3+ | -4 | [Demolisher] |
+|  | 6"‑18" | 2 | 3+ | -3 | [Demolisher] |
+|  | 18"‑35" | 2 | 3+ | -4 | [Demolisher] |
 | Reaver gatling blaster | 35" | 4 | 4+ | -2 | [Arc] (Front) |
 | Reaver graviton eradicator | 30" | 2 | - | -2 | [Demolisher], [Graviton Pulse] |
 | Reaver graviton obliterator | 30" | 2 | - | -3 | [Arc] (Front), [Demolisher], [Graviton Pulse] |
@@ -245,7 +244,7 @@ search:
 | Reaver melta cannon | 14" | 2 | 4+ | -3 | [Arc] (Front), [Anti-tank], [Demolisher] |
 |  | 8" | 2 | 3+ | -4 | [Arc] (Front), [Anti-tank], [Demolisher], [Engine Killer] (4) |
 | Reaver power fist | - | - | - | -4 | [Engine Killer] (1), [Rend], [Wrecker] (4) |
-| Reaver titan warp missile | 8"-75" | SP | 2+ | -3 | [Arc] (Front), [Engine Killer] (3), [Limited] (1), [Warp] |
+| Reaver titan warp missile | 8"‑75" | SP | 2+ | -3 | [Arc] (Front), [Engine Killer] (3), [Limited] (1), [Warp] |
 | Reaver turbo-laser destructor | 40" | 2 | 4+ | -3 | [Accurate] |
 | Reaver volcano cannon | 60" | 1 | 2+ | -4 | [Arc] (Front), [Engine Killer] (3) |
 | Reaver volkite annihilator | 16" | 4 | 4+ | -2 | [Arc] (Front), [Beam], [Deflagrate], [Light AT], [Shieldbane] |

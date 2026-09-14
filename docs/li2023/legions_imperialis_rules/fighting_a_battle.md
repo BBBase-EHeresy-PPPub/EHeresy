@@ -60,7 +60,7 @@ To determine a Mission, one player rolls a D6 to determine which column from the
 
 Alternatively, players can simply choose a Mission from the table, so long as all players agree.
 
-| Second D6 Result | First D6 Result: 1-3 | First D6 Result: 4-6 |
+| Second D6 Result | First D6 Result: 1‑3 | First D6 Result: 4‑6 |
 |---------|------------|------------|
 | 1 | Confrontation | Flanking Action |
 | 2 | Seize and Hold | Retrieval |
