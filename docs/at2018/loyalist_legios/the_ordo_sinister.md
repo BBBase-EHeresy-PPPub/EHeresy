@@ -46,52 +46,34 @@ Psi-Titans on the Battlefield As befitting the esoteric powers a Psi-Titan posse
 
 Psychic Powers Each Psi-Titan houses a Ciricrux Anima, a psychic amplification matrix device conceived by the Emperor Himself. It is to this blasphemous artifice that the Titan's crew are bound, fed by psykers left slumbering until purpose calls. Controlled by the Preceptor-Intendant, an Untouchable immune to their powers, a Psi-Titan harnesses their "gifts" on an unprecedented scale.
 
-Each Psi-Titan has access to Psychic Powers, the nature of each is dependent on the Titan's class and is described in detail in its relevant supplement. Psychic Powers are Channelled in the Strategy phase during the Issue Orders step. During this step, a Psi-Titan can be activated as normal. When a Psi-Titan is activated in this step, the controlling player can choose to either Channel a Psychic Power from the list available to them or issue the Shutdown order, then make a Command check.
+Each Psi-Titan has access to Psychic Powers, the nature of each is dependent on the Titan's class and is described in detail in its relevant supplement. Psychic Powers are Channelled in the Strategy phase during the Issue Orders step. During this step, a Psi-Titan can be activated as normal. When a Psi-Titan is activated in this step, the controlling player can choose to either Channel a Psychic Power from the list available to them or issue the [Shutdown] order, then make a Command check.
 
 If the check is successful, an Order dice, representing the Psychic Power or Order, is placed on the Order space on the Titan's Command Terminal with the chosen "Order" showing. If the check is failed, the chosen unit does not receive the "Order" but Orders can still be issued to other Titans in the battlegroup. In addition, if the Psi-Titan attempted to Channel a Psychic Power and the check was failed, the Psi-Titan suffers a Psychic Malfunction. During the End phase, all Channelled Psychic Powers come to an end and their dice are removed from any Command Terminals.
 
 Psychic Powers are not Orders and are unaffected by rules that remove or affect Orders such as the Vox Blackout Stratagem. If the Strategy phase ends before a Psychic Power has been channelled, any Psi-Titans may still Channel Psychic Powers before the start of the next phase.
 
-Order Dice and Psychic Powers For ease of play, a Psi-Titan makes use of the standard Order dice to represent Psychic Powers. Each Psi-Titan will have access to a number of Psychic Powers and each will be assigned to a symbol on the Order dice. When issued a Psychic Power, simply place that Order dice with the appropriate face showing. As all Psi-Titans have access to the Shutdown order, this is used as normal.
+Order Dice and Psychic Powers For ease of play, a Psi-Titan makes use of the standard Order dice to represent Psychic Powers. Each Psi-Titan will have access to a number of Psychic Powers and each will be assigned to a symbol on the Order dice. When issued a Psychic Power, simply place that Order dice with the appropriate face showing. As all Psi-Titans have access to the [Shutdown] order, this is used as normal.
 
-Psychic Malfunction The powers unleashed by a Psi-Titan do not come without a price. Though the psykers are bound to the Ciricrux Anima and controlled by an Untouchable, such safeguards cannot prevent every misfortune. The dangers are only heightened when the Psi-Titan is in close proximity to the raw power of the Warp or its fragile machinery has been damaged.
+## Psychic Malfunction
 
-A Psi-Titan suffers a Psychic Malfunction if it fails its Command check while attempting to Channel a Psychic Power. Make a Command check for the Titan. Subtract 1 from the result if the Titan's Head has suffered Critical Damage. In addition, subtract 1 from the result if the Titan is within 6" of a Corrupted Titan (Corrupted Titans will be explored in a future supplement). If the Command check is successful, nothing happens - the Preceptor-Intendant has managed to gain control of the wayward powers. If the check fails, roll a D6 on the Psychic Manifestation table. If, however, the Titan's Head has suffered Critical Damage or is within 6" of a Corrupted Titan, roll a D10 instead.
+The powers unleashed by a Psi-Titan do not come without a price. Though the psykers are bound to the Ciricrux Anima and controlled by an Untouchable, such safeguards cannot prevent every misfortune. The dangers are only heightened when the Psi-Titan is in close proximity to the raw power of the Warp or its fragile machinery has been damaged.
 
-Psi-Titan Psychic Manifestation Table
+### Psi-Titan Psychic Manifestation Table
 
-D10 Result 1-2 Preternatural Stillness: The Preceptor-Intendant succeeds in dissipating the excess psychic energies and those nearby feel the sinister touch of the Warp for the briefest of moments. Remove all Orders from any Titan, apart from Corrupted Titans, within 15" of the Psi-Titan that have already been issued an Order. For the remainder of the round, all Titans (other than Corrupted Titans) that are within 15" of this Titan cannot be issued Orders. 3-4 Psychic Overload: Unable to control the energies they have summoned, one of the psykers expires, hollowed out by the strain placed upon them. Add 1 to any dice roll made on the Psi-Titan Psychic Manifestation table for the remainder of the battle. This effect is cumulative. This can be tracked with a D6 on the Titan's Command Terminal. 5-6 Choir of the Damned: The Titan temporary falls silent as its psykers are ushered into sleep once more to avoid the maddening voices of the Warp that now assail them. This Titan cannot be activated during the Movement phase of this round or the Strategy phase of the next round. 7-8 The Smallest of Cracks: Though the Preceptor-Intendant wrestles with the powers under their control, they cannot prevent damage to the Ciricrux Anima. The Titan suffers Critical Damage to its Head - this can result in Catastrophic Damage. 9-10 The Emperor's Mercy: As the power of the Warp overcomes the psykers, the Preceptor-Intendant initiates the fail-safes that will see them put to rest. For the remainder of the battle, the Titan cannot Channel any Psychic Powers. In addition, any Psi weapons it is armed with are Disabled, if they are not already, and cannot be repaired. Place the Order dice showing the Split Fire order to denote this.
+(see Psi-Titan Psychic Manifestation Table, [page 56 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#psi-titan-psychic-manifestation-table))
 
-Warlord-Sinister The Warlord-Sinister is a thing that should not be. A fusion of one of the mightiest god-engines with the "weaponised" power of numerous, bound alpha-grade psykers, and crewed by a soulless Untouchable, a Warlord-Sinister was constructed with methods only the Emperor Himself could permit. For a Warlord-Sinister, fear is its constant companion, bleeding those around it of hope and joy with its very presence.
+## Warlord-Sinister
+
+The Warlord-Sinister is a thing that should not be. A fusion of one of the mightiest god-engines with the "weaponised" power of numerous, bound alpha-grade psykers, and crewed by a soulless Untouchable, a Warlord-Sinister was constructed with methods only the Emperor Himself could permit. For a Warlord-Sinister, fear is its constant companion, bleeding those around it of hope and joy with its very presence.
 
 Roused to anger a Warlord-Sinister is a terrible beast, able to project psychic phenomena on a truly gargantuan scale. Despite this, the most devastating power a Warlord- Sinister can draw upon rests in its left arm. Known as the Sinistramanus Tenebrae, literally the Left Hand of Darkness, each Warlord-Sinister possesses such a weapon, more akin to a weaponised warp engine than any conventional armament. With it, a Warlord-Sinister spits forth a bolt of darkness that disassembles any matter it touches, casting it into the Empyrean molecule by molecule.
 
-## Warlord-Sinister Psychic Powers
+## Warlord-Sinister Titans
 
-Necrotechica: Ghostly light courses across the Psi-Titan's hull, re-knitting shattered armour and broken machinery.
-
-As soon as the Necrotechica Psychic Power has been Channelled, make a Repair roll for the unit, rolling a number of D6 equal to its Servitor Clades plus 1. Add 1 to the result of each dice. The Titan can spend dice to recover lost Structure points (5+) on any location that has no Critical Damage, in addition to any other Repair Actions. Disabled Weapons with the Psi trait cannot be repaired by Necrotechica. If a unit that has Channelled the Necrotechica power is activated in the Movement phase, it cannot be activated in the subsequent Combat phase.
-
-Death Pulse: A seething pulse of energy is unleashed from the Titan that assails the very soul of anything it touches.
-
-When a unit that Channelled Death Pulse is activated during the Movement phase, it cannot move or make turns. Instead, resolve a weapon attack against every unit, friend or foe, within 8" of the unit using the following profile:
-
-Attacks made with Death Pulse automatically hit - no roll is needed.
-
-Warlord-Sinister Titans Any Warlord Titan can be designated as a Warlord-Sinister at a cost of +300 points. All Warlord-Sinister Titans are Psi-Titans and as such follow all rules that apply to Psi-Titans.
+Any Warlord Titan can be designated as a Warlord-Sinister at a cost of +300 points. All Warlord-Sinister Titans are Psi-Titans and as such follow all rules that apply to Psi-Titans.
 
 All Warlord-Sinister Titans are equipped with a Sinistramanus Tenebrae on their Left Arm and an Arioch Power Claw on their Right Arm. A Warlord-Sinister must purchase a Carapace Weapon and can replace their Right Arm weapon with any weapons available to a Warlord, at the appropriate cost.
 
-All Warlord-Sinister Titans have access to the following Psychic Powers. Each Psychic Power has a corresponding Order dice symbol used to denote which Psychic Power the Titan has channelled.
+## Warlord-Sinister Psychic Powers
 
-Quickening: Aetheric conduits in the Titan's limbs glow with power, driving the god- engine forwards at an unnatural pace.
-
-When a unit that has Channelled Quickening is activated during the Movement phase, it can move a number of inches up to its boosted Speed, can make a number of Manoeuvres equal to its boosted Manoeuvre characteristic and can pick one of its weapons that does not have the Psi trait to attack with.
-
-Antipathic Tempest: The Titan's head is crowned with a halo of unhallowed lightning and hurricane-force winds that, when unleashed, scatter man and machine alike with ease.
-
-When a unit that has Channelled Antipathic Tempest is activated during the Movement phase, it cannot move or make turns. Instead, pick a point on the table that the Titan can see. Resolve a weapon attack against any unit within 3" of that point
-
-using the following profile:
-
-Attacks made with Antipathic Tempest automatically hit - no roll is needed.
+(see Warlord-Sinister Psychic Powers, [page 56 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#warlord-sinister-psychic-powers))

@@ -14,11 +14,9 @@ Selecting a mission is a simple matter - the most important question that two pl
 
 ---
 
-**Designer's Note**
+**Designer's Note: Designing your own Missions**
 
-**Designing your own Missions**
-
-The following pages feature several missions, but you shouldn't feel restricted to what is currently in print. Coming up with your own missions is a highly rewarding experience, and could be as simple as combining different elements of existing missions, or as complex as you like. If you'd like to get some inspiration for your own missions, there is a variety of sources - you could look at Black Library novels, Horus Heresy campaign books, other games (such as the original Adeptus Titanicus) and even military history books. The sky is the limit!
+*The following pages feature several missions, but you shouldn't feel restricted to what is currently in print. Coming up with your own missions is a highly rewarding experience, and could be as simple as combining different elements of existing missions, or as complex as you like. If you'd like to get some inspiration for your own missions, there is a variety of sources - you could look at Black Library novels, Horus Heresy campaign books, other games (such as the original Adeptus Titanicus) and even military history books. The sky is the limit!*
 
 ---
 
@@ -30,11 +28,9 @@ The surface on which a game of Adeptus Titanicus takes place is referred to as "
 
 ---
 
-**Designer's Note**
+**Designer's Note: Ample Space**
 
-**Ample Space**
-
-Most of the games produced by Games Workshop are targeted at a 6'x4' battlefield, so why is Adeptus Titanicus written for something smaller? Easy answer - we wanted to make sure that players had somewhere to lay out their Command Terminals without having to squeeze them into their deployment zone, or add a second table. We made an educated guess that most existing players will have access to a 6'x4' gaming table, or something like it, which means they can lay out a full-size Adeptus Titanicus battle and still have room for all the necessary Command Terminals. Of course, if you've got enough space, you should feel free to expand the size of your battlefield accordingly!
+*Most of the games produced by Games Workshop are targeted at a 6'x4' battlefield, so why is Adeptus Titanicus written for something smaller? Easy answer - we wanted to make sure that players had somewhere to lay out their Command Terminals without having to squeeze them into their deployment zone, or add a second table. We made an educated guess that most existing players will have access to a 6'x4' gaming table, or something like it, which means they can lay out a full-size Adeptus Titanicus battle and still have room for all the necessary Command Terminals. Of course, if you've got enough space, you should feel free to expand the size of your battlefield accordingly!*
 
 ---
 

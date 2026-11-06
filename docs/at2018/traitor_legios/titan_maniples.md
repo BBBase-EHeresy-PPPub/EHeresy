@@ -41,7 +41,7 @@ There are very few enemies who can hope to stand against a Myrmidon maniple. Com
 
 **Maniple Trait**
 
-Overwhelming Firepower: When issuing a First Fire or Split Fire order to Titans from this maniple, the Command check will always succeed on a roll of 2+, regardless of modifiers.
+Overwhelming Firepower: When issuing a First Fire or [Split Fire] order to Titans from this maniple, the Command check will always succeed on a roll of 2+, regardless of modifiers.
 
 </div>
 
@@ -64,7 +64,7 @@ Where other maniples favour firepower and brute strength to overcome the foe, a 
 
 **Maniple Trait**
 
-Opportunistic Strike: If an enemy unit's void shields are collapsed by an attack made by a Warhound Titan from this maniple, the Reaver Titan in this maniple can immediately make an attack against it with one of its weapons, following the Combat Sequence as described in the Adeptus Titanicus rulebook. Thismeans that the Reaver can potentially attack several times in the same phase, as well as attacking normally when it is activated. However, if the Reaver is prevented from attacking in the Combat phase - it has Full Stride or Shutdown orders, for example - it cannot make these bonus attacks.
+Opportunistic Strike: If an enemy unit's void shields are collapsed by an attack made by a Warhound Titan from this maniple, the Reaver Titan in this maniple can immediately make an attack against it with one of its weapons, following the Combat Sequence as described in the Adeptus Titanicus rulebook. Thismeans that the Reaver can potentially attack several times in the same phase, as well as attacking normally when it is activated. However, if the Reaver is prevented from attacking in the Combat phase - it has Full Stride or [Shutdown] orders, for example - it cannot make these bonus attacks.
 
 </div>
 
@@ -228,7 +228,7 @@ A rarely observed maniple, Arcus Battleline Maniples were used against mobile en
 
 **Maniple Trait**
 
-Coordinate Relay: A Warbringer Nemesis Titan from this maniple can attack enemy units indirectly if they do not have line of sight to that unit, so long as the target is within line of sight of a Warhound Titan from this maniple. Firing indirectly in this manner confers a -2 modifier on the Hit roll. In addition, an attack with a Blast weapon from the Warbringer Nemesis Titan that misses scatters D6" instead of D10" when the target is in line of sight of a Warhound Titan from this maniple.
+Coordinate Relay: A Warbringer Nemesis Titan from this maniple can attack enemy units indirectly if they do not have line of sight to that unit, so long as the target is within line of sight of a Warhound Titan from this maniple. Firing indirectly in this manner confers a -2 modifier on the Hit roll. In addition, an attack with a [Blast] weapon from the Warbringer Nemesis Titan that misses scatters D6" instead of D10" when the target is in line of sight of a Warhound Titan from this maniple.
 
 </div>
 
@@ -251,7 +251,7 @@ Ruptura Battleline Maniples were formed to break open the most hardy of fortific
 
 **Maniple Trait**
 
-Artillery Bastion: Once per round, a Reaver Titan in this maniple can declare Power to Locomotors! without pushing their reactor. In addition, when an enemy unit suffers Catastrophic Damage as a result of an attack made by a Warbringer Nemesis Titan from this maniple, each Reaver Titan from this maniple can immediately make a move as if it was the Movement phase. A Reaver Titan cannot benefit from this ability if it is prevented from moving this turn - for example, due to Emergency Repairs orders or the Immobilised Damage effect.
+Artillery Bastion: Once per round, a Reaver Titan in this maniple can declare Power to Locomotors! without pushing their reactor. In addition, when an enemy unit suffers Catastrophic Damage as a result of an attack made by a Warbringer Nemesis Titan from this maniple, each Reaver Titan from this maniple can immediately make a move as if it was the Movement phase. A Reaver Titan cannot benefit from this ability if it is prevented from moving this turn - for example, due to [Emergency Repairs] orders or the Immobilised Damage effect.
 
 </div>
 
@@ -297,7 +297,7 @@ Perpetua Battleline Maniples were more common during extended campaigns, where d
 
 **Maniple Trait**
 
-Stand Firm: When issuing an Emergency Repairs order to Titans from this maniple, the Command check will always succeed on a roll of 2+, regardless of modifiers. In addition, during the Damage Control phase, Titans from this maniple roll an additional Repair dice if they have not moved yet this round (voluntarily or involuntarily).
+Stand Firm: When issuing an [Emergency Repairs] order to Titans from this maniple, the Command check will always succeed on a roll of 2+, regardless of modifiers. In addition, during the Damage Control phase, Titans from this maniple roll an additional Repair dice if they have not moved yet this round (voluntarily or involuntarily).
 
 </div>
 
@@ -320,7 +320,7 @@ Extergimus Battleline Maniples are a rarely utilised formation, used solely when
 
 **Maniple Trait**
 
-Scorched Earth: During the Combat phase, when a Titan from this maniple makes an attack with a weapon without the Melee trait, it may increase the Strength value of the weapon by 2 for the duration of the attack. Thismust be declared before rolling to Hit. If it does so, increase the Titan's Reactor level by 1 (or 2 if the weapon has a Dice value of 5 or greater), in addition to any other advances associated with weapon fire.
+Scorched Earth: During the Combat phase, when a Titan from this maniple makes an attack with a weapon without the [Melee] trait, it may increase the Strength value of the weapon by 2 for the duration of the attack. Thismust be declared before rolling to Hit. If it does so, increase the Titan's Reactor level by 1 (or 2 if the weapon has a Dice value of 5 or greater), in addition to any other advances associated with weapon fire.
 
 </div>
 
@@ -370,7 +370,7 @@ Many Titan Legions with large Vassal Houses create special formations within the
 
 Maniple Traits Auspex Bafflers: Knight Banners included in a Dominus Battleforce Maniple cannot benefit from obscuring cover (see the Adeptus Titanicus rulebook). If a Knight Banner from a Dominus Battleforce Maniple is wholly within 6" of a Titan from the same maniple (i.e., all Knights from the Banner are within 6" of the Titan), and both the Titan and at least one Knight from that Banner is visible to the attacker, attacks made against the Titan from more than 2" away from the Titan suffer a -1 modifier to the Hit roll.
 
-Noble Sacrifice: When a Titan in a Dominus Battleforce Maniple takes a hit from an attack originating from more than 2" away from the Titan, it may transfer the hit to any Knight model from the same maniple within 6", as long as that model is visible to the attacker - the hit must be transferred before any Armour rolls are made. Thechosen Knight suffers the full effects of the hit as if it had been the original target. If the hit was from a weapon with the Blast trait, centre the Blast marker over the Knight. Hits from weapons with the Firestorm or Beam traits may not be transferred in this way.
+Noble Sacrifice: When a Titan in a Dominus Battleforce Maniple takes a hit from an attack originating from more than 2" away from the Titan, it may transfer the hit to any Knight model from the same maniple within 6", as long as that model is visible to the attacker - the hit must be transferred before any Armour rolls are made. Thechosen Knight suffers the full effects of the hit as if it had been the original target. If the hit was from a weapon with the [Blast] trait, centre the Blast marker over the Knight. Hits from weapons with the Firestorm or Beam traits may not be transferred in this way.
 
 </div>
 
@@ -394,7 +394,7 @@ Designed to spread confusion and disorder, Ignus Light Maniples are intended for
 
 **Maniple Trait**
 
-Consuming Fire: Units within this maniple add 1 to the Dice value of any weapon with the Firestorm trait. In addition, they may re-roll Armour rolls of a 1 for attacks made with a weapon with the Firestorm trait. Cerastus Knight Banners within an Ignus Light Maniple must be upgraded to Cerastus Knight Acherons. In addition, Knight Banners included in an Ignus Light Maniple within 6" of a Titan from this maniple may be issued a First Fire or Full Stride order without the need to make a Command check if that Titan has been successfully issued the same Order already this round.
+Consuming Fire: Units within this maniple add 1 to the Dice value of any weapon with the [Firestorm] trait. In addition, they may re-roll Armour rolls of a 1 for attacks made with a weapon with the [Firestorm] trait. Cerastus Knight Banners within an Ignus Light Maniple must be upgraded to Cerastus Knight Acherons. In addition, Knight Banners included in an Ignus Light Maniple within 6" of a Titan from this maniple may be issued a First Fire or [Full Stride] order without the need to make a Command check if that Titan has been successfully issued the same Order already this round.
 
 </div>
 

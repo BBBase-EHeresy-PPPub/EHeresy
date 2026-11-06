@@ -49,13 +49,13 @@ Legio Ignatum Titans may re-roll Hit rolls of a 1 when making attacks against an
 
 Possessed of an abiding hatred for the Traitor Titan Legions, the Fire Wasps were quick to adapt their tactics to exploit the Traitors' apparent lust for blood, formulating overlapping fields of fire to punish the overeager.
 
-This Stratagem can be purchased by any Legio Ignatum player. Play this Stratagem when an enemy Titan ends its move within 3" of a Legio Ignatum Titan as part of a Charge order. Before any attacks are resolved, that Legio Ignatum Titan can immediately make an attack using their Ballistic Skill with a weapon without the Melee trait.
+This Stratagem can be purchased by any Legio Ignatum player. Play this Stratagem when an enemy Titan ends its move within 3" of a Legio Ignatum Titan as part of a [Charge] order. Before any attacks are resolved, that Legio Ignatum Titan can immediately make an attack using their Ballistic Skill with a weapon without the [Melee] trait.
 
 ### Legio Specific Stratagem: Guard the Gates (2)
 
 Loyal to a fault, the Fire Wasps were often chosen to guard key worlds in the certain knowledge that they would never abandon their duty.
 
-This Stratagem can be purchased by any Legio Ignatum player. Play this Stratagem at the start of the first round's Strategy phase. Until the end of the round, friendly Legio Ignatum Titans can be issued the First Fire order without the need to make a Command check.
+This Stratagem can be purchased by any Legio Ignatum player. Play this Stratagem at the start of the first round's Strategy phase. Until the end of the round, friendly Legio Ignatum Titans can be issued the [First Fire] order without the need to make a Command check.
 
 **Legio Specific Wargear: Gravitonic Sensor Array As befitting their status as one of the Triad Ferrum**
 
@@ -203,7 +203,7 @@ In the first and second round of the game, a Legio Astorum Titan can choose to a
 
 skin, as aware of its workings and armour plates as they are of their own bones and sinew. The Warp Runners contain many old and lauded Titans of the Great Crusade, and the skilled Princeps who command them.
 
-During the Damage Control phase, or when enacting an Emergency Repairs order, a Legio Astorum Titan may re-roll one of its Repair Action dice. A Legio Astorum Titan with a Scale of 10 or higher may instead re-roll two of its Repair Action dice.
+During the Damage Control phase, or when enacting an [Emergency Repairs] order, a Legio Astorum Titan may re-roll one of its Repair Action dice. A Legio Astorum Titan with a Scale of 10 or higher may instead re-roll two of its Repair Action dice.
 
 ### Legio Specific Stratagem: Bounty of Mars (2)
 
@@ -221,7 +221,7 @@ This Stratagem can be purchased by any Legio Astorum player. Play this Stratagem
 
 the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Hero of the Crusade: The Princeps is an example to all around them and few have not heard tales of their victories. As long as they show no fear in the face of the enemy, others eagerly follow their example. As long as the Princeps' Titan is closer to the nearest enemy unit than any of the other Titans in their maniple, then all Titans in their maniple can add 1 to any Command checks they are required to take. 2 Reckless Hubris: Arrogance is a weakness only if it stands on a foundation of lies. The Princeps has utter faith in their abilities, and countless victories and defeated foes have done nothing but confirm this belief. Once each round, the Princeps' Titan can ignore the negative effects of a critically damaged system or a disabled weapon, firing the weapon as if it were functional. After the system or weapon is used, work out a single Strength 12 hit against the Titan's Body, ignoring the Titan's void shields. 3 Ancient MIU: The ancient memories of the past commanders of the Princeps'Titan whisper tactical secrets to them in battle, though it takes a keen mind and strong will to sift through the babbling voices of dead forebears. Instead of making a Command check during the Strategy phase, the Princeps' Titan may be given a random Order. Roll the Order dice and apply the result to the Princeps' Titan. If a Shutdown order is rolled, the Princeps may ignore it if they choose.
+D3 Personal Traits 1 Hero of the Crusade: The Princeps is an example to all around them and few have not heard tales of their victories. As long as they show no fear in the face of the enemy, others eagerly follow their example. As long as the Princeps' Titan is closer to the nearest enemy unit than any of the other Titans in their maniple, then all Titans in their maniple can add 1 to any Command checks they are required to take. 2 Reckless Hubris: Arrogance is a weakness only if it stands on a foundation of lies. The Princeps has utter faith in their abilities, and countless victories and defeated foes have done nothing but confirm this belief. Once each round, the Princeps' Titan can ignore the negative effects of a critically damaged system or a disabled weapon, firing the weapon as if it were functional. After the system or weapon is used, work out a single Strength 12 hit against the Titan's Body, ignoring the Titan's void shields. 3 Ancient MIU: The ancient memories of the past commanders of the Princeps'Titan whisper tactical secrets to them in battle, though it takes a keen mind and strong will to sift through the babbling voices of dead forebears. Instead of making a Command check during the Strategy phase, the Princeps' Titan may be given a random Order. Roll the Order dice and apply the result to the Princeps' Titan. If a [Shutdown] order is rolled, the Princeps may ignore it if they choose.
 
 Legio Astorum Reaver Battle Titan
 
@@ -317,7 +317,7 @@ Any Legio Defensor Warlord Titan can be upgraded with a Devotional War Sirens fo
 
 the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Enduring Hatred: Death is preferable to defeat in the mind of the Princeps. Even as their Titan burns around them, they will fight on if it means exacting their vengeance. The Princeps Titan may re-roll Hit rolls of 1 once their Titan has suffered Critical Damage. However, during the Damage Control phase, they must spend any Repair dice to repair disabled weapons before repairing any other kind of damage. 2 Crusade Veteran: Some Princeps of the Nova Guard have served since the early days of the Great Crusade, and are able to control their god-engines in ways that seem almost preternatural to their enemies. Once per game, when the Princeps successfully issues an Emergency Repairs order, they may immediately issue a second Order after its effects have been resolved. This second Order may be another Emergency Repairs order. Note that the Titan must adhere to the restrictions to movement and activation of both Orders. 3 Icon of the True: The Princeps is a beacon of the cause, and when their Titan strides onto the field of battle, their allies grow ever more resolute. While the Princeps Titan is on the board, all Knight Banners and Titans from other friendly Legios add 1 to the dice roll when making Command checks.
+D3 Personal Traits 1 Enduring Hatred: Death is preferable to defeat in the mind of the Princeps. Even as their Titan burns around them, they will fight on if it means exacting their vengeance. The Princeps Titan may re-roll Hit rolls of 1 once their Titan has suffered Critical Damage. However, during the Damage Control phase, they must spend any Repair dice to repair disabled weapons before repairing any other kind of damage. 2 Crusade Veteran: Some Princeps of the Nova Guard have served since the early days of the Great Crusade, and are able to control their god-engines in ways that seem almost preternatural to their enemies. Once per game, when the Princeps successfully issues an [Emergency Repairs] order, they may immediately issue a second Order after its effects have been resolved. This second Order may be another [Emergency Repairs] order. Note that the Titan must adhere to the restrictions to movement and activation of both Orders. 3 Icon of the True: The Princeps is a beacon of the cause, and when their Titan strides onto the field of battle, their allies grow ever more resolute. While the Princeps Titan is on the board, all Knight Banners and Titans from other friendly Legios add 1 to the dice roll when making Command checks.
 
 Legio Defensor Warlord Battle Titan
 
@@ -397,7 +397,7 @@ Any Legio Solaria Titan with a Scale of 6 or less can take Cameleoline Shrouding
 
 the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Spear of Tigrus: Keeping on the move is second nature to the Princeps, and they live by the axiom: "a moving blade cannot be broken". The Princeps' Titan may be issued a Full Stride order without the need to make a Command check. 2 Agile Minded: One good hit deserves another, and the Princeps reacts to incoming fire or a charge with blinding speed and precision. Once per game, when the Princeps' Titan is hit by an attack, their Titan may respond in kind, interrupting the activation of an enemy unit and immediately making a single attack back at the attacker. 3 Swift Displacement: The Princeps never lets their enemies get too close, luring them in and then falling back with equal speed so that their foes can be torn apart by close range firepower. Once per game, when an enemy Titan makes a Smash Attack as part of a Charge order against the Princeps' Titan, the Princeps may move their Titan D6" directly away from the attacker, after the enemy Titan has moved but before any Hit dice for the attack are rolled. This does not change the facing of the Princeps' Titan.
+D3 Personal Traits 1 Spear of Tigrus: Keeping on the move is second nature to the Princeps, and they live by the axiom: "a moving blade cannot be broken". The Princeps' Titan may be issued a [Full Stride] order without the need to make a Command check. 2 Agile Minded: One good hit deserves another, and the Princeps reacts to incoming fire or a charge with blinding speed and precision. Once per game, when the Princeps' Titan is hit by an attack, their Titan may respond in kind, interrupting the activation of an enemy unit and immediately making a single attack back at the attacker. 3 Swift Displacement: The Princeps never lets their enemies get too close, luring them in and then falling back with equal speed so that their foes can be torn apart by close range firepower. Once per game, when an enemy Titan makes a Smash Attack as part of a [Charge] order against the Princeps' Titan, the Princeps may move their Titan D6" directly away from the attacker, after the enemy Titan has moved but before any Hit dice for the attack are rolled. This does not change the facing of the Princeps' Titan.
 
 Legio Solaria Reaver Battle Titan
 
@@ -475,13 +475,13 @@ it might have and does not count as being a part of any other maniples.
 
 missiles, weapons that are produced in vast numbers on Atar-Median and supplied almost exclusively to the Firebrands, and that are highly effective against supporting units and terrain.
 
-Any Legio Atarus Titan armed with Apocalypse missile launchers, Apocalypse missile arrays or an Apocalypse missile launcher can be upgraded to have Infernus missiles for +25 points, so long as that Titan does not already have an upgrade affecting that weapon. Each of the Titan's weapons must be upgraded separately. A weapon with this upgrade gains the Voidbreaker (2) trait. In addition, if a unit suffers at least one hit from a weapon with this upgrade, place a 5" Blast marker under the unit. In the End phase, any model with at least part of its base on the marker takes a Strength 4 hit, ignoring void shields and ion shields. After resolving any hits, the fire goes out and the marker is removed. Titans suffer this hit to their Legs. In addition, Blocking terrain touched by the marker takes a Strength 4 hit (see the Adeptus Titanicus rulebook for details on damaging and destroying terrain) and, if not destroyed, is set alight. In the End phase, burning terrain suffers a Strength 4 hit, and deals a Strength 4 hit to any models in it, as detailed above. The fire then goes out.
+Any Legio Atarus Titan armed with Apocalypse missile launchers, Apocalypse missile arrays or an Apocalypse missile launcher can be upgraded to have Infernus missiles for +25 points, so long as that Titan does not already have an upgrade affecting that weapon. Each of the Titan's weapons must be upgraded separately. A weapon with this upgrade gains the [Voidbreaker] (2) trait. In addition, if a unit suffers at least one hit from a weapon with this upgrade, place a 5" Blast marker under the unit. In the End phase, any model with at least part of its base on the marker takes a Strength 4 hit, ignoring void shields and ion shields. After resolving any hits, the fire goes out and the marker is removed. Titans suffer this hit to their Legs. In addition, Blocking terrain touched by the marker takes a Strength 4 hit (see the Adeptus Titanicus rulebook for details on damaging and destroying terrain) and, if not destroyed, is set alight. In the End phase, burning terrain suffers a Strength 4 hit, and deals a Strength 4 hit to any models in it, as detailed above. The fire then goes out.
 
 **Legio Specific Personal Traits A Legio Atarus Princeps Seniores' Personal trait can either be generated from**
 
 the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Headstrong: A stubborn streak runs deeply through the Princeps and their Titan, and once they set themselves upon a task, they will press forwards, regardless of the outcome. In the End phase, the Princeps Seniores may choose not to discard any Orders issued to their Titan - in effect carrying forward the Order into the following round without the need to make a new Command check. Note, Shutdown orders and other effects that change a Titan's current Order are still applied as normal. 2 Unconventional Thinker: The Princeps has training in lateral-combative reasoning and sees things in the ebb and flow of battle that others might miss. This allows them to anticipate the actions of their enemies, or make sudden manoeuvres to catch their foes off-guard. Once per battle, after an enemy Titan has declared its action, but before it moves or fires, the Princeps' Titan can be moved D6" in any direction and its facing changed by up to 90°. This movement may not take the Titan through Blocking terrain or other models. 3 Shedim Drift Veteran: The Princeps remembers well the betrayal at Shedim Drifts, where the Warmaster used the Firebrands as cannon fodder for his favoured Legio, and is eager to make the Traitors pay in kind. During the Combat phase, the Princeps may choose one of their Titan's weapons. Any Armour rolls resulting from hits by the weapon may be re-rolled this round. If the Princeps is targeting a Titan from the Death's Heads (Legio Mortis) or Tiger Eyes (Legio Fureans) Legios, then hits from all of the Princeps' Titan's weapons may re-roll their Armour rolls.
+D3 Personal Traits 1 Headstrong: A stubborn streak runs deeply through the Princeps and their Titan, and once they set themselves upon a task, they will press forwards, regardless of the outcome. In the End phase, the Princeps Seniores may choose not to discard any Orders issued to their Titan - in effect carrying forward the Order into the following round without the need to make a new Command check. Note, [Shutdown] orders and other effects that change a Titan's current Order are still applied as normal. 2 Unconventional Thinker: The Princeps has training in lateral-combative reasoning and sees things in the ebb and flow of battle that others might miss. This allows them to anticipate the actions of their enemies, or make sudden manoeuvres to catch their foes off-guard. Once per battle, after an enemy Titan has declared its action, but before it moves or fires, the Princeps' Titan can be moved D6" in any direction and its facing changed by up to 90°. This movement may not take the Titan through Blocking terrain or other models. 3 Shedim Drift Veteran: The Princeps remembers well the betrayal at Shedim Drifts, where the Warmaster used the Firebrands as cannon fodder for his favoured Legio, and is eager to make the Traitors pay in kind. During the Combat phase, the Princeps may choose one of their Titan's weapons. Any Armour rolls resulting from hits by the weapon may be re-rolled this round. If the Princeps is targeting a Titan from the Death's Heads (Legio Mortis) or Tiger Eyes (Legio Fureans) Legios, then hits from all of the Princeps' Titan's weapons may re-roll their Armour rolls.
 
 Legio Atarus Warlord Battle Titan
 
@@ -543,13 +543,13 @@ This Stratagem can be purchased by a Legio Metalica player. Play this Stratagem 
 
 World's expertise in manufacturing, incorporating many unique metallic compounds within their armour plating and skeleton.
 
-Any Legio Metalica Titan may take Reinforced Armour for +15 points. Weapons with the Fusion trait that target a Titan with this upgrade always roll a D6 regardless of range and weapons with the Rending trait add 1 to the Armour roll rather than D3 for each Armour roll of a 6.
+Any Legio Metalica Titan may take Reinforced Armour for +15 points. Weapons with the [Fusion] trait that target a Titan with this upgrade always roll a D6 regardless of range and weapons with the [Rending] trait add 1 to the Armour roll rather than D3 for each Armour roll of a 6.
 
 **Legio Specific Wargear: Auditory Barrage Vox-hailers produced by the Forge World of Metalica are**
 
 modified to emit distinct blaring sounds so their foes can hear their death approaching, a sound that shatters all but the strongest of wills.
 
-Any Legio Metalica Titan can be upgraded with an Auditory Barrage for +10 points. When a Titan with this upgrade makes an attack with any weapon that does not have the Melee trait, enemy Knight Banners within 8" of the Titan must make a Command check; if the Banner fails its Command check they become Shaken. A Banner can only be affected by this rule upgrade once per round.
+Any Legio Metalica Titan can be upgraded with an Auditory Barrage for +10 points. When a Titan with this upgrade makes an attack with any weapon that does not have the [Melee] trait, enemy Knight Banners within 8" of the Titan must make a Command check; if the Banner fails its Command check they become Shaken. A Banner can only be affected by this rule upgrade once per round.
 
 **Legio Specific Personal Traits A Legio Metalica Princeps Seniores' Personal trait can either be generated from**
 
@@ -571,7 +571,7 @@ Materiel Strength In the early days of the Legio Praesagius, it was ranked as Pr
 
 precision weaponry, believing indiscriminate destruction was unfitting conduct for a true Titan Legion.
 
-A Legio Praesagius player may re-roll the Location dice for attacks made by Legio Praesagius Titans when using a weapon's Long range - they must accept the second roll. They may not re-roll the Location dice if the attack was made with a Blast weapon that subsequently missed.
+A Legio Praesagius player may re-roll the Location dice for attacks made by Legio Praesagius Titans when using a weapon's Long range - they must accept the second roll. They may not re-roll the Location dice if the attack was made with a [Blast] weapon that subsequently missed.
 
 **Legio Trait: Fluid Command Structure Due to the great size of the Legio Praesagius, the**
 
@@ -583,7 +583,7 @@ If the Princeps Seniores of a Legio Praesagius maniple is destroyed, the player 
 
 the Legio Praesagius became renowned for achieving the seemingly impossible.
 
-Once per battle, when any Legio Praesagius Titan takes Critical Damage from a weapon attack, after the weapon attack has been resolved, it may immediately undergo an Emergency Repair as if it had been issued the Emergency Repairs order. This cannot be used if the Titan has suffered Catastrophic Damage.
+Once per battle, when any Legio Praesagius Titan takes Critical Damage from a weapon attack, after the weapon attack has been resolved, it may immediately undergo an Emergency Repair as if it had been issued the [Emergency Repairs] order. This cannot be used if the Titan has suffered Catastrophic Damage.
 
 ### Legio Specific Stratagem: Precision Volley (2)
 
@@ -593,7 +593,7 @@ This Stratagem can be purchased by any Legio Praesagius player. Play this Strata
 
 from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Noble Legacy:The Princeps was there at the start of the Great Crusade and still upholds the promise that the dream of humanity will one day be achieved. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Eternal Bastion Tertiary Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan was not destroyed or Structurally Compromised. 2 Natural Commander: The Princeps is able to quickly assess the ebb and flow of battle, directing the engines under their command with ease. If the Princeps' Titan rolls a 9 or 10 for a Command check made when issuing Orders, they may issue the same Order to any or all of the Titans in their maniple (provided they do not already have an Order) without the need to make a Command check. 3 Crusader: The Princeps is a true believer in the crusading spirit of their Legio, adhering to a doctrine of marching forwards with relentless purpose. Once per round, when moving in the Combat phase as part of a Full Stride order, the Princeps' Titan may fire one of its weapons after they have finished moving. Apply a -2 modifier to the Hit rolls.
+D3 Personal Traits 1 Noble Legacy:The Princeps was there at the start of the Great Crusade and still upholds the promise that the dream of humanity will one day be achieved. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Eternal Bastion Tertiary Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan was not destroyed or Structurally Compromised. 2 Natural Commander: The Princeps is able to quickly assess the ebb and flow of battle, directing the engines under their command with ease. If the Princeps' Titan rolls a 9 or 10 for a Command check made when issuing Orders, they may issue the same Order to any or all of the Titans in their maniple (provided they do not already have an Order) without the need to make a Command check. 3 Crusader: The Princeps is a true believer in the crusading spirit of their Legio, adhering to a doctrine of marching forwards with relentless purpose. Once per round, when moving in the Combat phase as part of a [Full Stride] order, the Princeps' Titan may fire one of its weapons after they have finished moving. Apply a -2 modifier to the Hit rolls.
 
 Legio Praesagius Warlord Battle Titan
 
@@ -731,13 +731,13 @@ Materiel Strength Officially, according to records supplied by Ryza, the strengt
 
 Titans were fresh from the forges. These Titans enjoyed the benefits of systems that had not faced the excesses of plasma overloads or countless combat repairs, and so fared better in those critical first moments of an engagement between god-engines.
 
-In the first and second rounds of the game, when a Legio Crucius Titan makes a Repair roll, either in the Damage Control phase or as a result of being issued an Emergency Repairs order, it may re-roll any dice results of a 1.
+In the first and second rounds of the game, when a Legio Crucius Titan makes a Repair roll, either in the Damage Control phase or as a result of being issued an [Emergency Repairs] order, it may re-roll any dice results of a 1.
 
 **Legio Trait: Pride of Ryza The Tech-Priests of Ryza are keepers of ancient plasma**
 
 technologies and the secrets of their creation. Sunfury weaponry, plasma reactors and venting systems produced on Ryza are rightly prized by countless Legio, though as with all things, the Ryzan Mechanicum keep back the best examples for themselves.
 
-During the Damage Control phase, or when making Repair rolls as part of an Emergency Repairs order, when a Legio Crucius Titan uses a dice result of 6 to Vent Plasma, decrease the Titan's Reactor level by 2 rather than 1.
+During the Damage Control phase, or when making Repair rolls as part of an [Emergency Repairs] order, when a Legio Crucius Titan uses a dice result of 6 to Vent Plasma, decrease the Titan's Reactor level by 2 rather than 1.
 
 **Legio Specific Wargear: Terminus Override Mechanisms Some Legio Crucius Titans employed ancient**
 
@@ -749,7 +749,7 @@ Any Legio Crucius Titan may be equipped with a Terminus Override Mechanism for +
 
 bi-folded power containment chambers to mitigate the effects on the reactor of particularly energy-hungry weapons such as Sunfury plasma annihilators and volcano cannon, though, as with all such plasma mechanisms, they were never completely reliable.
 
-Any Legio Crucius Titan may be equipped with a Bi- folded Power Containment System for +20 points. When firing a weapon with the Draining trait (see the Adeptus Titanicus rulebook), a Titan equipped with a Bi-folded Power Containment System can roll a D6 to mitigate its effect. On a 4+, the Titan can roll the Reactor dice twice and choose the result they want. On a 1, however, they must roll the Reactor dice twice and choose the result that would advance their Reactor marker by the most or, if both results would advance it by the same amount, the result that would Awaken the Machine Spirit.
+Any Legio Crucius Titan may be equipped with a Bi- folded Power Containment System for +20 points. When firing a weapon with the [Draining] trait (see the Adeptus Titanicus rulebook), a Titan equipped with a Bi-folded Power Containment System can roll a D6 to mitigate its effect. On a 4+, the Titan can roll the Reactor dice twice and choose the result they want. On a 1, however, they must roll the Reactor dice twice and choose the result that would advance their Reactor marker by the most or, if both results would advance it by the same amount, the result that would Awaken the Machine Spirit.
 
 **Legio Specific Personal Traits A Legio Crucius Princeps Seniores' Personal Trait can either be generated from**
 
@@ -901,7 +901,7 @@ Legio Osedax Titans never suffer penalties to Command checks and may ignore effe
 
 The Princeps of Legio Osedax strive to repay their loss in kind, throwing themselves into battle without hesitation.
 
-This Stratagem can be purchased by any Legio Osedax player. Play this Stratagem during any Strategy phase. For the remainder of the round, friendly Legio Osedax Titans may be issued Full Stride orders without the need to make a Command check and are not affected by Difficult terrain and Dangerous terrain.
+This Stratagem can be purchased by any Legio Osedax player. Play this Stratagem during any Strategy phase. For the remainder of the round, friendly Legio Osedax Titans may be issued [Full Stride] orders without the need to make a Command check and are not affected by Difficult terrain and Dangerous terrain.
 
 ### Legio Specific Stratagem: Blood Begets Blood (3)
 
@@ -981,7 +981,7 @@ Subtract 1 from the result of any Armour roll made against a Legio Oberon Titan 
 
 In war the Death Bolts II acted boldly, but only after careful planning, assessing the strength of their foe before destroying them with overwhelming force.
 
-This Stratagem can be purchased by any Legio Oberon player. Play this Stratagem at the start of any Strategy phase. If played during the first round, until the end of the phase, Legio Oberon Titans may be issued with Full Stride or First Fire orders without needing a Command check. If played during any round after the first, until the end of the phase, Legio Oberon Titans may be issued with Full Stride or Split Fire orders without needing a Command check. All Legio Oberon Titans issued Orders via this Stratagem must be issued the same Order.
+This Stratagem can be purchased by any Legio Oberon player. Play this Stratagem at the start of any Strategy phase. If played during the first round, until the end of the phase, Legio Oberon Titans may be issued with Full Stride or [First Fire] orders without needing a Command check. If played during any round after the first, until the end of the phase, Legio Oberon Titans may be issued with Full Stride or [Split Fire] orders without needing a Command check. All Legio Oberon Titans issued Orders via this Stratagem must be issued the same Order.
 
 ### Legio Specific Stratagem: Strategiser (3)
 
@@ -1077,7 +1077,7 @@ Any Legio Venator Titan may be equipped with Blind Launchers for +20 points. Onc
 
 the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Burning Hatred: The Princeps seethes with an intense hatred of all Traitors, raging at their abandonment of the true order and vowing that all will fall before them - whatever the cost. Once per round, when the Princeps' Titan causes Critical Damage to an enemy Titan, the Princeps' Titan may immediately make an attack with one of its weapons, chosen by the controlling player. After resolving the effects of this attack, roll a D6 on the Reactor Overload table for the Princeps' Titan. 2 Crusade Veteran: Many Princeps of Legio Venator spent long decades fighting within the Expeditionary fleets, and are able to control their god-engines with seemingly preternatural skill. Once per game, after resolving a Repair roll made as part of an Emergency Repairs order, the Princeps may discard the Order and immediately be issued a second Order. This second Order can be another Emergency Repairs order. Even if an Emergency Repairs order is removed in this manner, the Princeps' Titan can still only be activated in either the subsequent Movement phase or Combat phase of that round as normal. 3 SuperiorTactician: The Princeps is well-practiced in commanding Titans in battle, and is capable of drawing up intricate plans with built-in redundancies. Before forces are deployed, when choosing Stratagems, the Legio Venator player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force.
+D3 Personal Traits 1 Burning Hatred: The Princeps seethes with an intense hatred of all Traitors, raging at their abandonment of the true order and vowing that all will fall before them - whatever the cost. Once per round, when the Princeps' Titan causes Critical Damage to an enemy Titan, the Princeps' Titan may immediately make an attack with one of its weapons, chosen by the controlling player. After resolving the effects of this attack, roll a D6 on the Reactor Overload table for the Princeps' Titan. 2 Crusade Veteran: Many Princeps of Legio Venator spent long decades fighting within the Expeditionary fleets, and are able to control their god-engines with seemingly preternatural skill. Once per game, after resolving a Repair roll made as part of an [Emergency Repairs] order, the Princeps may discard the Order and immediately be issued a second Order. This second Order can be another [Emergency Repairs] order. Even if an [Emergency Repairs] order is removed in this manner, the Princeps' Titan can still only be activated in either the subsequent Movement phase or Combat phase of that round as normal. 3 SuperiorTactician: The Princeps is well-practiced in commanding Titans in battle, and is capable of drawing up intricate plans with built-in redundancies. Before forces are deployed, when choosing Stratagems, the Legio Venator player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force.
 
 Legio Venator Warlord Battle Titan
 
@@ -1139,7 +1139,7 @@ Before any units are deployed, a battleforce that contains at least one Legio Ly
 
 alone in their god-engines, embracing the silence a sleeping Titan offers to better rouse it in times of war.
 
-Add 2 to the result when rolling to see if a Shutdown order is removed from a Legio Lysanda Titan.
+Add 2 to the result when rolling to see if a [Shutdown] order is removed from a Legio Lysanda Titan.
 
 ### Legio Specific Stratagem: Frontier Guard (2)
 

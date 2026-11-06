@@ -18,45 +18,21 @@ In the Advanced Rules, the bulk of the Strategy phase is taken up by issuing ord
 
 In this step, the players take turns activating a unit and issuing an order to it, starting with the First Player. When one player runs out of units to activate or does not wish to activate any more units, the other player activates each of their remaining units in turn.
 
-When a unit is activated in this step, the controlling player chooses an order from the table on page 42, then makes a Command check. If the check is successful, an Order dice is placed on the "Order" space on the Titan's Command Terminal, with the chosen order showing. If the check is failed, the order is not received; the chosen unit does not receive an order, and the controlling player cannot issue any more orders this phase.
+When a unit is activated in this step, the controlling player chooses an order from the [available orders](../matched_play_guide/rules_references.md#orders), then makes a Command check. If the check is successful, an Order dice is placed on the "Order" space on the Titan's Command Terminal, with the chosen order showing. If the check is failed, the order is not received; the chosen unit does not receive an order, and the controlling player cannot issue any more orders this phase.
 
-In the End phase, all orders (except Shutdown orders) come to an end and their dice are removed from any Command Terminals.
+In the End phase, all orders (except [Shutdown] orders) come to an end and their dice are removed from any Command Terminals.
 
 ---
 
 **Shutdown Orders**
 
-Shutdown orders are not automatically removed in the End phase. Instead, when a Titan with Shutdown orders is activated in the Strategy phase, the controlling player can attempt to restart its plasma reactor, as long as its Plasma Reactor Status marker is not in a hole with an orange or red indicator. Roll a D6, adding 2 to the result if the Titan's Reactor Status marker is on the first space of the track. On a result of 5 or more, the Shutdown orders are removed. Otherwise, they remain in place. In either case, a Titan that starts the Strategy phase with Shutdown orders cannot be issued any other orders that phase.
+[Shutdown] orders are not automatically removed in the End phase. Instead, when a Titan with [Shutdown] orders is activated in the Strategy phase, the controlling player can attempt to restart its plasma reactor, as long as its Plasma Reactor Status marker is not in a hole with an orange or red indicator. Roll a D6, adding 2 to the result if the Titan's Reactor Status marker is on the first space of the track. On a result of 5 or more, the [Shutdown] orders are removed. Otherwise, they remain in place. In either case, a Titan that starts the Strategy phase with [Shutdown] orders cannot be issued any other orders that phase.
 
 ---
 
 ### Available Orders
 
-![](../media/rulebook/emergency_repairs.jpg){ width=127 height=127 } **Emergency Repairs:**
-
-As soon as an Emergency Repairs order is issued, make a Repair roll for the unit (see page 32), adding 1 to the result of each dice. If a unit with Emergency Repairs orders is activated in the Movement phase, it cannot be activated in the subsequent Combat phase.
-
-![](../media/rulebook/first_fire.jpg){ width=127 height=127 } **First Fire:**
-
-When a unit acting under First Fire orders is activated in the Movement phase, it cannot move or make turns. Instead, pick one of its weapons to attack with, following the full Combat Sequence on page 33. Note that the attacking weapon must be declared before selecting a target. This does not prevent the unit from using that weapon again in the Combat phase.
-
-![](../media/rulebook/charge.jpg){ width=127 height=127 } **Charge:**
-
-In the Movement phase, a unit acting under Charge orders can only move within its Front arc, and once it starts moving, it cannot make any turns. However, once it has finished moving, it can immediately make either a Smash Attack (see page 36) or an attack with a weapon that has the Melee trait. Add 1 to the attack's Dice value for each full 3" that the model moved before attacking. Note that this does not stop the unit making a Smash Attack in the Combat phase.
-
-![](../media/rulebook/split_fire.jpg){ width=127 height=127 } **Split Fire:**
-
-A unit acting under Split Fire orders cannot make any turns in the Movement phase. However, in the Select Target step of the Combat phase (see page 33), a different target can be declared for each of the unit's weapons.
-
-![](../media/rulebook/full_stride.jpg){ width=127 height=127 } **Full Stride:**
-
-A unit acting under Full Stride orders cannot attack in the Combat phase. Instead, when it is activated, it can move a number of inches up to its Speed. This move must be made within the unit's Front arc. It cannot make any turns before, during or after this move, and the move must be made in a single straight line.
-
-![](../media/rulebook/shutdown.jpg){ width=127 height=127 } **Shutdown:**
-
-If a unit with void shields is issued Shutdown orders, its void shields collapse immediately. A unit with Shutdown orders cannot be activated in the Movement phase or Combat phase. Reactor rolls cannot be made for a unit with Shutdown orders (even if instructed to do so). Shutdown orders are not automatically removed in the End phase (see page 41). A unit that has Shutdown orders at the end of the battle counts as destroyed.
-
-When activating a Titan acting under Shutdown orders in the Damage Control phase, reduce its Reactor level by 2 before making its Repair roll.
+(see Orders, [page 55 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#orders))
 
 ## Wartorn Landscapes
 
@@ -76,11 +52,9 @@ The Titan Legions have strode to war on every type of terrain, from frozen tundr
 
 ---
 
-**Designer's Note**
+**Designer's Note: Wobbly Model Syndrome**
 
-**Wobbly Model Syndrome**
-
-As detailed as Adeptus Titanicus models may be, they have their limitations. If you find a situation where a model cannot be placed in the exact spot that you would like it to be, and which it would be able to reasonably stand in if it were poseable and did not have a base, place it as close as possible and agree with your opponent where it is actually standing. Move it and hold it in place as necessary to resolve lines of sight, fire arcs and so on, returning it to its temporary position whenever it is not necessary to know its actual location.
+*As detailed as Adeptus Titanicus models may be, they have their limitations. If you find a situation where a model cannot be placed in the exact spot that you would like it to be, and which it would be able to reasonably stand in if it were poseable and did not have a base, place it as close as possible and agree with your opponent where it is actually standing. Move it and hold it in place as necessary to resolve lines of sight, fire arcs and so on, returning it to its temporary position whenever it is not necessary to know its actual location.*
 
 ---
 
@@ -98,16 +72,11 @@ Note that if the Reactor Status marker is in a hole with a red indicator when it
 
 ### Reactor Overload
 
-When a Titan is activated in the Damage Control phase of each turn, and its Reactor Status marker is in a hole with an orange or red indicator, its reactor might overload. In the Basic Rules, the Titan would suffer a number of hits - in the Advanced Rules, the controlling player must instead roll on the Reactor Overload table below. If the marker is in an orange hole, roll a D6. If it is in a red hole, roll a D10.
+When a Titan is activated in the Damage Control phase of each turn, and its Reactor Status marker is in a hole with an orange or red indicator, its reactor might overload. In the Basic Rules, the Titan would suffer a number of hits - in the Advanced Rules, the controlling player must instead roll on the [Reactor Overload table](../matched_play_guide/rules_references.md#reactor-overload-table). If the marker is in an orange hole, roll a D6. If it is in a red hole, roll a D10.
 
 #### Reactor Overload Table
 
-| Roll | Result |
-|---|---|
-| 1‑2 | **Reactor Housing Damaged:** The Titan suffers a Strength 9 hit to its Body, bypassing void shields. |
-| 3‑5 | **Power Failure:** The Titan's void shields collapse immediately. If the void shields have already collapsed, treat this as a roll of 6-8 instead. |
-| 6‑8 | **Plasma Leak:** The Titan suffers D3 Strength 9 hits to its Body, bypassing void shields. |
-| 9‑10 | **Reactor Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale+1. |
+(see Reactor Overload Table, [page 54 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#reactor-overload-table))
 
 ### Awakening the Machine Spirit
 
@@ -117,20 +86,11 @@ If a Reactor roll shows the Machine Spirit symbol, the Titan's anima is roused b
 
 If the Titan is currently performing an Action, its Action ends immediately. For example, if the Titan is currently moving and has pushed its reactor to power its locomotors or stabilisers, it cannot move or turn any more this phase. Similarly, if it is making an attack and has pushed its reactor to power one of its weapons, the attack ends immediately (it could continue attacking with any remaining weapons once the result from the table has been resolved). If the Titan is not currently performing an Action - for example, if the reactor is being pushed to power the Titan's void shields during an attack by another Titan - there is no effect and it still makes its Shield saves (with the benefit of having pushed the reactor).
 
-Then, roll a D6 and look up the result on the Awakened Machine Spirit table that follows.
+Then, roll a D6 and look up the result on the [Awakened Machine Spirit table](../matched_play_guide/rules_references.md#awakened-machine-spirit-table).
 
 #### Awakened Machine Spirit Table
 
-| D6 | Result |
-|---|---|
-| 1 | **Haughty:** Other than ending the current Action, there is no effect. |
-| 2 | **Stalwart:** Make a Repair roll for the Titan. Its effects are applied immediately - if the controlling player is about to make a Shield save and they make a Raise Shields Repair Action, they use the new Shield level for the Save roll. |
-| 3 | **Impetuous:** The Titan moves D6" straight forwards, stopping before it collides with anything. At the end of the move, it turns up to 45° towards the nearest enemy unit, stopping if the enemy is directly ahead of it. |
-| 4 | **Belligerent:** The Titan moves D6" towards the nearest enemy unit within its Front arc, stopping if it moves within 1" of another unit. If there are no enemy units within its Front arc, it turns 45° towards the nearest enemy unit instead of moving, stopping if the enemy enters its Front arc. Then, if there is an enemy unit within 1" and within its Front arc, it makes a Smash Attack against that unit. |
-| 5 | **Predatory:** Choose one of the Titan's weapons at random, using the table on its Weapon Hit location. If that weapon has been disabled, or if there are no enemy units within its firing arc, treat this as a result of Belligerent instead. Otherwise, the Titan attacks with the chosen weapon, targeting the nearest enemy unit within its arc, and using a Ballistic Skill of 4+. |
-| 6 | **Wrathful:** The controlling player chooses one of the Titan's weapons that has not been disabled and attacks with it, using a Ballistic Skill and Weapon Skill of 4+, following the standard Combat Sequence (see page 33). |
-
----
+(see Awakened Machine Spirit Table, [page 54 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#awakened-machine-spirit-table))
 
 ### Unusual Situations
 
@@ -138,7 +98,7 @@ Then, roll a D6 and look up the result on the Awakened Machine Spirit table that
 
 If the Titan moves out of the attacking weapon's range, arc or line of sight, the attack is still resolved - after all, the Hit roll has already been made, so shots have already hit the target. Similarly, if the Titan moves so that the attacker is now in another of its arcs (it was in the Front, for example, but after the Titan moves the attacker is in its Side where its armour is weaker), this is not taken into account for the current attack. Any subsequent attacks, by the same unit or a different unit, use the Titan's new position - check the range, line of sight and arc again.
 
-**Interrupting its own Attacks.** If the machine spirit is awakened during its own attack, and a Predatory or Wrathful result causes it to attack with one of its weapons, it does not need to fire at the same target it was already targeting. Similarly, any subsequent attacks it makes do not have to target the unit that was targeted by the machine spirit's attack (indeed, they must target the Titan's original target, unless it has Split Fire orders).
+**Interrupting its own Attacks.** If the machine spirit is awakened during its own attack, and a Predatory or Wrathful result causes it to attack with one of its weapons, it does not need to fire at the same target it was already targeting. Similarly, any subsequent attacks it makes do not have to target the unit that was targeted by the machine spirit's attack (indeed, they must target the Titan's original target, unless it has [Split Fire] orders).
 
 **Measuring Ranges out of Sequence.** If an Impetuous, Belligerent or Predatory result requires the player to determine the nearest enemy unit and there is more than one-unit which looks as though it might be the nearest, they are allowed to measure the distance to each of them to determine which of them is the actual nearest unit.
 
@@ -162,27 +122,25 @@ When a Squadron is activated, each Titan in the Squadron is activated in turn, i
 
 ---
 
-**Designer's Note**
+**Designer's Note: Wide Ranging Squadron**
 
-**Wide Ranging Squadron**
-
-If you have used vehicle squadrons in some of our other games, it might seem at first as though we've missed something - there's nothing about Titans in a Squadron having to stay within a certain distance of each other. This is fully intentional - Titans which are within a Squadron are still fully autonomous (they are, after all, Titans!), but still work to support each other.
+*If you have used vehicle squadrons in some of our other games, it might seem at first as though we've missed something - there's nothing about Titans in a Squadron having to stay within a certain distance of each other. This is fully intentional - Titans which are within a Squadron are still fully autonomous (they are, after all, Titans!), but still work to support each other.*
 
 ---
 
 ### Squadron Orders
 
-In the Strategy phase, multiple Titans in a Squadron can be issued the same order at the same time - this is referred to as a Squadron order. Note that not all of the Titans in the Squadron need to be issued the Squadron order. For example, a player with a Squadron of three Warhounds could issue Full Stride as a Squadron order to two of the Titans, but leave the other to act on initiative or issue a different order.
+In the Strategy phase, multiple Titans in a Squadron can be issued the same order at the same time - this is referred to as a [Squadron] order. Note that not all of the Titans in the Squadron need to be issued the [Squadron] order. For example, a player with a Squadron of three Warhounds could issue Full Stride as a [Squadron] order to two of the Titans, but leave the other to act on initiative or issue a different order.
 
-When issuing Squadron orders, use the highest Command value of the Titans that are being issued the order. Add 1 to the result of the Command roll for each additional Titan after the first that is being issued the Squadron order. If the order is successfully given, put an appropriate Order dice on the Command Terminal of each Titan that was issued the order.
+When issuing [Squadron] orders, use the highest Command value of the Titans that are being issued the order. Add 1 to the result of the Command roll for each additional Titan after the first that is being issued the [Squadron] order. If the order is successfully given, put an appropriate Order dice on the Command Terminal of each Titan that was issued the order.
 
 ### Coordinated Strikes
 
 Squadrons are at their most effective when attacking the same target. Warhounds in particular have become infamous for their hunting packs, used to great effect in bringing down larger enemy Titans.
 
-When a Squadron is activated in the Combat phase (but not in the Movement phase, even if its Titans are on First Fire orders), the controlling player can elect to make a Coordinated Strike. When they do so, pick a target for the attack, then nominate two or more Titans in the Squadron to contribute to the attack.
+When a Squadron is activated in the Combat phase (but not in the Movement phase, even if its Titans are on [First Fire] orders), the controlling player can elect to make a Coordinated Strike. When they do so, pick a target for the attack, then nominate two or more Titans in the Squadron to contribute to the attack.
 
-Each contributing Titan must target the chosen unit (with at least one of its weapons if the Titan has Split Fire orders). Any Armour rolls for attacks made as part of a Coordinated Strike have a +1 modifier.
+Each contributing Titan must target the chosen unit (with at least one of its weapons if the Titan has [Split Fire] orders). Any Armour rolls for attacks made as part of a Coordinated Strike have a +1 modifier.
 
 ### Merging Void Shields
 
@@ -208,7 +166,7 @@ A Banner is made up of a number of Knights acting as a single unit. The reverse 
 
 ### Banners in the Strategy Phase
 
-A Banner can be issued orders in the same way as a Titan. It cannot be issued Damage Control or Shutdown orders.
+A Banner can be issued orders in the same way as a Titan. It cannot be issued Damage Control or [Shutdown] orders.
 
 ### Banners in the Movement Phase
 
@@ -222,7 +180,7 @@ Banners cannot be activated in the Damage Control phase.
 
 When a Banner is activated in the Combat phase, it follows the Combat Sequence as if it were a Titan. Instead of attacking with each Knight individually, make an attack with each different weapon in turn. For each weapon, multiply the Dice characteristic by the number of Knights in the Banner that are equipped with that weapon, and which are within range and line of sight of the target. For example, if a Banner has two Knights armed with rapid fire battle cannon (Dice 2) and one Knight armed with a thermal cannon (Dice 1), it would roll four dice when attacking with the battle cannon and one dice when attacking with the thermal cannon. If some Knights are within 2" of the target and others are further away, roll using Ballistic Skill for those that are further, and Weapon Skill for those that are within 2".
 
-When determining line of sight for a Banner, Knights within the Banner do not block the view of others. Also, remember that Knights have a 360° Front arc, so their weapons can fire in any direction. All of the weapons in a Banner must be fired at the same target, unless the Banner has Split Fire orders, at which point each weapon can be directed at a different target.
+When determining line of sight for a Banner, Knights within the Banner do not block the view of others. Also, remember that Knights have a 360° Front arc, so their weapons can fire in any direction. All of the weapons in a Banner must be fired at the same target, unless the Banner has [Split Fire] orders, at which point each weapon can be directed at a different target.
 
 Banners cannot make Smash Attacks.
 

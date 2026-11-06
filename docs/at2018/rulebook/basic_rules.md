@@ -38,11 +38,9 @@ The players roll off (see page 24). The winner decides whether they will be the 
 
 ---
 
-**Designer's Note**
+**Designer's Note: Patience is its Own Reward**
 
-**Patience is its Own Reward**
-
-It might seem strange to give your opponent the chance to be First Player - after all, why wouldn't you take the opportunity to attack first? However, as you play more games, you will realise that there are times when you will want to wait in order to see what your opponent does before reacting accordingly.
+*It might seem strange to give your opponent the chance to be First Player - after all, why wouldn't you take the opportunity to attack first? However, as you play more games, you will realise that there are times when you will want to wait in order to see what your opponent does before reacting accordingly.*
 
 ---
 
@@ -100,7 +98,7 @@ Models are able to change direction partway through a move - for instance, you c
 
 ---
 
-**Power to Locomotors!** When a Titan is activated in the Movement phase (or in the Combat phase if the model is acting under Full Stride orders), the controlling player can push its reactor (see earlier on this page) to declare Power to Locomotors! If they do this, the Titan uses its boosted Speed (the second value shown under Speed on its Command Terminal) instead of its default Speed for the duration of its activation.
+**Power to Locomotors!** When a Titan is activated in the Movement phase (or in the Combat phase if the model is acting under [Full Stride] orders), the controlling player can push its reactor (see earlier on this page) to declare Power to Locomotors! If they do this, the Titan uses its boosted Speed (the second value shown under Speed on its Command Terminal) instead of its default Speed for the duration of its activation.
 
 ---
 
@@ -281,7 +279,7 @@ Each hole on the Critical Damage track has one or more damage effects, which are
 
 **Moderati Wounded.** The moderati overseeing the gunnery crews has been hit. Any Hit rolls made for the Titan's attacks have a -1 modifier.
 
-**Princeps Wounded.** The attack has grievously wounded the Princeps, who is at risk of passing out. At the start of each Strategy phase, roll a D6. On a result of 1, the Titan takes Shutdown orders. In addition, the Titan automatically fails any Command checks it makes.
+**Princeps Wounded.** The attack has grievously wounded the Princeps, who is at risk of passing out. At the start of each Strategy phase, roll a D6. On a result of 1, the Titan takes [Shutdown] orders. In addition, the Titan automatically fails any Command checks it makes.
 
 **Reactor Leak (X).** The Titan's reactor containment fields are failing. In each End phase, advance the Titan's Reactor Status marker a number of times as shown in the brackets.
 
@@ -307,18 +305,11 @@ If the attacking weapon has no line of sight to the chosen weapon, roll again to
 
 ### Catastrophic Damage
 
-Though many refuse to believe it, even a god-engine is not invincible. When a Titan receives enough Critical Damage, it will suffer Catastrophic Damage - roll a D10 on the table below. If the Titan's Reactor Status marker is in a hole with an orange indicator, add 1 to the result. If it is in a hole with a red indicator, add 3 to the result.
+Though many refuse to believe it, even a god-engine is not invincible. When a Titan receives enough Critical Damage, it will suffer Catastrophic Damage - roll a D10 on the [Catastrophic Damage table](../matched_play_guide/rules_references.md#catastrophic-damage-table). If the Titan's Reactor Status marker is in a hole with an orange indicator, add 1 to the result. If it is in a hole with a red indicator, add 3 to the result.
 
 **Catastrophic Damage Table**
 
-| D10 | Result |
-|---|---|
-| 1 | **Silenced:** The Titan counts as having been destroyed and will play no further part in the battle, but is left in place. It can still be targeted and collided with by other units; if it suffers any damage, it falls, as described to the right. |
-| 2‑4 | **Laid Low:** The Titan moves D6" in a random direction (determined by a Scatter dice) then falls as described to the right. This may cause it to collide with other units, as described on page 31. |
-| 5‑7 | **Wild Fire:** The Titan turns to face a random direction (determined by a Scatter dice), then shoots with each of its weapons that is not disabled, one after the other. Each one must target the nearest unit, friend or foe, that is within arc, range and line of sight. Count the Titan's Ballistic Skill as 5+ while resolving these shots. Then the Titan falls, as described to the right. |
-| 8‑9 | **Magazine Detonation:** The Titan is destroyed. Roll a D3 and add the Titan's Scale. Each model within that many inches of the Titan before it is removed suffers D3 hits using the highest Strength from among the Titan's weapons, regardless of whether they have been disabled - Melee weapons are not counted. |
-| 10+ | **Catastrophic Meltdown:** The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale+1. |
-
+(see Catastrophic Damage Table, [page 55 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#catastrophic-damage-table))
 
 **Falling Titans.** The death of a Titan is not something which can be easily ignored; wherever their colossal mass falls, utter devastation is sure to follow.
 
@@ -340,7 +331,7 @@ Most Titans are not designed for close quarters combat, but when there is no oth
 
 | Weapon | Range S | Range L | Accuracy S | Accuracy L | Dice | Strength | Traits |
 |---|---|---|---|---|---|---|---|
-| Smash Attack | 1" | - | - | - | D3 | Scale+1 | Melee |
+| Smash Attack | 1" | - | - | - | D3 | Scale+1 | [Melee] |
 
 ## The End Phase
 
@@ -354,11 +345,9 @@ If a player has multiple effects that must be resolved in the End phase, they ca
 
 ---
 
-**Designer's Note**
+**Designer's Note: Don't Forget the End Phase!**
 
-**Don't Forget the End Phase!**
-
-Although it might not look like the End phase does much, be careful not to forget it! A lot of rules are triggered in this phase, especially once you start using the Advanced Rules. For example, any Order dice that are on Command Terminals are removed in the End phase.
+*Although it might not look like the End phase does much, be careful not to forget it! A lot of rules are triggered in this phase, especially once you start using the Advanced Rules. For example, any Order dice that are on Command Terminals are removed in the End phase.*
 
 ---
 
@@ -386,48 +375,41 @@ A weapon's Dice value shows how many dice are rolled when attacking with it. In 
 
 A weapon's Strength is a measure of its ability to punch through a target's armour. The higher a weapon's Strength, the more likely its attack will inflict damage on a successful hit.
 
-
 ### Traits
 
 Most weapons have one or more traits. These are special additional rules which either give the weapon bonuses or penalties in certain situations, or mean that it attacks in a unique or unusual fashion. The most common traits are listed below - others might appear on the Weapon cards themselves.
 
 #### Barrage
 
-Barrage weapons can fire indirectly at a target to which they do not have line of sight, so long as the target is still within range and arc. Firing indirectly confers a -2 modifier on the Hit roll.
+[Barrage] weapons can fire indirectly at a target to which they do not have line of sight, so long as the target is still within range and arc. Firing indirectly confers a -2 modifier on the Hit roll.
 
 #### Blast (3"/5")
 
-Before rolling To Hit with a Blast weapon, place the 3" Blast marker or 5" Blast marker (determined by the number in brackets) so that its central hole is completely over the target model's base and within line of sight of the attacking weapon, and no part of the marker is touching any friendly models. Then, check to see whether the central hole is within range and arc. If it is not within arc, the shot is wasted and has no effect. If it is not within range, do not roll To Hit - each shot will scatter as follows:
-
-Once the marker has been placed, roll To Hit as normal. If the roll is successful, the marker is not moved; otherwise, roll the Scatter dice and move the Blast marker D6" in the direction that is shown - if a Hit is rolled, use the small arrow to determine the direction of scatter. Note that the Blast marker can scatter out of the Titan's line of sight, or out of the weapon's range or arc - this represents the shot ricocheting or blasting clear through intervening terrain. The centre of the firing Titan's base should still be used as a reference point to determine which of the target's arcs is hit.
-
-Whether or not the marker moves, each model that is touched by the marker is hit once. If the central hole of the Blast marker is fully over a model's base, that model is hit twice.
-
-If a Blast weapon has a Dice value of 2 or more, make each Hit roll separately (scattering any missed shots individually). If more than one model is hit, the attacking player chooses the order in which to resolve them. Blast weapons cannot make Targeted Attacks.
+(see Blast (3"/5"), [page 52 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#blast-35))
 
 #### Carapace
 
-Some Titans carry weapons high up on their carapace - usually long range support weapons with the firepower to level a hab-block in moments. Carapace weapons cannot target units that are within a number of inches equal to the firing unit's Scale, unless the target is at least the same Scale as the attacker. For example, a Reaver (Scale 8) cannot attack units within 8" with its carapace weapon, unless the target unit is of at least Scale 8.
+Some Titans carry weapons high up on their carapace - usually long range support weapons with the firepower to level a hab-block in moments. [Carapace] weapons cannot target units that are within a number of inches equal to the firing unit's Scale, unless the target is at least the same Scale as the attacker. For example, a Reaver (Scale 8) cannot attack units within 8" with its carapace weapon, unless the target unit is of at least Scale 8.
 
 #### Concussive
 
-Some munitions produce a concussive blast that can cause even the largest Titan to stagger. If an attack from a Concussive weapon scores any hits on a Titan that are not deflected by its shields, roll a D6. On a 1-2, the target pivots 45° to the left; on a 3-4, it moves D3" directly away from the attacking unit without changing its facing; on a 5-6, it pivots 45° to the right. If the Titan suffers Catastrophic Damage as a result of the hit, roll to see if the Titan is turned or moved before rolling on the Catastrophic Damage table. In the Advanced Rules, a Knight Banner that suffers any Direct or Critical Hits from a Concussive weapon is automatically Shaken instead (see page 47).
+(see Concussive, [page 52 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#concussive))
 
 #### Draining
 
-Draining weapons put a great strain on the plasma reactor of the Titan that fires them. Before attacking with a Draining weapon, the Titan's reactor must be pushed. A unit that does not have a plasma reactor cannot use a Draining weapon. Some weapons have (Draining) after another trait - this means that they do not have the trait by default, but if they push the plasma reactor before attacking with the weapon, it gains that trait for the duration of the attack.
+[Draining] weapons put a great strain on the plasma reactor of the Titan that fires them. Before attacking with a [Draining] weapon, the Titan's reactor must be pushed. A unit that does not have a plasma reactor cannot use a [Draining] weapon. Some weapons have (Draining) after another trait - this means that they do not have the trait by default, but if they push the plasma reactor before attacking with the weapon, it gains that trait for the duration of the attack.
 
 #### Firestorm
 
-Firestorm weapons unleash gouts of blazing promethium or some other volatile fuel. Instead of rolling To Hit with a Firestorm weapon, place the Flame template so that the narrowest part is touching the end of the firing weapon and the centre of the wide end is within the weapon's firing arc. It cannot be placed so that it is touching any friendly units. The closest model to the firing unit that is touched by the template suffers a number of hits equal to the weapon's Dice value; each other model that is touched by the template (except the firing model!) suffers one hit. Note that it is not necessary to make the Hit rolls - these hits are automatic. Firestorm weapons cannot make Targeted Attacks.
+[Firestorm] weapons unleash gouts of blazing promethium or some other volatile fuel. Instead of rolling To Hit with a [Firestorm] weapon, place the Flame template so that the narrowest part is touching the end of the firing weapon and the centre of the wide end is within the weapon's firing arc. It cannot be placed so that it is touching any friendly units. The closest model to the firing unit that is touched by the template suffers a number of hits equal to the weapon's Dice value; each other model that is touched by the template (except the firing model!) suffers one hit. Note that it is not necessary to make the Hit rolls - these hits are automatic. [Firestorm] weapons cannot make Targeted Attacks.
 
 #### Fusion
 
-Fusion weapons generate beams of incredible heat which cause even the thickest armour to run like wax at close quarters. If the target of a Fusion weapon is within Short range, roll a D10 rather than a D6 for the Armour roll.
+[Fusion] weapons generate beams of incredible heat which cause even the thickest armour to run like wax at close quarters. If the target of a [Fusion] weapon is within Short range, roll a D10 rather than a D6 for the Armour roll.
 
 #### Limited (X)
 
-Some weapons are so enormous or power-hungry that a Titan can only carry enough ammunition for a few shots. A Limited weapon can only be used a number of times equal to the number in brackets - after this it is expended and cannot be used to make any more attacks for the rest of the battle.
+Some weapons are so enormous or power-hungry that a Titan can only carry enough ammunition for a few shots. A [Limited] weapon can only be used a number of times equal to the number in brackets - after this it is expended and cannot be used to make any more attacks for the rest of the battle.
 
 #### Maximal Fire
 
@@ -435,11 +417,11 @@ Some weapons, especially those such as plasma weaponry, can draw additional powe
 
 #### Melee
 
-Titans are sometimes fitted with massive claws, fists or chainblades, allowing the Princeps to take matters into their own hands at close quarters. When attacking with a Melee weapon, the controlling player can always choose the target location (as though they were making a Targeted Attack, but without the To Hit modifier).
+Titans are sometimes fitted with massive claws, fists or chainblades, allowing the Princeps to take matters into their own hands at close quarters. When attacking with a [Melee] weapon, the controlling player can always choose the target location (as though they were making a Targeted Attack, but without the To Hit modifier).
 
 #### Ordnance
 
-Ordnance weapons fire high calibre explosive shells which can cause significant damage to an unshielded target. When attacking with an Ordnance weapon, Armour rolls of 1 can be re-rolled.
+[Ordnance] weapons fire high calibre explosive shells which can cause significant damage to an unshielded target. When attacking with an [Ordnance] weapon, Armour rolls of 1 can be re-rolled.
 
 #### Paired
 
@@ -447,33 +429,31 @@ Sometimes, a Titan will carry a pair of weapons, slaved to fire together at the 
 
 #### Quake
 
-Quake weapons strike their target with such force that the very ground ruptures and shakes. If a unit is hit by a Quake cannon and the hit is not deflected by its shields, it is caught in the seismic blastwave. Until the end of the following Movement phase, the target's default and boosted Speed values are halved (rounding down).
+[Quake] weapons strike their target with such force that the very ground ruptures and shakes. If a unit is hit by a Quake cannon and the hit is not deflected by its shields, it is caught in the seismic blastwave. Until the end of the following Movement phase, the target's default and boosted Speed values are halved (rounding down).
 
 #### Rapid
 
-Rapid weapons spit an overpowering stream of shots, saturating the target with weapons fire. For each Hit roll of 6 when attacking with a Rapid weapon, it causes 2 hits rather than 1. If a roll of 6 To Hit was required, this rule has no effect.
+[Rapid] weapons spit an overpowering stream of shots, saturating the target with weapons fire. For each Hit roll of 6 when attacking with a [Rapid] weapon, it causes 2 hits rather than 1. If a roll of 6 To Hit was required, this rule has no effect.
 
 #### Rending
 
-Rending weapons have the potential to cause horrific damage if they strike true. If the Armour roll for a Rending weapon is 6, roll a D3 and add it to the result.
+[Rending] weapons have the potential to cause horrific damage if they strike true. If the Armour roll for a [Rending] weapon is 6, roll a D3 and add it to the result.
 
 #### Shieldbane
 
-These weapons are capable of tearing clean through even the largest void shields. Any Shield saves made against Shieldbane weapons have a -1 modifier.
+These weapons are capable of tearing clean through even the largest void shields. Any Shield saves made against [Shieldbane] weapons have a -1 modifier.
 
 #### Voidbreaker (X)
 
-Although Voidbreaker weapons are unlikely to cause any physical damage to a target, this does not matter - their purpose is the disruption of void shields, pure and simple. If a Voidbreaker weapon hits a target with active void shields, the target's controlling player must make a number of additional saves as shown by the number in brackets after the trait.
+Although [Voidbreaker] weapons are unlikely to cause any physical damage to a target, this does not matter - their purpose is the disruption of void shields, pure and simple. If a [Voidbreaker] weapon hits a target with active void shields, the target's controlling player must make a number of additional saves as shown by the number in brackets after the trait.
 
 #### Vortex
 
-Vortex weapons make use of bewildering technology to open an unstable warp rift at the target point. They follow use all of the rules for Blast weapons, but use the 3" Vortex template instead. Each model that is touched by the template suffers D6 Strength 10 hits, bypassing void shields.
-
-After resolving the attack, leave the Vortex template where it is. In the End phase of each turn, the marker moves D6" in a random direction, hitting anything it touches as it moves. If a Hit is rolled, the template is removed instead.
+(see Vortex, [page 53 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#vortex))
 
 #### Warp
 
-Warp weapons, most famously warp missiles, are fired in realspace but translate to the Warp for the majority of their flight, only returning to reality as they reach their target. If an attack made by a Warp weapon hits its target, make a Location roll (or choose a location if making a Targeted Attack). Then, regardless of whether the target is shielded, roll a D6. On a result of 1, the target location loses 1 Structure point. On a result of 2-3, the target location loses D3 Structure points. On a result of 4-6, the target location suffers Critical Damage.
+(see Warp, [page 53 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#warp))
 
 ---
 

@@ -123,7 +123,7 @@ MATERIEL STRENGTH Thanksto its ancient history and its close ties to the Fabrica
 
 Legio Trait: Reaper's Tally ThePrinceps of the Legio Mortis are cold and calculating, keeping meticulous kill tallies, and often filling their command decks with servitor choirs that drone out an endless list of all of their victims. Thiscacophony of the vanquished drives the Titan's crew to methodical acts of destruction, each fresh kill adding another name to the chant.
 
-Each time a Legio Mortis Titan destroys an enemy Titan, it gains the ability to re-roll a single dice roll of a 1 each time it makes an attack with a weapon without the Melee trait. These effects are cumulative and for every enemy Titan destroyed, an additional dice may be re-rolled.
+Each time a Legio Mortis Titan destroys an enemy Titan, it gains the ability to re-roll a single dice roll of a 1 each time it makes an attack with a weapon without the [Melee] trait. These effects are cumulative and for every enemy Titan destroyed, an additional dice may be re-rolled.
 
 Legio Trait: State of Decay Even before the infectious rot of Nurgle took root within the ranks of the Legio Mortis, many of its crews were deadened to the constant brutality of war. Thiscold lack of emotion manifested itself most obviously in the Princeps of the Death's Heads, and in their ability to suffer the most punishing feedback from their MIU units without flinching.
 
@@ -195,7 +195,7 @@ In addition, when fielding a Fortis maniple, a Legio Krytos player may take a si
 
 God Breakers maniples are methodical in their destruction of the battlefield, turning forests into seas of flame, buildings into clouds of dust and ash, and the ground into a cracked and desolate wasteland.
 
-ThisStratagem can be purchased by any Legio Krytos player. Reveal this Stratagem in any Strategy phase. For the duration of that round, enemy units hit by an attack made by a friendly Legio Krytos Titan with a weapon with the Quake trait suffer the effects of the Quake trait even if the hit was deflected by the target's shields. ThisStratagem does not affect Legio Krytos Titans issued with a Split Fire order, even if the Order was issued after the Stratagem was played.
+ThisStratagem can be purchased by any Legio Krytos player. Reveal this Stratagem in any Strategy phase. For the duration of that round, enemy units hit by an attack made by a friendly Legio Krytos Titan with a weapon with the [Quake] trait suffer the effects of the [Quake] trait even if the hit was deflected by the target's shields. ThisStratagem does not affect Legio Krytos Titans issued with a [Split Fire] order, even if the Order was issued after the Stratagem was played.
 
 ### Legio Specific Stratagem: Destroyers of Cities (1)
 
@@ -205,7 +205,7 @@ ThisStratagem can be purchased by any Legio Krytos player. Reveal this Stratagem
 
 Legio Specific Wargear: Earthbreaker Missiles Earthbreaker missiles are designed to burrow into the ground before detonating, tearing the terrain apart in showers of broken earth. Theseweapons were used extensively by the Legio Krytos to bring down fortifications, but they also proved effective in slowing the advance of enemy maniples.
 
-A Legio Krytos Warlord or Reaver Titan that is equipped with Apocalypse missile launchers or an Apocalypse missile launcher can take Earthbreaker missiles as an upgrade for +25 points for a Warlord Titan and +15 points for a Reaver Titan. When firing the Titan's Apocalypse missile launchers, the player can choose to either use its normal profile, or reduce its Dice value to 4 for a Warlord Titan, or 2 for a Reaver Titan, and give it the Quake trait. Earthbreaker missiles increase their Strength by 5 when resolving damage against terrain.
+A Legio Krytos Warlord or Reaver Titan that is equipped with Apocalypse missile launchers or an Apocalypse missile launcher can take Earthbreaker missiles as an upgrade for +25 points for a Warlord Titan and +15 points for a Reaver Titan. When firing the Titan's Apocalypse missile launchers, the player can choose to either use its normal profile, or reduce its Dice value to 4 for a Warlord Titan, or 2 for a Reaver Titan, and give it the [Quake] trait. Earthbreaker missiles increase their Strength by 5 when resolving damage against terrain.
 
 Legio Specific Personal Traits A Legio Krytos Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
@@ -285,7 +285,7 @@ Any Legio Fureans Titan may be upgraded with a Hunting Auspex for +20 points. A 
 
 Legio Specific Personal Traits A Legio Fureans Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 PERSONALTRAITS 1 Titan Stalker: ThePrinceps is adept at taking down larger prey, knowing just how to exploit their weaknesses if they can get close enough. When targeting an enemy Titan that is within 8", the Princeps Seniores may add 1 to the Armour rolls of any hits, provided that the targeted Titan has a Scale either equal to or greater than their own. 2 Humardu Savage: Some of the primitive humans harvested from Humardu by the Tiger Eyes would eventually join their ranks; although despite years of psycho- conditioning, they still retained much of their savage nature. When the Princeps Seniores Titan makes a Smash Attack, add 2 to the Strength of the attack. 3 Trophy Taker: TheTiger Eyes are known to claim trophies from their fallen foes, their Princeps going so far as to tear limbs and heads off enemy Titans as a display of their savage dominance. Any weapon disabled or Critical Damage caused by the Tiger Eyes Princeps by an attack made using a Smash Attack, or a weapon with the Melee trait, is harder to repair; these weapons require a dice score 1 higher than normal when making Repair actions.
+D3 PERSONALTRAITS 1 Titan Stalker: ThePrinceps is adept at taking down larger prey, knowing just how to exploit their weaknesses if they can get close enough. When targeting an enemy Titan that is within 8", the Princeps Seniores may add 1 to the Armour rolls of any hits, provided that the targeted Titan has a Scale either equal to or greater than their own. 2 Humardu Savage: Some of the primitive humans harvested from Humardu by the Tiger Eyes would eventually join their ranks; although despite years of psycho- conditioning, they still retained much of their savage nature. When the Princeps Seniores Titan makes a Smash Attack, add 2 to the Strength of the attack. 3 Trophy Taker: TheTiger Eyes are known to claim trophies from their fallen foes, their Princeps going so far as to tear limbs and heads off enemy Titans as a display of their savage dominance. Any weapon disabled or Critical Damage caused by the Tiger Eyes Princeps by an attack made using a Smash Attack, or a weapon with the [Melee] trait, is harder to repair; these weapons require a dice score 1 higher than normal when making Repair actions.
 
 ### Legio Fureans Warmaster Heavy Battle Titan
 
@@ -363,15 +363,15 @@ ThisStratagem can be purchased by any Legio Vulpa player. Play this Stratagem wh
 
 Legio Specific Wargear: Shikarian Conduits TheLegio Vulpa possessed a well-known tendency to favour close- quarters combat. To facilitate this, its Titans would often make use of modified reactor fetters, known as Shikarian Conduits, that would drain and divert reserve power from weapons to enable faster movement.
 
-Any Legio Vulpa Titan with a Scale of 7 or higher may take Shikarian Conduits for +20 points. A Titan with this upgrade increases its boosted speed 2" and its boosted manoeuvre characteristics by 1. If, during a round, a Titan with this upgrade declares Power to Locomotors! or Power to Stabilisers! at least once, then, for the remainder of the round, that Titan decreases the Dice value of all its weapons without the Melee trait by 1, to a minimum of 1. In addition, the Titan suffers a -2 penalty to its Ballistic Skill, to a minimum of 6+.
+Any Legio Vulpa Titan with a Scale of 7 or higher may take Shikarian Conduits for +20 points. A Titan with this upgrade increases its boosted speed 2" and its boosted manoeuvre characteristics by 1. If, during a round, a Titan with this upgrade declares Power to Locomotors! or Power to Stabilisers! at least once, then, for the remainder of the round, that Titan decreases the Dice value of all its weapons without the [Melee] trait by 1, to a minimum of 1. In addition, the Titan suffers a -2 penalty to its Ballistic Skill, to a minimum of 6+.
 
 Legio Specific Wargear: Disruption Emitters Close combat was not the natural environment for many Titans. To enhance its ability in such warfare, the Legio Vulpa made modifications to their war machines, fixing disruption fields to armour plates and limbs to enhance the destructive potential of close encounters.
 
-Any Legio Vulpa Titan may take Disruption Emitters for +35 points. A Titan with this upgrade adds 2 to the Strength value of all weapons with the Melee trait, not including Smash Attacks, it is equipped with and counts its Scale as 2 higher when making Smash Attacks.
+Any Legio Vulpa Titan may take Disruption Emitters for +35 points. A Titan with this upgrade adds 2 to the Strength value of all weapons with the [Melee] trait, not including Smash Attacks, it is equipped with and counts its Scale as 2 higher when making Smash Attacks.
 
 Legio Specific Personal Traits A Legio Vulpa Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 PERSONALTRAITS 1 Razor Tongue: ThePrinceps is skilled at delivering biting challenges and chilling threats, unnerving their opponents even before the first blow is struck. At the start of each round, the Princeps can choose an enemy Titan within 24" of their own Titan. For the duration of the round, the chosen Titan subtracts 2 from the result of any Command check it makes. 2 Bloodied but Unbroken: Themore damage the Princeps' Titan sustains, the more driven they become, seeking to ensure that even should they fall, their enemies are sure to fall with them. For each point of Critical Damage the Princeps' Titan has suffered (not including Critical Damage inflicted on weapons), increase the Strength of any weapons with the Melee trait and their Smash Attacks by 1, to a maximum of +3. 3 Cruel: ThePrinceps has no pity for weaklings. Unworthy foes are swiftly crushed underfoot with little thought of honour or mercy - after all, what mercy does the boot give the ant? When making attacks against units with a Scale of 5 or lower, increase the Strength of any hits by 2.
+D3 PERSONALTRAITS 1 Razor Tongue: ThePrinceps is skilled at delivering biting challenges and chilling threats, unnerving their opponents even before the first blow is struck. At the start of each round, the Princeps can choose an enemy Titan within 24" of their own Titan. For the duration of the round, the chosen Titan subtracts 2 from the result of any Command check it makes. 2 Bloodied but Unbroken: Themore damage the Princeps' Titan sustains, the more driven they become, seeking to ensure that even should they fall, their enemies are sure to fall with them. For each point of Critical Damage the Princeps' Titan has suffered (not including Critical Damage inflicted on weapons), increase the Strength of any weapons with the [Melee] trait and their Smash Attacks by 1, to a maximum of +3. 3 Cruel: ThePrinceps has no pity for weaklings. Unworthy foes are swiftly crushed underfoot with little thought of honour or mercy - after all, what mercy does the boot give the ant? When making attacks against units with a Scale of 5 or lower, increase the Strength of any hits by 2.
 
 ### Legio Vulpawarlord Battle Titan
 
@@ -447,7 +447,7 @@ Any two Legio Vulcanum Titans may be upgraded with Twinned Machine Spirits for +
 
 Legio Specific Wargear: Janus Pattern Missiles Janus pattern missiles were not exclusive to Stygies VIII, though the Forge World had amassed great stores of these weapons before the Horus Heresy, and its Legio was always well supplied with this specialised form of ordnance.
 
-Any Legio Vulcanum Titan armed with an Apocalypse missile launcher, Apocalypse missile array or paired Apocalypse missile launchers may take Janus pattern missiles for +20 points. Legio Vulcanum Titans with Janus pattern missiles may split the dice of their missile launchers between more than one target as the Janus warheads disperse in flight. TheTitan chooses a main target for its missiles, which will either be the same target as the rest of its weapons or one of its targets if it has the Split Fire order. At least one dice must then be allocated to the Titan's main target. Therest of the missile launcher's dice can then either be applied to the main target or any other target within 12" of the main target, provided the new target(s) are eligible targets (within the weapon's firing arc, within range etc). Each target counts as a separate attack for the purpose of calculating modifiers to Hit rolls, etc.
+Any Legio Vulcanum Titan armed with an Apocalypse missile launcher, Apocalypse missile array or paired Apocalypse missile launchers may take Janus pattern missiles for +20 points. Legio Vulcanum Titans with Janus pattern missiles may split the dice of their missile launchers between more than one target as the Janus warheads disperse in flight. TheTitan chooses a main target for its missiles, which will either be the same target as the rest of its weapons or one of its targets if it has the [Split Fire] order. At least one dice must then be allocated to the Titan's main target. Therest of the missile launcher's dice can then either be applied to the main target or any other target within 12" of the main target, provided the new target(s) are eligible targets (within the weapon's firing arc, within range etc). Each target counts as a separate attack for the purpose of calculating modifiers to Hit rolls, etc.
 
 Legio Specific Personal Traits A Legio Vulcanum Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
@@ -513,7 +513,7 @@ ThisStratagem can be purchased by any Legio Mordaxis player. Play this Stratagem
 
 Legio Specific Wargear: Toxin Nodes TheDark Mechanicum engineered methods for exploiting the internal corruption of the Deathdealers' Titans into their weapons, enabling them to spit forth disease.
 
-Any Legio Mordaxis Titan armed with a Blast (3") weapon may take Toxin Nodes for +20 points. Each weapon a Titan is armed with must be upgraded separately. Decrease the Strength value of the weapon by 1 (to a minimum of 4) and replace the Blast (3") trait with the Blast (5") trait.
+Any Legio Mordaxis Titan armed with a [Blast] (3") weapon may take Toxin Nodes for +20 points. Each weapon a Titan is armed with must be upgraded separately. Decrease the Strength value of the weapon by 1 (to a minimum of 4) and replace the [Blast] (3") trait with the [Blast] (5") trait.
 
 Legio Specific Personal Traits A Legio Mordaxis Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
@@ -575,7 +575,7 @@ MATERIEL STRENGTH Divisio Militaris records list an estimated 90 god-engines in 
 
 Legio Trait: Wolves Among Prey Unlike nearly all other Titan Legions, the Legio Audax relied solely on Scout class Titans in warfare, preferring to encircle their prey and slowly tear them apart.
 
-A Legion Audax maniple can consist only of Titans of Scale 6 or lower; any maniple which has mandatory or optional components containing Titans of Scale 7 or higher cannot contain Legio Audax Titans. Any reinforcement Titans declared as Legio Audax must be of Scale 6 or lower. All Legio Audax Titans gain the Squadron special rule if they do not already have it and may always form Squadrons with other Legio Audax Titan of any type. Thisincludes Titans that belong to another Legio Audax Maniple or Legio Audax reinforcement Titans. Legio Audax Squadrons can contain up to five Titans, unless they can normally contain more.
+A Legion Audax maniple can consist only of Titans of Scale 6 or lower; any maniple which has mandatory or optional components containing Titans of Scale 7 or higher cannot contain Legio Audax Titans. Any reinforcement Titans declared as Legio Audax must be of Scale 6 or lower. All Legio Audax Titans gain the [Squadron] special rule if they do not already have it and may always form Squadrons with other Legio Audax Titan of any type. Thisincludes Titans that belong to another Legio Audax Maniple or Legio Audax reinforcement Titans. Legio Audax Squadrons can contain up to five Titans, unless they can normally contain more.
 
 If a Legio Audax Titan is part of a Squadron via this trait, they cannot become part of another Squadron for any reason during the battle. Theonly exception to this rule is if every other Titan within their Squadron has been destroyed. In this instance, additional Squadrons could be formed if a rule allows it.
 
@@ -647,7 +647,7 @@ For many decades, the Legio Magna fought alongside the XVIIth
 
 Legion, adopting a small number of their rites and rituals until the Legio hungered for nothing more than destruction in the name of dark patrons.
 
-ThisStratagem can be purchased by any Legio Magna player. Play this Stratagem during any Strategy phase. For the remainder of the phase, friendly Legio Magna Titans may be issued Charge orders without the need to make a Command check. In addition, for the remainder of the round, friendly Legio Magna Titans may re-roll Hit rolls of a 1 for attacks made with a weapon with the Melee trait.
+ThisStratagem can be purchased by any Legio Magna player. Play this Stratagem during any Strategy phase. For the remainder of the phase, friendly Legio Magna Titans may be issued [Charge] orders without the need to make a Command check. In addition, for the remainder of the round, friendly Legio Magna Titans may re-roll Hit rolls of a 1 for attacks made with a weapon with the [Melee] trait.
 
 ### Legio Specific Stratagem: Spearhead Assault (2)
 
@@ -657,7 +657,7 @@ ThisStratagem can be purchased by any Legio Magna player. Play this Stratagem du
 
 Legio Specific Wargear: Directed Pressure Outlet As the Horus Heresy progressed, the Princeps of the Legio Magna became obsessed with wholesale slaughter, adapting their weapons to better tear apart the god-engines of their foe.
 
-Any Legio Magna Titan armed with a weapon with the Fusion trait may be equipped with a Directed Pressure Outlet for +20 points. Each Fusion weapon a Titan is armed with must be upgraded separately. A Titan equipped with a Directed Pressure Outlet adds 3" to the weapon's Short Range.
+Any Legio Magna Titan armed with a weapon with the [Fusion] trait may be equipped with a Directed Pressure Outlet for +20 points. Each [Fusion] weapon a Titan is armed with must be upgraded separately. A Titan equipped with a Directed Pressure Outlet adds 3" to the weapon's Short Range.
 
 Legio Specific Personal Traits A Legio Magna Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
@@ -739,7 +739,7 @@ ThisStratagem can be purchased by any Legio Vulturum player. Play this Stratagem
 
 Legio Specific Wargear: Storm Frag Shells TheLegio Vulturum often bore experimental weapons in battle, used as testbeds by the Tech-Priests of Xana II.
 
-Any Legio Vulturum Titan that is equipped with a Vulcan mega-bolter or Vulcan mega-bolter array can be upgraded with Storm Frag Shells at a cost of +25 points for a Vulcan mega- bolter and +45 points for a Vulcan mega-bolter array. Each weapon a Titan is armed with must be upgraded separately. A weapon with this upgrade gains the Maximal Fire trait and increases the negative Acc modifier for the weapon's Long Range by 1 (i.e., a 0 becomes a -1, a -1 becomes a -2).
+Any Legio Vulturum Titan that is equipped with a Vulcan mega-bolter or Vulcan mega-bolter array can be upgraded with Storm Frag Shells at a cost of +25 points for a Vulcan mega- bolter and +45 points for a Vulcan mega-bolter array. Each weapon a Titan is armed with must be upgraded separately. A weapon with this upgrade gains the [Maximal Fire] trait and increases the negative Acc modifier for the weapon's Long Range by 1 (i.e., a 0 becomes a -1, a -1 becomes a -2).
 
 Legio Specific Personal Traits A Legio Vulturum Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
@@ -813,21 +813,21 @@ Once per round, a single Legio Laniaskara Titan can declare Power to Locomotors!
 
 Legio Trait: Bullish Beneath the caustic seas of their home world, Impalers Titans were often forced to fight their prey face to face, leading to a culture of direct conflict far beyond that of most other Titan Legions.
 
-When making attacks as part of a Charge order, a Legio Laniaskara Titan may make a Smash Attack and one other attack with a weapon with the Melee trait. TheSmash Attack does not benefit from the additional dice from the Charge order.
+When making attacks as part of a [Charge] order, a Legio Laniaskara Titan may make a Smash Attack and one other attack with a weapon with the [Melee] trait. TheSmash Attack does not benefit from the additional dice from the [Charge] order.
 
 ### Legio Specific Stratagem: Heedless Charge (1)
 
 Contrary to the prescribed dictates of the Collegia Titanica, the use of close-quarters armaments, such as chainfists and Arioch power claws, was the norm amongst the Titans of the Legio Laniaskara. A favoured tactic of the Impalers was to unleash a spearhead of Reaver Titans armed with short range weapons upon enemy fortifications, battering down the walls and shattering all attempts to counter-attack.
 
-ThisStratagem can be purchased by any Legio Laniaskara player. Play this Stratagem at the start of any Strategy phase. For the remainder of the phase, any friendly Legio Laniaskara Titan can be issued a Charge order without the need to make a Command check.
+ThisStratagem can be purchased by any Legio Laniaskara player. Play this Stratagem at the start of any Strategy phase. For the remainder of the phase, any friendly Legio Laniaskara Titan can be issued a [Charge] order without the need to make a Command check.
 
 Legio Specific Wargear: Mordantised Ceramite Themost notable achievement of Valia-Maximal was their specialised knowledge in the development of treated alloy plating that proved highly resistant to plasma burns and corrosive substances.
 
-Any Legio Laniaskara Titan may be upgraded with Mordantised Ceramite for +10 points. Subtract 1 from the result of all Armour rolls made for an attack by a weapon with the Maximal Fire trait against a Titan with this upgrade. This negative modifier is applied even if the attacking unit is not using the Maximal Fire trait to increase its weapon's Strength.
+Any Legio Laniaskara Titan may be upgraded with Mordantised Ceramite for +10 points. Subtract 1 from the result of all Armour rolls made for an attack by a weapon with the [Maximal Fire] trait against a Titan with this upgrade. This negative modifier is applied even if the attacking unit is not using the [Maximal Fire] trait to increase its weapon's Strength.
 
 Legio Specific Personal Traits A Legio Laniaskara Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 PERSONALTRAITS 1 Cruel: ThePrinceps has no pity for weaklings - unworthy foes are swiftly crushed underfoot with little thought given to honour or mercy. When making attacks against units with a Scale of 5 or lower, increase the Strength of any hits by 2. 2 Titan Killer: ThePrinceps has long studied the blows needed to slay a Titan, believing them the ultimate foe to face. TheWarmaster's betrayal has given them the chance to put such knowledge to the test. Once per round, the Princeps may re-roll all Armour rolls of a 1 for an attack made against an enemy Titan. 3 Heedless Rage: In battle, the Princeps is often consumed by rage and heedless of their own pain. Once per round, the Princeps may make an attack with a disabled weapon with the Melee trait. Once the effects of the attack have been resolved, the Princeps' Titan suffers a single S10 hit to its Body.
+D3 PERSONALTRAITS 1 Cruel: ThePrinceps has no pity for weaklings - unworthy foes are swiftly crushed underfoot with little thought given to honour or mercy. When making attacks against units with a Scale of 5 or lower, increase the Strength of any hits by 2. 2 Titan Killer: ThePrinceps has long studied the blows needed to slay a Titan, believing them the ultimate foe to face. TheWarmaster's betrayal has given them the chance to put such knowledge to the test. Once per round, the Princeps may re-roll all Armour rolls of a 1 for an attack made against an enemy Titan. 3 Heedless Rage: In battle, the Princeps is often consumed by rage and heedless of their own pain. Once per round, the Princeps may make an attack with a disabled weapon with the [Melee] trait. Once the effects of the attack have been resolved, the Princeps' Titan suffers a single S10 hit to its Body.
 
 ### Legio Laniaskara Reaver Battle Titan
 
@@ -889,7 +889,7 @@ Legio Kulisaetai Titans never suffer penalties to their Command checks and may i
 
 Upon the field of battle, the Legio Kulisaetai would advance slowly towards their foe's defences, unleashing a torrent of firepower between each step.
 
-ThisStratagem can be purchased by any Legio Kulisaetai player. Play this Strategy during any Shooting phase. Add 6" to the Short Range (but not the Long Range) characteristic of all weapons without the Melee trait carried by a Legio Kulisaetai Titan during the Combat phase, so long as it has not moved (voluntarily or involuntarily) already this round.
+ThisStratagem can be purchased by any Legio Kulisaetai player. Play this Strategy during any Shooting phase. Add 6" to the Short Range (but not the Long Range) characteristic of all weapons without the [Melee] trait carried by a Legio Kulisaetai Titan during the Combat phase, so long as it has not moved (voluntarily or involuntarily) already this round.
 
 ### Legio Specific Stratagem: Methodical Advance (2)
 
@@ -975,7 +975,7 @@ Any Legio Damicium Titan may take Secondary Plating for +10 points. Thefirst Cri
 
 Legio Specific Personal Traits A Legio Damicium Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 PERSONALTRAITS 1 Beyond Death: ThePrinceps accepts that death is inevitable and will fight to the bitter end, seizing a small measure of victory in their death. When this Princeps suffers Catastrophic Damage, make a Command check for the Titan before rolling on the Catastrophic Damage table. If the check is successful, do not roll on the table. Instead, the Titan moves D6" in a direction of the controlling player's choice, stopping before it collides with an enemy unit. TheTitan then immediately suffers a Magazine Detonation. 2 Bitter Soul: ThePrinceps marches on, not out of a sense of duty but out of a spiteful need to deny their foe any measure of glory. ThePrinceps' Titan does not halve their Speed when they suffer a hit from a Quake weapon that is not deflected by their shields, nor do they pivot (i.e., on a roll of a 1-2 or a 5-6) when they suffer a hit from a Concussive weapon that is not deflected by their shields. 3 Limitless: ThePrinceps is ruthless, believing nothing should stand in the way of victory, pushing themselves and their Titan beyond all reasonable limits. Once per game, during the Combat phase, the Princeps' Titan may make a weapon attack with any and all of its disabled weapons as if they were not disabled.
+D3 PERSONALTRAITS 1 Beyond Death: ThePrinceps accepts that death is inevitable and will fight to the bitter end, seizing a small measure of victory in their death. When this Princeps suffers Catastrophic Damage, make a Command check for the Titan before rolling on the Catastrophic Damage table. If the check is successful, do not roll on the table. Instead, the Titan moves D6" in a direction of the controlling player's choice, stopping before it collides with an enemy unit. TheTitan then immediately suffers a Magazine Detonation. 2 Bitter Soul: ThePrinceps marches on, not out of a sense of duty but out of a spiteful need to deny their foe any measure of glory. ThePrinceps' Titan does not halve their Speed when they suffer a hit from a [Quake] weapon that is not deflected by their shields, nor do they pivot (i.e., on a roll of a 1-2 or a 5-6) when they suffer a hit from a [Concussive] weapon that is not deflected by their shields. 3 Limitless: ThePrinceps is ruthless, believing nothing should stand in the way of victory, pushing themselves and their Titan beyond all reasonable limits. Once per game, during the Combat phase, the Princeps' Titan may make a weapon attack with any and all of its disabled weapons as if they were not disabled.
 
 ### Legio Damicium Warlord Battle Titan
 

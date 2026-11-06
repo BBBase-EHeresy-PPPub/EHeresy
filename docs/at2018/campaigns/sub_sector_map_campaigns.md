@@ -2,15 +2,13 @@
 
 Titans are strategic weapons of the highest order, and their deployment always marked a point of main effort for the Loyalist and Traitors. The following rules expand on the idea of adding maps to the campaign system presented within *Adeptus Titanicus: Titandeath*, allowing players to battle over a sub-sector and the solar systems and planets contained within it. Such a campaign system allows players to mark the progress of the Legios as they capture and defend their own planets and progress with their allies to conquer an entire sub-sector for either the Emperor or the Warmaster.
 
-### Designer's Note
+**Designer's Note: Commanding Multiple Titan Legions**
 
-**Commanding Multiple Titan Legions**
+*Map campaigns benefit from several players on each side, allowing for grand strategies and tactics to evolve as Legios are grouped together to strike at valuable or heavily fortified planets or spread out to attack numerous planets at once. Of course, getting a large group of players together is not always possible or practical. For this reason players can, if they choose, command more than one Legio, or battlegroups within a single Legio.*
 
-Map campaigns benefit from several players on each side, allowing for grand strategies and tactics to evolve as Legios are grouped together to strike at valuable or heavily fortified planets or spread out to attack numerous planets at once. Of course, getting a large group of players together is not always possible or practical. For this reason players can, if they choose, command more than one Legio, or battlegroups within a single Legio.
+*Each player simply creates a number of campaign rosters, each one for a different Legio/Knight Household or for a different part of the same Legio/Knight Household. Each campaign roster is in effect a different "player", able to attack a planet and claim Armoury points, though controlled by a single player.*
 
-Each player simply creates a number of campaign rosters, each one for a different Legio/Knight Household or for a different part of the same Legio/Knight Household. Each campaign roster is in effect a different "player", able to attack a planet and claim Armoury points, though controlled by a single player.
-
-When playing with multiple Legios or Households, players should be free to move their Titans and units between campaign rosters and pool their Armoury points, though their individual Titan maniples must still be made up of Titans from the same Legio.
+*When playing with multiple Legios or Households, players should be free to move their Titans and units between campaign rosters and pool their Armoury points, though their individual Titan maniples must still be made up of Titans from the same Legio.*
 
 ### Sub-sector Campaign Maps
 
@@ -64,11 +62,9 @@ The exception to the process above is if the previous round's attacking side los
 - All defending players choose a planet under attack to defend, an Occupied planet to Contest or a neutral planet to lay claim to; more than one defender may choose the same planet.
 - Play a battle for each planet containing both attackers and defenders.
 
-### Designer's Note
+**Designer's Note: Scorched Earth**
 
-**Scorched Earth**
-
-To encourage attackers to spread out their assaults and defenders to protect their territories wherever possible, players can use Scorched Earth rules. These rules offer a player who had attacked a world without opposition the choice to raze it, using the massed firepower of their Titans. After working out which planets the attackers are striking at and the defenders are defending, if there are any planets containing only one side, they can be razed at the discretion of the attackers instead of Occupying the planet. A Razed World, Forge World, Hive World, Knight World or Fortress World becomes a War World. Any other world becomes a Ravaged World (including if a War World is Razed). A world that has been Razed remains under the control of the current controlling player.
+*To encourage attackers to spread out their assaults and defenders to protect their territories wherever possible, players can use Scorched Earth rules. These rules offer a player who had attacked a world without opposition the choice to raze it, using the massed firepower of their Titans. After working out which planets the attackers are striking at and the defenders are defending, if there are any planets containing only one side, they can be razed at the discretion of the attackers instead of Occupying the planet. A Razed World, Forge World, Hive World, Knight World or Fortress World becomes a War World. Any other world becomes a Ravaged World (including if a War World is Razed). A world that has been Razed remains under the control of the current controlling player.*
 
 ### Capturing Planets
 
@@ -78,11 +74,9 @@ To take control of an Occupied world, a player must Contest the world. To do thi
 
 If an Occupied world is Uncontested (i.e., only one side commits forces to Contest the world), the world is no longer Occupied, either falling under the control of the opposing side or remaining under the control of the current controlling player. If control of the world switches sides, the player who Contested the world gains control of it. In the case of worlds Contested by more than one player, the conquering player with the most Honour points can choose who among the conquering Legios takes control of the world, or if two or more conquerors have the same amount of Honour points, they roll off to see who takes control of it.
 
-#### Designer's Note
+**Designer's Note: Occupied Worlds**
 
-##### Occupied Worlds
-
-The rules for invaded worlds becoming Occupied tend to favour longer campaigns and represent that seizing control of a planet is far from a simple affair while encouraging players to redirect assaults against difficult targets or commit heavy forces to a particular battle. Players seeking an easier method can agree that worlds do not become Occupied. Instead, when an attacker wins a battle over a planet, they take control of it. In this way, planets will be conquered far quicker and key planets are likely to change hands many times during a campaign.
+*The rules for invaded worlds becoming Occupied tend to favour longer campaigns and represent that seizing control of a planet is far from a simple affair while encouraging players to redirect assaults against difficult targets or commit heavy forces to a particular battle. Players seeking an easier method can agree that worlds do not become Occupied. Instead, when an attacker wins a battle over a planet, they take control of it. In this way, planets will be conquered far quicker and key planets are likely to change hands many times during a campaign.*
 
 #### Capturing Planets Summary
 
@@ -143,8 +137,6 @@ If players wish to include more detail in their campaign, they can generate hex 
 
 When a world becomes Occupied, the invading player seizes control of the Spaceport. They may then invade any other territory on the map apart from the Hive City or Fortress. They may only invade the Hive City or Fortress when they control two or more hexes of a planet map. An Occupied world falls under the control of the invader when they control the Hive City or Fortress. If the invaders lose control of all hexes on a planet, the planet remains under the control of the defending player and is no longer Occupied.
 
-**DESIGNER'S NOTE**
+**Designer's Note: Fortifying Planets**
 
-**Fortifying Planets**
-
-If players want to add some additional detail to the planets in their campaigns, they might allow them to be fortified, representing the construction of ground and orbital defences. Players can improve the defences of a planet during the Campaign End phase, paying 500 Armoury points to improve its Defensive Rating by 1 (up to a maximum Rating of +3). Additionally, for a cost of 1,500 Armoury points, a Ravaged World can be turned into a Fortress World. a player can only create one Fortress World in each Campaign End phase.
+*If players want to add some additional detail to the planets in their campaigns, they might allow them to be fortified, representing the construction of ground and orbital defences. Players can improve the defences of a planet during the Campaign End phase, paying 500 Armoury points to improve its Defensive Rating by 1 (up to a maximum Rating of +3). Additionally, for a cost of 1,500 Armoury points, a Ravaged World can be turned into a Fortress World. a player can only create one Fortress World in each Campaign End phase.*

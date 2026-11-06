@@ -213,7 +213,7 @@ The Traitor player has 3 points to spend on their choice of Stratagems (see page
 
 **Guns of the Imperator:** The massive Imperator Titan the *Paragon of Terra* stands at the Loyalists' back, lending its devastating weaponry to the defence. The Loyalist player gains an Artillery Bombardment Stratagem for this battle without expending any Stratagem points. This Artillery Bombardment Stratagem may be used twice in each Strategy phase.
 
-**The Warmaster's Lash:** The Warmaster will allow no retreat to his forces and is driving them to take Lupercalia as swiftly as possible. Each round, Traitor Titans must end their activation closer to the Lupercalia board edge, unless they are either unable to move as a result of Critical Damage or are subject to the Shutdown order.
+**The Warmaster's Lash:** The Warmaster will allow no retreat to his forces and is driving them to take Lupercalia as swiftly as possible. Each round, Traitor Titans must end their activation closer to the Lupercalia board edge, unless they are either unable to move as a result of Critical Damage or are subject to the [Shutdown] order.
 
 ### Deployment
 
@@ -337,7 +337,7 @@ Both players have 4 points which can be spent on any of the Noble Tactics from p
 
 ### Mission Special Rules
 
-**Dark Appetites:** House Devine have become lost to Chaos and are revelling in their own dark impulses. For this battle, House Devine Knight Banners add 1 to the Strength of any weapon with the Melee trait.
+**Dark Appetites:** House Devine have become lost to Chaos and are revelling in their own dark impulses. For this battle, House Devine Knight Banners add 1 to the Strength of any weapon with the [Melee] trait.
 
 **Burning City:** Lupercalia is in flames as the Traitors visit their wrath upon it. This mission uses the Cities in Flames Battlefield rules from page 219.
 

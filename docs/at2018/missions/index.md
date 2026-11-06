@@ -74,10 +74,8 @@ The following scenarios were originally published in *White Dwarf* magazine:
 - The Red Planet Aflame
 - The Siege of Travo'anor
 
-!!! note "Designer's Note"
+**Designer's Note: Loyalists and Traitors**
 
-    **Loyalists and Traitors**
+*Narrative missions focus on specific battles or engagements and often include the major Titan Legions who were present at the time. These Titan Legions were not the only forces present and smaller contingents of both Loyalist and Traitor Titan Legions could easily have been drawn into the escalating conflict.*
 
-    Narrative missions focus on specific battles or engagements and often include the major Titan Legions who were present at the time. These Titan Legions were not the only forces present and smaller contingents of both Loyalist and Traitor Titan Legions could easily have been drawn into the escalating conflict.
-
-    When playing any of these missions players should feel free to substitute their own Legio for those that follow, choosing one side to represent the Traitors and the other the Loyalists. In the case of missions pitting Knights against Titans, players can alter them so that both sides are fielding Knights or both sides are fielding Titans should they desire.
+*When playing any of these missions players should feel free to substitute their own Legio for those that follow, choosing one side to represent the Traitors and the other the Loyalists. In the case of missions pitting Knights against Titans, players can alter them so that both sides are fielding Knights or both sides are fielding Titans should they desire.*

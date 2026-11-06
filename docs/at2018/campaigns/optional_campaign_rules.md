@@ -45,11 +45,11 @@ After a game, each surviving Titan crew, whether or not their Titan survived the
 
 Certain Crew Experience levels list the benefit as "Titan Crew Skill". When a Titan reaches this level, the crew may choose a skill representing a certain aspect of warfare the crew excel at, marking out their unique talents. Each Titan can only take the same skill once. When a skill is taken, note it down next to the Titan on the campaign roster. a crew chooses their skills from the list below:
 
-**Accurate** - a Titan with this skill applies a +1 modifier to all To Hit rolls for attacks made with weapons without the Melee trait.
+**Accurate** - a Titan with this skill applies a +1 modifier to all To Hit rolls for attacks made with weapons without the [Melee] trait.
 
 **Expert Marksmanship** - a Titan with this skill does not suffer penalties for making a Targeted attack.
 
-**Brawler** - a Titan with this skill adds 1 to the Dice value of all weapons with the Melee trait it is equipped with.
+**Brawler** - a Titan with this skill adds 1 to the Dice value of all weapons with the [Melee] trait it is equipped with.
 
 **Agile** - a Titan with this skill can make up to two turns before moving as part of a Charge Order, instead of one.
 
@@ -57,8 +57,8 @@ Certain Crew Experience levels list the benefit as "Titan Crew Skill". When a Ti
 
 **Natural Leader** - Once per game, during the End phase, you may choose who will be the First Player for the next turn. If both players use this skill during an End phase, players roll off as normal. Only one Titan per player can use this ability per game no matter how many Titans have the skill, and a Titan with this skill must be present on the battlefield when this skill is used.
 
-**Vanguard Fighter** - a Titan with this skill may be issued Charge and Full Stride orders without the need to make a Command check.
+**Vanguard Fighter** - a Titan with this skill may be issued Charge and [Full Stride] orders without the need to make a Command check.
 
-**Bombard Commander** - a Titan with this skill may be issued First Fire and Split Fire orders without the need to make a Command check.
+**Bombard Commander** - a Titan with this skill may be issued First Fire and [Split Fire] orders without the need to make a Command check.
 
-**Titanic Duellist** - Apply a -1 modifier to all To Hit rolls for attacks made against a Titan with this skill by weapons with the Melee trait.
+**Titanic Duellist** - Apply a -1 modifier to all To Hit rolls for attacks made against a Titan with this skill by weapons with the [Melee] trait.

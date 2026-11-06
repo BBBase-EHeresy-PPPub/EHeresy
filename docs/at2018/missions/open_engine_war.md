@@ -249,9 +249,9 @@ If your opponent is using a Knight Household force, instead nominate a single Ba
 
 Your battlegroup is tasked with proving the superiority of its martial skill.
 
-At the end of the battle, you gain 3 Victory points for each enemy unit you destroyed with a Smash Attack or an attack made by a weapon with the Melee trait, to a maximum of 9 Victory points. An additional 1 Victory point is awarded if one or more of those destroyed units was a Princeps Seniores or was the Seneschal of a Knight Household force.
+At the end of the battle, you gain 3 Victory points for each enemy unit you destroyed with a Smash Attack or an attack made by a weapon with the [Melee] trait, to a maximum of 9 Victory points. An additional 1 Victory point is awarded if one or more of those destroyed units was a Princeps Seniores or was the Seneschal of a Knight Household force.
 
-If none of your units have a weapon with the Melee trait (other than a Smash Attack), you may discard this Secondary Objective and draw another.
+If none of your units have a weapon with the [Melee] trait (other than a Smash Attack), you may discard this Secondary Objective and draw another.
 
 ### Plant the Standard
 
@@ -271,9 +271,9 @@ If you are using a Knight Household force, you are attempting to keep the Senesc
 
 *Your battlegroup is tasked with proving the majesty of its guns.*
 
-At the end of the battle, you gain 3 Victory points for each enemy Titan destroyed as a result of a Targeted Attack made by one of your units with a weapon without the Melee trait, to a maximum of 9 Victory points. If your opponent is using a Knight Household force, you gain 3 Victory points for each Lord Scion destroyed as a result of a Targeted Attack made by one of your units with a weapon without the Melee trait, to a maximum of 9 Victory points. An additional 1 Victory point is awarded if one or more of those destroyed units was a Princeps Seniores or the Seneschal of a Knight Household force.
+At the end of the battle, you gain 3 Victory points for each enemy Titan destroyed as a result of a Targeted Attack made by one of your units with a weapon without the [Melee] trait, to a maximum of 9 Victory points. If your opponent is using a Knight Household force, you gain 3 Victory points for each Lord Scion destroyed as a result of a Targeted Attack made by one of your units with a weapon without the [Melee] trait, to a maximum of 9 Victory points. An additional 1 Victory point is awarded if one or more of those destroyed units was a Princeps Seniores or the Seneschal of a Knight Household force.
 
-If none of your Titans have an arm weapon without the Melee trait, you may discard this Secondary Objective and draw another.
+If none of your Titans have an arm weapon without the [Melee] trait, you may discard this Secondary Objective and draw another.
 
 ### Secure Ground
 
@@ -321,7 +321,7 @@ All units suffer a -2 modifier to any Command Check they make. In addition, at t
 
 The battle takes place on a world known for its dangerous flora and fauna.
 
-The first time each unit attacks in a round, roll a D10 after resolving the attack. On a 1 or 2, the unit suffers a D3 S6 hits as if attacked by a weapon with the Quake trait; Void Shield and Ion Shield saves are allowed against these hits.
+The first time each unit attacks in a round, roll a D10 after resolving the attack. On a 1 or 2, the unit suffers a D3 S6 hits as if attacked by a weapon with the [Quake] trait; Void Shield and Ion Shield saves are allowed against these hits.
 
 ### Forge World
 
@@ -339,7 +339,7 @@ The battlefield should contain a dense amount of urban terrain, with clear secti
 
 The battle takes place on a world turned over to industry, its surface criss-crossed with promethium pipes and the air thick with industrial gases.
 
-Increase the Strength and Dice Value of weapons with the Firestorm trait by 1. In addition, both players get an additional 1 Stratagem point which they can spend on Battlefield Assets.
+Increase the Strength and Dice Value of weapons with the [Firestorm] trait by 1. In addition, both players get an additional 1 Stratagem point which they can spend on Battlefield Assets.
 
 ### Shattered World
 
@@ -406,7 +406,7 @@ All geyser eruption Blast markers are removed during the End phase.
 
 ++ The battlefield is shrouded in an electrical storm that disrupts active Void Shields and could damage unprotected Titans. ++
 
-All weapons gain the Voidbreaker (1) trait or, if they already have the Voidbreaker (X) trait, increases the value in brackets by 1. In addition, at the start of every End phase roll a D5 for each Titan with a Void Shield level of X. On a 5+, the Titan is struck by lightning. Resolve a single S8 hit against the Titan's Body.
+All weapons gain the [Voidbreaker] (1) trait or, if they already have the [Voidbreaker] (X) trait, increases the value in brackets by 1. In addition, at the start of every End phase roll a D5 for each Titan with a Void Shield level of X. On a 5+, the Titan is struck by lightning. Resolve a single S8 hit against the Titan's Body.
 
 ### Mist
 
@@ -418,7 +418,7 @@ Subtract 1 from the result of all Hit rolls made for attacks against a target mo
 
 ++ The two forces battle under the cover of darkness or in a subterranean cavern devoid of light. ++
 
-Units can only make attacks against targets within 12" of the attacking unit unless the target unit has already made an attack with a weapon without the Melee trait or has made the Vent Plasma Action this round.
+Units can only make attacks against targets within 12" of the attacking unit unless the target unit has already made an attack with a weapon without the [Melee] trait or has made the Vent Plasma Action this round.
 
 ### Radiation
 
@@ -434,19 +434,19 @@ Each time a Titan within 3" of a Rad marker pushes its reactor, the controlling 
 
 The air is thick from smog belching from the local manufactoria, rendering most blind to all but the closest foes.
 
-Attacks made against a target by a unit that is further away than twice the target's Scale in inches automatically miss. If the attack was made with a weapon with the Blast (X) trait, nothing under the Blast marker is hit and the marker does not scatter.
+Attacks made against a target by a unit that is further away than twice the target's Scale in inches automatically miss. If the attack was made with a weapon with the [Blast] (X) trait, nothing under the Blast marker is hit and the marker does not scatter.
 
 ### Unstable Ground
 
 ++ The ground is precarious and prone to collapse under the heavy tread of a Titan. ++
 
-Whenever a Titan declares Power to Locomotors!, before moving it, roll a D10. On a 1 or a 2, the Titan can only move up to its base Movement characteristic and, after moving, suffers D3 S6 hits to its Legs, ignoring Void Shields, as if successfully hit by a weapon with the Quake trait.
+Whenever a Titan declares Power to Locomotors!, before moving it, roll a D10. On a 1 or a 2, the Titan can only move up to its base Movement characteristic and, after moving, suffers D3 S6 hits to its Legs, ignoring Void Shields, as if successfully hit by a weapon with the [Quake] trait.
 
 ### Vox Ghosts
 
 ++ Vox echoes flood the communication networks of both forces, leading to miscommunication and confusion. ++
 
-If a unit rolls a natural 1 when making a Command check, the opposing player may issue the unit an Order of their choice without the need to make a Command check. A Shutdown order cannot be issued in this manner.
+If a unit rolls a natural 1 when making a Command check, the opposing player may issue the unit an Order of their choice without the need to make a Command check. A [Shutdown] order cannot be issued in this manner.
 
 ### Vox Screech
 

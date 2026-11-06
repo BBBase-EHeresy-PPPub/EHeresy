@@ -203,7 +203,7 @@ The Traitor player has no Stratagems for this battle. The Legio Crucius player h
 
 ### Mission Special Rules
 
-**Last Stand:** The crew of the Legio Crucius Titans know that survival is impossible and will fight to the bitter end. During the battle, Legio Crucius Titans may be issued Orders on a 2+, ignoring any modifiers. However, no Legio Crucius Titan may be issued an Emergency Repairs order; any they are issued with are automatically discarded before taking effect. In addition, Legio Crucius Titans may not voluntarily be issued Shutdown orders, although they can still receive them from Stratagems targeting them or other sources (such as weapons with the Shock trait).
+**Last Stand:** The crew of the Legio Crucius Titans know that survival is impossible and will fight to the bitter end. During the battle, Legio Crucius Titans may be issued Orders on a 2+, ignoring any modifiers. However, no Legio Crucius Titan may be issued an [Emergency Repairs] order; any they are issued with are automatically discarded before taking effect. In addition, Legio Crucius Titans may not voluntarily be issued [Shutdown] orders, although they can still receive them from Stratagems targeting them or other sources (such as weapons with the [Shock] trait).
 
 **Endless Number:** Those of Legio Crucius were vastly outnumbered, the Traitors coming in seemingly endless waves to ensure the eradication of their foe. In this mission, when a Traitor Titan or Knight Banner is destroyed, place it to one side. At the beginning of the round, before determining the First Player, the Traitor player may roll 3D10 to see how many of their reserves have reached the battlefield. They may then bring on a number of units whose total Scale is equal to or less than the number rolled. For example, if a 13 was rolled, the player could bring back a destroyed Warlord Titan (Scale 10) and a Knight Banner (Scale 3), or four Knight Banners (total Scale 12). Units returned to the table arrive fully healed of any damage they have suffered and, in the case of Knight Banners, with their full complement of models.
 
@@ -318,7 +318,7 @@ Both players have 4 points to spend on Stratagems (see the *Adeptus Titanicus* r
 
 ### Mission Special Rules
 
-**No Mercy:** Neither side wishes to spare the lives of their foe nor ask for mercy in return. During this battle, units in both forces may always be issued with Full Stride and Charge orders on a 2+, ignoring modifiers.
+**No Mercy:** Neither side wishes to spare the lives of their foe nor ask for mercy in return. During this battle, units in both forces may always be issued with Full Stride and [Charge] orders on a 2+, ignoring modifiers.
 
 ### Deployment
 

@@ -56,7 +56,7 @@ Chasm
 
 **Beast Nests:** The area holds many beast nests, home to megafauna capable of threatening even Titans. After both players have deployed their forces, players take it in turns to place a Nest marker, represented by a 32mm base or an appropriate terrain piece, anywhere on the battlefield outside of a deployment zone and more than 7" from a previously deployed Nest marker. Each player places a marker until one player chooses not to place one, after which their opponent may place one final marker (if they wish) on the battlefield. It is recommended that at least six Nest markers are placed.
 
-Any time a unit ends its movement within 3" of a Nest marker, or is activated in the Movement phase within 3" of a Nest marker, roll a D10. On a 1, 2 or 3, a Beast attacks. The unit suffers D3+1 S8 hits, as if hit by a weapon with the Rending trait. After resolving this attack, remove the Nest marker from the battlefield.
+Any time a unit ends its movement within 3" of a Nest marker, or is activated in the Movement phase within 3" of a Nest marker, roll a D10. On a 1, 2 or 3, a Beast attacks. The unit suffers D3+1 S8 hits, as if hit by a weapon with the [Rending] trait. After resolving this attack, remove the Nest marker from the battlefield.
 
 **Victory:** At the end of the battle, each player calculates the total points value of enemy units that have been destroyed; units which have not been destroyed but are Structurally Compromised or, in the case of Knight Banners, units which have lost more than half of their models, count as half their points value (rounding down) when calculating the total points value destroyed.
 

@@ -18,11 +18,9 @@ Each time a piece of Blocking terrain suffers a hit, make an Armour roll. If the
 
 ---
 
-**Designer's Note**
+**Designer's Note: Urban Carnage.**
 
-**Urban Carnage.**
-
-This Optional Rule presents the potential for some great modelling projects - imagine a dense urban battlefield where each building is modelled in both an intact and ruined version, and the lines of sight start very restricted but open up quickly as the game progresses. Combine this with the Stray Shots rule that follows and you'll get an incredibly cinematic experience!
+*This Optional Rule presents the potential for some great modelling projects - imagine a dense urban battlefield where each building is modelled in both an intact and ruined version, and the lines of sight start very restricted but open up quickly as the game progresses. Combine this with the Stray Shots rule that follows and you'll get an incredibly cinematic experience!*
 
 ---
 

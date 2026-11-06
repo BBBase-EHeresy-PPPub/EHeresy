@@ -38,6 +38,7 @@ markdown_extensions:
       base_path: includes/at2018
       auto_append:
         - tooltip_weapon_traits.md
+        - tooltip_special_rules.md
 
 validation:
   absolute_links: relative_to_docs
@@ -64,6 +65,9 @@ nav:
       - Doubles Events & Narrative Events: matched_play_guide/doubles_and_narrative_events.md
       - "Appendix: Battlegroup Allegiances": matched_play_guide/battlegroup_allegiances.md
       - Rules References: matched_play_guide/rules_references.md
+      - Engine Profiles: matched_play_guide/engine_profiles.md
+      - Additional Weapon Profiles: matched_play_guide/additional_weapon_profiles.md
+      - Defence Profiles: matched_play_guide/defence_profiles.md
   - Missions:
       - Missions: missions/index.md
       - Narrative Missions: missions/rulebook_narrative_missions.md
@@ -95,6 +99,7 @@ nav:
       - Hostile Battlefields: campaign_compendium/hostile_battlefields.md
   - Loyalist Legios:
       - Loyalist Legios: loyalist_legios/index.md
+      - Battlegroup Allegiances: loyalist_legios/allegiances.md
       - Assembling a Battlegroup: loyalist_legios/assembling_a_battlegroup.md
       - Warmaster Heavy Battle Titan: loyalist_legios/warmaster_heavy_battle_titan.md
       - Titan Maniples: loyalist_legios/titan_maniples.md
@@ -106,6 +111,7 @@ nav:
       - Stratagems: loyalist_legios/stratagems.md
   - Traitor Legios:
       - Traitor Legios: traitor_legios/index.md
+      - Battlegroup Allegiances: traitor_legios/allegiances.md
       - Assembling a Battlegroup: traitor_legios/assembling_a_battlegroup.md
       - Warmaster Iconoclast Heavy Battle Titan: traitor_legios/warmaster_iconoclast_heavy_battle_titan.md
       - Titan Maniples: traitor_legios/titan_maniples.md

@@ -147,14 +147,15 @@ In this mission, the normal turn sequence is replaced. Instead players take it i
 
 - **Fire:** The Titan can turn up to 45° and attack a chosen target as if it were the Combat phase.
 - **Move:** The Titan can move as if it was the Movement phase.
-- **Charge:** The Titan can make a Charge move, as if it was the Movement phase and they had been issued with a Charge order.
+- **Charge:** The Titan can make a Charge move, as if it was the Movement phase and they had been issued with a [Charge] order.
 - **Minor Repair:** The Titan may make a Repair roll, rolling a number of dice equal to half their number of Servitor Clades (rounding down, to a minimum of 1) and then move up to half their Movement characteristic. A Titan cannot make more than one turn during this move.
 - **Emergency Repair:** The Titan may make a Repair roll as if they had been issued the Emergency Repair order.
 
 After a Titan is activated, it may not be activated in the controlling player's next activation unless there are no other eligible friendly Titans to be activated (i.e., if a player has a Reaver Titan and a Warhound Titan and activates the Reaver during one activation, they must activate the Warhound Titan before they can activate the Reaver Titan again).
 
-!!! note "Designer's Note"
-    The changes to the turn sequence presented in this mission modifies the game play to give it a different feel from the main game. The intention is to create a mission where each action of the Titan should be carefully thought out and the wrong move can spell disaster for your Princeps. If, at any point, the change to the turn sequence creates clashes with other rules from the core system, players should discuss it between themselves about how to go forwards, rolling-off if they can't come to an agreement.
+**Designer's Note**
+
+*The changes to the turn sequence presented in this mission modifies the game play to give it a different feel from the main game. The intention is to create a mission where each action of the Titan should be carefully thought out and the wrong move can spell disaster for your Princeps. If, at any point, the change to the turn sequence creates clashes with other rules from the core system, players should discuss it between themselves about how to go forwards, rolling-off if they can't come to an agreement.*
 
 ### Deployment
 
@@ -196,7 +197,7 @@ Both players have 3 points to spend on Stratagems. Neither player may choose the
 
 ### Mission Special Rules
 
-**Defiant in Death:** The defenders of Urdessec know that they face almost certain destruction but will fight until their final breath to make their foe bleed. Whenever a Legio Damicium Titan suffers Catastrophic Damage, before rolling on the Catastrophic Damage table they may immediately make a move and a single attack with a non-disabled weapon. A Titan cannot push their reactor during the move (although they can do so when attacking with a weapon with the Draining trait). After resolving any move and attacks, roll on the Catastrophic Damage table as normal.
+**Defiant in Death:** The defenders of Urdessec know that they face almost certain destruction but will fight until their final breath to make their foe bleed. Whenever a Legio Damicium Titan suffers Catastrophic Damage, before rolling on the Catastrophic Damage table they may immediately make a move and a single attack with a non-disabled weapon. A Titan cannot push their reactor during the move (although they can do so when attacking with a weapon with the [Draining] trait). After resolving any move and attacks, roll on the Catastrophic Damage table as normal.
 
 #### Deployment
 

@@ -33,7 +33,7 @@ Each player has 3 points to spend on Stratagems (see the *Adeptus Titanicus* rul
 
 **Absorption Crystals:** The research facilities are devoted to researching the draining properties of the crystals - properties that wreak havoc on the systems of the Titans clashing around them. When a Titan within 6" of a Crystal pushes their reactor, the player must roll an additional Reactor dice and pick the least favourable result (as per the following order from least to most favourable: Awaken Machine Spirit, Increase Reactor Level by 2, Increase Reactor Level by 1, Blank). In addition, when a Titan within 6" of a Crystal is activated in the Movement phase, roll a D6; on a 4+ that Titan lowers their Void Shield level by one. If this happens, place a marker next to the Crystal, representing the power stored inside it. If a Titan's Void Shield level is already at X, increase the Reactor level by 1 instead.
 
-**Energy Discharge:** Although the crystals appear able to store energy indefinitely, they often generate localised storms that are absorbed into the surface of Kado. At the start of the Strategy phase, before any Titans are activated, roll a D6 for each Crystal that has one or more markers, adding 1 to the result for each marker beyond the first that the Crystal has. On a 6+, the Crystal unleashes an energy discharge. All units within 6" of the Crystal suffer D3, S10 hits as if attacked by a Shieldbane weapon.
+**Energy Discharge:** Although the crystals appear able to store energy indefinitely, they often generate localised storms that are absorbed into the surface of Kado. At the start of the Strategy phase, before any Titans are activated, roll a D6 for each Crystal that has one or more markers, adding 1 to the result for each marker beyond the first that the Crystal has. On a 6+, the Crystal unleashes an energy discharge. All units within 6" of the Crystal suffer D3, S10 hits as if attacked by a [Shieldbane] weapon.
 
 ### Deployment
 
@@ -87,7 +87,7 @@ The Traitor player has 2 Stratagem points to spend on any Stratagems they wish. 
 
 When a unit arrives from reserves, it can be placed anywhere within 3" of a board edge within the Traitors' deployment zone and more than 12" from the Delta Breach and activates normally that round. Titans returned to the battlefield during the same turn may be formed into maniples (as long as they meet the maniple's required components) or Squadrons.
 
-**A God Speaks:** With each passing hour the Loyalist counter-attack marches closer, accompanied by the Imperator Titan *Praeco Deictus*. During the Strategy phase of the third round, and each round after that, the Loyalist player may make a Command check for up to two of their Titans instead of issuing them Orders. If the check is passed, choose an enemy Titan that the Titan can see. The target Titan immediately suffers two S14 Hits as if hit by a weapon with the Fusion trait; the attack is presumed to be within Short Range.
+**A God Speaks:** With each passing hour the Loyalist counter-attack marches closer, accompanied by the Imperator Titan *Praeco Deictus*. During the Strategy phase of the third round, and each round after that, the Loyalist player may make a Command check for up to two of their Titans instead of issuing them Orders. If the check is passed, choose an enemy Titan that the Titan can see. The target Titan immediately suffers two S14 Hits as if hit by a weapon with the [Fusion] trait; the attack is presumed to be within Short Range.
 
 ### Deployment
 

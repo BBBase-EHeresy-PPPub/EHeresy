@@ -62,7 +62,7 @@ Note that the dice included with Adeptus Titanicus have the Opus Titanica printe
 
 **D10.** Ten-sided dice are used for certain rolls in the game, such as Command checks and Catastrophic Damage rolls. Sometimes, the rules might call for a D100. This roll is made by rolling two D10 one after the other, counting the first as tens and the second as units, to get a result between 1 and 100. For example, a roll of 5 then 6 would be a result of 56. If the first roll is a 10, count it as 0 (so a roll of 10 then 7 would be a result of 07), but if both dice roll a 10, the result is 100.
 
-**Scatter Dice.** These are marked with arrows and are used to determine random directions, most commonly when a Blast weapon is off-target (see page 38). Two of the faces show "Hit" symbols, each of which features a small arrow. Use the arrow to determine the direction unless the rules state that a Hit result does something special.
+**Scatter Dice.** These are marked with arrows and are used to determine random directions, most commonly when a [Blast] weapon is off-target (see page 38). Two of the faces show "Hit" symbols, each of which features a small arrow. Use the arrow to determine the direction unless the rules state that a Hit result does something special.
 
 **Rolling for Scatter:** The standard rule for scattering an object is as follows. Roll the Scatter Dice and a D10. If a Hit symbol is rolled, the object does not move. Otherwise, it moves in the direction shown on the Scatter dice, a number of inches equal to the result of the D10.
 
@@ -108,11 +108,9 @@ Each model in Adeptus Titanicus is mounted on a round or an oval base, which ser
 
 ---
 
-**Designer's Note**
+**Designer's Note: Marking Bases**
 
-**Marking Bases**
-
-During playtesting, some players marked the edges of their Titans' bases in 45° increments, to assist with determining arcs and making turns (as described later). It's up to you whether you do this; it will make your model look a little less realistic and more obviously like a gaming piece, but it will definitely speed things up!
+*During playtesting, some players marked the edges of their Titans' bases in 45° increments, to assist with determining arcs and making turns (as described later). It's up to you whether you do this; it will make your model look a little less realistic and more obviously like a gaming piece, but it will definitely speed things up!*
 
 ---
 

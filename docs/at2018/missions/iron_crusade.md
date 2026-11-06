@@ -4,11 +4,9 @@ This mission represents the valiant defence offered by the "Nine Paragons of Ith
 
 The opening salvo of orbital fire was both precise and deadly, laying waste to key infrastructure across the city of Ithraca and felling the *Arutan*, the vessel ploughing into the ground and carving a destructive furrow in the city below. As confusion reigned amongst the Loyalists, the Fire Masters bellowed their triumph, marching upon those True Messengers still present upon the muster fields. Unaware of the danger about to befall them, a score of Titans fell to the weapons fire of their once-allies before a response could be mounted. Were it a less disciplined Legio, it is likely that the True Messengers would have fallen that day. Instead, those of Legio Praesagius that still stood formed into a defensive position, the larger Warlords locking shields to protect those weakened by the onslaught unleashed by the advancing Fire Masters. Together, these Warlords marched to meet the assault of their new foes, offering their lives to cover the retreat of their Legio.
 
-**DESIGNER'S NOTE:**
+**Designer's Note: The Nine Paragons of Ithraca**
 
-**The Nine Paragons of Ithraca**
-
-Historically it was the Nine Warlords of Legio Praesagius that marched against the Fire Masters in order to buy time for the rest of their Legio to retreat into the streets of Ithraca. If the players wish, the Legio Praesagius player can build a battlegroup of nine Warlord Titans armed as they see fit. The Legio Suturvora player should then have a Battle Rating equal to 500 points more than the Legio Praesagius player. It should be noted that such a battle would be a large one and ideal for several players, or a gaming club, wishing for a grand affair.
+*Historically it was the Nine Warlords of Legio Praesagius that marched against the Fire Masters in order to buy time for the rest of their Legio to retreat into the streets of Ithraca. If the players wish, the Legio Praesagius player can build a battlegroup of nine Warlord Titans armed as they see fit. The Legio Suturvora player should then have a Battle Rating equal to 500 points more than the Legio Praesagius player. It should be noted that such a battle would be a large one and ideal for several players, or a gaming club, wishing for a grand affair.*
 
 ### Battlegroups
 
@@ -78,7 +76,7 @@ Both players have 2 points to spend on Stratagems (see page 64 of the *Adeptus T
 
 ### Mission Special Rules
 
-**Lurking in the Dark:** Legio Infernus used the anger held by the Loyalists towards the Fire Masters to lure the servants of the Imperium into an ambush. During deployment, the Legio Infernus player may choose to keep up to 750 points of their battlegroup to one side. From the second turn onwards, at the start of any Strategy phase, the Legio Infernus player may spring their ambush. The units are deployed within 6" of any battlefield edge and any of these Titans may be issued the First Fire order without the need to make a Command check. In addition, all of the newly deployed Titans start at Void Shield level X, and immediately increase their Void Shield level by D3, to represent them powering up their reactors quickly.
+**Lurking in the Dark:** Legio Infernus used the anger held by the Loyalists towards the Fire Masters to lure the servants of the Imperium into an ambush. During deployment, the Legio Infernus player may choose to keep up to 750 points of their battlegroup to one side. From the second turn onwards, at the start of any Strategy phase, the Legio Infernus player may spring their ambush. The units are deployed within 6" of any battlefield edge and any of these Titans may be issued the [First Fire] order without the need to make a Command check. In addition, all of the newly deployed Titans start at Void Shield level X, and immediately increase their Void Shield level by D3, to represent them powering up their reactors quickly.
 
 **Pitch Black:** This battle uses the Pitch Black environment rules described on page 221.
 
@@ -132,11 +130,11 @@ This Stratagem can be played once in each Strategy phase of the game. When this 
 
 ### Mission Special Rules
 
-**Cataclysmic Storms:** The storm-coils holding back the violent weather of Espandor have been destroyed by the ongoing firefight, unleashing the storms upon the combatants. For the duration of the battle, whenever a unit is activated roll a D6, subtracting 1 from the result if the unit is a Knight Banner. On a 1, the unit counts as having been hit by a Quake weapon for the remainder of the turn.
+**Cataclysmic Storms:** The storm-coils holding back the violent weather of Espandor have been destroyed by the ongoing firefight, unleashing the storms upon the combatants. For the duration of the battle, whenever a unit is activated roll a D6, subtracting 1 from the result if the unit is a Knight Banner. On a 1, the unit counts as having been hit by a [Quake] weapon for the remainder of the turn.
 
 **Hidden Forces:** Both sides have hidden troops amongst the confined streets of Boreaus, awaiting their moment to strike. During deployment, either player may set aside a unit of Scale 6 or lower instead of deploying it. During any Strategy phase after the second round, a hidden unit may be revealed. The unit must be deployed more than 12" from a battlefield edge and more than 6" from an enemy unit - if a unit cannot be deployed in this manner, it has been disabled by Titan Hunter Infantry units and counts as being destroyed.
 
-**Overwhelming Numbers:** It quickly became evident to the Loyalists that, no matter how much damage they did, they could not hope to win the battle and were forced to retreat lest they be overwhelmed. From the start of the third round onwards, Loyalist Titans must end their activation in the Movement phase (or Combat phase if issued the Full Stride order) closer to their battlefield edge than they started that turn, unless they are either unable to move as a result of Critical Damage or are subject to the Shutdown order.
+**Overwhelming Numbers:** It quickly became evident to the Loyalists that, no matter how much damage they did, they could not hope to win the battle and were forced to retreat lest they be overwhelmed. From the start of the third round onwards, Loyalist Titans must end their activation in the Movement phase (or Combat phase if issued the [Full Stride] order) closer to their battlefield edge than they started that turn, unless they are either unable to move as a result of Critical Damage or are subject to the [Shutdown] order.
 
 ### Deployment
 

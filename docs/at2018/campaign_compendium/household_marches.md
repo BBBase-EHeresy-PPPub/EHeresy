@@ -88,7 +88,7 @@ Units of Freeblades are added to the Household force just like Household Support
 - A Freeblade Banner consists of one Support Banner.
 - The Knights in a Support Banner can be armed in any combination.
 - A Freeblade Banner cannot join a Lance or benefit from any of the rules that apply to Banners within a Lance.
-- A Freeblade Banner cannot be given Coordinated Strike orders.
+- A Freeblade Banner cannot be given [Coordinated Strike] orders.
 - Freeblade Banners cannot be formed into Lances (see below).
 
 #### Lances
@@ -119,7 +119,7 @@ Banners in a Lance are activated as a group, i.e., at the same time. In other wo
 
 #### The Strategy Phase
 
-A Lance or an individual Banner can be issued orders in the same way as a Titan. Banners cannot be issued Damage Control or Shutdown orders. A Banner that is part of a Lance can be issued orders as part of the Lance rather than alone, as described below, and can receive a special Coordinated Strike order (see page 176), that is available only to the Banners that make up the Lances of a Household force.
+A Lance or an individual Banner can be issued orders in the same way as a Titan. Banners cannot be issued Damage Control or [Shutdown] orders. A Banner that is part of a Lance can be issued orders as part of the Lance rather than alone, as described below, and can receive a special [Coordinated Strike] order (see page 176), that is available only to the Banners that make up the Lances of a Household force.
 
 ##### Lance Orders
 
@@ -137,7 +137,7 @@ In the Movement phase, the Banners that make up a Lance are activated together a
 
 - When a Banner is activated in the Movement phase, it must move as a group, with each Knight moving up to the Banner's Speed characteristic in inches.
 - Knights are considered to have a 360° Front arc.
-- Unless acting under Charge orders, Knights can make as many turns as they wish when moving.
+- Unless acting under [Charge] orders, Knights can make as many turns as they wish when moving.
 - When a Banner has finished moving, it must form a group with every Knight within 3" of at least one other Knight within the same Banner - this is called Banner coherency. If anything causes a Banner to become split up, it must re-establish coherency the next time it moves.
 - Until Banner coherency is re-established, the Banner becomes Shaken (see page 177).
 - When all of the Banners within a Lance have finished moving, at least one Knight from each Banner must be within 6" of a Knight that is within another Banner that forms part of the same Lance - this is called Lance coherency. If anything causes a Banner to become separated from its Lance, it must re-establish coherency the next time it moves.
@@ -145,11 +145,11 @@ In the Movement phase, the Banners that make up a Lance are activated together a
 
 #### Charge Orders
 
-When a Banner of Knights moving under Charge orders activates, it does not act in the same way that a Titan would; Knights are smaller, lighter and are less able to use their momentum on a charge than a Titan. The following Charge order is for all Knight Banners and replaces the one on page 42 of the *Adeptus Titanicus* rulebook:
+When a Banner of Knights moving under [Charge] orders activates, it does not act in the same way that a Titan would; Knights are smaller, lighter and are less able to use their momentum on a charge than a Titan. The following [Charge] order is for all Knight Banners and replaces the one on page 42 of the *Adeptus Titanicus* rulebook:
 
 **Charge:** *With warhorns blaring and battlecries on their lips, the Knight pilots rush forwards, seeking to engage the foe at close quarters.*
 
-In the Movement phase, all Knights within a Banner acting under Charge orders may move up to their full Speed and are considered to have a 360° Front arc as normal, but they cannot make any turns. However, once they have finished moving, each Knight that is within range can immediately make either a Smash Attack (see page 36 of the *Adeptus Titanicus* rulebook) against units that are of the same Scale or a smaller Scale than themselves, or an attack with a weapon that has the Melee trait regardless of Scale. For each full 3" that the Banner moved before attacking, one Knight may add 1 to the Dice value of one of its weapons.
+In the Movement phase, all Knights within a Banner acting under [Charge] orders may move up to their full Speed and are considered to have a 360° Front arc as normal, but they cannot make any turns. However, once they have finished moving, each Knight that is within range can immediately make either a Smash Attack (see page 36 of the *Adeptus Titanicus* rulebook) against units that are of the same Scale or a smaller Scale than themselves, or an attack with a weapon that has the [Melee] trait regardless of Scale. For each full 3" that the Banner moved before attacking, one Knight may add 1 to the Dice value of one of its weapons.
 
 *For example, if a Banner of Questoris Knights moved 4", one Knight may add 1 to the Dice value of a single weapon. If, however, the Banner moved 6", one Knight may add 2 to the Dice value of a single weapon, or two Knights may each add 1 to the Dice value of a single weapon.*
 
@@ -165,10 +165,10 @@ Banners cannot be activated in the Damage Control phase.
 
 When a Banner is activated in the Combat phase, it follows the Combat Sequence (see page 33 of the *Adeptus Titanicus* rulebook) as if it were a Titan. However, instead of attacking with each Knight individually, make an attack with each type of weapon within the Banner in turn:
 
-- Unless acting under Coordinated Strike orders (as follows), for each weapon, multiply the Dice characteristic by the number of weapons of that type within the Banner. For example, if a Banner has two Knights armed with rapid fire battle cannon (Dice 2) it would roll four dice when attacking with the battle cannon.
+- Unless acting under [Coordinated Strike] orders (as follows), for each weapon, multiply the Dice characteristic by the number of weapons of that type within the Banner. For example, if a Banner has two Knights armed with rapid fire battle cannon (Dice 2) it would roll four dice when attacking with the battle cannon.
 - If some Knights are within 2" of the target and others are further away, roll using Ballistic Skill for those that are further away, and Weapon Skill for those that are within 2".
 
-**Line of Sight:** When determining line of sight for a Banner, Knights within the Banner do not block the view of others. Also, remember that Knights have a 360° Front arc, so their weapons can fire in any direction. All of the weapons in a Banner must be fired at the same target, unless the Banner has Split Fire orders, at which point each weapon can be directed at a different target.
+**Line of Sight:** When determining line of sight for a Banner, Knights within the Banner do not block the view of others. Also, remember that Knights have a 360° Front arc, so their weapons can fire in any direction. All of the weapons in a Banner must be fired at the same target, unless the Banner has [Split Fire] orders, at which point each weapon can be directed at a different target.
 
 **Smash Attacks:** Banners can only make Smash Attacks against other units that are of the same Scale or a smaller Scale than themselves. For example, a Banner that is Scale 4 can make Smash Attacks against a Banner that is Scale 3, but the smaller Knights cannot retaliate in kind.
 
@@ -176,12 +176,12 @@ Note that this is a change to the rule in the *Adeptus Titanicus* rulebook, intr
 
 #### Coordinated Strike Orders
 
-Knights are at their most effective when working in unison against the same target. Questoris and Cerastus Knights in particular are renowned for their prowess at operating in close formations, their rigid discipline enabling them to take on much larger foes. This is represented by the Coordinated Strike order:
+Knights are at their most effective when working in unison against the same target. Questoris and Cerastus Knights in particular are renowned for their prowess at operating in close formations, their rigid discipline enabling them to take on much larger foes. This is represented by the [Coordinated Strike] order:
 
-- When a Lance is activated during the Issue Orders step of the Strategy phase, Banners within it may be issued Coordinated Strike orders, either as a Lance order or an order issued to an individual Banner, as described previously.
-- If the Command check is successful, an Order dice is placed on the "Order" space on the Command Terminal of each Banner to receive the order. A Banner with Coordinated Strike orders is marked by using the Emergency Repairs symbol on the Order dice.
+- When a Lance is activated during the Issue Orders step of the Strategy phase, Banners within it may be issued [Coordinated Strike] orders, either as a Lance order or an order issued to an individual Banner, as described previously.
+- If the Command check is successful, an Order dice is placed on the "Order" space on the Command Terminal of each Banner to receive the order. A Banner with [Coordinated Strike] orders is marked by using the Emergency Repairs symbol on the Order dice.
 
-When a Banner with Coordinated Strike orders is activated in the Combat phase, the controlling player selects an enemy unit to be the target of the Coordinated Strike, following all of the normal rules as described in the Combat Sequence on page 33 of the *Adeptus Titanicus* rulebook. The Banner makes one attack as described below. Weapons with the Melee trait cannot be used to make this attack:
+When a Banner with [Coordinated Strike] orders is activated in the Combat phase, the controlling player selects an enemy unit to be the target of the Coordinated Strike, following all of the normal rules as described in the Combat Sequence on page 33 of the *Adeptus Titanicus* rulebook. The Banner makes one attack as described below. Weapons with the [Melee] trait cannot be used to make this attack:
 
 - When checking the Firing Solution, line of sight and distance is measured as usual for each individual Knight in the Banner. Any Knight that is within 2" of the target that does not have line of sight or that is out of range cannot participate in the Coordinated Strike.
 - When making the Hit roll, nominate one Knight within the Banner that is participating in the Coordinated Strike and roll a number of D6 equal to the Dice characteristic of the weapon being used for the attack.
@@ -189,7 +189,7 @@ When a Banner with Coordinated Strike orders is activated in the Combat phase, t
 
 *For example, a Banner of three Knights Questoris armed with avenger gatling cannon make a Coordinated Strike. All three are in range and have line of sight. The controlling player will roll 8D6, equal to the Dice characteristic of a single avenger gatling cannon. Five of these 8D6 score hits. These hits are then resolved at Strength 6 - this is the Strength of the avenger gatling cannon (3) plus 1 for each Knight that participated in the Coordinated Strike. If one of the Knights within the Banner had been unable to participate due to range or line of sight, the hits would be resolved at Strength 5.*
 
-In a Household force, the Emergency Repairs symbol on the Order dice is used to denote those Banners that have received Coordinated Strike orders.
+In a Household force, the Emergency Repairs symbol on the Order dice is used to denote those Banners that have received [Coordinated Strike] orders.
 
 #### Attacking Banners
 
@@ -268,7 +268,7 @@ When several Lances form together, the most senior of the High Scions is awarded
 
 **Warrior Elite:** The Seneschal is the mightiest warrior in the force. Knights in their Banner may re-roll Hit rolls of 1 when using their Ballistic Skill or Weapon Skill.
 
-**The Baronial Court:** Unlike other Banners that are part of a Lance in a Household force, the individual Knights within the Seneschal's Banner may be equipped differently, following the options available to a Support Banner of the same type of Knight. This allows the player to better represent the unique, elite warriors that make up the Seneschal's companions. However, if this option is taken, the Banner may not be issued with Coordinated Strike orders.
+**The Baronial Court:** Unlike other Banners that are part of a Lance in a Household force, the individual Knights within the Seneschal's Banner may be equipped differently, following the options available to a Support Banner of the same type of Knight. This allows the player to better represent the unique, elite warriors that make up the Seneschal's companions. However, if this option is taken, the Banner may not be issued with [Coordinated Strike] orders.
 
 **Noble Sacrifice:** If the Seneschal is removed as the result of a Targeted Attack, the controlling player rolls a D6. On a 6, the Seneschal is saved by the sacrifice of one of the Knights in their Banner. The controlling player chooses one other Knight in the Banner to remove instead. If the Seneschal is the last remaining model in the Banner, this rule has no effect.
 
@@ -309,7 +309,7 @@ Keen-eyed players will notice that many of the following Stratagems are similar 
 
 #### Noble Tactics
 
-**Vengeful (1):** a player can enact this Stratagem during the Strategy phase. To do so, they pick a Banner from their force which has been reduced to a single remaining Knight. This Banner immediately receives Charge orders. When it charges, the Knight may make a Smash Attack, as described on page 36 of the *Adeptus Titanicus* rulebook, resolved at Scale x2. Once this is resolved, the Knight is removed from play. At the end of the battle, the enemy gains a number of Victory points equal to half the Scale of this unit, rather than the full amount.
+**Vengeful (1):** a player can enact this Stratagem during the Strategy phase. To do so, they pick a Banner from their force which has been reduced to a single remaining Knight. This Banner immediately receives [Charge] orders. When it charges, the Knight may make a Smash Attack, as described on page 36 of the *Adeptus Titanicus* rulebook, resolved at Scale x2. Once this is resolved, the Knight is removed from play. At the end of the battle, the enemy gains a number of Victory points equal to half the Scale of this unit, rather than the full amount.
 
 **Outflank (X):** When this Stratagem is chosen, the player secretly nominates one of their Freeblade Banners. The cost of the Stratagem is equal to half of the unit's Scale, rounding up. Play this Stratagem at the start of deployment to set that unit to one side and state that it is outflanking (it is not deployed at the same time as the rest of the Household force). Write down which of the battlefield's neutral flanks it will arrive on, but do not reveal this to the opposing player. While the unit is not on the board, it cannot be activated, and so cannot be issued Orders.
 
@@ -327,7 +327,7 @@ At the start of the Movement phase of the first round, the Banner appears on lon
 
 **Orbital Lance Strike (2):** Once per battle, play this during the Strategy phase. Place the 3" Blast marker anywhere on the battlefield, then scatter it D6". Any unit touched by the marker where it eventually lands suffers D3 Strength 10 hits, or 2D3 Strength 10 hits if the central hole of the Blast marker is entirely over its base.
 
-**Smoke Screen (1):** Once per battle, play this during the Strategy phase. Pick a single Banner on the battlefield. Any attacks that target it or are made by it suffer a -2 To Hit penalty for the duration of the round. When the attack is made with a weapon that has the Melee trait, this penalty does not apply.
+**Smoke Screen (1):** Once per battle, play this during the Strategy phase. Pick a single Banner on the battlefield. Any attacks that target it or are made by it suffer a -2 To Hit penalty for the duration of the round. When the attack is made with a weapon that has the [Melee] trait, this penalty does not apply.
 
 ##### Tertiary Objectives
 
@@ -356,7 +356,7 @@ Units can move across Battlefield Assets without penalty. If the base of a Titan
 
 | Range (S) | Range (L) | Accuracy (S) | Accuracy (L) | Dice | Strength | Traits |
 |---|---|---|---|---|---:|---|
-| 30" | 120" | - | +1 | 5 | 4 | Barrage |
+| 30" | 120" | - | +1 | 5 | 4 | [Barrage] |
 
 **Command Bastion (1):** a command bastion allows the owning player to issue one more Order after they fail a Command check when issuing Orders in the Strategy phase. The Order must be issued to a unit within 18" of the command bastion. Note that this does not allow more than one Order to be issued to a unit.
 
@@ -368,7 +368,7 @@ Units can move across Battlefield Assets without penalty. If the base of a Titan
 
 | Range (S) | Range (L) | Accuracy (S) | Accuracy (L) | Dice | Strength | Traits |
 |---|---|---|---|---|---:|---|
-| 12" | 24" | - | -1 | 2 | 10 | Ordnance |
+| 12" | 24" | - | -1 | 2 | 10 | [Ordnance] |
 
 **Power Relay (1):** When the owning player activates a unit within 1" of the power relay in the Movement phase, they can declare that it will draw power from it. The unit gains +D3" of Speed.
 
@@ -511,7 +511,7 @@ Friendly Banners within 12" of this Battle Standard can re-roll any failed Comma
 
 *This is a champion's pennant, won through skill at arms on the tourney field, and a reminder to all Scions of the glory battle brings.*
 
-Friendly Knight models within 12" of this Battle Standard can re-roll Hit rolls of a 1 made with Melee weapons.
+Friendly Knight models within 12" of this Battle Standard can re-roll Hit rolls of a 1 made with [Melee] weapons.
 
 ##### Hunter's Eye Standard - 40 points
 
@@ -529,7 +529,7 @@ Friendly Banners within 12" of this Battle Standard count the first Critical Hit
 
 *The names and images of great beasts adorn this standard, each one brought low by the Knight Household, be they creatures of flesh and blood, or plasma and steel.*
 
-Friendly Knights within 12" of this Battle Standard can re-roll Armour rolls of 1 when attacking with a Melee weapon against targets with Scale 6 or higher.
+Friendly Knights within 12" of this Battle Standard can re-roll Armour rolls of 1 when attacking with a [Melee] weapon against targets with Scale 6 or higher.
 
 ##### Colours of the Castellan - 25 points
 
@@ -547,13 +547,13 @@ Friendly Banners within 12" of this Battle Standard reduce the Strength of hits 
 
 *A clenched fist over a field of broken foes, the Gauntlet Standard is all about the brutality of the charge unleashed upon the weak, their remains driven into the dirt.*
 
-When a friendly Banner ends a move made as part of a Charge order within 12" of this Battle Standard, any enemy Banners within 2" of that friendly Banner must make a Command check to see if they become Shaken, just as if they had lost a Knight. Make this check after the charging unit has moved and has been determined to be within 2", but before any attacks are rolled.
+When a friendly Banner ends a move made as part of a [Charge] order within 12" of this Battle Standard, any enemy Banners within 2" of that friendly Banner must make a Command check to see if they become Shaken, just as if they had lost a Knight. Make this check after the charging unit has moved and has been determined to be within 2", but before any attacks are rolled.
 
 #### Icon of the Emperor (Questoris Imperialis Household Force Only) - 40 Points
 
 *The Imperial Aquila is a light in the darkness wrought by the Warmaster, its spread wings bringing the promise of hope and vengeance to those loyal to the Imperium.*
 
-Friendly Questoris Imperialis Banners within 12" of this Battle Standard add 2" to their Movement characteristic while they are issued with a Full Stride order.
+Friendly Questoris Imperialis Banners within 12" of this Battle Standard add 2" to their Movement characteristic while they are issued with a [Full Stride] order.
 
 #### Mark of the Omnissiah (Questoris Mechanicus Household Force Only) - 40 Points
 
@@ -587,13 +587,13 @@ Unless otherwise stated, a Lance Standard's effects only apply to Knight Banners
 
 *When honour is done, and duty but a memory, the standard of the Household's lord counts for only one thing: a witness to the murder wrought by its Scions.*
 
-Once per game, at the start of the Strategy phase, the Knight carrying the Bloody Standard can activate it. If they do so, Knight Banners within 6" of the Lance Standard can be issued Charge orders without the need to make a Command check.
+Once per game, at the start of the Strategy phase, the Knight carrying the Bloody Standard can activate it. If they do so, Knight Banners within 6" of the Lance Standard can be issued [Charge] orders without the need to make a Command check.
 
 #### Standard of Valour - 40 Points
 
 *No matter how tall it stands, no matter how fearsome its visage, a Scion should never stray from their duty and never compromise their honour.*
 
-Once per game, at the start of the Combat phase, the Knight carrying the Standard of Valour can activate it. If they do so, Knight models within 6" of the Lance Standard can add 1 to the Dice value of a single weapon of their choice with the Melee trait for the remainder of the phase.
+Once per game, at the start of the Combat phase, the Knight carrying the Standard of Valour can activate it. If they do so, Knight models within 6" of the Lance Standard can add 1 to the Dice value of a single weapon of their choice with the [Melee] trait for the remainder of the phase.
 
 #### Standard of Defiance - 10 Points
 
@@ -637,7 +637,7 @@ Whether they have but a handful of Knight armours, or hundreds of Knights wearin
 
 Any Knight Household force can, if it chooses, upgrade its Seneschal to a High King at a cost of 50 points. High Kings count as Seneschals in regard to any rules that reference a Seneschal, with the following exceptions:
 
-- **Challenges:** a High King's own Knight must make Targeted Attacks with Melee weapons against enemy High Scions, Seneschals and other High Kings.
+- **Challenges:** a High King's own Knight must make Targeted Attacks with [Melee] weapons against enemy High Scions, Seneschals and other High Kings.
 - **Unshakable:** a High King's Banner cannot become Shaken, and ignores any effects or rules that would require it to become Shaken.
 - **Master of Battle:** Orders can be issued to a High King's Banner without the need to make a Command check during the Strategy phase, even if a friendly unit has already failed a Command check while being issued Orders in that phase. Master of Battle cannot be used in conjunction with Lance Orders.
 - **Warlord:** a High King adds 3 Stratagem points to a Knight Household instead of 2 Stratagem points.

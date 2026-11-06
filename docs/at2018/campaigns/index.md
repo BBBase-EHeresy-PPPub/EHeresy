@@ -12,11 +12,9 @@ Adeptus Titanicus is a game that lends itself to campaigns, and with a few extra
 
 Campaigns are made up of a series of linked games in which players reuse their army from one game to the next. In a campaign, players keep track of things such as the damage done to their Titans, any kills scored or special objectives completed and whether or not crews survived the battle. After each game, these details are recorded on a campaign roster, containing all of the Titans and Knight Banners at the player's disposal, and players have the opportunity to repair or refit their Titans, increase the experience of their crews or buy new units before their next game. a campaign then continues until a certain number of games have been played, one player or side has amassed a certain number of Victory points or some other objective has been met, and the victor is named!
 
-## Designer's Note
+**Designer's Note: Organising a Campaign**
 
-**Organising a Campaign**
-
-You can play a campaign with as few as two players, or as many as you like. If you play against a regular opponent, a campaign is a great way to add some more variety to your games, allowing you to link your regular games together and play out the fate of a world. If you have more than two players wishing to play a campaign - perhaps as part of a gaming club or Games Workshop store gaming night - then you might need a little more organisation. In these instances, it is useful to have a campaign organiser. This person can also be a player in the campaign, but will have the added responsibility of recording the names and Legios of those involved, and also letting the players know when they are getting together to play. If players play games outside of the club or store, the organiser also makes sure that these results are recorded.
+*You can play a campaign with as few as two players, or as many as you like. If you play against a regular opponent, a campaign is a great way to add some more variety to your games, allowing you to link your regular games together and play out the fate of a world. If you have more than two players wishing to play a campaign - perhaps as part of a gaming club or Games Workshop store gaming night - then you might need a little more organisation. In these instances, it is useful to have a campaign organiser. This person can also be a player in the campaign, but will have the added responsibility of recording the names and Legios of those involved, and also letting the players know when they are getting together to play. If players play games outside of the club or store, the organiser also makes sure that these results are recorded.*
 
 ## Choose a Titan Legion
 
@@ -26,19 +24,15 @@ At the beginning of a campaign, each player must choose a Titan Legion to repres
 
 At the start of the campaign, every player needs to decide whether they are a Loyalist or a Traitor. There is no restriction on which Legios can be either - there being many examples of largely Traitor Legios containing elements still loyal to the Emperor and vice versa. At the start of the campaign, there should be roughly equal numbers of Loyalists and Traitors. However, during the course of the campaign, players may change sides by betraying their allies.
 
-## Designer's Note
+**Designer's Note: Creating your own Titan Legions**
 
-**Creating your own Titan Legions**
+*There were hundreds of Titan Legions involved in the Horus Heresy, drawn from Forge Worlds across the Imperium, and many saw action in dozens of different warzones. Players should not feel restricted by the Legios presented thus far in Adeptus Titanicus, and are free to choose their own, either selecting one from the rich background of the Horus Heresy setting, or making up their own unique Legio. When creating your own Titan Legions for a campaign, players may either select the rules for an existing Legio - using the rules that best represent their own Legio - or, if the other players in their campaign agree, make up their own rules using those already presented as a guideline.*
 
-There were hundreds of Titan Legions involved in the Horus Heresy, drawn from Forge Worlds across the Imperium, and many saw action in dozens of different warzones. Players should not feel restricted by the Legios presented thus far in Adeptus Titanicus, and are free to choose their own, either selecting one from the rich background of the Horus Heresy setting, or making up their own unique Legio. When creating your own Titan Legions for a campaign, players may either select the rules for an existing Legio - using the rules that best represent their own Legio - or, if the other players in their campaign agree, make up their own rules using those already presented as a guideline.
+*Alternatively, a player may choose to name their Legio, but not use any special rules. In this case, they will receive bonus Stratagem points (see page 89 of the *Adeptus Titanicus* rulebook) when facing a player using Legio special rules.*
 
-Alternatively, a player may choose to name their Legio, but not use any special rules. In this case, they will receive bonus Stratagem points (see page 89 of the *Adeptus Titanicus* rulebook) when facing a player using Legio special rules.
+**Designer's Note: Betrayal!**
 
-## Designer's Note
-
-**Betrayal!**
-
-The Horus Heresy was plagued by armies and generals changing sides and turning on their allies. At any point during a campaign, a player may choose to switch sides, turning Traitor or pledging themselves to the Emperor anew. To keep things simple, players should only be allowed to do this once, and must declare their intentions to the other players or the organiser before they play their next game. If the players want, they could then play a special mission - such as adapting the Battle of Molech: Treachery and Deceit mission on page 72 of the *Adeptus Titanicus* rulebook - to represent the betrayal, during which the betrayer changes sides. a player's new allegiance only takes effect after they have played their next game - otherwise they count as their previous allegiance for such things as working out which side won the campaign. Note that if a player is the only Traitor or Loyalist in a campaign, obviously they cannot change sides!
+*The Horus Heresy was plagued by armies and generals changing sides and turning on their allies. At any point during a campaign, a player may choose to switch sides, turning Traitor or pledging themselves to the Emperor anew. To keep things simple, players should only be allowed to do this once, and must declare their intentions to the other players or the organiser before they play their next game. If the players want, they could then play a special mission - such as adapting the Battle of Molech: Treachery and Deceit mission on page 72 of the *Adeptus Titanicus* rulebook - to represent the betrayal, during which the betrayer changes sides. a player's new allegiance only takes effect after they have played their next game - otherwise they count as their previous allegiance for such things as working out which side won the campaign. Note that if a player is the only Traitor or Loyalist in a campaign, obviously they cannot change sides!*
 
 ### Choose a Mission
 

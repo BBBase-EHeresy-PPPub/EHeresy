@@ -1,12 +1,10 @@
 It takes more than weapons to win a battle. Stratagems represent the other elements that a Princeps Seniores may bring to bear when waging war, such as support from ground units, emplaced weapons, artillery strikes and unusual strategies.
 
-There are several categories of Stratagems. Each individual Stratagem costs a number of Stratagem points, as shown in brackets before its name. In Matched Play and Narrative Play, the mission that has been chosen will give each player a number of Stratagem points to spend. In Open Play, players should decide before the battle starts whether they will have access to Stratagem points, and if so, how many. Stratagems are a good way to assist an outmatched force - in Matched Play, it is generally the case that the player with the lowest Battle Rating gains a bonus Stratagem point for every 200 points of difference in ratings, so a similar system could be used in Open Play.
+(see Stratagem Points, [page 10 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#stratagem-points))
 
 ## Choosing Stratagems
 
-Immediately before forces are deployed, each player chooses their Stratagems. They spend their Stratagem points secretly, either taking cards from the Stratagem deck with the relevant total, or choosing them from the lists of Stratagems that follow and writing them down. Unless otherwise stated, each Stratagem can only be taken once.
-
-Stratagems are kept secret from the other player until they are used, at which point they are revealed.
+(see Stratagem Hand, [page 10 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#stratagem-hand))
 
 ## Tricks and Tactics
 
@@ -24,7 +22,7 @@ If a player's battlegroup contains any Squadrons (see page 45), they can choose 
 
 ### Sabotage (2)
 
-Play this Stratagem at the start of any phase. Pick an enemy unit which does not currently have Shutdown orders, remove its current order (if any), then roll an Order dice - the unit immediately takes the order shown. If it cannot be issued that order, re-roll the dice.
+Play this Stratagem at the start of any phase. Pick an enemy unit which does not currently have [Shutdown] orders, remove its current order (if any), then roll an Order dice - the unit immediately takes the order shown. If it cannot be issued that order, re-roll the dice.
 
 ### Thermal Mines (2)
 
@@ -89,11 +87,11 @@ In the "Enact Stratagems" step of the Strategy phase, the owning player can make
 
 | Range (S) | Range (L) | Accuracy (S) | Accuracy (L) | Dice | Strength | Traits |
 |---|---|---|---|---|---:|---|
-| 30" | 120" | - | +1 | 5 | 4 | Barrage |
+| 30" | 120" | - | +1 | 5 | 4 | [Barrage] |
 
 ### Plasma Generator (1)
 
-When the owning player activates a unit within 1" of the plasma generator in the Movement phase, they can declare that it will draw power instead of moving or making turns (or attacking, if it has First Fire orders). The unit does nothing when it is activated, but its Reactor level is reduced by D3.
+When the owning player activates a unit within 1" of the plasma generator in the Movement phase, they can declare that it will draw power instead of moving or making turns (or attacking, if it has [First Fire] orders). The unit does nothing when it is activated, but its Reactor level is reduced by D3.
 
 ### Communications Relay (2)
 
@@ -105,7 +103,7 @@ In the "Enact Stratagems" step of the Strategy phase, the owning player can make
 
 | Range (S) | Range (L) | Accuracy (S) | Accuracy (L) | Dice | Strength | Traits |
 |---|---|---|---|---|---:|---|
-| 12" | 24" | - | -1 | 2 | 10 | Ordnance |
+| 12" | 24" | - | -1 | 2 | 10 | [Ordnance] |
 
 ### Void Shield Relay (2)
 

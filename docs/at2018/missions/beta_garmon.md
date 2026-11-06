@@ -46,13 +46,11 @@ The Warp Runners player scores Victory points equal to the Scale of each Death's
 
 The player who scores the most Victory points claims victory.
 
-### Designer's Note
+**Designer's Note: Blinding Dust**
 
-**Blinding Dust**
+*This is an optional rule that players can use to represent the aftermath of the Traitor orbital bombardment. In the micro-gravities of Delta-Garmon II, the regolith hung above the battlefield for days, obscuring enemies and muting the blazing lights of the harvest domes.*
 
-This is an optional rule that players can use to represent the aftermath of the Traitor orbital bombardment. In the micro-gravities of Delta-Garmon II, the regolith hung above the battlefield for days, obscuring enemies and muting the blazing lights of the harvest domes.
-
-During the Strategy phase, the First Player should roll 2D10. For the duration of the round, the number rolled, plus a unit's Scale, is the distance at which it can be targeted with ranged attacks. For example, if the 2D10 roll resulted in a total of 9, then a Warlord Titan, with a Scale of 10, could be targeted up to 19" away.
+*During the Strategy phase, the First Player should roll 2D10. For the duration of the round, the number rolled, plus a unit's Scale, is the distance at which it can be targeted with ranged attacks. For example, if the 2D10 roll resulted in a total of 9, then a Warlord Titan, with a Scale of 10, could be targeted up to 19" away.*
 
 12"
 12"
@@ -187,7 +185,7 @@ Both players have an Orbital Lance Strike Stratagem (see page 64 of the *Adeptus
 
 ### Mission Special Rules
 
-**Eye of Prometheus:** Primarily a wellhead for one of the hydrogen refineries hidden within the upper layers of the gas giant, the Eye of Prometheus was studded with fuel tanks and pipelines for the refuelling of void ships. Though the armoured hull of the spire protected it from accidental detonations, those fighting on the Shipyard's hull were not so fortunate. Any weapon hitting a target within 6" of the Eye's peak (i.e., the centre of the board) gains the Blast (3") trait. If the weapon already has the Blast trait, then it generates one more Blast marker than normal.
+**Eye of Prometheus:** Primarily a wellhead for one of the hydrogen refineries hidden within the upper layers of the gas giant, the Eye of Prometheus was studded with fuel tanks and pipelines for the refuelling of void ships. Though the armoured hull of the spire protected it from accidental detonations, those fighting on the Shipyard's hull were not so fortunate. Any weapon hitting a target within 6" of the Eye's peak (i.e., the centre of the board) gains the [Blast] (3") trait. If the weapon already has the [Blast] trait, then it generates one more Blast marker than normal.
 
 **Theta Flare:** The Dark Mechanicum laid a trap for the Loyalists at Theta-Garmon V, triggering a powerful solar flare from the system's star that bathed the surrounding planets in exotic energies, blinding the auspexes of Titans and void craft. In the Enact Stratagems step of the Strategy phase of any round after the first, the Traitor player may declare that they are triggering the Theta Flare. If the flare has not been triggered by the beginning of round 4, it automatically triggers. As soon as the flare has been triggered, all Loyalist units become Blinded - Blinded units suffer a -2 penalty To Hit with ranged weapons in addition to any other penalties. However, triggering the flare also changes the victory conditions for the Loyalist player and so must be timed for greatest effect.
 
@@ -396,11 +394,9 @@ In the End phase of each round, the Traitor player scores Victory points equal t
 
 The player who scores the most Victory points claims victory.
 
-**DESIGNER'S NOTE**
+**Designer's Note: A Scream into the Void**
 
-**A Scream into the Void**
-
-The constant psychic screaming from the Diviner's Needle saturates the mountain top, clouding the minds of Princeps and making machine spirits restless. If both players feel like making this mission more challenging, they can use the rules for A Scream into the Void. This has the effect that Princeps find it more difficult to convey their orders and must roll two dice when making Command checks and choose the lower of the two results. In addition, machine spirits are more prone to rages. When rolling the Reactor dice, the blank side counts as the Awaken Machine Spirit symbol and risks awaking the machine spirit.
+*The constant psychic screaming from the Diviner's Needle saturates the mountain top, clouding the minds of Princeps and making machine spirits restless. If both players feel like making this mission more challenging, they can use the rules for A Scream into the Void. This has the effect that Princeps find it more difficult to convey their orders and must roll two dice when making Command checks and choose the lower of the two results. In addition, machine spirits are more prone to rages. When rolling the Reactor dice, the blank side counts as the Awaken Machine Spirit symbol and risks awaking the machine spirit.*
 
 Loyalist Force Deployment Zone
 12"

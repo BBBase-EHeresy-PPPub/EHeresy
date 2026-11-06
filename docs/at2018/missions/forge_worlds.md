@@ -8,7 +8,7 @@
 
 ### Mission Special Rules
 
-**Darkness:** The power supply in this section is inconsistent at best, causing the battlefield to be plunged into darkness at random intervals. At the start of the Strategy phase of each round, roll a D6. On a 1-3, the power unexpectedly shuts down. The First Player rolls 2D10 - until the end of the round, all units can only target an enemy unit with an attack within this range in inches. Blast weapons can shoot further than this (i.e., you can place a Blast marker more than 2D10" away), however if they do so, the shot automatically misses and must scatter. Titans that made one or more weapon attacks earlier in the round can be targeted, regardless of the distance an attacker can see.
+**Darkness:** The power supply in this section is inconsistent at best, causing the battlefield to be plunged into darkness at random intervals. At the start of the Strategy phase of each round, roll a D6. On a 1-3, the power unexpectedly shuts down. The First Player rolls 2D10 - until the end of the round, all units can only target an enemy unit with an attack within this range in inches. [Blast] weapons can shoot further than this (i.e., you can place a Blast marker more than 2D10" away), however if they do so, the shot automatically misses and must scatter. Titans that made one or more weapon attacks earlier in the round can be targeted, regardless of the distance an attacker can see.
 
 On a 4-6, the lights are powered and the normal rules for line of sight are followed.
 
@@ -111,7 +111,7 @@ If the attacker has a greater total Scale than the defender in the defender's de
 
 **Convoy:** The defender is attempting to escort a valuable convoy vital to the war effort through contested territory. If, at the end of each Movement phase, a defending unit is within 6" of the convoy, and no attacking units are within 3" of the convoy, the defender can move the convoy up to 6" in a straight line along the road, stopping before it collides with anything. If, during the End phase, the convoy is within 1" of the attacker's board edge it can escape and is removed from the battlefield. The convoy does not count as destroyed but takes no further part in the game.
 
-**Valuable Cargo:** The convoy is heavily shielded and carries cargo that both sides want. The convoy cannot be damaged or destroyed. In addition, no unit within 3" of the convoy can be targeted by a weapon with the Blast trait, as both sides seek to avoid damaging the cargo. If a unit within 6" of the convoy is hit by a weapon with the Blast template that missed and subsequently scattered, they are affected as normal.
+**Valuable Cargo:** The convoy is heavily shielded and carries cargo that both sides want. The convoy cannot be damaged or destroyed. In addition, no unit within 3" of the convoy can be targeted by a weapon with the [Blast] trait, as both sides seek to avoid damaging the cargo. If a unit within 6" of the convoy is hit by a weapon with the Blast template that missed and subsequently scattered, they are affected as normal.
 
 **Victory:** The battle lasts for seven rounds. If the convoy escapes, the defender is victorious. Otherwise, the attacker is victorious.
 

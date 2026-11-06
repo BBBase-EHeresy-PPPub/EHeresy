@@ -30,7 +30,7 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Range | Dice | Strength | Traits |
 |---|---:|---|:---|
-| 2" | 2 | 5 | Melee |
+| 2" | 2 | 5 | [Melee] |
 
 **Agile:** Beasts are not affected by Difficult terrain or Dangerous terrain.
 
@@ -54,7 +54,7 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Range | Dice | Strength | Traits |
 |---|---:|---|:---|
-| 8" | 2 | 4 | Rapid |
+| 8" | 2 | 4 | [Rapid] |
 
 **Agile:** Beasts are not affected by Difficult terrain or Dangerous terrain.
 
@@ -78,7 +78,7 @@ The game ends after six rounds have been played. At the end of the game, both pl
 
 | Range | Dice | Strength | Traits |
 |---|---:|---|:---|
-| 2" | 4 | 7 | Melee |
+| 2" | 4 | 7 | [Melee] |
 
 **Agile:** Beasts are not affected by Difficult terrain or Dangerous terrain.
 

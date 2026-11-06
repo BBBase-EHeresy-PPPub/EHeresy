@@ -30,13 +30,13 @@ This Trait can only be taken by a Traitor Legio. When a friendly Titan from this
 
 *Reliance on one's self is an important tenant of this Legio, favouring the use of wide-ranging vanguard Titans that can act on their own accord when separated from the larger battlegroup.*
 
-Titans from this Legio with a Scale of 7 or less add 1 to all To Hit rolls and can be issued Full Stride and First Fire orders without the need to make a Command check while there is no friendly Titan (from any Legio) within 6" of them.
+Titans from this Legio with a Scale of 7 or less add 1 to all To Hit rolls and can be issued Full Stride and [First Fire] orders without the need to make a Command check while there is no friendly Titan (from any Legio) within 6" of them.
 
 #### Legio Trait: The Path to Ascension
 
 *The Legio has broken free of the control of distant overlords, seeking instead to carve a legacy amongst the stars by the hands of their brotherhood.*
 
-This Trait can only be taken by a Blackshield Legio. Titans from this Legio may re-roll failed Command checks provided they are within 12" of two or more other friendly Titans from this Legio. In addition, Titans from this Legio can share shields with friendly Titans from this Legio that are currently under the effects of the Shutdown order as if they were in the same Squadron.
+This Trait can only be taken by a Blackshield Legio. Titans from this Legio may re-roll failed Command checks provided they are within 12" of two or more other friendly Titans from this Legio. In addition, Titans from this Legio can share shields with friendly Titans from this Legio that are currently under the effects of the [Shutdown] order as if they were in the same Squadron.
 
 #### Legion Trait: Dark Reputation
 
@@ -84,13 +84,13 @@ When one of the Legio's Titans is activated in the Combat phase, it can fire eac
 
 *Countless hours of practice on ordinatus ranges and battlefield experience in the field have given the Princeps and Moderati of the Titan Legion a keen sense of the capabilities of their Titan's weapons.*
 
-Titans fielded as part of this Legio add 2 to the result of any Command checks made when issuing a First Fire or Split Fire order.
+Titans fielded as part of this Legio add 2 to the result of any Command checks made when issuing a First Fire or [Split Fire] order.
 
 **Legio Trait: Motive Mastery**
 
 *The Princeps of the Legio have learned to wear their Titans like a second skin and can coax bursts of speed and devastating charges out of their god-engines via the constant connection of their MIU.*
 
-Titans fielded as part of this Legio add 2 to the result of any Command checks when issuing Charge or Full Stride orders.
+Titans fielded as part of this Legio add 2 to the result of any Command checks when issuing Charge or [Full Stride] orders.
 
 **Legio Trait: Noble Lineage**
 
@@ -110,7 +110,7 @@ At the start of each Strategy phase, choose a friendly Titan from this Legio wit
 
 *The Legio has always been prone to savagery, favouring Titan loadouts that allow them to deal death up close. Some Princeps takes this a step further, devoting their efforts to tearing apart a foe with claw and chainblade.*
 
-Titans from this Legio armed with one or more weapons with the Melee trait increase their Weapon Skill by 1 (to a maximum of 2+) and decrease their Ballistic Skill by 1 (to a minimum of 6+). In addition, once per round each Titan from this Legio can add 1 to the Dice value of a Smash attack or an attack with a weapon with the Melee trait made as part of a Charge order, in addition to any dice added as part of the Order.
+Titans from this Legio armed with one or more weapons with the [Melee] trait increase their Weapon Skill by 1 (to a maximum of 2+) and decrease their Ballistic Skill by 1 (to a minimum of 6+). In addition, once per round each Titan from this Legio can add 1 to the Dice value of a Smash attack or an attack with a weapon with the [Melee] trait made as part of a [Charge] order, in addition to any dice added as part of the Order.
 
 **Legio Trait: Forwards to Glory**
 
@@ -122,7 +122,7 @@ Titans from this Legio add 1 to the result of all Command checks made while they
 
 *The Legio follows a doctrine of seizing vital targets and holding the ground against the inevitable counter-attacks.*
 
-Titans from this Legio can move at full speed when Backing Up (see the *Adeptus Titanicus* rulebook). In addition, when a Titan from this Legio is attacked as part of a Charge order, it may immediately move backwards up to 3" and make a single weapon attack at the unit that attacked them. If they do this, increase the Titan's Reactor Status level by 1. Each Titan can only do this once per round. This move and attack is resolved after the effects of the Charge order and the subsequent attack have been resolved.
+Titans from this Legio can move at full speed when Backing Up (see the *Adeptus Titanicus* rulebook). In addition, when a Titan from this Legio is attacked as part of a [Charge] order, it may immediately move backwards up to 3" and make a single weapon attack at the unit that attacked them. If they do this, increase the Titan's Reactor Status level by 1. Each Titan can only do this once per round. This move and attack is resolved after the effects of the [Charge] order and the subsequent attack have been resolved.
 
 ## Legio-specific Stratagems
 
@@ -146,13 +146,13 @@ Play this Stratagem during the Strategy phase of the first round. All Titans fro
 
 *The Legio has a fearsome reputation for breaching fortifications, their Titans constantly firing as they advance into a breach, obliterating any who stand in their way.*
 
-Play this Stratagem during any Combat phase. For the remainder of the phase, any Titan from this Crusade Legio with the Full Stride order may fire one weapon during their activation. If it does so, increase its Reactor Status level by 1 in addition to any other advances associated with weapons fire.
+Play this Stratagem during any Combat phase. For the remainder of the phase, any Titan from this Crusade Legio with the [Full Stride] order may fire one weapon during their activation. If it does so, increase its Reactor Status level by 1 in addition to any other advances associated with weapons fire.
 
 #### Fuelled by Hatred (2)
 
 *A deep pitiless rage has taken root in many of the Legio's Princeps, the Horus Heresy providing them with the chance to indulge the darker aspects of their personality through constant killing and spilling of blood.*
 
-Play this Stratagem when a friendly Titan from this Crusade Legio that is issued with a Charge order destroys an enemy unit in the Movement phase due to a Melee weapon or Smash attack made as part of the Order - they may immediately make a new Charge move. The Titan can make a single turn before moving as part of this second Charge move and can move no more than 5" during it.
+Play this Stratagem when a friendly Titan from this Crusade Legio that is issued with a [Charge] order destroys an enemy unit in the Movement phase due to a [Melee] weapon or Smash attack made as part of the Order - they may immediately make a new Charge move. The Titan can make a single turn before moving as part of this second Charge move and can move no more than 5" during it.
 
 #### Target Lock (2)
 
@@ -170,13 +170,13 @@ Play this Stratagem during any Strategy phase. Any Titan from this Crusade Legio
 
 *The Legio believes a foe should never be allowed close, keeping a keen eye upon the flow of the battlefields to greet the reckless with a sudden onslaught of overwhelming firepower.*
 
-Play this Stratagem during any Movement phase, when an enemy Titan issued with a Charge order is activated. A friendly Titan from this Crusade Legio that has not been activated this phase may immediately make an attack with one of its weapons, or two if the chosen Titan is issued with the First Fire order. These attacks must be made against the activated enemy Titan and count as the chosen Titan's activation for that phase.
+Play this Stratagem during any Movement phase, when an enemy Titan issued with a [Charge] order is activated. A friendly Titan from this Crusade Legio that has not been activated this phase may immediately make an attack with one of its weapons, or two if the chosen Titan is issued with the [First Fire] order. These attacks must be made against the activated enemy Titan and count as the chosen Titan's activation for that phase.
 
 **Electromagnetic Overload (2)**
 
 *The Legio have always been known for throwing caution to the wind in favour of victory and the outbreak of conflict between Titan Legions has seen them push such direct tactics to greater heights.*
 
-Play this Stratagem during any Combat phase, when activating a friendly Titan from this Crusade Legio that has active void shields. Any unit, friend or foe, with active void shields within 3" of the activated Titan must immediately make a number of Save rolls equal to the number of remaining holes on the Titan's Void Shield status tracker, as if hit by a weapon with the Shieldbane trait. The activated Titan's Void Shield level then immediately drops to X and the Titan takes a Critical Hit to its Body. This counts as the Titan's activation this phase.
+Play this Stratagem during any Combat phase, when activating a friendly Titan from this Crusade Legio that has active void shields. Any unit, friend or foe, with active void shields within 3" of the activated Titan must immediately make a number of Save rolls equal to the number of remaining holes on the Titan's Void Shield status tracker, as if hit by a weapon with the [Shieldbane] trait. The activated Titan's Void Shield level then immediately drops to X and the Titan takes a Critical Hit to its Body. This counts as the Titan's activation this phase.
 
 **Vindictive in Death (2)**
 
@@ -262,7 +262,7 @@ Any of the Legio's Titans can be upgraded to have Crusade Banners for +15 points
 
 *Additional ammo hoppers have been built into the Titan allowing for longer bursts of sustained fire. Though well-shielded against attack, this extra ordnance can prove catastrophic should the Titan meet with a destructive end.*
 
-Any weapon with the Rapid trait equipped by a Titan from this Legio can be upgraded to have Macro Magazines for +30 points, so long as that Titan does not already have an upgrade affecting that weapon. Each weapon with the Rapid trait a Titan is armed with must be upgraded separately. Increase the Dice value of that weapon by 2. Add 2 to the result when rolling on the Catastrophic Damage table for a Titan with Macro Magazines - this effect is cumulative (i.e., a Titan with two Macro Magazines would add 4 to the result).
+Any weapon with the [Rapid] trait equipped by a Titan from this Legio can be upgraded to have Macro Magazines for +30 points, so long as that Titan does not already have an upgrade affecting that weapon. Each weapon with the [Rapid] trait a Titan is armed with must be upgraded separately. Increase the Dice value of that weapon by 2. Add 2 to the result when rolling on the Catastrophic Damage table for a Titan with Macro Magazines - this effect is cumulative (i.e., a Titan with two Macro Magazines would add 4 to the result).
 
 ##### Legio Specific Wargear: Multiple Warhead Launchers
 
@@ -298,13 +298,13 @@ Any of the Legio's Titans can be upgraded with Secondary Shield Generators for +
 
 *The War Vaults of the Legio run deep, giving them greater access to weapons considered rare amongst other Titan Legions. To facilitate the use of such resources, the Legio's Titans often bear autoloaders that feed ammunition to carapace weapons normally left untouched when they ran dry.*
 
-Any Titan that is equipped with a Limited (X) Carapace weapon can take Autoloaders for a cost equal to the base cost of the weapon +5 points. Each of the Titan's weapons must be upgraded separately. a weapon equipped with Autoloaders increases the (X) value by 1. This upgrade can be bought multiple times for the same weapon, increasing the cost to take Autoloaders by +10 points for each additional purchase, e.g., a Reaver warp missile could be upgraded twice (upgrading Limited (1) trait to a Limited (3) trait) with Autoloaders at a cost of +50 points - +15 points for the first upgrade and +25 points for the second.
+Any Titan that is equipped with a Limited (X) [Carapace] weapon can take Autoloaders for a cost equal to the base cost of the weapon +5 points. Each of the Titan's weapons must be upgraded separately. a weapon equipped with Autoloaders increases the (X) value by 1. This upgrade can be bought multiple times for the same weapon, increasing the cost to take Autoloaders by +10 points for each additional purchase, e.g., a Reaver warp missile could be upgraded twice (upgrading [Limited] (1) trait to a [Limited] (3) trait) with Autoloaders at a cost of +50 points - +15 points for the first upgrade and +25 points for the second.
 
 ##### Legio Specific Wargear: Macro Charges
 
 *The use of macro charges was a much-debated topic amongst Mechanicum Tech-Priests; though they vastly increased the destructive capability of any weapon that utilised them, they were incredibly destructive should they be damaged by return fire.*
 
-Any Titan from this Legio equipped with a Blast 3" weapon may be equipped with Macro Charges for +15 points, so long as that Titan does not already have an upgrade affecting that weapon. Each of the Titan's weapons must be upgraded separately. a weapon with Macro Charges replaces the Blast (3") trait with the Blast (5") trait. However, when a weapon equipped with Macro Charges detonates, the Strength of any hit taken is increased by 2.
+Any Titan from this Legio equipped with a Blast 3" weapon may be equipped with Macro Charges for +15 points, so long as that Titan does not already have an upgrade affecting that weapon. Each of the Titan's weapons must be upgraded separately. a weapon with Macro Charges replaces the [Blast] (3") trait with the [Blast] (5") trait. However, when a weapon equipped with Macro Charges detonates, the Strength of any hit taken is increased by 2.
 
 ##### Legio Specific Wargear: Tracking Gyroscopes
 
@@ -316,7 +316,7 @@ Any Titan from this Legio may be equipped with Tracking Gyroscopes for +10 point
 
 *The Legio is specialised in the levelling of fortifications and uses warheads carrying fusion payloads to achieve this, delivering a direct burst of intense heat to destroy the toughest armour.*
 
-Any Titan from this Legio armed with an apocalypse missile launcher or paired apocalypse missile launchers may take Fusion Missiles as an upgrade for +25 points. Each of the Titan's weapons must be upgraded separately. When firing a weapon equipped with Fusion Missiles, the player can choose to either use its normal profile, or fire using Fusion Missiles; if they do this, for the duration of the attack the weapon gains the Fusion trait and reduces its Dice value to 3 if the original Dice value is 8 or more, or to 2 if the original Dice value is 7 or less.
+Any Titan from this Legio armed with an apocalypse missile launcher or paired apocalypse missile launchers may take Fusion Missiles as an upgrade for +25 points. Each of the Titan's weapons must be upgraded separately. When firing a weapon equipped with Fusion Missiles, the player can choose to either use its normal profile, or fire using Fusion Missiles; if they do this, for the duration of the attack the weapon gains the [Fusion] trait and reduces its Dice value to 3 if the original Dice value is 8 or more, or to 2 if the original Dice value is 7 or less.
 
 ##### Legio Specific Wargear: Gravitonic Stabilisers
 
@@ -334,7 +334,7 @@ Any Titan from this Legio armed with an Apocalypse missile launcher or paired Ap
 
 *The Legio utilises an archaic piece of technology that monitors the movement of the enemy through the detection of vibrations, a process that allows their Warbringer Nemesis Titans to target unseen foes, although such an act requires complete stability from the firing Titan lest they cloud the sensors with their own movement.*
 
-Any Warbringer Nemesis Titan from this Legio can be upgraded for 5 x half the Strength of the weapon (e.g., a volcano cannon would be +30 points). The weapon gains the Barrage trait and applies only a -1 modifier rather than a -2 modifier when making attacks at targets it does not have line of sight to. The Barrage trait can only be used if the Warbringer Nemesis Titan has not moved this turn (voluntarily or involuntarily).
+Any Warbringer Nemesis Titan from this Legio can be upgraded for 5 x half the Strength of the weapon (e.g., a volcano cannon would be +30 points). The weapon gains the [Barrage] trait and applies only a -1 modifier rather than a -2 modifier when making attacks at targets it does not have line of sight to. The [Barrage] trait can only be used if the Warbringer Nemesis Titan has not moved this turn (voluntarily or involuntarily).
 
 ##### Legio Specific Wargear: Hunting Motives
 
@@ -346,10 +346,10 @@ Any Titan from this Legio of Scale 6 or lower may be equipped with Hunting Motiv
 
 *Stabilising claws have been added to the legs of the larger Titans of the Legio to aid their operation as mobile firebases. Known as Unguis Stabilisers, the claws burrow into the ground, allowing the Titan to unleash a constant stream of firepower while remaining steady.*
 
-Any Titan from this Legio with a Scale of 9 or greater may be equipped with Unguis Stabilisers for +20 points. When activated in the Strategy phase, a Titan with this upgrade may deploy their Unguis Stabilisers. If they do so, until the end of the round they may be issued a First Fire order or Split Fire order without the need to make a Command check. However, they may not move or make turns, voluntarily or otherwise for the remainder of the round (e.g., by Critical Damage effects, Stratagems, the Concussive weapon trait, etc.).
+Any Titan from this Legio with a Scale of 9 or greater may be equipped with Unguis Stabilisers for +20 points. When activated in the Strategy phase, a Titan with this upgrade may deploy their Unguis Stabilisers. If they do so, until the end of the round they may be issued a [First Fire] order or [Split Fire] order without the need to make a Command check. However, they may not move or make turns, voluntarily or otherwise for the remainder of the round (e.g., by Critical Damage effects, Stratagems, the [Concussive] weapon trait, etc.).
 
 ##### Legio Specific Wargear: Vox Screech
 
 *Terror is a weapon the Legio knows well, employing the use of carefully constructed mechanical screams that assail the senses of the unprotected, disorientating their systems and overriding most methods of communication.*
 
-A Titan from this Legio may be equipped with a Vox Screech for +30 points. Once per game, when a Titan with this upgrade is activated during the Movement phase they may issue a Vox Screech. Any Titan within 6" of a Titan that issued a Vox Screech discards any Orders that it had issued, unless that Order was an Emergency Repairs order. This counts as the activating Titan's activation for that phase. Friendly Titans from this Legio are not affected by a Vox Screech.
+A Titan from this Legio may be equipped with a Vox Screech for +30 points. Once per game, when a Titan with this upgrade is activated during the Movement phase they may issue a Vox Screech. Any Titan within 6" of a Titan that issued a Vox Screech discards any Orders that it had issued, unless that Order was an [Emergency Repairs] order. This counts as the activating Titan's activation for that phase. Friendly Titans from this Legio are not affected by a Vox Screech.

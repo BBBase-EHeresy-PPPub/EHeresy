@@ -68,7 +68,7 @@ Both players have 2 Stratagem points to spend on any Stratagems they wish. The T
 
 **Punishing Assault:** The Tiger Eyes have been lured into the path of the advancing Warp Runners through a series of diversionary attacks, leaving them vulnerable to a surprise thrust by the Loyalist forces. At the start of the first round, after determining the First Player but before any Titan is activated, roll a Command check for each of the Tiger Eyes Titans, subtracting 2 from the result. If the check is failed, the Titan can only be activated in the Movement or Combat phase of the first round, not both. In addition, no Tiger Eyes Titan can be issued an Order during the Strategy phase of the first round.
 
-**Lava Rivers:** Rivers of lava cross the Yrevendi Desert, presenting a danger even to a massive Titan. When setting up the battlefield, players should clearly designate which parts of the battlefield are Lava Rivers. Lava Rivers count as Dangerous Terrain. In addition, if a Titan moves into a Lava River involuntarily, for example due to the Concussive trait, roll a D6. On a 5+ the Titan rights itself before falling into the lava and nothing else happens. On a 1-4, the Titan counts as having moved into Deadly Terrain.
+**Lava Rivers:** Rivers of lava cross the Yrevendi Desert, presenting a danger even to a massive Titan. When setting up the battlefield, players should clearly designate which parts of the battlefield are Lava Rivers. Lava Rivers count as Dangerous Terrain. In addition, if a Titan moves into a Lava River involuntarily, for example due to the [Concussive] trait, roll a D6. On a 5+ the Titan rights itself before falling into the lava and nothing else happens. On a 1-4, the Titan counts as having moved into Deadly Terrain.
 
 ### Deployment
 
@@ -187,4 +187,4 @@ At the end of the battle, if less than half of the Loyalists' Warmaster Titans h
 
 If all players agree, this card can be added to an existing Open Engine War deck or used on its own. At the start of each Strategy phase, the First Player rolls a D10. Until the end of the round, the Long range characteristic of all weapons is reduced by a number of inches equal to the number rolled, to a minimum of the weapon's Short range.
 
-In addition, each player, starting with the player who is not the First Player, may place a 5" Blast marker anywhere on the battlefield and Scatter it D10 inches. Any model at least partially under the template suffers D3 Strength 7 Hits, as if hit by a weapon with the Ordnance trait.
+In addition, each player, starting with the player who is not the First Player, may place a 5" Blast marker anywhere on the battlefield and Scatter it D10 inches. Any model at least partially under the template suffers D3 Strength 7 Hits, as if hit by a weapon with the [Ordnance] trait.

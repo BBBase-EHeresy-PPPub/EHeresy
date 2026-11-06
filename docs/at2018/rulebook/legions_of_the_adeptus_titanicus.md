@@ -1,8 +1,8 @@
 Each of the Titan Legions of the Adeptus Titanicus has its own unique history, replete with proud traditions and tales of glory on battlefields across the galaxy. From the ancient Legio Mortis, which long served as the personal guard of the Fabricator-General of Mars, to the Legio Nivalis, whose Titans specialise in battles across frozen plains - each has its own way of waging war.
 
-When assembling a battlegroup, a player can declare that any of the Titans in their force are part of a particular Titan Legion. Maniples must all be made up of members of the same Titan Legion, but they can be reinforced by members of another - for example, a force could consist of a Legio Gryphonicus maniple, reinforced by a Legio Atarus Warlord and a pair of Legio Defensor Warhounds. The rules for two Titan Legions are provided on the following pages - these are the Legio Gryphonicus and Legio Tempestus, and more will be provided in ongoing supplements. For each set of Titan Legion rules that are part of a battlegroup, the opposing player gains 2 bonus Stratagem points. For example, if a battlegroup is made up of a Legio Tempestus maniple with two Legio Gryphonicus Warhounds as reinforcements, the opposing player would gain 4 bonus Stratagem points.
+(see Titan Legion Rules, [page 9 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#titan-legion-rules))
 
-Knight units cannot belong to a Titan Legion. Instead, they belong to their own Houses, which will be covered in a later supplement.
+(see Knight Household Rules, [page 9 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#knight-household-rules))
 
 ## Legio Gryphonicus
 

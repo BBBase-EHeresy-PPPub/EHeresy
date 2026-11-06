@@ -20,7 +20,7 @@ ThisStratagem can be purchased by any Traitor player. Play this Stratagem in the
 
 ### Stratagem: Bloodthirst (1)
 
-ThisStratagem can be purchased by any Traitor player. Play this Stratagem in any Strategy phase. For the duration of the round, the player's Titans add 2 to any To Hit rolls made against enemies within 2" of them. In addition, the player's Titans add 2 to their Command checks when attempting to issue the Charge order.
+ThisStratagem can be purchased by any Traitor player. Play this Stratagem in any Strategy phase. For the duration of the round, the player's Titans add 2 to any To Hit rolls made against enemies within 2" of them. In addition, the player's Titans add 2 to their Command checks when attempting to issue the [Charge] order.
 
 ### Stratagem: Living Armour (3)
 
@@ -32,7 +32,7 @@ ThisStratagem can be purchased by any Traitor player. Play this Stratagem in any
 
 ### Stratagem: War Lust (2)
 
-ThisStratagem can be purchased by any Traitor player. Play this Stratagem in any Strategy phase. For the duration of the round, the player's Titans add 2" to their Boosted Speed characteristic. In addition, the player's Titans add 2 to their Command checks when attempting to issue the Full Stride order.
+ThisStratagem can be purchased by any Traitor player. Play this Stratagem in any Strategy phase. For the duration of the round, the player's Titans add 2" to their Boosted Speed characteristic. In addition, the player's Titans add 2 to their Command checks when attempting to issue the [Full Stride] order.
 
 ### Stratagem: Noble Sacrifice (1)
 
@@ -48,7 +48,7 @@ If a player's battlegroup contains any Squadrons, they can choose this Stratagem
 
 ### Stratagem: Sabotage (2)
 
-Play this Stratagem at the start of any phase. Pick an enemy unit which does not currently have Shutdown orders, remove its current Order (if any), then roll an Order dice - the unit immediately takes the Order shown. If it cannot be issued that Order, only its current Order is removed - no new Order is given.
+Play this Stratagem at the start of any phase. Pick an enemy unit which does not currently have [Shutdown] orders, remove its current Order (if any), then roll an Order dice - the unit immediately takes the Order shown. If it cannot be issued that Order, only its current Order is removed - no new Order is given.
 
 ### Stratagem: ThermalMines (2)
 
@@ -60,7 +60,7 @@ Play this Stratagem immediately after an enemy unit with active void shields fin
 
 ### Stratagem: Experimental Weapon (2)
 
-Play this Stratagem in the first Strategy phase of the game. The player chooses one of their Titans and places a marker next to its Command Terminal. Then,randomly choose one of the Titan's weapons. For the duration of this battle, the selected weapon gains the Maximal Fire trait, though must always declare that it is using this Trait each time it fires. If the weapon already has the Maximal Fire trait, select another weapon.
+Play this Stratagem in the first Strategy phase of the game. The player chooses one of their Titans and places a marker next to its Command Terminal. Then,randomly choose one of the Titan's weapons. For the duration of this battle, the selected weapon gains the [Maximal Fire] trait, though must always declare that it is using this Trait each time it fires. If the weapon already has the [Maximal Fire] trait, select another weapon.
 
 ### Stratagem: Dawn Attack (3)
 
@@ -72,7 +72,7 @@ Play this Stratagem in the first Strategy phase of the game. The battlefield is 
 
 ### Stratagem: Vox Blackout (3)
 
-Play this Stratagem in any Strategy phase. TheStrategy phase immediately ends and all Orders are removed, with the exception of Shutdown orders.
+Play this Stratagem in any Strategy phase. TheStrategy phase immediately ends and all Orders are removed, with the exception of [Shutdown] orders.
 
 ### Stratagem: Auspex Bafflers(2)
 
@@ -84,7 +84,7 @@ Play this Stratagem in any Strategy phase. Theplayer chooses one of their Titans
 
 ### Stratagem: Overcharged Cannon (2)
 
-Play this Stratagem in the first Strategy phase of the game. Theplayer chooses one of their Titans armed with a weapon with the Maximal Fire trait. Place a marker next to the Titan's Command Terminal and select one of its weapons with the Maximal Fire trait. Until the end of the battle, the Titan can fire this weapon on Super Maximal Fire. Thisworks in exactly the same way as the Maximal Fire trait, except that the weapon's Strength is increased by 4 instead of 2.
+Play this Stratagem in the first Strategy phase of the game. Theplayer chooses one of their Titans armed with a weapon with the [Maximal Fire] trait. Place a marker next to the Titan's Command Terminal and select one of its weapons with the [Maximal Fire] trait. Until the end of the battle, the Titan can fire this weapon on Super Maximal Fire. Thisworks in exactly the same way as the [Maximal Fire] trait, except that the weapon's Strength is increased by 4 instead of 2.
 
 ### Stratagem: Strafing Run (2)
 
@@ -112,7 +112,7 @@ Play this during any Strategy phase. Place a marker anywhere on the battlefield 
 
 ### Stratagem: Dusk Attack (2)
 
-Play this Stratagem in the first Strategy phase of the game. During the End phase of Turn 3, the First Player must roll (D6+1) x5 to determine how many inches every unit on the battlefield can see for the remainder of the battle - only enemies within this range can be targeted by an attack. Units that have made an attack with a weapon without the Melee trait previously in a round can be targeted, regardless of the distance a unit can see.
+Play this Stratagem in the first Strategy phase of the game. During the End phase of Turn 3, the First Player must roll (D6+1) x5 to determine how many inches every unit on the battlefield can see for the remainder of the battle - only enemies within this range can be targeted by an attack. Units that have made an attack with a weapon without the [Melee] trait previously in a round can be targeted, regardless of the distance a unit can see.
 
 ### Stratagem: False Intel (1)
 
@@ -124,7 +124,7 @@ Play this Stratagem when activating a friendly Titan in the Combat phase. If the
 
 ### Stratagem: Partial Shutdown (1)
 
-Play this Stratagem at the start of any Movement phase. Choose a friendly Titan to initiate Partial Shutdown. Thechosen Titan is immediately issued Shutdown orders, replacing any Order previously given. Thevoid shields of a Titan that has initiated a Partial Shutdown do not collapse. In addition, a Titan issued Shutdown orders as part of Partial Shutdown Stratagem reduces its Reactor level by 1 instead of 2 during the Damage Control phase and Reactor rolls can be made for the Titan if forced to do so. Barring these exceptions, a Partially Shutdown Titan follows all other normal rules for the Shutdown order as described in the Adeptus Titanicus rulebook until the Shutdown orders issued by this Stratagem are discarded.
+Play this Stratagem at the start of any Movement phase. Choose a friendly Titan to initiate Partial Shutdown. Thechosen Titan is immediately issued [Shutdown] orders, replacing any Order previously given. Thevoid shields of a Titan that has initiated a Partial Shutdown do not collapse. In addition, a Titan issued [Shutdown] orders as part of Partial Shutdown Stratagem reduces its Reactor level by 1 instead of 2 during the Damage Control phase and Reactor rolls can be made for the Titan if forced to do so. Barring these exceptions, a Partially Shutdown Titan follows all other normal rules for the [Shutdown] order as described in the Adeptus Titanicus rulebook until the [Shutdown] orders issued by this Stratagem are discarded.
 
 ### Stratagem: Tactical Assessment (2)
 
@@ -134,7 +134,7 @@ Play this at the end of the deployment phase, before rolling to see who is the F
 
 Play this Stratagem when a friendly Titan falls due to the Laid Low or Wild Fire Catastrophic Damage effect. Thecontrolling player may choose the direction the Titan falls, rather than determining it by rolling a Scatter dice. If, for whatever reason, both players are allowed to choose the direction the Titan falls, randomly determine the direction as normal and discard this Stratagem.
 
-WARP TRICKERY STRATAGEMS Stratagem: Localised Warp Storm (3) ThisStratagem can be purchased by any Traitor player. Play this Stratagem in any Strategy phase. Place the 3" Blast marker anywhere on the battlefield, then scatter it D10". Any unit touched by the marker after it has scattered takes D3 Hits as if attacked by a Warp weapon that has successfully hit.
+WARP TRICKERY STRATAGEMS Stratagem: Localised Warp Storm (3) ThisStratagem can be purchased by any Traitor player. Play this Stratagem in any Strategy phase. Place the 3" Blast marker anywhere on the battlefield, then scatter it D10". Any unit touched by the marker after it has scattered takes D3 Hits as if attacked by a [Warp] weapon that has successfully hit.
 
 ### Stratagem: Warp Displacement (2)
 
@@ -164,7 +164,7 @@ Play this Stratagem in the first Strategy phase of the game. Theplayer chooses t
 
 ### Stratagem: Augmented Servitor Clades (2)
 
-Play this Stratagem during the first Strategy phase of the game. Theplayer chooses one of their Titans to have a Senior Enginseer aboard. Increase the Servitor Clades of that Titan by 1 during each Damage Control phase for the remainder of the battle. Note, this does not affect Repair rolls made as part of the Emergency Repairs order.
+Play this Stratagem during the first Strategy phase of the game. Theplayer chooses one of their Titans to have a Senior Enginseer aboard. Increase the Servitor Clades of that Titan by 1 during each Damage Control phase for the remainder of the battle. Note, this does not affect Repair rolls made as part of the [Emergency Repairs] order.
 
 ### Stratagem: Veteran Princeps (1)
 
@@ -172,17 +172,17 @@ When this Stratagem is chosen, the player chooses one of their Titans that is no
 
 ### Stratagem: Shock Mines (3)
 
-Play this Stratagem immediately after an enemy Titan has finished moving or making a turn. Thatunit suffers D3 S5 hits to its Legs. Shield saves cannot be made against these hits. If that unit suffers any Direct, Devastating or Critical Hits from this Stratagem, the unit discards any Order it has and is immediately issued a Shutdown order. ThisShutdown order is removed in the End phase of that round.
+Play this Stratagem immediately after an enemy Titan has finished moving or making a turn. Thatunit suffers D3 S5 hits to its Legs. Shield saves cannot be made against these hits. If that unit suffers any Direct, Devastating or Critical Hits from this Stratagem, the unit discards any Order it has and is immediately issued a [Shutdown] order. ThisShutdown order is removed in the End phase of that round.
 
 ### Stratagem: Tracer Cloud (1)
 
 Play this Stratagem at the start of any Strategy phase. Place the 5" Blast marker anywhere on the battlefield. A player may re- roll Hit rolls for attacks made against any unit underneath the marker. Remove the Blast marker at the end of the round.
 
-EXPERIMENTAL WARFARE STRATAGEMS Stratagem: Homing Warheads (2) Play this Stratagem in the first Strategy phase of the game. The player chooses one of their Titans armed with an Apocalypse missile launcher or paired Apocalypse missile launchers, so long as that Titan does not already have an upgrade affecting that weapon. Subtract 3 from the Dice Value of the weapon (to a minimum of 1). For the remainder of the game, attacks with that weapon do not suffer negative modifiers when attacking an obscured target or when attacking a target out of line of sight via the Barrage trait.
+EXPERIMENTAL WARFARE STRATAGEMS Stratagem: Homing Warheads (2) Play this Stratagem in the first Strategy phase of the game. The player chooses one of their Titans armed with an Apocalypse missile launcher or paired Apocalypse missile launchers, so long as that Titan does not already have an upgrade affecting that weapon. Subtract 3 from the Dice Value of the weapon (to a minimum of 1). For the remainder of the game, attacks with that weapon do not suffer negative modifiers when attacking an obscured target or when attacking a target out of line of sight via the [Barrage] trait.
 
 ### Stratagem: Enhanced Coolant (2)
 
-Play this Stratagem during any Strategy phase. Theplayer chooses one of their Titans; for the remainder of the game, roll a D6 each time that Titan would increase its Reactor level. On a 5+, increase the Reactor level by one less hole than normal, to a minimum of zero holes (e.g., if two symbols were rolled on the Reactor Dice, a 5+ would increase the Reactor level by one, not two). If an effect results in multiple increases, such as rolling multiple 1s while using the Maximal Fire trait, roll individually for each increase.
+Play this Stratagem during any Strategy phase. Theplayer chooses one of their Titans; for the remainder of the game, roll a D6 each time that Titan would increase its Reactor level. On a 5+, increase the Reactor level by one less hole than normal, to a minimum of zero holes (e.g., if two symbols were rolled on the Reactor Dice, a 5+ would increase the Reactor level by one, not two). If an effect results in multiple increases, such as rolling multiple 1s while using the [Maximal Fire] trait, roll individually for each increase.
 
 ### Stratagem: Redundant Systems (2)
 

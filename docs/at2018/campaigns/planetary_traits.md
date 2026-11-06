@@ -30,7 +30,7 @@ A player can benefit from multiple Dedicated Production Planetary Traits, so lon
 
 ### Armoury World
 
-**Additional Supplies (Passive)** - *Thanks to expansive warehouses or underground complexes, this world holds greater numbers of weapons that remain rare elsewhere in the galaxy.* While controlling this planet, Limited weapons can be used an additional time during a battle, i.e., a Limited (1) weapon would become a Limited (2) weapon.
+**Additional Supplies (Passive)** - *Thanks to expansive warehouses or underground complexes, this world holds greater numbers of weapons that remain rare elsewhere in the galaxy.* While controlling this planet, [Limited] weapons can be used an additional time during a battle, i.e., a [Limited] (1) weapon would become a [Limited] (2) weapon.
 
 **Portable Bulwark (Active)** - *The world stores prefabricated military structures capable of rapid deployment upon the battlefield.* When controlling this world, the controlling player gains an additional 3 Stratagem points each battle - these must be spent on Ground Assets.
 

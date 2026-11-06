@@ -1,14 +1,6 @@
-In conventional battles, the presence of a lone Titan - even a Scout class such as a Warhound - can be sufficient to guarantee victory. However, when Titans go to war en masse, they are formed into ad hoc groups, operating together under the command of their most senior Princeps for the duration of a campaign.
-
-When playing Adeptus Titanicus, all of the units under a player's command are referred to as their "battlegroup". This is a loosely defined term which encompasses maniples of Titans, individual Titans acting as reinforcements and any attached support units, such as Banners of Knights from allied Houses.
-
 ## Assembling a Battlegroup
 
-In Open Play (see page 66), assembling a battlegroup is as simple as deciding which miniatures from your collection you wish to use, taking a Command Terminal for each one and getting the battle started. In Matched Play (see page 84) and Narrative Play (see page 67), the rules for assembling a battlegroup are a little more restricted. In either of these play modes, a battlegroup must consist of at least one maniple, made up of 3-5 Titans as follows, plus any number of reinforcement units. Each unit (whether it is part of a maniple or chosen as reinforcements) has a points cost, which is made up of the unit's base cost plus the cost of any weapons and upgrades it takes. The total points cost of all of a battlegroup's units is referred to as the battlegroup's "Battle Rating".
-
-**Battlegroup Roster.** Players should record the details of their battlegroup on a Battlegroup roster, which could be a piece of paper, an online document or anything similar. This should include which maniple they are using, which Titans are in the maniple, any reinforcement units, and the weapon loadout of each unit in the battlegroup. It should also include the battlegroup's Battle Rating, as described above.
-
----
+(see Building a Battlegroup, [page 7 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#building-a-battlegroup))
 
 **Weapon Cards.** Each of a Titan's weapons is represented by a double-sided Weapon card, which shows all of its rules and tracks whether it is active or disabled. The Titan's Command Terminal has a Weapon card slot for each of its weapons, each of which must be filled when assembling a battlegroup as described on page 53. The Adeptus Titanicus boxed game contains a number of Weapon cards, and others will be made available separately.
 
@@ -34,13 +26,13 @@ As well as the maniple, a battlegroup can include additional reinforcements. The
 
 **Additional Titans.** In times of need, a maniple can be reinforced by additional Titans, which may be seconded from another maniple or from the wider Legio. These Titans offer their support, and defer to the Princeps Seniores, usually for the duration of a single mission.
 
-A battlegroup can contain any number of additional Titans, other than those in the maniple. These Titans add to the battlegroup's Battle Rating as normal, but do not count as part of the maniple for the purposes of any Maniple traits. Players should ensure that it is made clear to their opponent at the start of the battle which of their Titans are part of their maniple, and which are reinforcements.
+(see Legio Battlegroup, [page 8 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#legio-battlegroup)) Reinforcement Titans do not count as part of the maniple for the purposes of any Maniple traits. Players should make clear which Titans are part of a maniple and which are Reinforcements.
 
 Note that Titans that are reinforcements cannot be part of a Squadron with Titans that are part of a maniple, and vice versa.
 
 **Household Support.** Maniples are often accompanied to war by Banners of Knights, which use their speed and agility to scout ahead or secure battlefield objectives, broadening the strategic options available to the Princeps Seniores.
 
-A battlegroup can contain any number of Household Support elements, such as the Questoris Support Banner. Their points values are added to the battlegroup's Battle Rating as normal.
+(see Legio Battlegroup, [page 8 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#legio-battlegroup))
 
 ### The Princeps Seniores
 
@@ -50,7 +42,7 @@ After assembling their battlegroup, the player should pick one Titan in their ma
 
 **Orders.** Add 2 to the result of any Command checks made when issuing an order to the Princeps Seniores' Titan.
 
-**Personal Traits.** Each Princeps Seniores has a Personal trait, which is in effect for as long as they are on the battlefield. Immediately before deploying their force, each player should roll a D6 on the table to the right to see what their trait is. If both players agree then they can each pick a Personal Trait instead of rolling a D6.
+**Personal Traits.** Each Princeps Seniores has a Personal trait, which is in effect for as long as they are on the battlefield. (see Battlegroup Leader, [page 10 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#battlegroup-leader))
 
 | D6 | PERSONAL TRAIT |
 |---|---|

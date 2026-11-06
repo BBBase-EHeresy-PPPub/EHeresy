@@ -35,7 +35,7 @@ BASE MUTATIONS When a Titan is designated as a Corrupted Titan, it must purchase
 
 Preternatural Grace: A Titan may be upgraded with this Base Mutation for +20 points. Once per round, a Titan with this mutation can declare Power to Locomotors! or Power to Stabilisers! without pushing its reactor.
 
-Overwhelming Rage: A Titan may be upgraded with this Base Mutation for +15 points. A Titan with this mutation adds 1 to the Dice value of any weapons with the Melee trait (including Smash Attacks) that it is armed with. In addition, a Titan with this mutation may be issued a Charge order without the need to make a Command check.
+Overwhelming Rage: A Titan may be upgraded with this Base Mutation for +15 points. A Titan with this mutation adds 1 to the Dice value of any weapons with the [Melee] trait (including Smash Attacks) that it is armed with. In addition, a Titan with this mutation may be issued a [Charge] order without the need to make a Command check.
 
 Warp Conduit: A Titan may be upgraded with this Base Mutation for +20 points. Once per game, during the Combat phase, a Titan with this mutation may conjure an Aetheric Tempest. If they do so, choose a unit within 12" of the Titan - the chosen unit can be a different unit to one chosen as a target of the Titan's weapon but must be within the Titan's Front arc and within its line of sight. Thatunit suffers a single S10 hit against a location of your choice, ignoring Void and Ion Shields.
 
@@ -53,13 +53,13 @@ UNIT SCALE MAXIMUM NUMBER OF ADDITIONAL MUTATIONS 5 or less 1 6-8 2 9-10 3 11+ 4
 
 A Corrupted Titan's Base Mutation does not count as one of their maximum allowed Additional Mutations. Unless stated otherwise, a Corrupted Titan cannot take the same mutation more than once.
 
-Writhing Carapace: Any Corrupted Titan may be upgraded with the Writhing Carapace mutation for +15 points. Once per turn, at the start of the Strategy phase, a Titan with this mutation can replace their Carapace weapon for a different Carapace weapon their Titan class has access to of equal or lesser points value than their starting weapon. Thiscounts as that Titan's activation for that Phase. Writhing Carapace is not an Order and can still be used even if the Strategy phase ends early, for example due to the Vox Blackout Stratagem. Thismutation has no effect while the Carapace weapon is disabled.
+Writhing Carapace: Any Corrupted Titan may be upgraded with the Writhing Carapace mutation for +15 points. Once per turn, at the start of the Strategy phase, a Titan with this mutation can replace their [Carapace] weapon for a different [Carapace] weapon their Titan class has access to of equal or lesser points value than their starting weapon. Thiscounts as that Titan's activation for that Phase. Writhing Carapace is not an Order and can still be used even if the Strategy phase ends early, for example due to the Vox Blackout Stratagem. Thismutation has no effect while the [Carapace] weapon is disabled.
 
 Daemonic Bile: Any Corrupted Titan may be upgraded with the Daemonic Bile mutation for +15 points. Once per round, during the Combat phase, a Titan with this mutation can spew Daemonic Bile. Daemonic Bile counts as an additional weapon and follows the rules for attacking as normal (see page 33 of the Adeptus Titanicus rulebook). Daemonic Bile has a Short Range of T,Long Range of -, Dice value of D3, S5 and the Firestorm and Fusion traits. Thismutation cannot be used if the Titan has suffered Critical Damage to its head. Daemonic Bile is unaffected by Titan Legion rules (such as the Legio Infernus' Masters of Flame trait), Maniple rules (such as the Ignus Light Maniple) and cannot be upgraded with Wargear (such as the Legio Infernus' Clinging Phosphex).
 
 Daemonic Ichor: Any Corrupted Titan may be upgraded with the Daemonic Ichor mutation for +10 points. When a Titan with this mutation suffers Catastrophic Damage, add 2 to its Scale when resolving a Magazine Detonation or Catastrophic Meltdown.
 
-Chitinous Carapace: Any Corrupted Titan may be upgraded with the Chitinous Carapace mutation for +20 points. When a Titan with this mutation is hit in the Body or Carapace weapon by an attack, subtract 2 from the Armour roll. A Titan with this mutation cannot declare Power to Locomotors!
+Chitinous Carapace: Any Corrupted Titan may be upgraded with the Chitinous Carapace mutation for +20 points. When a Titan with this mutation is hit in the Body or [Carapace] weapon by an attack, subtract 2 from the Armour roll. A Titan with this mutation cannot declare Power to Locomotors!
 
 Empyrean Shroud: A Corrupted Titan with the Corrupting Presence or Warp Conduit Base Mutation may be upgraded with the Empyrean Shroud mutation for +20 points. Subtract 1 from the result of any Hit roll for attacks made against a Titan with this mutation. If a unit attacking a Titan with this mutation is within a number of inches equal to the Scale of the target Titan (i.e., for a Warlord it would be 10", a Reaver 8" etc.), the Empyrean Shroud ability has no effect.
 
@@ -73,7 +73,7 @@ If a Legio Mordaxis Titan takes this mutation, the above effects do not apply. I
 
 Immaterial Shield: A Corrupted Titan with the Preternatural Grace Base Mutation may be upgraded with the Immaterial Shield mutation for +25 points. Subtract 1 from all Hit rolls for attacks made against a Titan with this mutation while the Titan has active void shields. In addition, a Titan with this mutation gains a 5+ Shield save against attacks that normally bypass void shields, so long as the Titan has active void shields when attacked. If a unit targeting a Titan with this mutation is within 2" of this Titan, the Immaterial Shield mutation has no effect.
 
-Aura of Fury: A Corrupted Titan with the Overwhelming Rage Base Mutation may be upgraded with the Aura of Fury mutation for +15 points. During the Strategy phase, if any unit within 12" of one or more Titans with this mutation is issued with an Order other than a Charge order it must make a Command check - this is done before the effects of the Order are resolved.
+Aura of Fury: A Corrupted Titan with the Overwhelming Rage Base Mutation may be upgraded with the Aura of Fury mutation for +15 points. During the Strategy phase, if any unit within 12" of one or more Titans with this mutation is issued with an Order other than a [Charge] order it must make a Command check - this is done before the effects of the Order are resolved.
 
 If the check is failed, and the unit is a Titan, increase the Titan's reactor level by 1, or by 2 if the check was failed by 3 or more. If the check is failed and the unit is a Knight Banner, it immediately becomes Shaken. Units with the Overwhelming Rage Base Mutation are not affected by this mutation.
 

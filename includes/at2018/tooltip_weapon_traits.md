@@ -1,7 +1,7 @@
 [Barrage]: /rulebook/basic_rules.md#barrage
-[Blast]: /rulebook/basic_rules.md#blast-35
+[Blast]: /matched_play_guide/rules_references.md#blast-35
 [Carapace]: /rulebook/basic_rules.md#carapace
-[Concussive]: /rulebook/basic_rules.md#concussive
+[Concussive]: /matched_play_guide/rules_references.md#concussive
 [Draining]: /rulebook/basic_rules.md#draining
 [Firestorm]: /rulebook/basic_rules.md#firestorm
 [Fusion]: /rulebook/basic_rules.md#fusion
@@ -15,5 +15,15 @@
 [Rending]: /rulebook/basic_rules.md#rending
 [Shieldbane]: /rulebook/basic_rules.md#shieldbane
 [Voidbreaker]: /rulebook/basic_rules.md#voidbreaker-x
-[Vortex]: /rulebook/basic_rules.md#vortex
-[Warp]: /rulebook/basic_rules.md#warp
+[Vortex]: /matched_play_guide/rules_references.md#vortex
+[Warp]: /matched_play_guide/rules_references.md#warp
+[Beam]: /matched_play_guide/rules_references.md#beam-x
+[Bypass]: /matched_play_guide/rules_references.md#bypass
+[Impale]: /matched_play_guide/rules_references.md#impale
+[Psi]: /matched_play_guide/rules_references.md#psi
+[Shock]: /matched_play_guide/rules_references.md#shock
+[Specialised]: /matched_play_guide/rules_references.md#specialised
+[Taxing]: /matched_play_guide/rules_references.md#taxing
+[Mortar]: /matched_play_guide/rules_references.md#mortar
+[Ordance]: /rulebook/basic_rules.md#ordnance
+[Void Breaker]: /rulebook/basic_rules.md#voidbreaker-x

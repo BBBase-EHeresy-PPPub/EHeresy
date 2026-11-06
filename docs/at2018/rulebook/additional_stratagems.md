@@ -24,9 +24,9 @@ Play this Stratagem at the end of the battle. Score 1 additional Victory point f
 
 ### Forward Observers (1)
 
-Play this Stratagem before making an attack using a weapon with the Barrage trait. Place a command bastion or communications relay anywhere on the board to represent a forward observer team position that has been camouflaged up until this point.
+Play this Stratagem before making an attack using a weapon with the [Barrage] trait. Place a command bastion or communications relay anywhere on the board to represent a forward observer team position that has been camouflaged up until this point.
 
-While the Battlefield Asset is on the board, when friendly units make attacks using weapons with the Barrage trait, they may draw line of sight, though not range, from this model, thus ignoring the normal -2 penalty for firing indirectly.
+While the Battlefield Asset is on the board, when friendly units make attacks using weapons with the [Barrage] trait, they may draw line of sight, though not range, from this model, thus ignoring the normal -2 penalty for firing indirectly.
 
 ### Titan Hunter Infantry (2)
 
@@ -44,7 +44,7 @@ The following Stratagems may be purchased by a Household Battlegroup.
 
 ### Vengeful (1)
 
-A player can enact this Stratagem during the Strategy phase. To do so, they pick a Banner from their force which has been reduced to a single remaining Knight. This Banner immediately receives Charge orders. When it charges, the Knight may make a Smash Attack resolved at Scale x2. Once this is resolved, the Knight is removed from play. At the end of the battle, the opposing player gains a number of Victory points equal to half the Scale of this unit, rather than the full amount.
+A player can enact this Stratagem during the Strategy phase. To do so, they pick a Banner from their force which has been reduced to a single remaining Knight. This Banner immediately receives [Charge] orders. When it charges, the Knight may make a Smash Attack resolved at Scale x2. Once this is resolved, the Knight is removed from play. At the end of the battle, the opposing player gains a number of Victory points equal to half the Scale of this unit, rather than the full amount.
 
 ### Interference (2)
 
@@ -60,7 +60,7 @@ Play this during each Strategy phase. Place the 5" Blast marker anywhere on the 
 
 ### Smoke Screen (1)
 
-Once per battle, play this during the Strategy phase. Pick a single Banner on the battlefield. Any attacks that target it or are made by it suffer a -2 To Hit penalty for the duration of the round. When the attack is made with a weapon that has the Melee trait, this penalty does not apply.
+Once per battle, play this during the Strategy phase. Pick a single Banner on the battlefield. Any attacks that target it or are made by it suffer a -2 To Hit penalty for the duration of the round. When the attack is made with a weapon that has the [Melee] trait, this penalty does not apply.
 
 ### Fight for Every Step (2)
 
@@ -88,7 +88,7 @@ When the owning player activates a unit within 1" of a power relay in the Moveme
 
 This Stratagem can be purchased by any House Devine Knight Household.
 
-Play this Stratagem when a Lord Scion, High Scion or Seneschal is hit by a weapon with the Melee trait but before working out damage. The Lord Scion, High Scion or Seneschal may immediately make an attack with one of its weapons against the unit that scored the hit regardless of range. Then work out damage for the original attack as normal.
+Play this Stratagem when a Lord Scion, High Scion or Seneschal is hit by a weapon with the [Melee] trait but before working out damage. The Lord Scion, High Scion or Seneschal may immediately make an attack with one of its weapons against the unit that scored the hit regardless of range. Then work out damage for the original attack as normal.
 
 ### Treacherous Whispers (2)
 
@@ -124,7 +124,7 @@ The following Stratagems were provided as seasonal promotional content as part o
 
 ### Venerable Machine Spirit (2)
 
-Play this Stratagem in the first Strategy phase of the battle. The player chooses one of their Titans that is not a Titan of Legend or Psi-Titan; for the remainder of the battle that Titan increases its WS and BS values by +1 (to a maximum of 2+). In addition, it may be issued Emergency Repair or Charge orders without the need to make a Command check. However, decrease the Titan's Command characteristic by 3 (to a maximum of 10+). If, at any point during the battle, the Titan fails its Command check to quell the Machine Spirit, the Belligerent result is automatically applied; do not roll on the Awakened Machine Spirit table.
+Play this Stratagem in the first Strategy phase of the battle. The player chooses one of their Titans that is not a Titan of Legend or Psi-Titan; for the remainder of the battle that Titan increases its WS and BS values by +1 (to a maximum of 2+). In addition, it may be issued Emergency Repair or [Charge] orders without the need to make a Command check. However, decrease the Titan's Command characteristic by 3 (to a maximum of 10+). If, at any point during the battle, the Titan fails its Command check to quell the Machine Spirit, the Belligerent result is automatically applied; do not roll on the Awakened Machine Spirit table.
 
 ### The Miracle of Mars (3)
 
