@@ -18,7 +18,7 @@
 
 | Weapon           | Range | Dice | To Hit | AP | Traits              |
 | ---------------- | :---: | :--: | :----: | :-: | ------------------- |
-| Legion combi-bolters | 8" | 1 | 5+ | 0 | [Accurate], [Assault], [Light] |
+| Legion bolters | 8" | 1 | 5+ | 0 | [Assault], [Light] |
 | Volkite chargers | 8"    | 1    | 5+     | 0  | [Deflagrate], [Light] |
 
 **Special Rules**
@@ -1145,6 +1145,7 @@ Any Sicaran Punisher may be equipped with one Pintle Mounted heavy bolter for +5
 |                               | 20"   | 2    | 5+     | -2  | [Anti-tank], [Skyfire], [Tracking] |
 | Sponson Mounted heavy bolters | 12"   | 2    | 5+     | 0   | [Arc] (Front), [Light], [Point Defence] |
 | Sponson Mounted lascannon     | 22"   | 1    | 4+     | -1  | [Arc] (Front), [Anti-tank] |
+| Pintle Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1266,11 +1267,11 @@ A Legion Vindicator Squadron can purchase one of the following upgrades:
 
 **Upgrades**
 
-A Legion Kratos Squadron can purchase any of the following upgrades.  
-It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
+A Legion Kratos Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+65 points]
 * **Increase the Detachment size by 2** [+130 points]
+* **Increase the Detachment size by 3** [+205 points]
 * **Increase the Detachment size by 4** [+250 points]
 
 Any Legion Kratos may be equipped with one Pintle Mounted heavy bolter for [+5 points] per model.
@@ -1513,6 +1514,8 @@ A Legion Ascalon Squadron can purchase one of the following upgrades:
 | Sponson Mounted quad heavy bolters | 12"   | 4    | 5+     | 0  | [Arc] (Front), [Light], [Point Defence] |
 | Sponson Mounted quad lascannon     | 22"   | 2    | 4+     | -1 | [Arc] (Front), [Accurate], [Anti-tank] |
 | Sponson Mounted laser destroyers   | 15"   | 2    | 4+     | -2 | [Arc] (Front), [Accurate], [Anti-tank] |
+| Pintle Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Light], [Point Defence] |
+| Pintle Mounted multi-melta | 6" | 1 | 5+ | -3 | [Anti-tank] |
 
 **Upgrades**
 
@@ -1945,7 +1948,7 @@ A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 
 * **Increase the Detachment size by 1** [+90 points]
-* **Increase the Detachment size by 2** [+180 points]
+* **Increase the Detachment size by 2** [+190 points]
 
 **Special Rules**
 

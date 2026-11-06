@@ -334,7 +334,7 @@ A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of th
 
 **Special Rules**
 
-[Dread Aura] (8"), [Loyalist], [Necrotechica], [Void Shields] (8)
+[Dread Aura], [Loyalist], [Necrotechica], [Void Shields] (8)
 
 </div>
 
@@ -413,7 +413,7 @@ In addition, a Warmaster Titan also has two weapons chosen from the list below -
 * Ardex-defensor mauler bolt cannon turrets
 * Ardex-defensor lascannon turrets
 * Anvillus pattern defence batteries or Ardex-defensor bombard turrets
-* Cruciaris gatling array
+* Cruciator gatling array
 
 In addition, a Warmaster Iconoclast also has two weapons chosen from the list below - it may choose two of the same weapon:
 
@@ -424,7 +424,7 @@ In addition, a Warmaster Iconoclast also has two weapons chosen from the list be
 * Turbo-laser destructor
 * Plasma blastgun
 
-A Warmaster Iconoclast can exchange its Kirus siege drill for a Kiris grav imploder for +10 points.
+A Warmaster Iconoclast can exchange its Kirus siege drill for a Kirus grav imploder for +10 points.
 
 | Weapon                         | Range     | Dice | To Hit | AP  | Traits                                                                 |
 | ------------------------------- | :-------: | :--: | :----: | :-: | ---------------------------------------------------------------------- |

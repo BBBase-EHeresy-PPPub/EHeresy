@@ -437,7 +437,7 @@ A Vorax Battle-automata Maniple can purchase one of the following upgrades:
 
 A Vultarax Stratos-automata Squadron can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 1** [+30 points]
+* **Increase the Detachment size by 1** [+35 points]
 * **Increase the Detachment size by 2** [+60 points]
 * **Increase the Detachment size by 3** [+85 points]
 

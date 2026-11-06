@@ -40,12 +40,12 @@
 
 ## Solar Auxilia Pioneer Company
 
-**Forward Positions**:  Compulsory Support Detachment slots in this Formation must be filled with Auxilia Veletaris Storm Sections.
+**Forward Positions**:  Compulsory Core Detachment slots in this Formation must be filled with Auxilia Veletaris Storm Sections.
 All Solar Auxilia Detachments within a Solar Auxilia Pioneer Company that consist entirely of Infantry models without the Bulky special rule gain the Infiltrate special rule. All other Solar Auxilia Detachments within the Solar Auxilia Pioneer Company gain the Forward Deployment special rule.
 
 **COMPULSORY DETACHMENTS**
 
-[![](../../media/factions/solar_auxilia/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/solar_auxilia/compulsory_bastion.jpg){ width=101 height=101 }](detachments.md#bastion-detachments) [![](../../media/factions/solar_auxilia/compulsory_support.jpg){ width=100 height=100 }](detachments.md#support-detachments) [![](../../media/factions/solar_auxilia/compulsory_bastion.jpg){ width=101 height=101 }](detachments.md#bastion-detachments)
+[![](../../media/factions/solar_auxilia/compulsory_hq.jpg){ width=100 height=100 }](detachments.md#hq-detachments) [![](../../media/factions/solar_auxilia/compulsory_bastion.jpg){ width=101 height=101 }](detachments.md#bastion-detachments) [![](../../media/factions/solar_auxilia/compulsory_core.jpg){ width=100 height=100 }](detachments.md#auxilia-veletaris-storm-section-40-points) [![](../../media/factions/solar_auxilia/compulsory_bastion.jpg){ width=101 height=101 }](detachments.md#bastion-detachments)
 
 **OPTIONAL DETACHMENTS**
 
@@ -103,7 +103,7 @@ All Solar Auxilia Detachments within a Solar Auxilia Pioneer Company that consis
 
 ## Solar Auxilia Titan Hunter Company
 
-**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see [page 74](index.md#tank-commander)).
+**Tank Commander**: One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see [page 74](index.md#tank-commander)).
 
 **Titan Hunters**:  Compulsory Heavy Armour Detachment slots in this Formation must be filled with Auxilia Shadowsword Detachments.
 If an Auxilia Shadowsword Detachment from this Formation that is issued with a First Fire Order is firing at a Titan Detachment, volcano cannon that models in the Auxilia Shadowsword Detachment are equipped with are treated as having the Accurate weapon trait.

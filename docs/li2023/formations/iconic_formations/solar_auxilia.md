@@ -102,13 +102,13 @@
 
 * **Auxilia Veletaris Storm Section**
 
-8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Hull Mounted twin lascannon and Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/compulsory_support.jpg){ width=100 height=100 }](../../factions/solar_auxilia/detachments.md#auxilia-veletaris-storm-section-40-points)
 
 * **Auxilia Veletaris Storm Section**
 
-8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Hull Mounted twin lascannon and Pintle Mounted multi-lasers.
 
 **EXPANDED DETACHMENTS: +385 Points**
 
@@ -122,13 +122,13 @@
 
 * **Auxilia Ogryn Charonite Section**
 
-8 Charonite Ogryn models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+8 Charonite Ogryn models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Hull Mounted twin lascannon and Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/compulsory_support.jpg){ width=100 height=100 }](../../factions/solar_auxilia/detachments.md#auxilia-veletaris-storm-section-40-points)
 
 * **Auxilia Veletaris Storm Section**
 
-8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Hull Mounted twin lascannon and Pintle Mounted multi-lasers.
 
 **Elite Commander:** Legate Commander Detachments from the Expanded Detachments in this Formation do not count towards the maximum number permitted in an Army.
 
@@ -188,13 +188,13 @@
 
 * **Auxilia Rapier Battery**
 
-8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
+8 Auxilia Rapier models. These models are equipped with quad launchers.
 
 [![](../../media/factions/solar_auxilia/compulsory_bastion.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#auxilia-rapier-battery-60-points)
 
 * **Auxilia Rapier Battery**
 
-8 Auxilia Rapier models. These models are equipped with laser destroyer arrays.
+8 Auxilia Rapier models. These models are equipped with mole mortars.
 
 **Volley Fire:** While an Auxilia Lasrifle Tercio Detachment in this Formation contains 5 or more Auxiliaries models, Auxilia lasrifles that models in that Detachment are equipped with have the [Rapid Fire] trait.
 
@@ -270,7 +270,7 @@
 
 * **Auxilia Veletaris Storm Section**
 
-8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Hull Mounted twin lascannon and Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/compulsory_vanguard.jpg){ width=100 height=100 }](../../factions/solar_auxilia/detachments.md#auxilia-aethon-heavy-sentinel-patrol-35-points)
 
@@ -296,7 +296,7 @@
 
 * **Auxilia Veletaris Storm Section**
 
-8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Pintle Mounted multi-lasers.
+8 Veletarii models. This Detachment has 2 Dracosan models as Dedicated Transports. These Dracosan models are equipped with Hull Mounted twin lascannon and Pintle Mounted multi-lasers.
 
 [![](../../media/factions/solar_auxilia/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#auxilia-malcador-infernus-squadron-60-points)
 
@@ -375,3 +375,57 @@
 **Defenders of Beta-Garmon:** This Formation can only be included in an Army with the Loyalist Allegiance.
 
 **Deathless:** Detachments in this Formation gain the [Feel No Pain] special rule while any models from that Detachment are within 10" of any enemy Detachments in an Army with the Traitor Allegiance.
+
+---
+
+## The Sacramentii Foehammers
+
+**ICONIC FORMATION: SOLAR AUXILIA**
+
+**STANDARD DETACHMENTS: 675 Points**
+
+[![](../../media/factions/solar_auxilia/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#leman-russ-executioner-squadron-160-points)
+
+* **Leman Russ Executioner Squadron**
+
+4 Leman Russ Executioner models. These models are equipped with Hull Mounted heavy bolters. One model is upgraded to be a Tank Commander.
+
+[![](../../media/factions/solar_auxilia/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#leman-russ-strike-squadron-160-points)
+
+* **Leman Russ Strike Squadron**
+
+8 Leman Russ Tank models. These models are equipped with Hull Mounted heavy bolters.
+
+[![](../../media/factions/solar_auxilia/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#malcador-tank-squadron-150-points)
+
+* **Malcador Tank Squadron**
+
+4 Malcador Tank models. These models are equipped with Hull Mounted autocannon and Malcador autocannon sponsons.
+
+**EXPANDED DETACHMENTS: +490 Points**
+
+[![](../../media/factions/solar_auxilia/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#auxilia-malcador-infernus-squadron-60-points)
+
+* **Auxilia Malcador Infernus Squadron**
+
+2 Malcador Infernus models. These models are equipped with Malcador autocannon sponsons.
+
+[![](../../media/factions/solar_auxilia/compulsory_battle_tank.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#malcador-annihilator-squadron-150-points)
+
+* **Malcador Annihilator Squadron**
+
+2 Malcador Annihilator models. These models are equipped with Hull Mounted autocannon and Malcador lascannon sponsons.
+
+[![](../../media/factions/solar_auxilia/compulsory_heavy_armour.jpg){ width=101 height=101 }](../../factions/solar_auxilia/detachments.md#auxilia-stormhammer-squadron-100-points)
+
+* **Auxilia Stormhammer Squadron**
+
+3 Stormhammer models. These models are equipped with Stormhammer multi-laser sponsons.
+
+**Defenders of the Legion:** This Formation can only be included in an Army with the Loyalist Allegiance.
+
+**Armoured Charge:** If a Detachment in this Formation has a Charge Order, until the end of that round it has the following additional weapon:
+
+| Weapon | Range | Dice | To Hit | AP | Traits |
+| --- | :---: | :---: | :---: | :---: | --- |
+| Crushing bulk | - | - | - | - | [Rend] |

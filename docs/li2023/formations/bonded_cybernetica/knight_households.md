@@ -25,7 +25,7 @@ All Questoris Knight Banner and Cerastus Knight Banner Detachments within this S
 
 **Inducted Automata:** All slots within this Support Formation, apart from Knight Detachment slots, must be filled by Detachments taken from the Mechanicum Taghmata Army List. Detachments taken from the Mechanicum Taghmata Army List must have the Cybernetica Cortex (X) special rule.
 
-All Knight Detachments within this Support Formation gain the Cortex Controller special rule.
+All Knight Detachments within this Support Formation gain the Cortex Controller special rule. Questoris Knight Armiger Talons and Mechanicum Knight Moirax Talons cannot be taken as Detachment Upgrades for Detachments taken in Knight Detachment slots.
 
 **COMPULSORY DETACHMENTS**
 

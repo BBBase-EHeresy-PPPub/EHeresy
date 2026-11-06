@@ -1,4 +1,4 @@
-## Sibilians Taghma
+## Sibilans Taghma
 
 **ICONIC FORMATION: DARK MECHANICUM**
 
@@ -12,15 +12,15 @@
 
 [![](../../media/factions/dark_mechanicum/compulsory_core.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#adsecularis-tech-thrall-covenant-40-points)
 
-* **Asdecularis Tech-thrall Covenant**
+* **Adsecularis Tech-thrall Covenant**
 
-10 Tech-thrall models.
+8 Tech-thrall models.
 
 [![](../../media/factions/dark_mechanicum/compulsory_core.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#adsecularis-tech-thrall-covenant-40-points)
 
-* **Asdecularis Tech-thrall Covenant**
+* **Adsecularis Tech-thrall Covenant**
 
-10 Tech-thrall models.
+8 Tech-thrall models.
 
 [![](../../media/factions/dark_mechanicum/compulsory_heavy_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#serperos-overlord-heavy-stalker-maniple-175-points)
 
@@ -40,9 +40,9 @@ This Detachment has 2 [Triaros](../../factions/dark_mechanicum/detachments.md#tr
 
 [![](../../media/factions/dark_mechanicum/compulsory_core.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#adsecularis-tech-thrall-covenant-40-points)
 
-* **Asdecularis Tech-thrall Covenant**
+* **Adsecularis Tech-thrall Covenant**
 
-10 Tech-thrall models.
+8 Tech-thrall models.
 
 [![](../../media/factions/dark_mechanicum/compulsory_support.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#myrmidon-secutor-host-30-points)
 
@@ -50,7 +50,11 @@ This Detachment has 2 [Triaros](../../factions/dark_mechanicum/detachments.md#tr
 
 6 Myrmidon Secutor models.
 
-This Detachment has 2 [Triaros](../../factions/dark_mechanicum/detachments.md#triaros-armoured-conveyor-22-points-per-model) models as Dedicated Transports.
+[![](../../media/factions/dark_mechanicum/compulsory_support.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#myrmidon-secutor-host-30-points)
+
+* **Myrmidon Secutor Host**
+
+6 Myrmidon Secutor models.
 
 [![](../../media/factions/dark_mechanicum/compulsory_heavy_armour.jpg){ width=100 height=100 }](../../factions/dark_mechanicum/detachments.md#serperos-overlord-heavy-stalker-maniple-175-points)
 
@@ -60,4 +64,4 @@ This Detachment has 2 [Triaros](../../factions/dark_mechanicum/detachments.md#tr
 
 **Servants of Kelbor-Hal:** This Formation can only be included in an Army with the Traitor Allegiance.
 
-**Protocol - Scourge:** While a Detachment from this Formation with the [Networked Anima] special rule is within 8" of a model with the Noospheric Controller special rule from this Formation, all models in that Detachment increase the range of their weapons by 4".
+**Protocol - Scourge:** While a Detachment from this Formation with the [Networked Anima] special rule is within 8" of a model with the [Noosphere Controller] special rule from this Formation, all models in that Detachment increase the range of their weapons by 4".

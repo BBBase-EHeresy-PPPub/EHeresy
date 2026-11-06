@@ -1,6 +1,6 @@
 ## Legio Cybernetica Cohort
 
-**Legio Cybernetica:** All slots within this Formation, apart from Core, Transport, and Titan slots, must be filled with Detachments that have either the [Cortex Controller] or [Cybernetica Cortex] (X) special rule. The range of the Cortex Controller special rule's effects for all models within the Formation is 12" instead of 8".
+**Legio Cybernetica:** All slots within this Formation, apart from Core, Transport, and Titan slots, must be filled with Detachments that have either the [Cortex Controller] or [Cybernetica Cortex] (X) special rule. The range of the Cortex Controller special rule's effects for all models within the Formation is 12" instead of 9".
 
 **COMPULSORY DETACHMENTS**
 
@@ -17,6 +17,8 @@
 **OR**
 
 [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments) [![](../../media/factions/mechanicum_taghmata/optional_vanguard.jpg){ width=99 height=99 }](../../factions/mechanicum_taghmata/detachments.md#vanguard-detachments)
+
+**OPTIONAL DETACHMENTS**
 
 [![](../../media/factions/collegia_titanica/optional_titan.jpg){ width=99 height=99 }](../../factions/collegia_titanica/detachments.md#titan-detachments)
 

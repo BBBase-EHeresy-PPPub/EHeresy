@@ -52,6 +52,13 @@
 | Volkite veuglaire       | 14"   | 2   | 4+ | -1 | [Arc] (Front), [Deflagrate], [Light AT] |
 | Gyges siege claw        | -     | -   | -  | -4 | [Rend], [Wrecker] (2) |
 
+**Upgrades**
+
+A Mechanicum Knight Moirax Banner can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 3** [+180 points]
+* **Increase the Detachment size by 6** [+360 points]
+
 **Special Rules**
 
 [Ionic Flare Shield], [Ion Shields] (5+), [Nimble]

@@ -188,7 +188,7 @@ This Detachment has 2 [Rhino](../../factions/legiones_astartes/detachments.md#le
 
 4 Assault Legionaries models.
 
-**Officer of the Line:** The Command Squad model in this Formation can use the [Master Tactician] special rule once when it is activated, but if it does, both Detachments selected to have their Order replaced must be from this Formation.
+**Officer of the Line:** The Command Squad model in this Formation can use the [Master Tactician] special rule twice when it is activated, but if it does, both Detachments selected to have their Order replaced must be from this Formation.
 
 **Backbone of the Legion:** Legion Tactical Detachments from this Formation have the [Line] special rule.
 

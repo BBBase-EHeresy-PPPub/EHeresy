@@ -78,11 +78,16 @@ A Scintillax 'Cyclops' Noospheric Stalker Network can purchase any of the follow
 
 **Upgrades**
 
-An Errax 'Butcher' Assault Stalker Cohort can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 9:
+A Errax 'Butcher' Assault Stalker Cohort can purchase one of the following upgrades:
 
-* Increase the Detachment size by 1 [+40 points]
-* Increase the Detachment size by 2 [+80 points]
-* Increase the Detachment size by 3 [+115 points]
+* **Increase the Detachment size by 1** [+45 points]
+* **Increase the Detachment size by 2** [+80 points]
+* **Increase the Detachment size by 3** [+115 points]
+* **Increase the Detachment size by 4** [+160 points]
+* **Increase the Detachment size by 5** [+195 points]
+* **Increase the Detachment size by 6** [+230 points]
+* **Increase the Detachment size by 7** [+275 points]
+* **Increase the Detachment size by 8** [+310 points]
 
 **Special Rules**
 
@@ -266,11 +271,12 @@ A Tenebrax 'Archer' Battle Stalker Cohort can purchase any of the following upgr
 
 **Upgrades**
 
-A Serperos 'Overlord' Heavy Stalker Maniple can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
+A Serperos 'Overlord' Heavy Stalker Maniple can purchase one of the following upgrades:
 
-* Increase the Detachment size by 1 [+85 points]
-* Increase the Detachment size by 2 [+150 points]
-* Increase the Detachment size by 3 [+225 points]
+* **Increase the Detachment size by 1** [+85 points]
+* **Increase the Detachment size by 2** [+150 points]
+* **Increase the Detachment size by 3** [+230 points]
+* **Increase the Detachment size by 4** [+300 points]
 
 **Special Rules**
 
