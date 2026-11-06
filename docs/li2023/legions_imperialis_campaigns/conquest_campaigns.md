@@ -94,7 +94,7 @@ A territory is said to be controlled by the player who controls it and the Facti
 
 At the end of each Campaign Cycle, each territory gives the player or Faction that controls it some rewards. Players should calculate the rewards they gain from each territory they control and report this to the other players and the Campaign Master.
 
-Firstly, each player calculates the number of Campaign Points they gain from territories they control. Each territory has a Campaign Points value indicated on its profile (see below). The player adds up the value of each territory they control and reports the total.
+Firstly, each player calculates the number of Campaign Points they gain from territories they control. Each territory has a Campaign Points value indicated on its profile (see [below](#territories)). The player adds up the value of each territory they control and reports the total.
 
 Secondly, each player calculates the total Requisition Points value of the territories they control, and gains that many Requisition Points.
 

@@ -108,7 +108,7 @@ Determine which side in the Combat won the most Fights and thus won the Combat. 
 
 **Withdraw**
 
-The controlling player rolls a D6 for each of their Detachments that is Withdrawing. Each model in the Detachment moves a number of inches equal to D6 + its Movement characteristic, following the rules for a Withdrawal move on page 62 of the rulebook.
+The controlling player rolls a D6 for each of their Detachments that is Withdrawing. Each model in the Detachment moves a number of inches equal to D6 + its Movement characteristic, following the rules for a Withdrawal move on [page 62](../legions_imperialis_rules/playing_the_game.md#withdraw) of the rulebook.
 
 ## Titans
 

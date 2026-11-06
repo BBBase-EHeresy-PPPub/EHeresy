@@ -7,7 +7,7 @@ When building a Legiones Astartes Army, the following special rules apply. Some 
 
 ### The Space Marine Legions
 
-When a player musters an Army using a Legiones Astartes Army List as the Primary Army List, that player must select a Legion for each Legiones Astartes Formation within it. The Formation is referred to as a [Legion Name] Formation and all Detachments and models within it are referred to as [Legion Name] Detachments or models. Detachments and models within that Formation may gain special rules associated with the chosen Legion (see page 50).
+When a player musters an Army using a Legiones Astartes Army List as the Primary Army List, that player must select a Legion for each Legiones Astartes Formation within it. The Formation is referred to as a [Legion Name] Formation and all Detachments and models within it are referred to as [Legion Name] Detachments or models. Detachments and models within that Formation may gain special rules associated with the chosen Legion (see [page 50](special_rules.md)).
 
 No Formation, Detachment or model can benefit from more than one set of Legion rules. Different Formations within the same Legiones Astartes Army may be from different Legions.
 

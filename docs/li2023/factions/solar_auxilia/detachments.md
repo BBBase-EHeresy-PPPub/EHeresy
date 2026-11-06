@@ -1431,7 +1431,7 @@ An Auxilia Lightning Fighter Squadron can purchase one of the following upgrades
 
 **Upgrades**
 
-Any Marauder Bomber can be upgraded to a Marauder Pathfinder, Marauder Colossus or Marauder Destroyer, using the respective profile shown on pages 112-113, for free.
+Any Marauder Bomber can be upgraded to a Marauder Pathfinder, Marauder Colossus or Marauder Destroyer, using the respective profile shown on [pages 112-113](#auxilia-marauder-pathfinder), for free.
 
 An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
@@ -1467,7 +1467,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Rear Mounted heavy bolter
 * Any two of the following: Hellstrike missiles, Skystrike missiles and wing bombs\*
 
-\* *A model can take multiples of the same option. See page 111 for these options.*
+\* *A model can take multiples of the same option. See [page 111](#auxilia-marauder-bomber-squadron-85-points) for these options.*
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
@@ -1499,7 +1499,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Colossus bomb
 * Any two of the following: Hellstrike missiles, Skystrike missiles and wing bombs\*
 
-\* *A model can take multiples of the same option. See page 111 for these options.*
+\* *A model can take multiples of the same option. See [page 111](#auxilia-marauder-bomber-squadron-85-points) for these options.*
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | ------------------------------- | :---: | :--: | :----: | :-: | -------------------------------------------------- |
@@ -1533,7 +1533,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Destroyer bomb bay
 * Any two of the following: Hellstrike missiles, Skystrike missiles and wing bombs\*
 
-\* *A model can take multiples of the same option. See page 111 for these options.*
+\* *A model can take multiples of the same option. See [page 111](#auxilia-marauder-bomber-squadron-85-points) for these options.*
 
 | Weapon | Range | Dice | To Hit | AP | Traits |
 | --------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |

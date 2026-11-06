@@ -2,49 +2,49 @@
 
 ### Errata
 
-* **Page 48 - March Orders**
+* **[Page 48](playing_the_game.md#march-orders) - March Orders**
 
 Change this Order to:
 
 'Each model within a Detachment issued with the March Order may move up to a number of inches equal to twice its Movement characteristic. Models in a Detachment issued a March Order may not fire during the First Fire or Advancing Fire stages of the Combat phase.'
 
-* **Page 49 - Movement**
+* **[Page 49](playing_the_game.md#movement) - Movement**
 
 Change the last paragraph to:
 
 'A Movement characteristic of '-' means models in the Detachment cannot move, cannot Embark or Disembark from a Transport and the characteristic cannot be modified in any way. If such a model is required to Withdraw from a Combat, it is destroyed.'
 
-* **Page 55 - Advancing Fire Stage**
+* **[Page 55](playing_the_game.md#advancing-fire-stage) - Advancing Fire Stage**
 
 Change the second sentence of the third paragraph to the following:
 
 'All Detachments issued with an Advance Order must be activated in this stage, though they can be activated and do nothing.'
 
-* **Page 57 - Resolve Hits**
+* **[Page 57](playing_the_game.md#resolve-hits) - Resolve Hits**
 
 Change the first sentence of the third paragraph to the following:
 
 'A model can only be allocated a Hit if it is an eligible target for a model in the firing Detachment - in most instances, this means the allocated model must be in range and line of sight of a firing model.'
 
-* **Page 72 - Garrisoning Structures**
+* **[Page 72](terrain.md#garrisoning-structures) - Garrisoning Structures**
 
 Add the following after the second sentence of the second paragraph:
 
 'A Detachment can Garrison a Structure if this would bring it within the Engagement Zone of an enemy model, but not if it would cause them to become Engaged.'
 
-* **Page 72 - Engaging Garrisoned Structures**
+* **[Page 72](terrain.md#engaging-garrisoned-structures) - Engaging Garrisoned Structures**
 
 Change the third sentence to the following:
 
 'Infantry models in base to base contact with the Structure count as Engaged with all enemy Detachments Garrisoned within the Structure.'
 
-* **Page 79 - Burrowing**
+* **[Page 79](weapon_traits.md#burrowing) - Burrowing**
 
 Add the following sentence to the end of this Trait:
 
 'Weapons with the Burrowing trait cannot target Flyers.'
 
-* **Page 80 - Engine Killer (X)**
+* **[Page 80](weapon_traits.md#engine-killer-x) - Engine Killer (X)**
 
 Change the first sentence of the first paragraph to:
 
@@ -54,7 +54,7 @@ Change the second paragraph to:
 
 'If a weapon has the Engine Killer (X) trait and the Rend trait, enemy Vehicles, Super-heavy Vehicles, Knights and Titans suffer a number of additional Wounds equal to the number shown in brackets if they lose a Fight against the model that has that weapon.'
 
-* **Page 83 - Quake**
+* **[Page 83](weapon_traits.md#quake) - Quake**
 
 Change this Trait to:
 
@@ -65,7 +65,7 @@ Change this Trait to:
 
 This Trait is ignored if all Hits scored by a weapon with this Trait are allocated to a target's Void Shields.'
 
-* **Page 84 - Shock Pulse**
+* **[Page 84](weapon_traits.md#shock-pulse) - Shock Pulse**
 
 Change the first paragraph to:
 
@@ -74,25 +74,25 @@ Change the first paragraph to:
 * The next time that Detachment moves, halve the Movement characteristic of all models within that Detachment.
 * The next time that Detachment fires, it can only fire with a maximum of one weapon per model.'
 
-* **Page 85 - Skyfire**
+* **[Page 85](weapon_traits.md#skyfire) - Skyfire**
 
 Change the last sentence of the second paragraph to:
 
 'All Skyfire weapons in a Detachment firing at a Secondary Target must target the same Detachment, unless another rule overrides this.'
 
-* **Page 85 - Warp**
+* **[Page 85](weapon_traits.md#warp) - Warp**
 
 Change the second sentence of the first paragraph to the following:
 
 'If targeting a Knight or Titan, then the Dice value of the weapon is 1.'
 
-* **Page 87 - Automated Sentry**
+* **[Page 87](special_rules.md#automated-sentry) - Automated Sentry**
 
 Add the following additional paragraph:
 
 'Models in a Detachment with this special rule have a Tactical Strength of 0 and this cannot be modified in any way.'
 
-* **Page 88 - Deep Strike**
+* **[Page 88](special_rules.md#deep-strike) - Deep Strike**
 
 Change the fourth and fifth sentences of the second paragraph to:
 
@@ -102,67 +102,67 @@ Add the following additional paragraph:
 
 'An Overwatch called against a Detachment that has Deep Striked is resolved after all Models have been set up, and all other effects of that Deep Strike have been resolved, including Disembarking from Models with the Transport (X) special rule and the effects of the Orbital Assault special rule.'
 
-* **Page 88 - Drop Pod**
+* **[Page 88](special_rules.md#drop-pod) - Drop Pod**
 
 Add the following additional paragraph:
 
 'Models in a Detachment with this special rule have a Tactical Strength of 0 and this cannot be modified in any way.'
 
-* **Page 89 - Flyer**
+* **[Page 89](special_rules.md#flyer) - Flyer**
 
 Add the following sentence to the end of the third paragraph:
 
 'Models with the Flyer special rule cannot call Overwatch during the Movement phase.'
 
-* **Page 90 - Forward Deployment**
+* **[Page 90](special_rules.md#forward-deployment) - Forward Deployment**
 
 Change the first sentence to:
 
 'After both players have deployed their armies, including Infiltrating Detachments, but before the first round of the battle, if all models in a Detachment have the Forward Deployment special rule, the Detachment may make a special move.'
 
-* **Page 92 - Infiltrate**
+* **[Page 92](special_rules.md#infiltrate) - Infiltrate**
 
 Add the following additional sentence:
 
 'A Detachment that is deployed in this way cannot be issued a Charge Order during the first round.'
 
-* **Page 93 - Master Tactician**
+* **[Page 93](special_rules.md#master-tactician) - Master Tactician**
 
 Change the first and second sentence to:
 
 'A Detachment that contains one or more models with this special rule may issue a command when it is activated. If the controlling player chooses to do so, they may select one other friendly Detachment that has yet to be activated this round, and is within 6" of one or more models with this special rule that are being activated. The selected Detachment's Order token is discarded and replaced with a different Order they were eligible to be issued during the Orders phase of this round.'
 
-* **Page 96 - Transport (X)**
+* **[Page 96](special_rules.md#transport-x) - Transport (X)**
 
 Add the following to the end of the first paragraph:
 
 'Models can only Embark onto Transport Models from the same Army List.'
 
-* **Page 120 - Breakthrough**
+* **[Page 120](secondary_objectives.md#breakthrough) - Breakthrough**
 
 Change the first sentence to:
 
 'At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five friendly Detachments that are either deployed on the battlefield or Embarked within a Transport that is deployed on the battlefield to be carrying some supplies.'
 
-* **Page 152 - Legion Storm Eagle Squadron, Weapons**
+* **[Page 152](../factions/legiones_astartes/detachments.md#legion-storm-eagle-squadron-85-points) - Legion Storm Eagle Squadron, Weapons**
 
 Remove '- Tempest rockets'.
 
 Remove the 'Tempest rockets' weapon profile.
 
-* **Page 164 - Ultramarines, Interlocking Tactics**
+* **[Page 164](../factions/legiones_astartes/special_rules.md#interlocking-tactics) - Ultramarines, Interlocking Tactics**
 
 Change the first sentence to:
 
 'An Ultramarines model may re-roll any Hit rolls of a 1 when firing upon an enemy Detachment that has already had one or more Hits scored against it this round by an Ultramarines model from a different Detachment in the same Formation as the firing model.'
 
-* **Page 168 - Word Bearers, True Believers**
+* **[Page 168](../factions/legiones_astartes/special_rules.md#true-believers) - Word Bearers, True Believers**
 
 Change the first sentence to:
 
 'Detachments within a Word Bearers Formation never count as Broken for the purposes of being issued an Order, i.e., they can be issued any Order they normally could instead of just the Advance Order or Charge Order.'
 
-* **Page 171 - Alpha Legion, Mutable Tactics**
+* **[Page 171](../factions/legiones_astartes/special_rules.md#mutable-tactics) - Alpha Legion, Mutable Tactics**
 
 Change the first sentence to:
 
@@ -328,7 +328,7 @@ Change the first sentence to:
 
 **A.** Yes.
 
-***Designer's Note:** We recommend ignoring the same insignificant elements that line of sight cannot be drawn to (as described on page 40 of the Legions Imperialis Rulebook), in order to maintain parity between drawing line of sight to and from the same model.*
+***Designer's Note:** We recommend ignoring the same insignificant elements that line of sight cannot be drawn to (as described on [page 40](core_principles.md#line-of-sight) of the Legions Imperialis Rulebook), in order to maintain parity between drawing line of sight to and from the same model.*
 
 ---
 
@@ -428,53 +428,53 @@ Change the first sentence to:
 
 ### Errata
 
-* **Page 38 - Legion Kratos Squadron**
+* **[Page 38](../factions/legiones_astartes/detachments.md#legion-kratos-squadron-140-points) - Legion Kratos Squadron**
 
 Change the AP characteristic on the second line of the Kratos Battlecannon's profile to '-4'.
 
-* **Page 40 - Legion Typhon Squadron**
+* **[Page 40](../factions/legiones_astartes/detachments.md#legion-typhon-squadron-80-points) - Legion Typhon Squadron**
 
 Change this Detachment's Morale characteristic to '3+'.
 
-* **Page 44 - Legion Rhino Detachment & Page 237 - Weapon Reference**
+* **[Page 44](../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model) - Legion Rhino Detachment & [Page 237](../reference/weapon_profiles.md) - Weapon Reference**
 
 Remove 'Arc (Front)' from the weapon profiles for Pintle Mounted havoc launcher and Pintle Mounted twin-linked bolter.
 
-* **Page 67 - Alpha Legion, Mutable Tactics**
+* **[Page 67](../factions/legiones_astartes/special_rules.md#mutable-tactics) - Alpha Legion, Mutable Tactics**
 
 Change the first sentence to:
 
 'At the start of the battle, before any Detachments are deployed, for each Formation made up entirely of Alpha Legion Detachments in an Army (ignoring Allied Contingents), the controlling player may select up to 3 Alpha Legion Detachments in the Army to be affected by Mutable Tactics.'
 
-* **Page 103 - Auxilia Shadowsword Squadron, Page 104 - Auxilia Stormsword Squadron & Page 105 - Auxilia Stormblade Squadron**
+* **[Page 103](../factions/solar_auxilia/detachments.md#auxilia-shadowsword-squadron-120-points) - Auxilia Shadowsword Squadron, [Page 104](../factions/solar_auxilia/detachments.md#auxilia-stormsword-squadron-100-points) - Auxilia Stormsword Squadron & [Page 105](../factions/solar_auxilia/detachments.md#auxilia-stormblade-squadron-110-points) - Auxilia Stormblade Squadron**
 
 Change the Dice characteristic on this Detachment's lascannon sponson turrets to '2'.
 
-* **Page 123 - Taghma Sub-Covenant**
+* **[Page 123](../factions/mechanicum_taghmata/formations.md#taghma-sub-covenant) - Taghma Sub-Covenant**
 
 Change this Formation's Dedicated Transports special rule to:
 
 'Detachments within this Formation that contain only Infantry models may be upgraded with Triaros Armoured Conveyors as Dedicated Transports.'
 
-* **Page 136 - Thanatar Siege Automata Maniple & Page 237 - Weapon Profiles**
+* **[Page 136](../factions/mechanicum_taghmata/detachments.md#thanatar-siege-automata-maniple-110-points) - Thanatar Siege Automata Maniple & [Page 237](../reference/weapon_profiles.md) - Weapon Profiles**
 
 Add the 'Barrage' trait to the Plasma Mortar profile.
 
-* **Page 142 - Dark Mechanicum Special Rules**
+* **[Page 142](../factions/dark_mechanicum/index.md) - Dark Mechanicum Special Rules**
 
 Add the following to the end of this section:
 
-'If your Army includes any Archmagos Prime, Archmagos Prime on Abeyant or Tech-Priest Auxilia Detachments, these are also subject to the Master of Machines and Tech-Priest Auxilia special rules (see page 120).'
+'If your Army includes any Archmagos Prime, Archmagos Prime on Abeyant or Tech-Priest Auxilia Detachments, these are also subject to the Master of Machines and Tech-Priest Auxilia special rules (see [page 120](../factions/mechanicum_taghmata/index.md#masters-of-machines)).'
 
-* **Page 181 - Questoris Mechanicum Knight Banner**
+* **[Page 181](../factions/knight_households/detachments.md#questoris-mechanicum-knight-banner-140-points) - Questoris Mechanicum Knight Banner**
 
 Note that the grey banding over the graviton gun should expand to the line below and the Graviton Pulse trait applies to that weapon, not the lightning cannon.
 
-* **Page 192 - Iron Warriors Proioxis Macro-Assault Wing**
+* **[Page 192](../formations/iconic_formations/legiones_astartes.md#iron-warriors-proioxis-macro-assault-wing) - Iron Warriors Proioxis Macro-Assault Wing**
 
 Change the Expanded Detachments cost to '+355 Points'.
 
-* **Page 205 - Expanded Detachments**
+* **[Page 205](../formations/iconic_formations/solar_auxilia.md#ultima-pattern-sub-cohort) - Expanded Detachments**
 
 Change the second sentence of the text for the second Auxilia Rapier Battery to:
 
@@ -484,7 +484,7 @@ Change the second sentence of the text for the third Auxilia Rapier Battery to:
 
 'These models are equipped with mole mortars.'
 
-* **Page 235 - Hull Mounted multi-melta**
+* **[Page 235](../reference/weapon_profiles.md) - Hull Mounted multi-melta**
 
 Change the To Hit characteristic of this weapon to '5+'.
 
@@ -500,19 +500,19 @@ Change the To Hit characteristic of this weapon to '5+'.
 
 ### Errata
 
-* **Legion Kratos Squadron Card**
+* **[Legion Kratos Squadron Card](../factions/legiones_astartes/detachments.md#legion-kratos-squadron-140-points)**
 
 Change the AP characteristic on the second line of the Kratos Battlecannon's profile to '-4'.
 
-* **Legion Typhon Squadron Card**
+* **[Legion Typhon Squadron Card](../factions/legiones_astartes/detachments.md#legion-typhon-squadron-80-points)**
 
 Change this Detachment's Morale characteristic to '3+'.
 
-* **Legion Rhino Detachment Card**
+* **[Legion Rhino Detachment Card](../factions/legiones_astartes/detachments.md#legion-rhino-detachment-10-points-per-model)**
 
 Remove 'Arc (Front)' from the weapon profiles for Pintle Mounted havoc launcher and Pintle Mounted twin-linked bolter.
 
-* **Iron Warriors Proioxis Macro-Assault Wing**
+* **[Iron Warriors Proioxis Macro-Assault Wing](../formations/iconic_formations/legiones_astartes.md#iron-warriors-proioxis-macro-assault-wing)**
 
 Change the Expanded Detachments cost to '+355 Points'.
 
@@ -520,7 +520,7 @@ Change the Expanded Detachments cost to '+355 Points'.
 
 ### Errata
 
-* **Solar Auxilia Ultima Pattern Cohort - Expanded Detachments**
+* **[Solar Auxilia Ultima Pattern Cohort - Expanded Detachments](../formations/iconic_formations/solar_auxilia.md#ultima-pattern-sub-cohort)**
 
 Change the second sentence of the text for the second Auxilia Rapier Battery to:
 
@@ -530,7 +530,7 @@ Change the second sentence of the text for the third Auxilia Rapier Battery to:
 
 'These models are equipped with mole mortars.'
 
-* **Auxilia Shadowsword Squadron Card, Auxilia Stormsword Squadron Card & Auxilia Stormblade Squadron Card**
+* **[Auxilia Shadowsword Squadron Card](../factions/solar_auxilia/detachments.md#auxilia-shadowsword-squadron-120-points), [Auxilia Stormsword Squadron Card](../factions/solar_auxilia/detachments.md#auxilia-stormsword-squadron-100-points) & [Auxilia Stormblade Squadron Card](../factions/solar_auxilia/detachments.md#auxilia-stormblade-squadron-110-points)**
 
 Change the Dice characteristic on this Detachment's lascannon sponson turrets to '2'.
 
@@ -538,11 +538,11 @@ Change the Dice characteristic on this Detachment's lascannon sponson turrets to
 
 ### Errata
 
-* **Thanatar Siege Automata Maniple Card**
+* **[Thanatar Siege Automata Maniple Card](../factions/mechanicum_taghmata/detachments.md#thanatar-siege-automata-maniple-110-points)**
 
 Add the 'Barrage' trait to the Plasma Mortar profile.
 
-* **Taghma Sub-Covenant Card**
+* **[Taghma Sub-Covenant Card](../factions/mechanicum_taghmata/formations.md#taghma-sub-covenant)**
 
 Change this Formation's Dedicated Transports special rule to:
 
@@ -552,11 +552,11 @@ Change this Formation's Dedicated Transports special rule to:
 
 ### Errata
 
-* **Page 114 - Legion Deathstorm Drop Pod Battery, Special Rules**
+* **[Page 114](../factions/legiones_astartes/detachments.md#legion-deathstorm-drop-pod-battery-40-points) - Legion Deathstorm Drop Pod Battery, Special Rules**
 
 Add the 'Orbital Assault' special rule.
 
-* **Page 118 - Remote Controlled Detonation**
+* **[Page 118](special_rules.md#remote-controlled-detonation) - Remote Controlled Detonation**
 
 Change the third sentence to:
 
@@ -572,13 +572,13 @@ Change the third sentence to:
 
 ### Errata
 
-* **Page 82 - Designer's Note: Collegia Titanica Army List**
+* **[Page 82](fighting_a_battle.md#capturing-objective-markers) - Designer's Note: Collegia Titanica Army List**
 
 Change the second sentence to:
 
 'In Matched Play missions, they suffer from a lack of Objective control - with a Tactical Strength of 0, Titans will find it difficult to capture or contest Objectives - which makes achieving a conventional victory difficult.'
 
-* **Page 99 - Thallax Cohort**
+* **[Page 99](../factions/mechanicum_taghmata/detachments.md#thallax-cohort-25-points) - Thallax Cohort**
 
 Replace '- Thallax plasma-fusil' with '- Multi-melta' on this datacard's Weapons section.
 
@@ -590,7 +590,7 @@ Add the following weapon profile:
 |---|:---:|:---:|:---:|:---:|---|
 | Multi-melta | 6" | 1 | 4+ | -3 | Anti-tank |
 
-* **Page 100 - Myrmidon Secutor Host**
+* **[Page 100](../factions/mechanicum_taghmata/detachments.md#myrmidon-secutor-host-30-points) - Myrmidon Secutor Host**
 
 Add the following to this datacard's Weapons section:
 
@@ -602,7 +602,7 @@ Add the following weapon profile:
 |---|:---:|:---:|:---:|:---:|---|
 | Myrmidon plasma-fusil | 10" | 1 | 4+ | -1 | Light AT |
 
-* **Page 101 - Myrmidon Destructor Host**
+* **[Page 101](../factions/mechanicum_taghmata/detachments.md#myrmidon-destructor-host-30-points) - Myrmidon Destructor Host**
 
 Change the bullet point under Weapons to:
 
@@ -610,7 +610,7 @@ Change the bullet point under Weapons to:
 
 - Conversion beamers'
 
-* **Page 111 - Triaros Armoured Conveyor, Special Rules**
+* **[Page 111](../factions/mechanicum_taghmata/detachments.md#triaros-armoured-conveyor-22-points-per-model) - Triaros Armoured Conveyor, Special Rules**
 
 Replace 'Large Transport (4)' with 'Transport (4)'.
 

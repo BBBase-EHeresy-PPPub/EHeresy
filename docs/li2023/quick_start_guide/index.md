@@ -1,12 +1,12 @@
-This Quick Start guide will help you get started with your first games of Legions Imperialis, and presents a new Formation, Mission and Optional Special Rules designed to work directly with the contents of the Legions Imperialis boxed game, adjusting a typical game of Legions Imperialis to more easily make use of smaller armies. The *Warhammer: The Horus Heresy - Legions Imperialis Rulebook* is required to use this content.
+This Quick Start guide will help you get started with your first games of Legions Imperialis, and presents a new Formation, Mission and Optional Special Rules designed to work directly with the contents of the Legions Imperialis boxed game, adjusting a typical game of Legions Imperialis to more easily make use of smaller armies. The *Warhammer: The Horus Heresy - [Legions Imperialis Rulebook](../legions_imperialis_rules/the_rules.md)* is required to use this content.
 
-***Designer's Note:** This guide is designed as an introduction to the game of Legions Imperialis by splitting the contents of a single Legions Imperialis boxed game into two separate armies, each army containing both Legiones Astartes and Solar Auxilia models. It is intended to be used in conjunction with the Opening Manoeuvres Mission on page 2. The battlefield size of this mission is smaller than an average Legions Imperialis game - adding additional Detachments may require adjustment to the battlefield size, and the placement of Objectives, accordingly.*
+***Designer's Note:** This guide is designed as an introduction to the game of Legions Imperialis by splitting the contents of a single Legions Imperialis boxed game into two separate armies, each army containing both Legiones Astartes and Solar Auxilia models. It is intended to be used in conjunction with the Opening Manoeuvres Mission on [page 2](#opening-manoeuvres). The battlefield size of this mission is smaller than an average Legions Imperialis game - adding additional Detachments may require adjustment to the battlefield size, and the placement of Objectives, accordingly.*
 
 **New Formation**
 
 Below is presented a new Formation for the Legiones Astartes Army List, intended to let you more easily use the contents of the Legions Imperialis boxed game with the Opening Manoeuvres Mission. Unless your opponent agrees, this Formation cannot be used in Matched Play games, nor is it intended for use at events.
 
-'Legion' Detachments must be selected from the Legiones Astartes Army List, and 'Solar Auxilia' Detachments must be selected from the Solar Auxilia Army List, as described in the *Legions Imperialis Rulebook*.
+'Legion' Detachments must be selected from the Legiones Astartes Army List, and 'Solar Auxilia' Detachments must be selected from the Solar Auxilia Army List, as described in the *[Legions Imperialis Rulebook](../factions/index.md)*.
 
 ---
 

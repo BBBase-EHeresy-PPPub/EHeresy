@@ -22,7 +22,7 @@
 
 ## Solar Auxilia Armoured Company
 
-**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] (see page 74).
+**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] (see [page 74](index.md#tank-commander)).
 
 **COMPULSORY DETACHMENTS**
 
@@ -87,7 +87,7 @@ All Solar Auxilia Detachments within a Solar Auxilia Pioneer Company that consis
 
 ## Solar Auxilia Super-Heavy Company
 
-**Tank Commander**: One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see page 74).
+**Tank Commander**: One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see [page 74](index.md#tank-commander)).
 
 **Mobile Fortifications**: While two or more models from this Formation are within range of the same Objective marker, increase the Tactical Strength of each model from this Formation that is within range of that Objective marker by 1 when determining which player captures that Objective marker.
 
@@ -103,7 +103,7 @@ All Solar Auxilia Detachments within a Solar Auxilia Pioneer Company that consis
 
 ## Solar Auxilia Titan Hunter Company
 
-**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see page 74).
+**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see [page 74](index.md#tank-commander)).
 
 **Titan Hunters**:  Compulsory Heavy Armour Detachment slots in this Formation must be filled with Auxilia Shadowsword Detachments.
 If an Auxilia Shadowsword Detachment from this Formation that is issued with a First Fire Order is firing at a Titan Detachment, volcano cannon that models in the Auxilia Shadowsword Detachment are equipped with are treated as having the Accurate weapon trait.
@@ -122,7 +122,7 @@ If an Auxilia Shadowsword Detachment from this Formation that is issued with a F
 
 **Armoured Company**: Battle Tank Detachment slots in this Formation must be filled with Leman Russ Strike Squadrons, Leman Russ Vanquisher Squadrons, Leman Russ Executioner Squadrons, Leman Russ Demolisher Squadrons, Leman Russ Annihilator Squadrons or Leman Russ Exterminator Squadrons.
 
-**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see page 74).
+**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see [page 74](index.md#tank-commander)).
 
 **COMPULSORY DETACHMENTS**
 

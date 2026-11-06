@@ -111,7 +111,7 @@ Instead of determining Secondary Objectives as normal:
 
 - The Attacker automatically has the Plant the Standard Secondary Objective.
 
-- The Defender automatically has the Collapse the Tunnels Secondary Objective (see opposite).
+- The Defender automatically has the Collapse the Tunnels Secondary Objective (see [opposite](#collapse-the-tunnels)).
 
 **Mag-rail Tunnels**
 
@@ -125,7 +125,7 @@ In this mission, while a tunnel entrance is on the battlefield, the edge of each
 
 ***Secondary Objective***
 
-**Collapse the Tunnels**
+**Collapse the Tunnels**{ #collapse-the-tunnels }
 
 At the end of the Calculate Victory Points stage of each End phase, if the Defender controls any of the Objective markers that are on a Tunnel Entrance marker and that Objective marker is Uncontested, they can collapse that tunnel. If they do, remove that Tunnel Entrance marker (but not the Objective marker). That Tunnel Entrance marker is said to have been collapsed, and is no longer treated as an additional battlefield edge for the Attacker.
 

@@ -10,34 +10,34 @@ Knight Households Formations cannot be taken as part of an Allied Contingent.
 
 Each Knight Households Detachment is also assigned a specific battlefield role for the purpose of building a Knight Households Army. They still fill the Knight Detachment role as well.
 
-![](../../media/factions/knight_households/questoris_knight_banner.jpg){ width=100 height=100 } **Questoris Knight Banner**
+![](../../media/factions/knight_households/questoris_knight_banner.jpg){ width=100 height=100 } **[Questoris Knight Banner](detachments.md#questoris-knight-banner-130-points)**
 
 The following Detachments can be used to fill this Detachment role slot:
 
-- Questoris Knight Banner
-- Questoris Knight Banner
-- Questoris Knight Banner
+- [Questoris Knight Banner](detachments.md#questoris-knight-banner-130-points)
+- [Questoris Knight Banner](detachments.md#questoris-knight-banner-130-points)
+- [Questoris Knight Banner](detachments.md#questoris-knight-banner-130-points)
 
-![](../../media/factions/knight_households/cerastus_knight_banner.jpg){ width=100 height=100 } **Cerastus Knight Banner**
-
-The following Detachments can be used to fill this Detachment role slot:
-
-- Cerastus Knight Banner
-- Cerastus Knight Atrapos Banner
-
-![](../../media/factions/knight_households/acastus_knight_banner.jpg){ width=100 height=100 } **Acastus Knight Banner**
+![](../../media/factions/knight_households/cerastus_knight_banner.jpg){ width=100 height=100 } **[Cerastus Knight Banner](detachments.md#cerastus-knight-banner-160-points)**
 
 The following Detachments can be used to fill this Detachment role slot:
 
-- Acastus Knight Porphyrion Banner
-- Acastus Knight Asterius Banner
+- [Cerastus Knight Banner](detachments.md#cerastus-knight-banner-160-points)
+- [Cerastus Knight Atrapos Banner](detachments.md#cerastus-knight-atrapos-banner-180-points)
 
-![](../../media/factions/knight_households/armiger_knight_banner.jpg){ width=100 height=100 } **Armiger Knight Banner**
+![](../../media/factions/knight_households/acastus_knight_banner.jpg){ width=100 height=100 } **[Acastus Knight Banner](detachments.md#acastus-knight-porphyrion-banner-230-points)**
 
 The following Detachments can be used to fill this Detachment role slot:
 
-- Knight Armiger Talon
-- Mechanicum Knight Moirax Talon
+- [Acastus Knight Porphyrion Banner](detachments.md#acastus-knight-porphyrion-banner-230-points)
+- [Acastus Knight Asterius Banner](detachments.md#acastus-knight-asterius-banner-240-points)
+
+![](../../media/factions/knight_households/armiger_knight_banner.jpg){ width=100 height=100 } **[Armiger Knight Banner](detachments.md#knight-armiger-banner-120-points)**
+
+The following Detachments can be used to fill this Detachment role slot:
+
+- [Knight Armiger Talon](detachments.md#knight-armiger-banner-120-points)
+- [Mechanicum Knight Moirax Talon](detachments.md#mechanicum-knight-moirax-banner-135-points)
 
 ## Strategic Asset Formation
 

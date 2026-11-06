@@ -8,33 +8,33 @@ Some Dark Mechanicum Formations can include Detachments taken from the Knight Ho
 
 A Dark Mechanicum Army List includes the following Detachments from the Mechanicum Taghmata Army List, in the same Detachment Roles:
 
-* Archmagos Prime
+* [Archmagos Prime](../mechanicum_taghmata/detachments.md#archmagos-prime-25-points)
 
-* Archmagos Prime on Abeyant
+* [Archmagos Prime on Abeyant](../mechanicum_taghmata/detachments.md#archmagos-prime-on-abeyant-45-points)
 
-* Adsecularis Tech-thrall Covenant
+* [Adsecularis Tech-thrall Covenant](../mechanicum_taghmata/detachments.md#adsecularis-tech-thrall-covenant-40-points)
 
-* Thallax Cohort
+* [Thallax Cohort](../mechanicum_taghmata/detachments.md#thallax-cohort-25-points)
 
-* Tech-Priest Auxilia
+* [Tech-Priest Auxilia](../mechanicum_taghmata/detachments.md#tech-priest-auxilia-15-points)
 
-* Myrmidon Secutor Host
+* [Myrmidon Secutor Host](../mechanicum_taghmata/detachments.md#myrmidon-secutor-host-30-points)
 
-* Myrmidon Destructor Host
+* [Myrmidon Destructor Host](../mechanicum_taghmata/detachments.md#myrmidon-destructor-host-30-points)
 
-* Ursarax Cohort
+* [Ursarax Cohort](../mechanicum_taghmata/detachments.md#ursarax-cohort-30-points)
 
-* Karacnos Assault Tank Squadron
+* [Karacnos Assault Tank Squadron](../mechanicum_taghmata/detachments.md#karacnos-assault-tank-squadron-40-points)
 
-* Krios Battle Tank Squadron
+* [Krios Battle Tank Squadron](../mechanicum_taghmata/detachments.md#krios-battle-tank-squadron-100-points)
 
-* Triaros Armoured Conveyor
+* [Triaros Armoured Conveyor](../mechanicum_taghmata/detachments.md#triaros-armoured-conveyor-22-points-per-model)
 
 <span style="color: darkmagenta">If your Army includes any Archmagos Prime, Archmagos Prime on Abeyant or Tech-Priest Auxilia Detachments, these are also subject to the [Masters of Machines](../mechanicum_taghmata/index.md#masters-of-machines) and [Tech-Priest Auxilia](../mechanicum_taghmata/index.md#tech-priest-auxilia) special rules.</span>
 
 ### Construct Shields (X)
 
-Construct Shields count as [Void Shields], following the rules presented on page 97 of the *Legions Imperialis Rulebook*. Unlike Void Shields, Construct Shields cannot be reignited and are not rolled for in the End Phase - when the level is reduced, it cannot be increased unless instructed otherwise.
+Construct Shields count as [Void Shields], following the rules presented on [page 97](../../legions_imperialis_rules/special_rules.md#void-shields-x) of the *Legions Imperialis Rulebook*. Unlike Void Shields, Construct Shields cannot be reignited and are not rolled for in the End Phase - when the level is reduced, it cannot be increased unless instructed otherwise.
 
 When one or more Hits are scored against a Detachment which contains one or more models with active Construct Shields, Hits are first allocated to the Construct Shields. Each time a Hit is allocated, reduce the Construct Shield level of an eligible model in that Detachment by 1 then discard the Hit. Once a Construct Shield level has reached 0, that model's shields collapse and are no longer active. Any remaining Hits are allocated to other eligible target models with active Construct Shields. Unlike Void Shields, Hits with an AP of 0 can be assigned to Construct Shields if the weapon that caused the Hits has the [Light AT] or [Anti-tank] Trait. If no models in the Detachment have active Construct Shields, then Hits are allocated to models and resolved as normal.
 

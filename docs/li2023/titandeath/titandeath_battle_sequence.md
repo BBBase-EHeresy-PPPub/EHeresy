@@ -15,7 +15,7 @@ To fight a Titandeath battle, perform the following steps, in order.
 
 ### Determine Titandeath Mission
 
-In Titandeath battles, do not use the Missions from the *Legions Imperialis Rulebook*. Instead, to determine a Titandeath Mission, one player rolls a D3 on the table below. Alternatively, players can simply choose a Mission from the table, so long as all players agree.
+In Titandeath battles, do not use the Missions from the *[Legions Imperialis Rulebook](../legions_imperialis_rules/missions.md)*. Instead, to determine a Titandeath Mission, one player rolls a D3 on the table below. Alternatively, players can simply choose a Mission from the table, so long as all players agree.
 
 | **D3** | **Mission** |
 | ------------ | ----------------- |
@@ -23,7 +23,7 @@ In Titandeath battles, do not use the Missions from the *Legions Imperialis Rule
 | **2** | Breakthrough |
 | **3** | Point of Conflict |
 
-Each Mission determines the deployment zones of both armies, the Primary Objective for both players and, if necessary, how Objective markers are deployed on the battlefield. Descriptions of each Mission, along with their deployment maps, can be found on pages 98-101.
+Each Mission determines the deployment zones of both armies, the Primary Objective for both players and, if necessary, how Objective markers are deployed on the battlefield. Descriptions of each Mission, along with their deployment maps, can be found on [pages 98-101](titandeath_missions.md).
 
 ### Muster Armies
 
@@ -33,7 +33,7 @@ When fighting a Titandeath battle, both players use a points limit to determine 
 
 *Some players may wish to prepare an Army for every eventuality, or simply have a pre-prepared Army roster that they use for every battle. If players wish, this step can be performed before the Determine Titandeath Mission step.*
 
-In Titandeath battles, do not follow the sequence described in the *Legions Imperialis Rulebook* for Mustering an Army. Instead, follow the sequence below:
+In Titandeath battles, do not follow the sequence described in the *[Legions Imperialis Rulebook](../legions_imperialis_rules/mustering_an_army.md)* for Mustering an Army. Instead, follow the sequence below:
 
 #### 1. Declare Allegiance
 
@@ -45,7 +45,7 @@ Future supplements may explore additional Allegiances - such supplements will de
 
 #### 2. Choose Formations
 
-Once a player has declared their Army's Allegiance, they can then select Formations up to the agreed points limit for their battle. In Titandeath battles, players can only select the Legion Support or Knight Household Lance Strategic Asset Formations (see page 205). Note that the normal restrictions on how many of these Formations your Army can contain, and what percentage of the agreed points limit these can comprise, do not apply in Titandeath battles. As such, a player may select as many of these Formations as they wish, limited only by the points cost of those Formations.
+Once a player has declared their Army's Allegiance, they can then select Formations up to the agreed points limit for their battle. In Titandeath battles, players can only select the Legion Support or Knight Household Lance Strategic Asset Formations (see [page 205](../factions/index.md#strategic-assets)). Note that the normal restrictions on how many of these Formations your Army can contain, and what percentage of the agreed points limit these can comprise, do not apply in Titandeath battles. As such, a player may select as many of these Formations as they wish, limited only by the points cost of those Formations.
 
 **Engine Killer Weaponry**
 
@@ -85,7 +85,7 @@ When deployed, some Objective markers will be deployed outside of either player'
 
 ### Determine Titandeath Secondary Objectives
 
-Once all terrain has been placed and all Objectives deployed, each player determines their Titandeath Secondary Objective. Each player has a separate Secondary Objective that can be different from their opponent's. The Secondary Objectives presented in the *Legions Imperialis Rulebook* are not used in Titandeath battles.
+Once all terrain has been placed and all Objectives deployed, each player determines their Titandeath Secondary Objective. Each player has a separate Secondary Objective that can be different from their opponent's. The Secondary Objectives presented in the *[Legions Imperialis Rulebook](../legions_imperialis_rules/secondary_objectives.md)* are not used in Titandeath battles.
 
 To determine a Secondary Objective, the player rolls two D6 and consults the table below to determine two Secondary Objectives. If the same result is rolled on both dice, re-roll one of the dice until two different results are rolled. Once this is done, each player secretly chooses one of the two Secondary Objectives rolled - the other is discarded. Once both players have chosen their Secondary Objective, they reveal their choice to their opponent simultaneously.
 
