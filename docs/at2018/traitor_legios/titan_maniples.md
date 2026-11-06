@@ -64,7 +64,7 @@ Where other maniples favour firepower and brute strength to overcome the foe, a 
 
 **Maniple Trait**
 
-Opportunistic Strike: If an enemy unit's void shields are collapsed by an attack made by a Warhound Titan from this maniple, the Reaver Titan in this maniple can immediately make an attack against it with one of its weapons, following the Combat Sequence as described in the Adeptus Titanicus rulebook. Thismeans that the Reaver can potentially attack several times in the same phase, as well as attacking normally when it is activated. However, if the Reaver is prevented from attacking in the Combat phase - it has Full Stride or [Shutdown] orders, for example - it cannot make these bonus attacks.
+Opportunistic Strike: If an enemy unit's void shields are collapsed by an attack made by a Warhound Titan from this maniple, the Reaver Titan in this maniple can immediately make an attack against it with one of its weapons, following the Combat Sequence as described in the Adeptus Titanicus rulebook. This means that the Reaver can potentially attack several times in the same phase, as well as attacking normally when it is activated. However, if the Reaver is prevented from attacking in the Combat phase - it has Full Stride or [Shutdown] orders, for example - it cannot make these bonus attacks.
 
 </div>
 
@@ -74,7 +74,7 @@ Opportunistic Strike: If an enemy unit's void shields are collapsed by an attack
 
 ## Corsair Battleline Maniple
 
-Corsair Battleline Maniples are built around a raiding doctrine, its Titans chosen for both their speed and firepower.Theversatility of the Reaver lends itself to this role - swift enough to extract itself from danger but tough enough to win a protracted battle.
+Corsair Battleline Maniples are built around a raiding doctrine, its Titans chosen for both their speed and firepower. The versatility of the Reaver lends itself to this role - swift enough to extract itself from danger but tough enough to win a protracted battle.
 
 **Mandatory Components**
 
@@ -120,7 +120,7 @@ Close Support: Janissary Battleline Maniples learn to coordinate their actions w
 
 ## Regia Battleline Maniple
 
-Formations utilising paired Warlord Titans are common to many of the strategies of the Collegia Titanica. TheRegia Battleline Maniple is perhaps the oldest of these, based upon the ancient concept of a King and Queen and their court.
+Formations utilising paired Warlord Titans are common to many of the strategies of the Collegia Titanica. The Regia Battleline Maniple is perhaps the oldest of these, based upon the ancient concept of a King and Queen and their court.
 
 **Mandatory Components**
 
@@ -133,9 +133,9 @@ Formations utilising paired Warlord Titans are common to many of the strategies 
 
 **Maniple Trait**
 
-Royal Court: Thetwo Warlord Titans within this maniple represent the King and Queen, whose role it is to support each other in battle. While the King and Queen are within 12" of each other, if one successfully gains an Order, the other may gain the same Order without the need to pass a Command check.
+Royal Court: The two Warlord Titans within this maniple represent the King and Queen, whose role it is to support each other in battle. While the King and Queen are within 12" of each other, if one successfully gains an Order, the other may gain the same Order without the need to pass a Command check.
 
-TheWarhounds are the Courtiers, whose role it is to shield the King and Queen. Courtiers can merge their void shields with the King and Queen as if they were part of the same Squadron (see the Adeptus Titanicus rulebook). In addition, Courtiers may merge their void shields with either the King's or Queen's while within 3" of them, rather than only while in base contact.
+The Warhounds are the Courtiers, whose role it is to shield the King and Queen. Courtiers can merge their void shields with the King and Queen as if they were part of the same Squadron (see the Adeptus Titanicus rulebook). In addition, Courtiers may merge their void shields with either the King's or Queen's while within 3" of them, rather than only while in base contact.
 
 </div>
 
@@ -157,7 +157,7 @@ It is unclear if the Lupercal Light Maniple existed before Horus took command of
 
 **Maniple Trait**
 
-Hunting Pack: Working closely together, the Warhound Titans can surround and pick off foes many times their size. At the beginning of each round, any or all of the Warhounds within the maniple may be formed into a Squadron with other members of their maniple. TheseSquadrons last until the end of the round.
+Hunting Pack: Working closely together, the Warhound Titans can surround and pick off foes many times their size. At the beginning of each round, any or all of the Warhounds within the maniple may be formed into a Squadron with other members of their maniple. These Squadrons last until the end of the round.
 
 </div>
 
@@ -167,7 +167,7 @@ Hunting Pack: Working closely together, the Warhound Titans can surround and pic
 
 ## Fortis Battle Maniple
 
-Titans are mobile fortresses as formidable to bring down as any redoubt of steel and stone. TheFortis Battle Maniple was created as a defensive formation, allowing Titans to resist assaults from numerically superior foes or the massed firepower of enemy war engines.
+Titans are mobile fortresses as formidable to bring down as any redoubt of steel and stone. The Fortis Battle Maniple was created as a defensive formation, allowing Titans to resist assaults from numerically superior foes or the massed firepower of enemy war engines.
 
 **Mandatory Components**
 
@@ -191,7 +191,7 @@ Titanic Fortress: Standing shoulder to shoulder, the Titans of a Fortis Battle M
 
 ## Ferrox Light Maniple
 
-Collegia Titanica tactical doctrine teaches that lighter Titans must either support larger Titans or mass their firepower from the safety of cover. TheFerrox Light Maniple subscribes to a different tactical school of thought, striding in close for quick and destructive kills.
+Collegia Titanica tactical doctrine teaches that lighter Titans must either support larger Titans or mass their firepower from the safety of cover. The Ferrox Light Maniple subscribes to a different tactical school of thought, striding in close for quick and destructive kills.
 
 **Mandatory Components**
 
@@ -320,7 +320,7 @@ Extergimus Battleline Maniples are a rarely utilised formation, used solely when
 
 **Maniple Trait**
 
-Scorched Earth: During the Combat phase, when a Titan from this maniple makes an attack with a weapon without the [Melee] trait, it may increase the Strength value of the weapon by 2 for the duration of the attack. Thismust be declared before rolling to Hit. If it does so, increase the Titan's Reactor level by 1 (or 2 if the weapon has a Dice value of 5 or greater), in addition to any other advances associated with weapon fire.
+Scorched Earth: During the Combat phase, when a Titan from this maniple makes an attack with a weapon without the [Melee] trait, it may increase the Strength value of the weapon by 2 for the duration of the attack. This must be declared before rolling to Hit. If it does so, increase the Titan's Reactor level by 1 (or 2 if the weapon has a Dice value of 5 or greater), in addition to any other advances associated with weapon fire.
 
 </div>
 
@@ -343,7 +343,7 @@ Firmus maniples are utilised during defensive actions when heavier Titans are un
 
 **Maniple Trait**
 
-Defensive Engagement: When a Titan within a Firmus Light Maniple is chosen as the target of an attack, the controlling player may nominate a different Titan from this maniple to be the target instead. Thenominated Titan must be closer to the attacking unit than the original target, and must be at least 50% visible to the attacking unit. If the attacking unit wishes to, they may make a Command check. If they pass, they may attack their original target. If they fail, they must target the nominated Titan, and can only attack the nominated Titan that round even if they could normally attack more than one unit.
+Defensive Engagement: When a Titan within a Firmus Light Maniple is chosen as the target of an attack, the controlling player may nominate a different Titan from this maniple to be the target instead. Then ominated Titan must be closer to the attacking unit than the original target, and must be at least 50% visible to the attacking unit. If the attacking unit wishes to, they may make a Command check. If they pass, they may attack their original target. If they fail, they must target the nominated Titan, and can only attack the nominated Titan that round even if they could normally attack more than one unit.
 
 A unit can only be forced to take this check once per round, i.e., if they pass, they can target units as normal and are unaffected by this ability for the remainder of the round.
 
@@ -370,7 +370,7 @@ Many Titan Legions with large Vassal Houses create special formations within the
 
 Maniple Traits Auspex Bafflers: Knight Banners included in a Dominus Battleforce Maniple cannot benefit from obscuring cover (see the Adeptus Titanicus rulebook). If a Knight Banner from a Dominus Battleforce Maniple is wholly within 6" of a Titan from the same maniple (i.e., all Knights from the Banner are within 6" of the Titan), and both the Titan and at least one Knight from that Banner is visible to the attacker, attacks made against the Titan from more than 2" away from the Titan suffer a -1 modifier to the Hit roll.
 
-Noble Sacrifice: When a Titan in a Dominus Battleforce Maniple takes a hit from an attack originating from more than 2" away from the Titan, it may transfer the hit to any Knight model from the same maniple within 6", as long as that model is visible to the attacker - the hit must be transferred before any Armour rolls are made. Thechosen Knight suffers the full effects of the hit as if it had been the original target. If the hit was from a weapon with the [Blast] trait, centre the Blast marker over the Knight. Hits from weapons with the Firestorm or Beam traits may not be transferred in this way.
+Noble Sacrifice: When a Titan in a Dominus Battleforce Maniple takes a hit from an attack originating from more than 2" away from the Titan, it may transfer the hit to any Knight model from the same maniple within 6", as long as that model is visible to the attacker - the hit must be transferred before any Armour rolls are made. The chosen Knight suffers the full effects of the hit as if it had been the original target. If the hit was from a weapon with the [Blast] trait, centre the Blast marker over the Knight. Hits from weapons with the [Firestorm] or [Beam] traits may not be transferred in this way.
 
 </div>
 
@@ -427,22 +427,26 @@ Flexible Tactics: At the start of each Strategy phase, before any Orders are iss
 
 <div class="unitCard" markdown>
 
+<div class="unitCard" markdown>
+
 ## Canis Light Maniple
 
 Better known as a Battle-pack, Canis Light maniples were perfected by Legio Audax, utilising a Warhound's speed to launch brutal ambushes as they fall upon their prey with unbridled ferocity.
 
 **Mandatory Components**
 
+- Three Warhound Titans
+
 **Optional Components**
 
-ThreeWarhound Titans
-
-Two Warhound Titans
+- Two Warhound Titans
 
 **Maniple Trait**
 
-Pack Ambush: Canis Light Maniples can only include Legio Audax Titans. Titans within this maniple do not deploy as normal. Instead, at the start of deployment, after arranging Titans into squadrons, the controlling player places a number of markers equal to the number of Titans in this maniple. Thesemarkers can be placed anywhere on the battlefield more than 6" from the enemy deployment zone. Titans from this maniple count as deployed for the purposes of determining which player finished deploying first. When both players have finished deploying as normal, Titans from this maniple can be deployed anywhere within 3" of a Pack Ambush marker. Any Titan deployed in this manner outside of the controlling player's deployment zone must be at least 50% obscured from any enemy unit within line of sight of that Titan. If a Titan cannot be placed within 3" of a Pack Ambush marker in this way, they must be deployed in the controlling player's deployment zone, following all of the normal rules.
+Pack Ambush: Canis Light Maniples can only include Legio Audax Titans. Titans within this maniple do not deploy as normal. Instead, at the start of deployment, after arranging Titans into squadrons, the controlling player places a number of markers equal to the number of Titans in this maniple. These markers can be placed anywhere on the battlefield more than 6" from the enemy deployment zone. Titans from this maniple count as deployed for the purposes of determining which player finished deploying first. When both players have finished deploying as normal, Titans from this maniple can be deployed anywhere within 3" of a Pack Ambush marker. Any Titan deployed in this manner outside of the controlling player's deployment zone must be at least 50% obscured from any enemy unit within line of sight of that Titan. If a Titan cannot be placed within 3" of a Pack Ambush marker in this way, they must be deployed in the controlling player's deployment zone, following all of the normal rules.
 
 If a player has more than one Canis Light Maniple, each maniple beyond the first gives only one extra Pack Ambush marker. Pack Ambush markers are shared between maniples.
+
+</div>
 
 </div>

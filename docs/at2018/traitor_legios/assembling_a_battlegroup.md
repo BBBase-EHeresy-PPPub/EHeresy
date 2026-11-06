@@ -2,7 +2,7 @@
 
 In conventional battles, the presence of a lone Titan - even a Scout class such as a Warhound - can be sufficient to guarantee victory. However, when Titans go to war en masse, they are formed into ad hoc groups, operating together under the command of their most senior Princeps, for the duration of a campaign.
 
-When playing Adeptus Titanicus, all of the units (i.e., individual Titans and Knight Banners) under a player's command are referred to as their "battlegroup". Thisis a loosely defined term which encompasses maniples of Titans, individual Titans acting as reinforcements, and any attached support units, such as Banners of Knights from allied Houses.
+When playing Adeptus Titanicus, all of the units (i.e., individual Titans and Knight Banners) under a player's command are referred to as their "battlegroup". This is a loosely defined term which encompasses maniples of Titans, individual Titans acting as reinforcements, and any attached support units, such as Banners of Knights from allied Houses.
 
 ## Building a Battlegroup
 

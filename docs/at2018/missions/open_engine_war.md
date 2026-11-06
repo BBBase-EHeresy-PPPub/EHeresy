@@ -28,131 +28,37 @@ Battlefield effects represent the unique challenges offered by the countless dif
 
 ### Chance Engagement
 
-CHANCE ENGAGEMENT
-
-12"          12"
-
-8'          8'
-
-8'          8'
-
-12"          12"
-
 ![Chance Engagement](../media/open_engine_war/deployment_maps_chance_engagement.png){ width=538 height=803 }
 
 ### Confrontation
-
-30"
-
-18"
-
-18"
-
-30"
 
 ![Confrontation](../media/open_engine_war/deployment_maps_confrontation.png){ width=545 height=815 }
 
 ### Flank Engagement
 
-+/ FLANK ENGAGEMENT //
-
-24" | 24"
-
-14"
-
-14"
-
-14"
-
-14"
-
-24" | 24"
-
 ![Flank Engagement](../media/open_engine_war/deployment_maps_flank_engagement.png){ width=541 height=792 }
 
 ### Fortified Position
-
-[+ FORTIFIED POSITION ]
-
-24"
-
-10"
-
-10"
-
-24"
 
 ![Fortified Position](../media/open_engine_war/deployment_maps_fortified_position.png){ width=527 height=794 }
 
 ### Line of Battle
 
-48"
-
-8"
-
-8"
-
-48"
-
 ![Line of Battle](../media/open_engine_war/deployment_maps_line_of_battle.png){ width=535 height=804 }
 
 ### Scattered Front
-
-SCATTERED FRONT
-
-12"          12"
-
-12"          12"
-
-12"          12"
-
-12"          12"
 
 ![Scattered Front](../media/open_engine_war/deployment_maps_scattered_front.png){ width=535 height=803 }
 
 ### Spearhead
 
-SPEARHEAD
-
-48"
-
-24"
-
-24"
-
-48"
-
 ![Spearhead](../media/open_engine_war/deployment_maps_spearhead.png){ width=531 height=801 }
 
 ### Staggered Front
 
--] STAGGERED FRONT []
-
-24"
-
-8"
-
-24"
-
-8"
-
-24"
-
-8"
-
-24"
-
 ![Staggered Front](../media/open_engine_war/deployment_maps_staggered_front.png){ width=533 height=814 }
 
 ### Strengthened Flank
-
-48"
-
-10"
-
-10"
-
-48"
 
 ![Strengthened Flank](../media/open_engine_war/deployment_maps_strengthened_flank.png){ width=540 height=802 }
 
@@ -166,7 +72,7 @@ At the end of the battle, a player gains 15 Victory points for each Objective to
 
 ### Chokepoint
 
-++ Both forces are attempting to capture a vital strategic location in the centre of the battlefield. ++
+*Both forces are attempting to capture a vital strategic location in the centre of the battlefield.*
 
 During battlefield set-up, an Objective token is placed in the centre of the battlefield. At the start of each End phase both players calculate the total Scale of their units within 6" of the Objective token. The force with the greatest total Scale within 6" of the token is in control of the Objective. If the total Scale of both players' units is the same, the objective is contested. If a unit is within 6" of the objective, and their force is in control of it, that unit adds 1 to the result of all Command checks it makes.
 
@@ -217,7 +123,7 @@ If your opponent is using a Knight Household force, the Seneschal's Lance is the
 
 ### Expedient Strike
 
-++ Your battlegroup is tasked with enacting a quick and efficient attack intended to strike fear into the hearts of the foe. ++
+*Your battlegroup is tasked with enacting a quick and efficient attack intended to strike fear into the hearts of the foe.*
 
 After both players have deployed their forces, secretly choose two of your opponent's Titans as Primary Targets. At the end of battle, you gain 5 Victory points for each Primary Target destroyed in the first or second round, or 5 Victory points if, at the end of the battle, both targets are destroyed but one or both Primary Targets were destroyed in round three onwards.
 
@@ -225,7 +131,7 @@ If your opponent is using a Knight Household force, discard this Secondary Objec
 
 ### Hold the Line
 
-++ Your battlegroup is tasked with holding the enemy's advance. ++
+*Your battlegroup is tasked with holding the enemy's advance.*
 
 At the end of the battle, you gain 5 Victory points for having no enemy units within 18" of your board edge and an additional 5 Victory points if no enemy units are within 24" of your board edge.
 
@@ -239,7 +145,7 @@ If both you and your opponent are using a Knight Household force then you instea
 
 ### Make Them Suffer
 
-++ Your battlegroup has been tasked with sending a message of pain and suffering. ++
+*Your battlegroup has been tasked with sending a message of pain and suffering.*
 
 After both forces have been deployed, secretly choose two of your opponent's Titans as targets. At the end of the battle, you gain 5 Victory points for each chosen target that is Structurally Compromised but not destroyed.
 
@@ -285,7 +191,7 @@ Though following all other normal rules for terrain, the Strategic Objective can
 
 ### Seize the Quadrants
 
-++ Your battlegroup is tasked with securing as much land as possible. ++
+*Your battlegroup is tasked with securing as much land as possible.*
 
 After battlefield set-up, but before any forces have been deployed, divide the table into four equal sections. At the end of the battle, calculate the total Scale of both players' units within each battlefield section. If the total Scale of your units within a section is greater than your opponent's, you gain control of that section. You gain 5 Victory points if you control two or more battlefield sections and an additional 5 Victory points if you control three or more battlefield sections.
 
@@ -325,7 +231,7 @@ The first time each unit attacks in a round, roll a D10 after resolving the atta
 
 ### Forge World
 
-++ The battle takes place upon a Forge World and both sides benefit from robust supply lines. ++
+*The battle takes place upon a Forge World and both sides benefit from robust supply lines.*
 
 Both players get an additional 2 Stratagem points which they can spend on Battlefield Assets. In addition, all Titans increase their Servitor Clades characteristic by 1.
 
@@ -343,7 +249,7 @@ Increase the Strength and Dice Value of weapons with the [Firestorm] trait by 1.
 
 ### Shattered World
 
-++ The battle takes place on an unstable asteroid or shattered artificial structure with the very ground fracturing beneath the feet of the warring sides. ++
+*The battle takes place on an unstable asteroid or shattered artificial structure with the very ground fracturing beneath the feet of the warring sides.*
 
 After setting up the battlefield, divide it into 12"x12" sections; the centre four 12"x12" sections are the centre of the battlefield. At the beginning of each End phase, randomly determine a battlefield section; that section shatters. Any model whose base is wholly on the chosen battlefield section is destroyed. Roll a D6 for any model whose base is only partially on the battlefield section, adding 1 to the result if the Scale of the unit is 8 or less, or 2 to the result if the Scale of the unit is 4 or less. On a 6+, the model is moved the shortest possible distance so that its base is no longer on the shattered section. Otherwise, the model is destroyed.
 
@@ -357,7 +263,7 @@ At the start of each End phase, players roll a D6 for each Titan that has suffer
 
 ### War World
 
-++ This battle is but one of many unfolding across the world and both sides are at risk from the unceasing artillery barrages. ++
+*This battle is but one of many unfolding across the world and both sides are at risk from the unceasing artillery barrages.*
 
 During the End phase of each round, each player rolls a D6. On a 2+, the player resolves D6 S8 hits against a target unit of their choice. On a 1, the opposing player chooses a target unit to suffer these hits instead.
 
@@ -388,7 +294,7 @@ one or more Structure points.
 
 ### Flooded Battlefield
 
-++ The battlefield is flooded, hindering the movement of Knights and Titans alike. ++
+*The battlefield is flooded, hindering the movement of Knights and Titans alike.*
 
 Titans cannot move more than a total of 8" during their activation. Knight Banners have their movement halved, but attacks against Knight Banners incur a -1 modifier to all Hit rolls.
 
@@ -404,7 +310,7 @@ All geyser eruption Blast markers are removed during the End phase.
 
 ### Lightning Storm
 
-++ The battlefield is shrouded in an electrical storm that disrupts active Void Shields and could damage unprotected Titans. ++
+*The battlefield is shrouded in an electrical storm that disrupts active Void Shields and could damage unprotected Titans.*
 
 All weapons gain the [Voidbreaker] (1) trait or, if they already have the [Voidbreaker] (X) trait, increases the value in brackets by 1. In addition, at the start of every End phase roll a D5 for each Titan with a Void Shield level of X. On a 5+, the Titan is struck by lightning. Resolve a single S8 hit against the Titan's Body.
 
@@ -416,13 +322,13 @@ Subtract 1 from the result of all Hit rolls made for attacks against a target mo
 
 ### Pitch Black
 
-++ The two forces battle under the cover of darkness or in a subterranean cavern devoid of light. ++
+*The two forces battle under the cover of darkness or in a subterranean cavern devoid of light.*
 
 Units can only make attacks against targets within 12" of the attacking unit unless the target unit has already made an attack with a weapon without the [Melee] trait or has made the Vent Plasma Action this round.
 
 ### Radiation
 
-++ Areas of the battlefield are saturated with radiation, which drifts across the landscape contaminating all it touches. ++
+*Areas of the battlefield are saturated with radiation, which drifts across the landscape contaminating all it touches.*
 
 After both forces have deployed, players take it in turns, starting with the player who has control of the battlefield, to deploy a total of three markers representing the drifting radiation.
 
@@ -438,13 +344,13 @@ Attacks made against a target by a unit that is further away than twice the targ
 
 ### Unstable Ground
 
-++ The ground is precarious and prone to collapse under the heavy tread of a Titan. ++
+*The ground is precarious and prone to collapse under the heavy tread of a Titan.*
 
 Whenever a Titan declares Power to Locomotors!, before moving it, roll a D10. On a 1 or a 2, the Titan can only move up to its base Movement characteristic and, after moving, suffers D3 S6 hits to its Legs, ignoring Void Shields, as if successfully hit by a weapon with the [Quake] trait.
 
 ### Vox Ghosts
 
-++ Vox echoes flood the communication networks of both forces, leading to miscommunication and confusion. ++
+*Vox echoes flood the communication networks of both forces, leading to miscommunication and confusion.*
 
 If a unit rolls a natural 1 when making a Command check, the opposing player may issue the unit an Order of their choice without the need to make a Command check. A [Shutdown] order cannot be issued in this manner.
 

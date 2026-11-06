@@ -1,21 +1,12 @@
-Warning: truncated output (original token count: 55271)
-Total output lines: 1289
-
 ## Legio Ignatum
 
-Title: The Legio Ignatum Ordo Titanica
-
-Militaris Grade: Primus (Maxis)
-
-Patent: Pre-Imperial, Martian Mechanicum
-
-Warden Domain(s): Mars (Forge World)
-
-Cognomen: The Fire Wasps
-
-Allied War Houses: The Anaktor Mors and the Freeblade Host
-
-Allegiance: Fidelitas Exemplorum
+- **Title:** The Legio Ignatum Ordo Titanica
+- **Militaris Grade:** Primus (Maxis)
+- **Patent:** Pre-Imperial, Martian Mechanicum
+- **Warden Domain(s):** Mars (Forge World)
+- **Cognomen:** The Fire Wasps
+- **Allied War Houses:** The Anaktor Mors and the Freeblade Host
+- **Allegiance:** Fidelitas Exemplorum
 
 The Legio Ignatum boasts a proud lineage that few other Titan Legions can match, for they are one of the Triad Ferrum Morgulus, the first of that illustrious brotherhood. It is by the fire of their weapons and the steel of their resolve that Mars was safeguarded through the long years of the Age of Strife for, by their ancient oath, while any warrior of Ignatum still stood no harm would come to those places left in their charge. It is this stubborn defiance, the bitter intransigence in the face of impossible odds, that would be the cornerstone of Legio Ignatum's fame, for never in the history of that Order had they chosen to retreat in the face of the enemy. This ironclad loyalty was to be both a blessing and a terrible curse - at once the pride of the Legio and also the reason for their exile and near- destruction at the dawn of the Horus Heresy.
 
@@ -33,15 +24,17 @@ It is held by Legio Ignatum as a mark of bitter honour that none of their brethr
 
 The traitorous Fabricator General had removed from Mars the one force he could not turn but had failed to strike a lethal blow. In doing so he had gained only a short respite, for now awakened to fury, the Fire Wasps turned their every thought to revenge, bent their every action to the defeat of those that had forsaken their honour. For those they had once called brother, the warriors of Mortis and Tempestus, they reserved the deepest hatred, seeing in them a twisted reflection of themselves and taking every chance to meet them in battle to prove once again the strength of their loyalty, a loyalty that would be repeatedly tested until the bitter end of the Horus Heresy.
 
-Materiel Strength As one of the Triad Ferrum Morgulus, the Legio Ignatum was a Titan Legion of the first order. Within its ranks could be found Titans of every class and size, including Warmaster Heavy Battle Titans and several Apocalypse class machines that rarely left the central forge-fanes of Mars. In total, they numbered almost 200 engines of war, with the greater number stationed on Mars and the remainder spread across the Segmentum Solar. Most common amongst their ranks were Warlord class god- engines - and Legio Ignatum were noted for their comparative lack of smaller Scout Titans. When committed to the attack they were preceded not by a wave of lighter machines as was the standard doctrine of most Titan Legions, but by a phalanx of the heaviest Battle Titans, relying on the strength of their guns to carry the day.
+### Materiel Strength
+
+As one of the Triad Ferrum Morgulus, the Legio Ignatum was a Titan Legion of the first order. Within its ranks could be found Titans of every class and size, including Warmaster Heavy Battle Titans and several Apocalypse class machines that rarely left the central forge-fanes of Mars. In total, they numbered almost 200 engines of war, with the greater number stationed on Mars and the remainder spread across the Segmentum Solar. Most common amongst their ranks were Warlord class god- engines - and Legio Ignatum were noted for their comparative lack of smaller Scout Titans. When committed to the attack they were preceded not by a wave of lighter machines as was the standard doctrine of most Titan Legions, but by a phalanx of the heaviest Battle Titans, relying on the strength of their guns to carry the day.
 
 A long-standing belief among the warriors of Legio Ignatum stated that the fate of a battle was foretold by the first shot fired. If that shot struck a telling blow it would bring them victory, while a miss signalled a hard trial to come, and as such only the finest of marksmen would be allowed to make such a strike in the opening moments of battle. An oft re-told legend tells that in the opening moments of the betrayal on Mars, the Princeps of the Fire Wasps were so shocked that the first shot was fired by a neophyte Princeps and hit an allied Titan in error - an omen of the tragedy that would befall the Legio Ignatum on that day.
 
 ## Legio Ignatum (Fire Wasps)
 
-**Legio Trait: We Loyal Few Considering themselves the last remaining true Titans of Mars, the**
+### Legio Trait: We Loyal Few
 
-Fire Wasps hold a deep loathing for those Titan Legions that renounced their oaths and sided with the Warmaster.
+Considering themselves the last remaining true Titans of Mars, the Fire Wasps hold a deep loathing for those Titan Legions that renounced their oaths and sided with the Warmaster.
 
 Legio Ignatum Titans may re-roll Hit rolls of a 1 when making attacks against an enemy Titan within 12" of them during the Combat phase.
 
@@ -57,49 +50,43 @@ Loyal to a fault, the Fire Wasps were often chosen to guard key worlds in the ce
 
 This Stratagem can be purchased by any Legio Ignatum player. Play this Stratagem at the start of the first round's Strategy phase. Until the end of the round, friendly Legio Ignatum Titans can be issued the [First Fire] order without the need to make a Command check.
 
-**Legio Specific Wargear: Gravitonic Sensor Array As befitting their status as one of the Triad Ferrum**
+### Legio Specific Wargear: Gravitonic Sensor Array
 
-Morgulus, the Fire Wasps had access to technology less illustrious Titan Legions did not. These included sensors that enabled Fire Wasp Titans to effortlessly track their targets even when obscured.
+As befitting their status as one of the Triad Ferrum Morgulus, the Fire Wasps had access to technology less illustrious Titan Legions did not. These included sensors that enabled Fire Wasp Titans to effortlessly track their targets even when obscured.
 
 Any Legio Ignatum Titan may take a Gravitonic Sensor Array for +15 points. Apply a +1 modifier to all Hit rolls made by a Titan with this upgrade against a target that is at least 25% obscured.
 
-**Legio Specific Personal Traits A Legio Ignatum Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Ignatum Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Death before Dishonour: For the Princeps, the only true defeat is to dishonour their oaths and so they will never surrender, even if it leads to their death. The Princeps' Titan may re-roll failed Hit rolls if their Titan has suffered Critical Damage. However, during the Damage Control phase, they must spend any Repair dice to repair disabled weapons before repairing any other kind of damage if possible. 2 Foe Slayer: The Princeps believes that their honour will be restored only when every traitorous member of the Collegia Titanica lies dead, reserving a particular hatred for those of the Triad Ferrum Morgulus. During the Combat phase, the Princeps may choose one of their Titan's weapons. Add 1 to the result of all Armour rolls made with the chosen weapon. If the Princeps is targeting a Titan from Legio Mortis or Legio Tempestus, the Princeps may choose two of the Princeps' Titan's weapons to add 1 to the result. 3 Eternal Guardian: The Princeps watched the world they vowed to defend burn when ordered to retreat, and now vow they will never yield a battlefield without a fight again. Once per Combat phase, the Princeps may re-roll a single Armour roll resulting from hits from any of their weapons if they have not moved (voluntarily or involuntarily) in the same round.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Death before Dishonour:** For the Princeps, the only true defeat is to dishonour their oaths and so they will never surrender, even if it leads to their death. The Princeps' Titan may re-roll failed Hit rolls if their Titan has suffered Critical Damage. However, during the Damage Control phase, they must spend any Repair dice to repair disabled weapons before repairing any other kind of damage if possible. |
+| 2 | **Foe Slayer:** The Princeps believes that their honour will be restored only when every traitorous member of the Collegia Titanica lies dead, reserving a particular hatred for those of the Triad Ferrum Morgulus. During the Combat phase, the Princeps may choose one of their Titan's weapons. Add 1 to the result of all Armour rolls made with the chosen weapon. If the Princeps is targeting a Titan from Legio Mortis or Legio Tempestus, the Princeps may choose two of the Princeps' Titan's weapons to add 1 to the result. |
+| 3 | **Eternal Guardian:** The Princeps watched the world they vowed to defend burn when ordered to retreat, and now vow they will never yield a battlefield without a fight again. Once per Combat phase, the Princeps may re-roll a single Armour roll resulting from hits from any of their weapons if they have not moved (voluntarily or involuntarily) in the same round. |
 
-Legio Ignatum Warlord Battle Titan
+### Legio Ignatum Warlord Battle Titan
 
-Ignis Indignatio The patterns displayed upon the armour of Ignis Indignatio, depicted here after the conquest of Urdesh, are characteristic of the
+**Ignis Indignatio**
 
-finery Legio Ignatum often decorated their engines with. The Fire Wasps held great pride in their status as a member of the Triad Ferrum Morgulus even when such a name lost a measure of respect following the treachery of both Legio Mortis and much of Legio Tempestus. Like many Fire Wasps engines, Ignis Indignatio held a long and illustrious record, with the honour banner depicted here being the 87th banner depicting their conquest. The other banners were painstakingly reconstructed from
+The patterns displayed upon the armour of Ignis Indignatio, depicted here after the conquest of Urdesh, are characteristic of the finery Legio Ignatum often decorated their engines with. The Fire Wasps held great pride in their status as a member of the Triad Ferrum Morgulus even when such a name lost a measure of respect following the treachery of both Legio Mortis and much of Legio Tempestus. Like many Fire Wasps engines, Ignis Indignatio held a long and illustrious record, with the honour banner depicted here being the 87th banner depicting their conquest. The other banners were painstakingly reconstructed from records after the originals were removed from stasis on Mars and destroyed by servants of Kelbor-Hal.
 
-records after the originals were removed from stasis on Mars and destroyed by servants of Kelbor-Hal.
+### Legio Ignatum Warmaster Heavy Battle Titan
 
-Legio Ignatum Warmaster Heavy Battle Titan
+**Vindicta Manibus**
 
-Vindicta Manibus Records long hidden from the eyes of any save the most trusted of the Omnissiah's servants indicate that, though the Warmaster Titan was a novel design in the eyes of the Imperium, it held a lineage as ancient as the Warlord Battle Titan. Vindicta Manibus, pictured here following the conquest of Urdesh, bears honour markings dating back to the Mechanicum's
-
-wars against the Cy-Carnivora upon the Red Planet, millennia before the coming of the Emperor. The kill-markings borne upon Vindicta Manibus' honour banner however, depict solely those Battle Titans slain by the god-engine since its awakening
-
-in 011.M31, a testament to the destructive power wielded by each Warmaster Titan.
+Records long hidden from the eyes of any save the most trusted of the Omnissiah's servants indicate that, though the Warmaster Titan was a novel design in the eyes of the Imperium, it held a lineage as ancient as the Warlord Battle Titan. Vindicta Manibus, pictured here following the conquest of Urdesh, bears honour markings dating back to the Mechanicum's wars against the Cy-Carnivora upon the Red Planet, millennia before the coming of the Emperor. The kill-markings borne upon Vindicta Manibus' honour banner however, depict solely those Battle Titans slain by the god-engine since its awakening in 011.M31, a testament to the destructive power wielded by each Warmaster Titan.
 
 ## Legio Gryphonicus
 
-Title: The Legio Gryphonicus Ordo Titanica
-
-Militaris Grade: Primus
-
-Patent: Pre-Imperial, Martian Mechanicum
-
-Warden Domain(s): Gryphonne IV (Forge World), the Gryphonne Octad, Paramar, Silusis Lex, Yana VI
-
-Cognomen: The War Griffons
-
-Allied War Houses: Coldshroud, Fvaber and Cadmus
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Gryphonicus Ordo Titanica
+- **Militaris Grade:** Primus
+- **Patent:** Pre-Imperial, Martian Mechanicum
+- **Warden Domain(s):** Gryphonne IV (Forge World), the Gryphonne Octad, Paramar, Silusis Lex, Yana VI
+- **Cognomen:** The War Griffons
+- **Allied War Houses:** Coldshroud, Fvaber and Cadmus
+- **Allegiance:** Fidelitas Constantus
 
 Regarded by many as one of the greatest of all Titan Legions and an exemplar of its kind, the Legio Gryphonicus, or "War Griffons" to give them their more common appellation, was to suffer a trial by fire during the dark days of the Horus Heresy and remain true to their oaths to the Imperium and unwavering in battle against the Traitors. Gryphonne IV, the world of the Legio's founding, was known to have been a seat of technological might according to ancient myths predating the Age of Strife, and so formed one of the earliest attempts of the Martian Mechanicum to reach out into the darkness during the Age of Strife. While many such missions resulted in failure - doomed before the Emperor's intervention in the creation of the Navis Nobilite - and many of the Mechanicum arks were sundered or lost without trace, the expedition to Gryphonne IV met with great success. This was likely a process of conquest over what local inhabitants remained rather than colonisation on the Mechanicum's part, although the truth of this matter has long since been sealed and forgotten by the Imperium.
 
@@ -113,71 +100,75 @@ As the Great Crusade progressed into its later phases, the success of the Legio 
 
 It is testament to the prowess of the War Griffons that the changing landscape of galactic conflict, shaped by unexpected foes and shifting loyalties, and the fragmented nature of their fighting force, did little to dampen their contribution to the Imperium. The long years of the Great Crusade had prepared the Princeps of Legio Gryphonicus to function beyond the vigil of a single, centralised command structure, and the War Griffons saw themselves participate in some of the most gruelling and influential battles of the Horus Heresy. Indeed, the honours they had won during the Great Crusade had set them as garrison-warders of worlds of strategic import and many War Griffons elements quickly found themselves within the path of the Warmaster's advance; on planets such as Paramar V and Molech, Legio Gryphonicus sacrificed much in their attempt to halt the machinations of their foe. From war zones in which the War Griffons emerged victorious - of which there were many during the Horus Heresy - the surviving Princeps took bitter pride in the tally of foe they had slain, for though the nature of such a conflict was not one they had sought, the martial pride that ran through the Legio was sated by the knowledge that on countless battlefields, Legio Gryphonicus stood above all other Titan Legions. The final tally of victories, defeats, honours and losses earned by the War Griffons during the Horus Heresy was not to be counted for some time. It was not until the dark years of the Scouring that the tides of war would see the surviving War Griffons gathered together again upon the mustering grounds of the Plain of Achemados on the Forge World of their founding.
 
-Materiel Strength As a Primus grade Titan Legion, the War Griffons were one of the most powerful military formations in the Legio Titanicus, and therefore the Great Crusade itself. The strength of Legio Gryphonicus was roughly on a par with other Primus Legio such as the Legio Crucius (the Warmongers) and the Legio Magna (the Flaming Skulls), and surpassed in size by the giants of the Legio Mortis (the Death's Heads) and the Legio Destructor (the Beasts of Steel). The Legio Gryphonicus' operational strength at the time of the Horus Heresy's outbreak is attested to stand at 176 god-engines of various classes and types, with roughly half of these being of the Reaver type Battle Titan. The remainder being split roughly between various Scout class and larger Warlord class Battle Titans, as well as several of the most powerful Nemesis and Imperator types.
+### Materiel Strength
+
+As a Primus grade Titan Legion, the War Griffons were one of the most powerful military formations in the Legio Titanicus, and therefore the Great Crusade itself. The strength of Legio Gryphonicus was roughly on a par with other Primus Legio such as the Legio Crucius (the Warmongers) and the Legio Magna (the Flaming Skulls), and surpassed in size by the giants of the Legio Mortis (the Death's Heads) and the Legio Destructor (the Beasts of Steel). The Legio Gryphonicus' operational strength at the time of the Horus Heresy's outbreak is attested to stand at 176 god-engines of various classes and types, with roughly half of these being of the Reaver type Battle Titan. The remainder being split roughly between various Scout class and larger Warlord class Battle Titans, as well as several of the most powerful Nemesis and Imperator types.
 
 The Legio Gryphonicus also possessed a noteworthy and unusually high number of Titan-Barques and Mass-Conveyors operating under its own fealty and allegiance. This substantial fleet rendered it largely independent of operation when the need arose, and would serve it well during the Horus Heresy, enabling a degree of vital mobility and speed of action so it could both survive and engage the foe on its own terms.
 
 ## Legio Gryphonicus (War Griffons)
 
-Legion Trait: Lust for Glory The Princeps of Legio Gryphonicus are known far and wide for their martial tradition, and their eternal hunt for prestige in battle, often engaging in honour duels away from the field of battle.
+### Legion Trait: Lust for Glory
+
+The Princeps of Legio Gryphonicus are known far and wide for their martial tradition, and their eternal hunt for prestige in battle, often engaging in honour duels away from the field of battle.
 
 After both sides have deployed, one or more Legio Gryphonicus Titans can declare an enemy Titan as a target. Each Legio Gryphonicus Titan may select a target, though a Titan may not select a previously chosen target. Make a note of which Titans are declaring a target and their intended target, sharing this with your opponent. If a Titan attacks its intended target, the controlling player can re-roll all Hit rolls of a 1, and add 1 to the result of any Armour rolls made as part of an attack against the target. However, if a friendly Legio Gryphonicus Titan attacks a target claimed by a different friendly Titan, the claim is forfeit and this rule no longer applies for that Titan.
 
-Legion Trait: Mainstay of the Titan Legion Legio Gryphonicus counts a disproportionately large number of Reaver Battle Titans among its ranks. As a result, they are often outfitted for unusual battlefield roles and included in maniples in place of different classes of Titan.
+### Legion Trait: Mainstay of the Titan Legion
+
+Legio Gryphonicus counts a disproportionately large number of Reaver Battle Titans among its ranks. As a result, they are often outfitted for unusual battlefield roles and included in maniples in place of different classes of Titan.
 
 Any Legio Gryphonicus maniple may select a Reaver Titan in place of any Warlord Titan or Warhound Titan as part of its mandatory or optional components.
 
-Legion Specific Wargear: Enhanced Auspex Relays The Warhound Titans of any Titan Legion are at their best when ranging ahead of their battlegroup, and those of the Legio Gryphonicus exemplify this more than any other. In keeping with their Titan Legion's tradition of staunch individuality, Legio Gryphonicus Warhound Princeps tend not to hunt in packs, preferring to strike out alone and bait the enemy at close range. The tech-adepts of Gryphonne IV have worked long and hard to capitalise on this fearless behaviour, and have developed enhanced auspex relays which transfer close range target data back to the rest of the battlegroup.
+### Legion Specific Wargear: Enhanced Auspex Relays
+
+The Warhound Titans of any Titan Legion are at their best when ranging ahead of their battlegroup, and those of the Legio Gryphonicus exemplify this more than any other. In keeping with their Titan Legion's tradition of staunch individuality, Legio Gryphonicus Warhound Princeps tend not to hunt in packs, preferring to strike out alone and bait the enemy at close range. The tech-adepts of Gryphonne IV have worked long and hard to capitalise on this fearless behaviour, and have developed enhanced auspex relays which transfer close range target data back to the rest of the battlegroup.
 
 Any Legio Gryphonicus Warhound can be equipped with Enhanced Auspex Relays at a cost of +10 points. Whenever a Legio Gryphonicus Titan makes an attack, it can measure the distance to any targets that are within 12" of a friendly Warhound equipped with Enhanced Auspex Relays before declaring its target.
 
-Legion Specific Wargear: Gravatus Plating Where a Reaver Titan of the Legio Gryphonicus is to be fielded in place of a larger Battle Titan, its hull is often fitted with heavier armour plating to reflect its enhanced frontline role.
+### Legion Specific Wargear: Gravatus Plating
+
+Where a Reaver Titan of the Legio Gryphonicus is to be fielded in place of a larger Battle Titan, its hull is often fitted with heavier armour plating to reflect its enhanced frontline role.
 
 Any Legio Gryphonicus Reaver can be upgraded to have Gravatus Plating for +20 points. A Titan with this upgrade changes the first tier of its Armour value for its Body from 10- 12 to 11-12 and for its Legs from 11-12 to 12. In addition, the Titan decreases its default and boosted Speed characteristic by 1", to a minimum of 4" and 6" respectively. A Reaver Titan with this upgrade cannot also have the Motive Sub-reactors upgrade.
 
-Legion Specific Wargear: Motive Sub-reactors Although Reaver Titans are not designed to act as scouts, Legio Gryphonicus has them in such great numbers that it is sometimes necessary for them to be adapted to the role. The most effective method involves the installation of a secondary plasma reactor at the top of each leg, allowing the Titan to operate at full locomotor capacity without drawing on the main reactor.
+### Legion Specific Wargear: Motive Sub-reactors
+
+Although Reaver Titans are not designed to act as scouts, Legio Gryphonicus has them in such great numbers that it is sometimes necessary for them to be adapted to the role. The most effective method involves the installation of a secondary plasma reactor at the top of each leg, allowing the Titan to operate at full locomotor capacity without drawing on the main reactor.
 
 Any Legio Gryphonicus Reaver can be upgraded to have Motive Sub-reactors for +25 points. A Titan with this upgrade can declare Power to Locomotors! and Power to Stabilisers! without pushing its reactor. However, each time the Titan suffers a Critical Hit to its Legs, roll a D6. On a result of 3 or less, its Reactor level is increased by 1. A Reaver Titan with this upgrade cannot also have the Gravatus Plating upgrade.
 
-**Legio Specific Personal Traits A Legio Gryphonicus Princeps Seniores' Personal Trait can either be generated**
+### Legio Specific Personal Traits
 
-from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Gryphonicus Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Reckless Maverick: You could always tell when Uranna was going to do something foolish, because she sat up straight and spoke with clipped precision, as though she thought it improper to slouch when giving an order that would likely doom us all. Once per battle, the Princeps Seniores' Titan can be activated a second time in the Movement phase or Combat phase. After doing so, advance the Titan's Reactor level three times. 2 Master Duellist: As far as I saw, Raal only ever did four things: eat, sleep, command Invictus Nova and fight in the duelling halls. His instincts were honed towards close-ranged fighting, whether he was using a chainsword or a laser destructor. Failed Hit rolls for the Princeps Seniores' Titan can be re-rolled when it is making attacks against a target which is within 8". 3 Hunter without Equal: Elion was a slight man, with an unusually reserved demeanour for a Princeps. But when he sighted his prey, it was as though he became a beast uncaged. Roaring orders, screaming for blood - his rages were as terrifying as anything I've ever seen. The Princeps Seniores' Titan may re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the Lust for Glory Legio trait).
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Reckless Maverick:** You could always tell when Uranna was going to do something foolish, because she sat up straight and spoke with clipped precision, as though she thought it improper to slouch when giving an order that would likely doom us all. Once per battle, the Princeps Seniores' Titan can be activated a second time in the Movement phase or Combat phase. After doing so, advance the Titan's Reactor level three times. |
+| 2 | **Master Duellist:** As far as I saw, Raal only ever did four things: eat, sleep, command Invictus Nova and fight in the duelling halls. His instincts were honed towards close-ranged fighting, whether he was using a chainsword or a laser destructor. Failed Hit rolls for the Princeps Seniores' Titan can be re-rolled when it is making attacks against a target which is within 8". |
+| 3 | **Hunter without Equal:** Elion was a slight man, with an unusually reserved demeanour for a Princeps. But when he sighted his prey, it was as though he became a beast uncaged. Roaring orders, screaming for blood - his rages were as terrifying as anything I've ever seen. The Princeps Seniores' Titan may re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the Lust for Glory Legio trait). |
 
-Legio Gryphonicus Warlord Battle Titan
+### Legio Gryphonicus Warlord Battle Titan
 
-Argent Monarch The martial culture of the War Griffons is one of fierce pride and honour. They highly value discipline and skill
+**Argent Monarch**
 
-amongst their Titan crews, and each Princeps and Moderati strives to add glory to their own name and that of their bloodline and Legio, much in the manner of their kin in the Knight Houses. This lust for glory and individual
+The martial culture of the War Griffons is one of fierce pride and honour. They highly value discipline and skill amongst their Titan crews, and each Princeps and Moderati strives to add glory to their own name and that of their bloodline and Legio, much in the manner of their kin in the Knight Houses. This lust for glory and individual achievement within the Legio's ranks does occasionally result in legendary rivalries among its Princeps, and highly structured mechanisms are imposed for resolving such affairs of honour through duelling, a tradition which is only held in abeyance during open battle.
 
-achievement within the Legio's ranks does occasionally result in legendary rivalries among its Princeps, and highly structured mechanisms are imposed for resolving such affairs of honour through duelling, a tradition which is only
+### Legio Gryphonicus Warmaster Heavy Battle Titan
 
-held in abeyance during open battle.
+**Aureum Castigtor**
 
-Legio Gryphonicus Warmaster Heavy Battle Titan
-
-Aureum Castigtor The exact number of Warmaster Titans that existed prior to the Horus Heresy is, by virtue of the secretive existence
-
-they led, impossible to determine. Even the most ancient and lauded of Titan Legions such as Legio Gryphonicus
-
-are estimated, at most, to have been capable of fielding less than half a dozen Warmaster Titans. The Aureum Castigtor is an example of a War Griffons Warmaster Heavy Battle Titan, one of three such god-engines that can be definitively placed in service to the Legio. Suzerain pattern plasma destructors were a common component of a Warmaster Titan's loadout, capable of the annihilation of all but the mightiest of edifices with contemptuous ease.
+The exact number of Warmaster Titans that existed prior to the Horus Heresy is, by virtue of the secretive existence they led, impossible to determine. Even the most ancient and lauded of Titan Legions such as Legio Gryphonicus are estimated, at most, to have been capable of fielding less than half a dozen Warmaster Titans. The Aureum Castigtor is an example of a War Griffons Warmaster Heavy Battle Titan, one of three such god-engines that can be definitively placed in service to the Legio. Suzerain pattern plasma destructors were a common component of a Warmaster Titan's loadout, capable of the annihilation of all but the mightiest of edifices with contemptuous ease.
 
 ## Legio Astorum
 
-Title: The Legio Astorum Ordo Titanica
-
-Militaris Grade: Primus
-
-Patent: Pre-Imperial, Lucian Mechanicum
-
-Warden Domain(s): Lucius (Forge World), Arrapolis V, Kamenka Troika, Tri-Narutt System
-
-Cognomen: The Warp Runners
-
-Allied War Houses: Hawkwood, Mortimer, Terryn
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Astorum Ordo Titanica
+- **Militaris Grade:** Primus
+- **Patent:** Pre-Imperial, Lucian Mechanicum
+- **Warden Domain(s):** Lucius (Forge World), Arrapolis V, Kamenka Troika, Tri-Narutt System
+- **Cognomen:** The Warp Runners
+- **Allied War Houses:** Hawkwood, Mortimer, Terryn
+- **Allegiance:** Fidelitas Constantus
 
 It is said that forever has a measure of foolhardy arrogance sat within the heart of Legio Astorum, manifesting in a burning desire to ascend above all others that might stand as its equal. Indeed, one only has to look to the Forge World of Lucius, home world of Legio Astorum, to understand from whence such arrogance comes. Known as the "Hollow Forge", a name earned by the artificial sun that sits within the hollowed-out centre of the planet, all born upon the Forge World take pride in achieving that which others deem impossible. The burning star held within the centre of Lucius is perhaps the greatest testament to its people's success beyond expectations, for the sun provides near- boundless power to the Forge World while also sealing its fate, for all, including the Tech-Priests of Lucius itself, know that a day must come when the artificial sun's containment will fail and the Forge World will be consumed by its fury. Where some might view such a construction as careless, those that hail from Lucius hold firm in their belief that death in pursuit of innovation is the greatest sacrifice one can offer the Omnissiah. Amongst the many Mechanicum sects that call Lucius their home, all hold the unchangeable belief that the eventual consumption of Lucius by solar event will ascend its people to walk alongside the Omnissiah and, with such a path laid out before them, failure before such a prescribed time is impossible. Until that moment, the servants of Lucius are bound to stride forth across the galaxy, bringing His glory to the ignorant and malcontent.
 
@@ -189,19 +180,21 @@ In such matters, Legio Astorum quickly found itself a firm ally in the Primarch 
 
 The Princeps of Legio Astorum were lauded veterans, renowned as much for their arrogance and aloofness as they were for their tactical acumen and history of conquests. It was the sins of the Princeps that led many to fear that the Warp Runners would follow the Warmaster in his quest for supremacy over all Mankind, with the most disparaging of rumours claiming Legio Astorum desired nothing less than to ascend above all other Titan Legions. Such fears proved unfounded, for both Lucius and Legio Astorum readily threw their forces against the Traitors, notable for participating in some of the greatest engagements of the conflict from the blasted wastelands of Tallarn to the deadly maelstrom of the Beta-Garmon star cluster. When Beta-Garmon fell to the Warmaster, those of Legio Astorum that survived its grasp relocated to Terra, defending the Imperial Palace until the final days of the Horus Heresy.
 
-Materiel Strength The Titan Forges of Lucius were extensive prior to the outbreak of the Horus Heresy and, though some portion of its industry was lost during the conflict due to malfunctions brought on by extended periods of overtaxing, the Forge World was well positioned to supply the needs of a Primus grade Titan Legion. As such, before its numbers were vastly reduced by the conflict within the Beta-Garmon star cluster, Legio Astorum stood 162 god-engines strong. Despite the reputation for lightning assaults, the principal strength of Legio Astorum consisted of Warlord and Reaver type Titans, with an estimated three dozen Warhound type engines and a single maniple of Jackal type maintained by the Titan Legion at all time. Several Nemesis and Imperator type engines are also recorded in its number, of which a single Imperator would always be present on Lucius, standing guard over the entrance to the network of maintenance tunnels that allowed access to the artificial sun held within the centre of the planet.
+### Materiel Strength
+
+The Titan Forges of Lucius were extensive prior to the outbreak of the Horus Heresy and, though some portion of its industry was lost during the conflict due to malfunctions brought on by extended periods of overtaxing, the Forge World was well positioned to supply the needs of a Primus grade Titan Legion. As such, before its numbers were vastly reduced by the conflict within the Beta-Garmon star cluster, Legio Astorum stood 162 god-engines strong. Despite the reputation for lightning assaults, the principal strength of Legio Astorum consisted of Warlord and Reaver type Titans, with an estimated three dozen Warhound type engines and a single maniple of Jackal type maintained by the Titan Legion at all time. Several Nemesis and Imperator type engines are also recorded in its number, of which a single Imperator would always be present on Lucius, standing guard over the entrance to the network of maintenance tunnels that allowed access to the artificial sun held within the centre of the planet.
 
 ## Legio Astorum (Warp Runners)
 
-**Legio Trait: War March The Warp Runners are well known for setting the tempo of war and**
+### Legio Trait: War March
 
-marching swiftly to the sound of battle, their god-engines devouring kilometres beneath their massive stride. Astorum Princeps call this the War March, and gladly endure the rigours placed upon both machine and mind to reach the foe sooner.
+The Warp Runners are well known for setting the tempo of war and marching swiftly to the sound of battle, their god-engines devouring kilometres beneath their massive stride. Astorum Princeps call this the War March, and gladly endure the rigours placed upon both machine and mind to reach the foe sooner.
 
 In the first and second round of the game, a Legio Astorum Titan can choose to add 2" to its boosted Movement characteristic. If a Titan uses this boosted speed then whenever it is required to roll a Reactor dice during the first and second round of the game, it must roll twice and choose the least favourable result (i.e., the result which increases the Titan's Plasma Reactor Status track by the largest amount or awakens its Machine Spirit).
 
-**Legio Trait: Veteran Princeps Over time, a Princeps learns to wear their Titan like a second**
+### Legio Trait: Veteran Princeps
 
-skin, as aware of its workings and armour plates as they are of their own bones and sinew. The Warp Runners contain many old and lauded Titans of the Great Crusade, and the skilled Princeps who command them.
+Over time, a Princeps learns to wear their Titan like a second skin, as aware of its workings and armour plates as they are of their own bones and sinew. The Warp Runners contain many old and lauded Titans of the Great Crusade, and the skilled Princeps who command them.
 
 During the Damage Control phase, or when enacting an [Emergency Repairs] order, a Legio Astorum Titan may re-roll one of its Repair Action dice. A Legio Astorum Titan with a Scale of 10 or higher may instead re-roll two of its Repair Action dice.
 
@@ -217,65 +210,53 @@ A skilled Princeps can master the machine spirit of their Titan, and the Warp Ru
 
 This Stratagem can be purchased by any Legio Astorum player. Play this Stratagem when a Titan's void shields collapse. Immediately roll a number of D6 equal to the Titan's Servitor Clades characteristic. For each roll of 5 or 6, restore the Titan's Void Shield level by 1. Note, this is not a Repair roll and does not benefit from any effects which influence or modify Repair rolls.
 
-**Legio Specific Personal Traits A Legio Astorum Princeps Seniores' Personal trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Astorum Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Hero of the Crusade: The Princeps is an example to all around them and few have not heard tales of their victories. As long as they show no fear in the face of the enemy, others eagerly follow their example. As long as the Princeps' Titan is closer to the nearest enemy unit than any of the other Titans in their maniple, then all Titans in their maniple can add 1 to any Command checks they are required to take. 2 Reckless Hubris: Arrogance is a weakness only if it stands on a foundation of lies. The Princeps has utter faith in their abilities, and countless victories and defeated foes have done nothing but confirm this belief. Once each round, the Princeps' Titan can ignore the negative effects of a critically damaged system or a disabled weapon, firing the weapon as if it were functional. After the system or weapon is used, work out a single Strength 12 hit against the Titan's Body, ignoring the Titan's void shields. 3 Ancient MIU: The ancient memories of the past commanders of the Princeps'Titan whisper tactical secrets to them in battle, though it takes a keen mind and strong will to sift through the babbling voices of dead forebears. Instead of making a Command check during the Strategy phase, the Princeps' Titan may be given a random Order. Roll the Order dice and apply the result to the Princeps' Titan. If a [Shutdown] order is rolled, the Princeps may ignore it if they choose.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Hero of the Crusade:** The Princeps is an example to all around them and few have not heard tales of their victories. As long as they show no fear in the face of the enemy, others eagerly follow their example. As long as the Princeps' Titan is closer to the nearest enemy unit than any of the other Titans in their maniple, then all Titans in their maniple can add 1 to any Command checks they are required to take. |
+| 2 | **Reckless Hubris:** Arrogance is a weakness only if it stands on a foundation of lies. The Princeps has utter faith in their abilities, and countless victories and defeated foes have done nothing but confirm this belief. Once each round, the Princeps' Titan can ignore the negative effects of a critically damaged system or a disabled weapon, firing the weapon as if it were functional. After the system or weapon is used, work out a single Strength 12 hit against the Titan's Body, ignoring the Titan's void shields. |
+| 3 | **Ancient MIU:** The ancient memories of the past commanders of the Princeps'Titan whisper tactical secrets to them in battle, though it takes a keen mind and strong will to sift through the babbling voices of dead forebears. Instead of making a Command check during the Strategy phase, the Princeps' Titan may be given a random Order. Roll the Order dice and apply the result to the Princeps' Titan. If a [Shutdown] order is rolled, the Princeps may ignore it if they choose. |
 
-Legio Astorum Reaver Battle Titan
+### Legio Astorum Reaver Battle Titan
 
-Lucius Pretorian At Beta-Garmon, the Reaver Battle Titan was among the most numerous of the god-engines deployed by both sides, proving,
+**Lucius Pretorian**
 
-as its creators had long known, its versatility as a weapon of war. Lucius Pretorian was among those to see some of the heaviest
+At Beta-Garmon, the Reaver Battle Titan was among the most numerous of the god-engines deployed by both sides, proving, as its creators had long known, its versatility as a weapon of war. Lucius Pretorian was among those to see some of the heaviest fighting on Beta-Garmon II, both as a defender of Nyrcon and an attacker of the ruined city. Damaged and repaired many times, Lucius Pretorian was repeatedly brought back to life by the skills and machine-prayers of the Mechanicum.
 
-fighting on Beta-Garmon II, both as a defender of Nyrcon and an attacker of the ruined city. Damaged and repaired many
+### Legio Astorum Warlord Battle Titan
 
-times, Lucius Pretorian was repeatedly brought back to life by the skills and machine-prayers of the Mechanicum.
+**Dauntless Wrath**
 
-Legio Astorum Warlord Battle Titan
+During the defence of Tallarn, the Legio Gryphonicus called upon their brothers in the Legio Astorum to aid them.
 
-Dauntless Wrath During the defence of Tallarn, the Legio Gryphonicus called upon their brothers in the Legio Astorum to aid them.
+While the majority of the Warp Runners Titans were engaged elsewhere, they were able to send several maniples to counter the combined might of the Legio Krytos and their Iron Warriors allies. Dauntless Wrath was one of the Legio Astorum Warlord Titans to see action on Tallarn and survive the scouring of that world. Later in the Horus Heresy, veterans of Tallarn would often recall what they had endured during the fighting on that dead world, and cite it among the greatest crimes wrought by the Warmaster.
 
-While the majority of the Warp Runners Titans were engaged elsewhere, they were able to send several maniples to counter the combined might of the Legio Krytos and their Iron Warriors allies. Dauntless Wrath was one of the Legio Astorum Warlord Titans to see action on Tallarn and survive the scouring of that world. Later in the Horus
-
-Heresy, veterans of Tallarn would often recall what they had endured during the fighting on that dead world,
-
-and cite it among the greatest crimes wrought by the Warmaster.
-
-Legio Astorum Heraldry
-
-The Black Sun of Lucius is central to the heraldry of the Warp Runners, representing not just the artificial sun at the heart of the hollow world, but also the isolation Lucius endured during the centuries of Old Night. Astrological precision is central to the heraldry of the Warp Runners, their logicians carefully charting the history of the Legio as solar maps and warp routes scrawled out across each Titan's armour. Likewise, campaign honours are stamped out machine-like upon the banner, each icon coded to the great lexicon of Lucius, so that its priests and Princeps might read at a glance a Titan's victories and campaigns. Alongside this accounting of the Titan's war record, the signum nobilis details maniple and rank.
+Legio Astorum Heraldry The Black Sun of Lucius is central to the heraldry of the Warp Runners, representing not just the artificial sun at the heart of the hollow world, but also the isolation Lucius endured during the centuries of Old Night. Astrological precision is central to the heraldry of the Warp Runners, their logicians carefully charting the history of the Legio as solar maps and warp routes scrawled out across each Titan's armour. Likewise, campaign honours are stamped out machine-like upon the banner, each icon coded to the great lexicon of Lucius, so that its priests and Princeps might read at a glance a Titan's victories and campaigns. Alongside this accounting of the Titan's war record, the signum nobilis details maniple and rank.
 
 ## Legio Defensor
 
-Title: The Legio Defensor Ordo Titanica
+- **Title:** The Legio Defensor Ordo Titanica
+- **Militaris Grade:** Secundus
+- **Patent:** Pre-Imperial, Satyraes Mechanicum
+- **Warden Domain(s):** Satyraes XII
+- **Cognomen:** The Nova Guard
+- **Allied War Houses:** Beaumaris, Sterlund
+- **Allegiance:** Fidelitas Pietas
 
-Militaris Grade: Secundus
-
-Patent: Pre-Imperial, Satyraes Mechanicum
-
-Warden Domain(s): Satyraes XII
-
-Cognomen: The Nova Guard
-
-Allied War Houses: Beaumaris, Sterlund
-
-Allegiance: Fidelitas Pietas
-
-That Legio Defensor, known more commonly as the Nova Guard, hold unwavering loyalty to the Emperor is indisputable, for their dedication was fuelled by beliefs many amongst the Imperium, including the Emperor Himself, publicly denounced - those of the Lectitio Divinitatus.The path through which the outlawed cult devoted to the veneration of the Emperor as a divine being took root within the Titan Legion is unknown, though clues may lie in the extensive service elements of Legio Defensor saw alongside the Word Bearers Legion prior to the latter's chastisement upon Khur. Given that it was Lorgar Aurelian, Primarch of the Word Bearers, who first penned the book that served both as the namesake and guiding tenets of the cult, it stands to reason that the foundation of unyielding devotion towards the Emperor was first established in service alongside the Word Bearers, a bitterly ironic origin given the since treacherous actions of the XVIIth Legion.
+That Legio Defensor, known more commonly as the Nova Guard, hold unwavering loyalty to the Emperor is indisputable, for their dedication was fuelled by beliefs many amongst the Imperium, including the Emperor Himself, publicly denounced - those of the Lectitio Divinitatus. The path through which the outlawed cult devoted to the veneration of the Emperor as a divine being took root within the Titan Legion is unknown, though clues may lie in the extensive service elements of Legio Defensor saw alongside the Word Bearers Legion prior to the latter's chastisement upon Khur. Given that it was Lorgar Aurelian, Primarch of the Word Bearers, who first penned the book that served both as the namesake and guiding tenets of the cult, it stands to reason that the foundation of unyielding devotion towards the Emperor was first established in service alongside the Word Bearers, a bitterly ironic origin given the since treacherous actions of the XVIIth Legion.
 
 Following the destruction of Monarchia, a city upon the world of Khur that stood as a monument to the Emperor's perceived divinity, and the public rebuke of the Word Bearers by the Emperor Himself, Satyraes XII withdrew its military support for the XVIIth Legion. Though official communiqués claim such a move derived from a need to reinforce Legio Defensor's strength elsewhere in the galaxy, honour records of those Princeps who served alongside the Word Bearers show that nearly all were censured for deviant beliefs, the nature of which remain undocumented. These Princeps were further admonished through the dissemination of the battlegroup structure they once served in, their numbers divided across numerous other battlegroups. This disruption of maniples that had served together for decades supports the theory that the withdrawal of military aid from the Word Bearers was intended to forestall the continued growth of beliefs learned from the Space Marines. In truth, however, the move appeared to only further spread the teachings of the Lectitio Divinitatus, exposing increasing numbers of Legio Defensor personnel to the emerging cult. Given that the Titan crews of Legio Defensor hailed from Satyraes XII, a Forge World noted for its zealous dedication to the Omnissiah, the ranks of Legio Defensor offered fertile ground for new beliefs to grow. By the outbreak of the Horus Heresy, numerous reports attested to elements of Legio Defensor striding into battle to audio barrages of hymnodic fashion, though the exact focus of its praise remained elusive and was commonly attributed to the Omnissiah.
 
-The growing devotion to the Emperor changed not just the beliefs of the Nova Guard but also its methods of war. Even during the early days of the Great Crusade, Legio Defensor was noted as holding a measure of self-righteousness, believing its work held higher purpose. Many of the Nova Guard's exaltations were focused on the tenets of the Great Crusade, razing entire worlds as if in monument to the unstoppable might of humanity. This righteousness took on new meaning
-
-with growth of the Lectitio Divinitatus and the dawning of the Horus Heresy. Pre-battle audio logs obtained from Legio Defensor briefings during the early years of the conflict make numerous mentions to the Emperor as a divine being. Further investigation notes propaganda, disseminated both amongst the ranks of Legio Defensor and upon Satyraes XII, framed the Warmaster's actions as a desire to topple the Emperor and claim godhood in His place. To Legio Defensor, the conflict was a battle for the soul of humanity, a belief only strengthened in light of the emergence of warp denizens alongside the Warmaster's forces and the transformations exhibited by many Traitor Titan Legions. The Nova Guard held no mercy for those who turned against the Emperor, willingly or otherwise, and the Titan Legion soon earned a fearsome reputation for the brutal nature with which it pursued its foes.
+The growing devotion to the Emperor changed not just the beliefs of the Nova Guard but also its methods of war. Even during the early days of the Great Crusade, Legio Defensor was noted as holding a measure of self-righteousness, believing its work held higher purpose. Many of the Nova Guard's exaltations were focused on the tenets of the Great Crusade, razing entire worlds as if in monument to the unstoppable might of humanity. This righteousness took on new meaning with growth of the Lectitio Divinitatus and the dawning of the Horus Heresy. Pre-battle audio logs obtained from Legio Defensor briefings during the early years of the conflict make numerous mentions to the Emperor as a divine being. Further investigation notes propaganda, disseminated both amongst the ranks of Legio Defensor and upon Satyraes XII, framed the Warmaster's actions as a desire to topple the Emperor and claim godhood in His place. To Legio Defensor, the conflict was a battle for the soul of humanity, a belief only strengthened in light of the emergence of warp denizens alongside the Warmaster's forces and the transformations exhibited by many Traitor Titan Legions. The Nova Guard held no mercy for those who turned against the Emperor, willingly or otherwise, and the Titan Legion soon earned a fearsome reputation for the brutal nature with which it pursued its foes.
 
 Events such as the Tarren Suppression highlight the zealotry that took hold within the Titan Legion's ranks. Tasked with bringing retribution down upon the leaders of the world of Tarren for having sided with the Traitor forces, Legio Defensor made extensive use of both Warlord and Warbringer Nemesis Titans in their initial assault, condemning entire cities to a fiery demise as an example to all who strayed from the Emperor's side. Any further displays of anti-Imperium sentiment met with were dealt similar fates and soon the Nova Guard held onto the world as much by fear as by strength, having cowed the population into subservience, lest tens of thousands die for the transgressions of a single individual. The iron grip with which Legio Defensor ruled the planet was only relinquished upon the arrival of a detachment of Emperor's Children accompanied by elements of Legio Mortis, an arrival seen by the population of Tarren as a liberation rather than invasion. If reports from Tarren are to be believed, the Nova Guard upon the planet were destroyed not by the invading Traitors but by the actions of its own Princeps who, after several weeks of conflict and numerous casualties, deemed their position untenable. Thus, in an action of tactical spite, the few remaining Titans of Legio Defensor overloaded their reactors in close proximity to vital sections of the planet's power grid, reducing much of its infrastructure to rubble. The final words of the commanding Princeps, issued across the planet so all could hear, simply stated that "If you wish to stray from the Emperor's light, then it is darkness you shall have."
 
-Materiel Strength As a Secundus grade Titan Legion at the onset of the Horus Heresy, Legio Defensor stood 136 god-engines strong. In war, it relied upon the employment of heavier weaponry, favouring the deployment of Battle Titans. In accordance with such doctrines, nearly two-thirds of the Titan Legion's strength lay in Warlord class Battle Titans, with much of its remaining numbers consisting of Reaver and Nightgaunt types. The employment of Scout Titans was a rarity within Legio Defensor,
+### Materiel Strength
 
-Devotional Cycles Upon the rediscovery of Satyraes XII by the 914th Expeditionary Fleet, it was noted that the Forge World and its people maintained an almost fanatical devotion to the Omnissiah, above and beyond that displayed by many other Forge Worlds. The primary tool for such devotion proved to be the Forge World's three moons, each tidal locked to the planet and settled in the centuries following the colonisation of Satyraes XII. Each moon had undergone extensive transformation during the Age of Strife to transform them into vast, functional industrial cathedrals dedicated to the Omnissiah. In accordance with principles laid down upon the world's founding, the work completed within the manufactoria of Satyraes XII was to be dictated by devotional sigils broadcast via lumen displays positioned on the Forge World's moons that, when activated, could be observed from the planet below. Such displays were monitored by a dedicated sect of Magi Logis which accurately plotted the movement of Satyraes' celestial bodies and, through that, divined the Omnissiah's will and dictated it to the Forge World. Each sigil held meaning to the planet's Tech-Priests, with further complexity divined depending on the moon from which a sigil was broadcast. In turn, these sigils dictated the work patterns of Satyraes XII and the goods each manufactorum would produce at a given time, the illuminated celestial bodies a permanent reminder of the Omnissiah's presence.
+As a Secundus grade Titan Legion at the onset of the Horus Heresy, Legio Defensor stood 136 god-engines strong. In war, it relied upon the employment of heavier weaponry, favouring the deployment of Battle Titans. In accordance with such doctrines, nearly two-thirds of the Titan Legion's strength lay in Warlord class Battle Titans, with much of its remaining numbers consisting of Reaver and Nightgaunt types. The employment of Scout Titans was a rarity within Legio Defensor, Devotional Cycles Upon the rediscovery of Satyraes XII by the 914th Expeditionary Fleet, it was noted that the Forge World and its people maintained an almost fanatical devotion to the Omnissiah, above and beyond that displayed by many other Forge Worlds. The primary tool for such devotion proved to be the Forge World's three moons, each tidal locked to the planet and settled in the centuries following the colonisation of Satyraes XII. Each moon had undergone extensive transformation during the Age of Strife to transform them into vast, functional industrial cathedrals dedicated to the Omnissiah. In accordance with principles laid down upon the world's founding, the work completed within the manufactoria of Satyraes XII was to be dictated by devotional sigils broadcast via lumen displays positioned on the Forge World's moons that, when activated, could be observed from the planet below. Such displays were monitored by a dedicated sect of Magi Logis which accurately plotted the movement of Satyraes' celestial bodies and, through that, divined the Omnissiah's will and dictated it to the Forge World. Each sigil held meaning to the planet's Tech-Priests, with further complexity divined depending on the moon from which a sigil was broadcast. In turn, these sigils dictated the work patterns of Satyraes XII and the goods each manufactorum would produce at a given time, the illuminated celestial bodies a permanent reminder of the Omnissiah's presence.
 
 The archives of Satyraes XII tell of the system of devotional sigils failing only twice in the recorded history of the Forge World, both of which caused great upheaval. In the first instance, in which a single moon experienced failure of its lumen display and broadcast an unknown sigil, Satyraes XII entered a period of shutdown that lasted six solar standard weeks, its Tech-Priests debating the meaning of such a sigil. The second instance proved a momentary power failure in which all three lumen displays shutdown for 14.56 seconds, leading to mass dissent as the Forge World's labourers preached of the Omnissiah's displeasure. Seventy-two years of civil war followed during which the Nova Guard saw heavy combat, hunting down and destroying any who showed the slightest deviation from the prescribed worship of the Omnissiah. It is noted that, during the later years of the Great Crusade, many returning demi-Legios showed resistance to the idea of being guided by Satyraes XII's sigils; several redacted reports state that a handful of Princeps spoke of the Omnissiah as a prophet of the Emperor, who was a true divine being above and beyond that of the Machine God.
 
@@ -283,15 +264,15 @@ with the Titan Legion recording roughly two dozen of their numbers, spread acros
 
 ## Legio Defensor (Nova Guard)
 
-**Legio Trait: Righteous Fire Many Legio Defensor Princeps feel rage rise within them when**
+### Legio Trait: Righteous Fire
 
-battle is joined against a Traitor force. Communed through the MIU, this hatred reaches down into their Titan's plasma reactors, the burning heart of the god-machine beating all the faster.
+Many Legio Defensor Princeps feel rage rise within them when battle is joined against a Traitor force. Communed through the MIU, this hatred reaches down into their Titan's plasma reactors, the burning heart of the god-machine beating all the faster.
 
 In the first round of the game, each Legio Defensor Titan may fire one of its weapons twice during its activation in the Combat phase. If they do so, advance the Titan's Plasma Reactor Status track by two places, in addition to any advances associated with firing the weapon.
 
-**Legio Trait: Indomitable Resolve The Legio Defensor has a well-deserved reputation for**
+### Legio Trait: Indomitable Resolve
 
-standing their ground, no matter the odds. These qualities were among those that drew the praise of the Emperor Himself, and earned them many honours during the Great Crusade.
+The Legio Defensor has a well-deserved reputation for standing their ground, no matter the odds. These qualities were among those that drew the praise of the Emperor Himself, and earned them many honours during the Great Crusade.
 
 Titans in a Legio Defensor maniple may add 1 to the dice roll when making Command checks, provided that at least one of the units in their battlegroup has been destroyed.
 
@@ -307,53 +288,45 @@ During the Horus Heresy, the Legio Defensor contained many devotees of the Lecti
 
 This Stratagem can be purchased by any Legio Defensor player. Reveal this Stratagem when a hit would result in one of your Titans rolling on the Catastrophic Damage table. The hit is ignored and this Stratagem has no further effect.
 
-**Legio Specific Wargear: Devotional War Sirens Warlord Titans of the Legio Defensor often marched into**
+### Legio Specific Wargear: Devotional War Sirens
 
-battle fitted with devotional war sirens. These blaring speakers issued forth Lectitio Divinitatus devotional chants and sermons on the glory of the Emperor, filling their brothers with renewed hope and purpose.
+Warlord Titans of the Legio Defensor often marched into battle fitted with devotional war sirens. These blaring speakers issued forth Lectitio Divinitatus devotional chants and sermons on the glory of the Emperor, filling their brothers with renewed hope and purpose.
 
 Any Legio Defensor Warlord Titan can be upgraded with a Devotional War Sirens for +20 points. Legio Defensor Titans within 8" of a Legio Defensor Warlord Titan equipped with Devotional War Sirens may roll two dice when making a Command check and choose the higher result.
 
-**Legio Specific Personal Traits A Legio Defensor Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Defensor Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Enduring Hatred: Death is preferable to defeat in the mind of the Princeps. Even as their Titan burns around them, they will fight on if it means exacting their vengeance. The Princeps Titan may re-roll Hit rolls of 1 once their Titan has suffered Critical Damage. However, during the Damage Control phase, they must spend any Repair dice to repair disabled weapons before repairing any other kind of damage. 2 Crusade Veteran: Some Princeps of the Nova Guard have served since the early days of the Great Crusade, and are able to control their god-engines in ways that seem almost preternatural to their enemies. Once per game, when the Princeps successfully issues an [Emergency Repairs] order, they may immediately issue a second Order after its effects have been resolved. This second Order may be another [Emergency Repairs] order. Note that the Titan must adhere to the restrictions to movement and activation of both Orders. 3 Icon of the True: The Princeps is a beacon of the cause, and when their Titan strides onto the field of battle, their allies grow ever more resolute. While the Princeps Titan is on the board, all Knight Banners and Titans from other friendly Legios add 1 to the dice roll when making Command checks.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Enduring Hatred:** Death is preferable to defeat in the mind of the Princeps. Even as their Titan burns around them, they will fight on if it means exacting their vengeance. The Princeps Titan may re-roll Hit rolls of 1 once their Titan has suffered Critical Damage. However, during the Damage Control phase, they must spend any Repair dice to repair disabled weapons before repairing any other kind of damage. |
+| 2 | **Crusade Veteran:** Some Princeps of the Nova Guard have served since the early days of the Great Crusade, and are able to control their god-engines in ways that seem almost preternatural to their enemies. Once per game, when the Princeps successfully issues an [Emergency Repairs] order, they may immediately issue a second Order after its effects have been resolved. This second Order may be another [Emergency Repairs] order. Note that the Titan must adhere to the restrictions to movement and activation of both Orders. |
+| 3 | **Icon of the True:** The Princeps is a beacon of the cause, and when their Titan strides onto the field of battle, their allies grow ever more resolute. While the Princeps Titan is on the board, all Knight Banners and Titans from other friendly Legios add 1 to the dice roll when making Command checks. |
 
-Legio Defensor Warlord Battle Titan
+### Legio Defensor Warlord Battle Titan
 
-Vengeful Scion Vengeful Scion, as shown here before the Battle for the Carthega Telepathica, would go on to survive the horrors of Beta-Garmon and join the final defence of Terra against the Warmaster. That the Warlord endured, when so many
+**Vengeful Scion**
 
-of its brethren did not, became just another sign to the believers within the Legio that the Emperor was watching over them. The Vengeful Scion was to become a relic of those dark days, and centuries later, its hull resplendent in the
+Vengeful Scion, as shown here before the Battle for the Carthega Telepathica, would go on to survive the horrors of Beta-Garmon and join the final defence of Terra against the Warmaster. That the Warlord endured, when so many of its brethren did not, became just another sign to the believers within the Legio that the Emperor was watching over them. The Vengeful Scion was to become a relic of those dark days, and centuries later, its hull resplendent in the icons of the faith, it continued to wage war for the Emperor as He sat upon His Golden Throne.
 
-icons of the faith, it continued to wage war for the Emperor as He sat upon His Golden Throne.
+Legio Defensor Heraldry Despite the rise of the Lectitio Divinitatus among the ranks of the Legio Defensor, the prominent displaying of its religious iconography was still strictly prohibited by the Collegia Titanica. While the twin sunrise motif of the Legio later became the Emperor's divine crown of light, for the battles of the Beta- Garmon campaign, the Legio bore the symbols of their home world Satyraes XII. Central to the heraldry of Satyraes was the stag, its skull lit by the Forge World's two suns. Legends among the Legio tell of a time when the people of Satyraes worshipped their great forest stags as gods, now believed by the Satyrii to be a forerunner manifestation of the Emperor. Beneath these icons of old Satyraes, skulls stamp out the Titan's battlefield victories, while the signum nobilis details its maniple and rank laid out in axe blades.
 
-Legio Defensor Heraldry
+### Legio Defensor Reaver Battle Titan
 
-Despite the rise of the Lectitio Divinitatus among the ranks of the Legio Defensor, the prominent displaying of its religious iconography was still strictly prohibited by the Collegia Titanica. While the twin sunrise motif of the Legio later became the Emperor's divine crown of light, for the battles of the Beta- Garmon campaign, the Legio bore the symbols of their home world Satyraes XII. Central to the heraldry of Satyraes was the stag, its skull lit by the Forge World's two suns. Legends among the Legio tell of a time when the people of Satyraes worshipped their great forest stags as gods, now believed by the Satyrii to be a forerunner manifestation of the Emperor. Beneath these icons of old Satyraes, skulls stamp out the Titan's battlefield victories, while the signum nobilis details its maniple and rank laid out in axe blades.
+**Horns of Satyraes**
 
-Legio Defensor Reaver Battle Titan
-
-Horns of Satyraes After the first battles for Beta-Garmon III, the Nova Guard tightened its defensive lines around the hives. Horns of
-
-Satyraes was among those Titans to hunt down Sons of Horus and Iron Warriors siege battalions, the Titan's heavy weaponry powerful enough to target Termite breeching vehicles beneath the earth. For days, the Titan and its maniple hunted these interlopers, some defending against overland assault, others using their potent auspexes to track the ghostly
-
-shadows of companies tunnelling beneath their feet.
+After the first battles for Beta-Garmon III, the Nova Guard tightened its defensive lines around the hives. Horns of Satyraes was among those Titans to hunt down Sons of Horus and Iron Warriors siege battalions, the Titan's heavy weaponry powerful enough to target Termite breeching vehicles beneath the earth. For days, the Titan and its maniple hunted these interlopers, some defending against overland assault, others using their potent auspexes to track the ghostly shadows of companies tunnelling beneath their feet.
 
 ## Legio Solaria
 
-Title: The Legio Solaria Ordo Titanica
-
-Militaris Grade: Secundus
-
-Patent: Pre-Imperial, Tigrus Mechanicum
-
-Warden Domain(s): Tigrus
-
-Cognomen: The Imperial Hunters
-
-Allied War Houses: Procon Vi
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Solaria Ordo Titanica
+- **Militaris Grade:** Secundus
+- **Patent:** Pre-Imperial, Tigrus Mechanicum
+- **Warden Domain(s):** Tigrus
+- **Cognomen:** The Imperial Hunters
+- **Allied War Houses:** Procon Vi
+- **Allegiance:** Fidelitas Constantus
 
 The origin of Legio Solaria is tied to the Knight World of Procon, for it was upon that world Mohana Mankata VI, known now as the Great Mother of Legio Solaria, was born. Like many Knight Worlds, Procon was rife with traditions and beliefs that harked back to its founding, lending support to a society far from egalitarian, where each person's status and role was determined more by blood than skill. It was the ancient rites of Procon Vi, Knight Households of Procon, that saw Mankata's victory in a horse-riding competition rewarded with exile for having participated without permission. Punished by her own due to her perceived audacity, others were more forthcoming with praise and her skill attracted the attention of the Mechanicum, who offered Mankata a place upon the Forge World of Tigrus. There, she was proclaimed Domina Princeps of the newly-founded Legio Solaria, the first to join its ranks. By her edict, the Princeps of the Titan Legion were drawn solely from the ranks of women, cultivated from her own genetic line, and the sole commanders of a god-engine drawn from Tigrus. In recognition both as her role as progenitor of Legio Solaria and her leadership in the centuries following its founding, Mankata was given the title of the Great Mother by her Princeps, holding almost divine status within the ranks of the Titan Legion.
 
@@ -365,13 +338,15 @@ The years following the appointment of Horus Lupercal as Warmaster brought much 
 
 Much of the Titan Legion's initial efforts to resist the Warmaster and his allies were focused on the Beta-Garmon cluster. It was there that the Great Mother committed the principal strength of Legio Solaris, intent upon denying the Traitors access to the wider Segmentum Solar. The unfolding conflict claimed the lives of dozens of Imperial Hunters Titans and eventually the life of Mohana Mankata VI, who fell in battle against the Traitor Titan Legions and the foul powers they unleashed. The Beta-Garmon campaign proved a turning point for Legio Solaria, their numbers vastly reduced and the survivors deprived of the constant leadership they had enjoyed since their founding. As the Warmaster marched on Terra, Legio Solaria fragmented, its number scattering across the galaxy during the frantic retreat from Beta-Garmon. Many were to find their way to Terra under command of Esha Ani Mohana, the Great Mother's second-in-command, standing proud behind the walls of Terra in defiance of the approaching Traitors. The remaining numbers of Legio Solaria drifted across the stars, small battlegroups commanded by senior Princeps awarded field command fighting on dozens of worlds, each striving to return once more to Tigrus and reunite with their sisters.
 
-Materiel Strength Numerous descriptions of Legio Solaria's tactical strength make note of the increased number of Warhound class Scout Titans within its ranks, which far outnumbered that of any other Titan class. Such instances were rare amongst Titan Legions and a census of Legio Solaria's strength prior to its deployment to the Beta-Garmon cluster recorded a total of 104 god-engines of which 61 were Warhound class. It should be noted that the strength mustered in the Beta-Garmon system was not the sole battlegroup of Legio Solaria and several other Imperial Hunters battlegroups, of considerably smaller size, were unable to join up with the principal strength of the Titan Legion due to the effects of the Ruinstorm. Legio Solaris also held close bonds with the Knight House of Procon Vi, which hailed from the same world as the Great Mother. Over two dozen Household Banners were assembled alongside Legio Solaria at the Beta- Garmon cluster, enhancing the Titan Legion's strength and tactical flexibility.
+### Materiel Strength
+
+Numerous descriptions of Legio Solaria's tactical strength make note of the increased number of Warhound class Scout Titans within its ranks, which far outnumbered that of any other Titan class. Such instances were rare amongst Titan Legions and a census of Legio Solaria's strength prior to its deployment to the Beta-Garmon cluster recorded a total of 104 god-engines of which 61 were Warhound class. It should be noted that the strength mustered in the Beta-Garmon system was not the sole battlegroup of Legio Solaria and several other Imperial Hunters battlegroups, of considerably smaller size, were unable to join up with the principal strength of the Titan Legion due to the effects of the Ruinstorm. Legio Solaris also held close bonds with the Knight House of Procon Vi, which hailed from the same world as the Great Mother. Over two dozen Household Banners were assembled alongside Legio Solaria at the Beta- Garmon cluster, enhancing the Titan Legion's strength and tactical flexibility.
 
 ## Legio Solaria (Imperial Hunters)
 
-**Legio Trait: Wolf Packs Legio Solaria Warhound wolf packs can bring down even the largest**
+### Legio Trait: Wolf Packs
 
-prey. As a result, they often field larger numbers of Warhounds and are much better versed in coordinating their actions.
+Legio Solaria Warhound wolf packs can bring down even the largest prey. As a result, they often field larger numbers of Warhounds and are much better versed in coordinating their actions.
 
 Warhound squadrons in a Legio Solaria maniple can contain up to five Warhound Titans. In addition, any Legio Solaria maniple can select a Warhound Titan in place of any Reaver Titans as part of its mandatory components.
 
@@ -381,49 +356,59 @@ The Imperial Hunters are famed for their skills at obfuscation on the battlefiel
 
 This Stratagem can be purchased by any Legio Solaria player. Play this Stratagem in the Strategy phase of the first round. The Legio Solaria player may redeploy a Warhound Titan. These redeployed units can be placed anywhere that they would normally be allowed to deploy by the mission being played. This Stratagem can be purchased multiple times.
 
-**Legio Specific Wargear: Fortis Motivators Warhound Titans used by the Imperial Hunters are among some**
+### Legio Specific Wargear: Fortis Motivators
 
-of the most formidable of all of the Legios. Speed and mobility are especially coveted traits by the Tigrus Mechanicum, and their Titans are modified with many redundancies and reinforcements to keep them moving.
+Warhound Titans used by the Imperial Hunters are among some of the most formidable of all of the Legios. Speed and mobility are especially coveted traits by the Tigrus Mechanicum, and their Titans are modified with many redundancies and reinforcements to keep them moving.
 
 A Legio Solaria Warhound Titan can be fitted with Fortis Motivators for a cost of +20 points. In the Damage Control phase, a Titan with this upgrade can repair Critical Damage to its Legs on a 1+ instead of a 5+.
 
-**Legio Specific Wargear: Cameleoline Shrouding During the Horus Heresy, the Tech-Priests of Tigrus**
+### Legio Specific Wargear: Cameleoline Shrouding
 
-unearthed many ancient and forbidden technologies in their efforts to aid the armies of the Emperor. Among these were the cameleoline shrouds, layers of light-refractive energy cloth that could be stretched across the armour plates of a Battle Titan. While they were never fully implemented, many Princeps used these shrouds to great effect in some of the pivotal battles of that dark age.
+During the Horus Heresy, the Tech-Priests of Tigrus unearthed many ancient and forbidden technologies in their efforts to aid the armies of the Emperor. Among these were the cameleoline shrouds, layers of light-refractive energy cloth that could be stretched across the armour plates of a Battle Titan. While they were never fully implemented, many Princeps used these shrouds to great effect in some of the pivotal battles of that dark age.
 
 Any Legio Solaria Titan with a Scale of 6 or less can take Cameleoline Shrouding as an upgrade for +35 points. Titans with this upgrade have their outline blurred, making a moving Titan difficult to hit. Any attacks made against a Titan with this upgrade suffer a -1 modifier to all Hit rolls so long as the targeted Titan has moved more than 6" this round and is more than 10" away from the attacking unit. However, the shrouding was notoriously fragile, and as soon as the Titan suffers 1 point of Structural Damage, this bonus is lost.
 
-**Legio Specific Personal Traits A Legio Solaria Princeps Seniores' Personal trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Solaria Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Spear of Tigrus: Keeping on the move is second nature to the Princeps, and they live by the axiom: "a moving blade cannot be broken". The Princeps' Titan may be issued a [Full Stride] order without the need to make a Command check. 2 Agile Minded: One good hit deserves another, and the Princeps reacts to incoming fire or a charge with blinding speed and precision. Once per game, when the Princeps' Titan is hit by an attack, their Titan may respond in kind, interrupting the activation of an enemy unit and immediately making a single attack back at the attacker. 3 Swift Displacement: The Princeps never lets their enemies get too close, luring them in and then falling back with equal speed so that their foes can be torn apart by close range firepower. Once per game, when an enemy Titan makes a Smash Attack as part of a [Charge] order against the Princeps' Titan, the Princeps may move their Titan D6" directly away from the attacker, after the enemy Titan has moved but before any Hit dice for the attack are rolled. This does not change the facing of the Princeps' Titan.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Spear of Tigrus:** Keeping on the move is second nature to the Princeps, and they live by the axiom: "a moving blade cannot be broken". The Princeps' Titan may be issued a [Full Stride] order without the need to make a Command check. |
+| 2 | **Agile Minded:** One good hit deserves another, and the Princeps reacts to incoming fire or a charge with blinding speed and precision. Once per game, when the Princeps' Titan is hit by an attack, their Titan may respond in kind, interrupting the activation of an enemy unit and immediately making a single attack back at the attacker. |
+| 3 | **Swift Displacement:** The Princeps never lets their enemies get too close, luring them in and then falling back with equal speed so that their foes can be torn apart by close range firepower. Once per game, when an enemy Titan makes a Smash Attack as part of a [Charge] order against the Princeps' Titan, the Princeps may move their Titan D6" directly away from the attacker, after the enemy Titan has moved but before any Hit dice for the attack are rolled. This does not change the facing of the Princeps' Titan. |
 
-Legio Solaria Reaver Battle Titan
+### Legio Solaria Reaver Battle Titan
 
-Fugor Utrox The history of a Titan is a much lauded thing, its every deed is remembered within its command throne and recorded
+**Fugor Utrox**
 
-upon its war banners. The fine script upon the Fugor Utrox's banner lists the names of allies fallen and enemies vanquished, each one an honour earned in the fires of war. Given the fury of warfare that Titans are subjected to, banners
+The history of a Titan is a much lauded thing, its every deed is remembered within its command throne and recorded upon its war banners. The fine script upon the Fugor Utrox's banner lists the names of allies fallen and enemies vanquished, each one an honour earned in the fires of war. Given the fury of warfare that Titans are subjected to, banners seldom survive engagements intact, and before each battle are then made anew, mono-task servitors recreating the long lists of names from the Legio's roll of honours.
 
-seldom survive engagements intact, and before each battle are then made anew, mono-task servitors recreating
+### Legio Solaria Warlord Battle Titan
 
-the long lists of names from the Legio's roll of honours.
+**Carnificor Noctis**
+
+The tactics of the Legio Solaria favour hunting packs and swift-moving warfare, with many of the Legio's maniples made up of Reaver and Warhound Titans. The role of Warlords, like the Carnificor Noctis, within the Imperial Hunters is often that of an anvil upon which the enemies of the Legio are smashed by the hammer of its lighter Titans. A favoured trick of the Legio Solaria was to use Knights and Warhounds to lure enemies into the guns of its larger Titans, enemies seeking easy kills realising too late that they had opened themselves up to annihilation.
+
+### Legio Solaria Heraldry
+
+The winged claw of the Legio Solaria, as depicted upon their banners and armoured Titan hulls, tells a tale of oaths and allegiances between Tigrus and the Imperium. The claw is adapted from the holy symbol of Pahkmetris, the huntress goddess of Procon, sister world to Tigrus, and from whom the Imperial Hunters draw their informal name. Such pagan superstitions are seldom tolerated within the Imperium, however, and so when the allegiance between the Imperial Hunters and the Emperor was made, the wings of the Aquila were added to show the bonds between them. Below the icon of the Legio, campaign honours and oaths of alliance are often shown, such as here where a star map depicts the warzones fought in by the Carnificor Noctis. Below this is the signum nobilis, or symbol of rank, that records the Titan's place within its maniple.
+
+### Legio Solaria Warhound Scout Titan
+
+**Vestigor Inimicus**
+
+Titans do not favour the close confines of city fighting, where the range of their weapons and their size often work against them. Some Titans, though, are adapted for this kind of environment, such as the Warhound Scout Titan Vestigor Inimicus. In this role they protect their larger kin, using weapons such as the inferno gun and Vulcan mega bolter to clear buildings of lurking infantry, or purge avenues of hunting tanks with waves of flame and torrents of explosive bolts.
 
 ## Legio Atarus
 
-Title: The Legio Atarus Ordo Titanica
-
-Militaris Grade: Secundus
-
-Patent: Post-Unification, Phaetonite Mechanicum
-
-Warden Domains: Atar-Median (Forge World)
-
-Cognomen: The Firebrands
-
-Allied War Houses: Col'khak (Knight world of Atar-Plainitia)
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Atarus Ordo Titanica
+- **Militaris Grade:** Secundus
+- **Patent:** Post-Unification, Phaetonite Mechanicum
+- **Warden Domains:** Atar-Median (Forge World)
+- **Cognomen:** The Firebrands
+- **Allied War Houses:** Col'khak (Knight world of Atar-Plainitia)
+- **Allegiance:** Fidelitas Constantus
 
 The Firebrands were considered by some to be a particularly fractious and ill-disposed Titan Legion before the dark treacheries of the Warmaster plunged all into bloodshed. Distrusted and looked down upon by many of their brethren in the Ordo Titanicus, Legio Atarus would go on to prove their mettle where other, more lauded names, would ignominiously fall. The seeds of the Firebrands' ill-repute during the Great Crusade can be traced to the highly unusual circumstances of their inception. In the early years of the Great Crusade, one of the first tasks of Imperial expansion from Terra was to link up with a number of key domains within the Segmentum Solar identified as vital to the Great Crusade's success. Crucial among these were several Forge Worlds with whom the Mechanicum of Mars had maintained some relationship throughout the tribulations of the latter Age of Strife. In many cases, these inclusions went without difficulty, such as with Voss whose masters had bent the knee to Mars without qualm, but in others such as Phaeton, inclusion was the matter of some negotiation and difficulty, and the final acquiescence bought with considerably more autonomy than the Fabricator General of Mars would perhaps have preferred from a vassal-domain. What began as a cordial relationship quickly grew into one of veiled and open rivalry, with Phaeton's position being further strengthened by it quickly becoming perhaps the second most productive Forge World of the Great Crusade until the later rediscovery of mighty Anvillus.
 
@@ -433,21 +418,21 @@ Conflict was averted, Phaeton diminished and its subservience was assured, but i
 
 Counted then as one of the younger Titan Legions, the Legio Atarus were looked down upon by many among the more ancient Legios, and distrusted for their origins by some with close ties to the Fabricator General's faction on Mars, where a bitter humour over Atar-Median's founding still lingered. The Legio Atarus therefore was always a force who had much to prove. They responded to this disregarded status both by the eagerness and devotion which they displayed for the Great Crusade and its cause (over and above the fealty they owed to the Martian Mechanicum), and by displaying defiance and swift anger when they felt themselves slighted by any other Legio. Their zealous impetuousness in battle and the open belligerence and pride in arms they displayed, combined with the symbol of the burning blade they had adopted as their heraldic device, quickly set the cognomen by which the common soldiery of the Imperium would know them - the Firebrands.
 
-For much of the latter third of the Great Crusade, it was common for the Firebrands to operate several separate demi- Legios as was the common case with many Secundus class Titan Legions, and it seldom came together en masse for battle. It was commonly the case for one demi-Legio to be rotated through deployment on Atar-Median for repair and refit between major engagements, with the bulk of the Legio deployed to different war zones as needed as part of the overall Imperium military reserve, and seldom stayed attached to a particular Expeditionary fleet for long. Particular campaigns which saw the notable actions of the Firebrands during this period included the liberation of Vayber and the Second Ghenna Campaign, the great Ullanor Crusade and the Lament of Shedim. In this last campaign, a notable incident occurred
-
-which was to have a bearing on events of the Horus Heresy and accounted, in part, for the presence of demi-Legio Karkanos of the Firebrands at Isstvan V.
+For much of the latter third of the Great Crusade, it was common for the Firebrands to operate several separate demi- Legios as was the common case with many Secundus class Titan Legions, and it seldom came together en masse for battle. It was commonly the case for one demi-Legio to be rotated through deployment on Atar-Median for repair and refit between major engagements, with the bulk of the Legio deployed to different war zones as needed as part of the overall Imperium military reserve, and seldom stayed attached to a particular Expeditionary fleet for long. Particular campaigns which saw the notable actions of the Firebrands during this period included the liberation of Vayber and the Second Ghenna Campaign, the great Ullanor Crusade and the Lament of Shedim. In this last campaign, a notable incident occurred which was to have a bearing on events of the Horus Heresy and accounted, in part, for the presence of demi-Legio Karkanos of the Firebrands at Isstvan V.
 
 During the war against the Eldar in the Shedim Drifts, a mighty clash occurred on the arid world of Anark Zeta between the forces of the Craftworld of Mór-ríoh'i and the Great Crusade. The vast Imperial force raised to destroy the marauding Craftworld included detachments from no fewer than four Titan Legions: the Legio Mortis (the Death's Heads), the Legio Fureans (the Tiger Eyes), the Legio Osedax (the Cockatrices) and the Legio Atarus (Firebrands), and was under the overall direct strategic command of Horus Lupercal and his (then) Luna Wolves. During the apocalyptic battle which raged on the planet's surface, the Legio Atarus were used as part of a probing attack against the Eldar warp gates. This was successful in drawing forth the ash grey and crimson Titans of the enemy into open battle. Heavily engaged and outnumbered by the ghostly xenos war machines, the promised support of the Death's Heads did not materialise, while the Titans of the Tiger Eyes, holding the Firebrands' flank, crumbled under the Eldar assault and retreated, leaving a full demi-Legio of the Firebrands to be encircled and all but destroyed, with only a single Warhound surviving the engagement still able to fight. In the aftermath, it was revealed that the attack had been a ruse intended to divert the strength of the enemy away from the direct defence of the Craftworld while Horus' own Legion undertook a surprise assault against it. That Legio Atarus has been cruelly used without its foreknowledge or consent, and that both Legio Mortis and Legio Fureans had refused to stand beside the Firebrands, was an injury the Titan Legion would not forget.
 
 The events that occurred in the Shedim Drifts soured the opinion those of Legio Atarus held towards the Warmaster and, when news of his betrayal reached Atar-Median, alongside calls to aid the suppression of his rebellion, the Firebrands were amongst the first to answer. Whether such eagerness stemmed from a desire for vengeance for the grievances the Titan Legion held towards the Warmaster or merely out of complete loyalty to the Imperium is unknown. Regardless of the reasoning, a demi-Legio of Titans was dispatched to Isstvan V only to meet their end during the Dropsite Massacre. For the remainder of the Horus Heresy, the Titans of Legio Atarus proved eager to bring the Traitors to battle, throwing themselves into some of the most notable battles of the conflict, including the battle for the Beta-Garmon Cluster and the Cataclysm of Iron.
 
-Materiel Strength Counted by the assessors of the Divisio Militaris as a fully operational Titan Legion of the second rank, Legio Atarus is estimated to have had between 100-130 god-machines in active service at the time of the outbreak of the Horus Heresy. It was also known to possess a highly-respected armoured support battalion and Skitarii Auxillia Legion as part of its retainer forces (known collectively as the Brotherhood of Axxos). Like many Secundus rated Titan Legions, Legio Atarus' principal strength in numbers ranged across the mid-classes, with Reaver, Nightgaunt and Carnivore types making up the majority of its ranks, with sizeable contingents of Warlord and Warhound classes constituting the balance of their Titan forces. It is believed Legio Atarus possessed a single Nemesis class Titan, the Immaculata Athartus, which stood both as the god-engine of the Legio's Grand Master, Everard Mazarin, and defender of the Forge World of Atar-Median.
+### Materiel Strength
+
+Counted by the assessors of the Divisio Militaris as a fully operational Titan Legion of the second rank, Legio Atarus is estimated to have had between 100-130 god-machines in active service at the time of the outbreak of the Horus Heresy. It was also known to possess a highly-respected armoured support battalion and Skitarii Auxillia Legion as part of its retainer forces (known collectively as the Brotherhood of Axxos). Like many Secundus rated Titan Legions, Legio Atarus' principal strength in numbers ranged across the mid-classes, with Reaver, Nightgaunt and Carnivore types making up the majority of its ranks, with sizeable contingents of Warlord and Warhound classes constituting the balance of their Titan forces. It is believed Legio Atarus possessed a single Nemesis class Titan, the Immaculata Athartus, which stood both as the god-engine of the Legio's Grand Master, Everard Mazarin, and defender of the Forge World of Atar-Median.
 
 ## Legio Atarus (Firebrands)
 
-**Legio Trait: Seizing the Initiative Firebrands crews need little prompting to take the**
+### Legio Trait: Seizing the Initiative
 
-initiative, and Titans within their maniples are often on the move, even before their Princeps Seniores issues the order to advance or attack. Firebrands commanders have learned to exploit the independent nature of the Princeps under their control, and often array their forces as aggressively as possible.
+Firebrands crews need little prompting to take the initiative, and Titans within their maniples are often on the move, even before their Princeps Seniores issues the order to advance or attack. Firebrands commanders have learned to exploit the independent nature of the Princeps under their control, and often array their forces as aggressively as possible.
 
 Once per battle, a force that contains at least one Legio Atarus maniple may re-roll the dice roll to determine who will choose the First Player, but only if they rolled lower than their opponent. If they win this roll-off then they must nominate themselves as the First Player.
 
@@ -459,57 +444,43 @@ This Stratagem can be purchased by any Legio Atarus player. Reveal this Stratage
 
 ### Legio Specific Stratagem: Maniple of One (2)
 
-Many Princeps cannot see beyond the ancient tactica doctrines laid down by the Collegia Titanica - not so the Firebrands, who practise the theorems of adaptive warfare.This is most evident in their flexible approach to the concept of the maniple, individual Princeps often changing their tactics in the midst of combat.
+Many Princeps cannot see beyond the ancient tactica doctrines laid down by the Collegia Titanica - not so the Firebrands, who practise the theorems of adaptive warfare. This is most evident in their flexible approach to the concept of the maniple, individual Princeps often changing their tactics in the midst of combat.
 
-This Stratagem can be purchased by any Legio Atarus player. The Legio Atarus player may reveal this Stratagem at the beginning of any round. For the duration of that round, one Titan in their force may gain the benefits of any
+This Stratagem can be purchased by any Legio Atarus player. The Legio Atarus player may reveal this Stratagem at the beginning of any round. For the duration of that round, one Titan in their force may gain the benefits of any Maniple Trait normally available to Legio Atarus. Note that while this Stratagem is in effect, the chosen Titan loses any other Maniple Trait it might have and does not count as being a part of any other maniples.
 
-**Maniple Trait**
+### Legio Specific Wargear: Infernus Missiles
 
-normally available to Legio Atarus. Note that while this Stratagem is in effect, the chosen Titan loses any other
-
-**Maniple Trait**
-
-it might have and does not count as being a part of any other maniples.
-
-**Legio Specific Wargear: Infernus Missiles Legio Atarus Titans make extensive use of incendiary**
-
-missiles, weapons that are produced in vast numbers on Atar-Median and supplied almost exclusively to the Firebrands, and that are highly effective against supporting units and terrain.
+Legio Atarus Titans make extensive use of incendiary missiles, weapons that are produced in vast numbers on Atar-Median and supplied almost exclusively to the Firebrands, and that are highly effective against supporting units and terrain.
 
 Any Legio Atarus Titan armed with Apocalypse missile launchers, Apocalypse missile arrays or an Apocalypse missile launcher can be upgraded to have Infernus missiles for +25 points, so long as that Titan does not already have an upgrade affecting that weapon. Each of the Titan's weapons must be upgraded separately. A weapon with this upgrade gains the [Voidbreaker] (2) trait. In addition, if a unit suffers at least one hit from a weapon with this upgrade, place a 5" Blast marker under the unit. In the End phase, any model with at least part of its base on the marker takes a Strength 4 hit, ignoring void shields and ion shields. After resolving any hits, the fire goes out and the marker is removed. Titans suffer this hit to their Legs. In addition, Blocking terrain touched by the marker takes a Strength 4 hit (see the Adeptus Titanicus rulebook for details on damaging and destroying terrain) and, if not destroyed, is set alight. In the End phase, burning terrain suffers a Strength 4 hit, and deals a Strength 4 hit to any models in it, as detailed above. The fire then goes out.
 
-**Legio Specific Personal Traits A Legio Atarus Princeps Seniores' Personal trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Atarus Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Headstrong: A stubborn streak runs deeply through the Princeps and their Titan, and once they set themselves upon a task, they will press forwards, regardless of the outcome. In the End phase, the Princeps Seniores may choose not to discard any Orders issued to their Titan - in effect carrying forward the Order into the following round without the need to make a new Command check. Note, [Shutdown] orders and other effects that change a Titan's current Order are still applied as normal. 2 Unconventional Thinker: The Princeps has training in lateral-combative reasoning and sees things in the ebb and flow of battle that others might miss. This allows them to anticipate the actions of their enemies, or make sudden manoeuvres to catch their foes off-guard. Once per battle, after an enemy Titan has declared its action, but before it moves or fires, the Princeps' Titan can be moved D6" in any direction and its facing changed by up to 90°. This movement may not take the Titan through Blocking terrain or other models. 3 Shedim Drift Veteran: The Princeps remembers well the betrayal at Shedim Drifts, where the Warmaster used the Firebrands as cannon fodder for his favoured Legio, and is eager to make the Traitors pay in kind. During the Combat phase, the Princeps may choose one of their Titan's weapons. Any Armour rolls resulting from hits by the weapon may be re-rolled this round. If the Princeps is targeting a Titan from the Death's Heads (Legio Mortis) or Tiger Eyes (Legio Fureans) Legios, then hits from all of the Princeps' Titan's weapons may re-roll their Armour rolls.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Headstrong:** A stubborn streak runs deeply through the Princeps and their Titan, and once they set themselves upon a task, they will press forwards, regardless of the outcome. In the End phase, the Princeps Seniores may choose not to discard any Orders issued to their Titan - in effect carrying forward the Order into the following round without the need to make a new Command check. Note, [Shutdown] orders and other effects that change a Titan's current Order are still applied as normal. |
+| 2 | **Unconventional Thinker:** The Princeps has training in lateral-combative reasoning and sees things in the ebb and flow of battle that others might miss. This allows them to anticipate the actions of their enemies, or make sudden manoeuvres to catch their foes off-guard. Once per battle, after an enemy Titan has declared its action, but before it moves or fires, the Princeps' Titan can be moved D6" in any direction and its facing changed by up to 90°. This movement may not take the Titan through Blocking terrain or other models. |
+| 3 | **Shedim Drift Veteran:** The Princeps remembers well the betrayal at Shedim Drifts, where the Warmaster used the Firebrands as cannon fodder for his favoured Legio, and is eager to make the Traitors pay in kind. During the Combat phase, the Princeps may choose one of their Titan's weapons. Any Armour rolls resulting from hits by the weapon may be re-rolled this round. If the Princeps is targeting a Titan from the Death's Heads (Legio Mortis) or Tiger Eyes (Legio Fureans) Legios, then hits from all of the Princeps' Titan's weapons may re-roll their Armour rolls. |
 
-Legio Atarus Warlord Battle Titan
+### Legio Atarus Warlord Battle Titan
 
-Ex Noctia Paired Belicosa volcano cannon, such as those carried to war by Ex Noctia, proved both popular and effective Titan weapons during the Beta-Garmon conflict. Over the years of the Great Crusade, few enemies of the Emperor could
+**Ex Noctia**
 
-hope to face the firepower of a Battle Titan, and the excessive brutality of volcano cannon was often wasted on xenos hordes and rebel fortifications. Against other Titans, however, such a weapon stands among one of the few
+Paired Belicosa volcano cannon, such as those carried to war by Ex Noctia, proved both popular and effective Titan weapons during the Beta-Garmon conflict. Over the years of the Great Crusade, few enemies of the Emperor could hope to face the firepower of a Battle Titan, and the excessive brutality of volcano cannon was often wasted on xenos hordes and rebel fortifications. Against other Titans, however, such a weapon stands among one of the few armaments that can reliably punch through the hull of such a war machine.
 
-armaments that can reliably punch through the hull of such a war machine.
-
-Legio Atarus Heraldry
-
-Upstarts and rebels in the eyes of the Mechanicum, the heraldry of the Legio Atarus nonetheless attests to their loyalty to the Emperor with iconography of the Imperium. The cog within a cog speaks to the division between Phaeton and Mars, a dispute many within the Firebrands still consider an unnecessary act of submission, even if it did ultimately lead to the creation of their Legio and the founding of Atar-Median. Few Legio have had to fight as hard as the Firebrands to earn their place among the Collegia Titanica, and every Legio banner, like the one shown here, contains a long list of campaign honours, each one a victory for the Legio and shared by all members of the Firebrands.
+Legio Atarus Heraldry Upstarts and rebels in the eyes of the Mechanicum, the heraldry of the Legio Atarus nonetheless attests to their loyalty to the Emperor with iconography of the Imperium. The cog within a cog speaks to the division between Phaeton and Mars, a dispute many within the Firebrands still consider an unnecessary act of submission, even if it did ultimately lead to the creation of their Legio and the founding of Atar-Median. Few Legio have had to fight as hard as the Firebrands to earn their place among the Collegia Titanica, and every Legio banner, like the one shown here, contains a long list of campaign honours, each one a victory for the Legio and shared by all members of the Firebrands.
 
 ## Legio Metalica
 
-Title: The Legio Metalica Ordo Titanica
-
-Militaris Grade: Primus (Maxis)
-
-Patent: Pre-Imperial, Metalicium Mechanicum
-
-Warden Domain(s): Metalica (Forge World), Kolossi
-
-Cognomen: The Iron Skulls
-
-Allied War Houses: Krast, Raven, Vornherr
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Metalica Ordo Titanica
+- **Militaris Grade:** Primus (Maxis)
+- **Patent:** Pre-Imperial, Metalicium Mechanicum
+- **Warden Domain(s):** Metalica (Forge World), Kolossi
+- **Cognomen:** The Iron Skulls
+- **Allied War Houses:** Krast, Raven, Vornherr
+- **Allegiance:** Fidelitas Constantus
 
 If the data vaults of the Forge World of Metalica are accurate, the esteemed Titan Legion, renowned for its great tactical prowess and skill in battle, stands amongst the most ancient of its kind. Indeed, the date of its founding suggest that Metalica was amongst the first successful colony established by colony arks dispatched from Mars during the Age of Strife. The lengthy records relating to the long service of the Iron Skulls, as Legio Metalica are often named, provide a detailed history of the extensive victories claimed by the Titan Legion during the Age of Strife, telling of great adversity faced by both the Forge World and its defenders. Standing amongst the many of these victories attributed to Legio Metalica was the ruthless destruction of no less than 32 separate invasions by a diverse number of xenos species that, at one point or another, laid siege to Metalica. The strength of the Iron Skulls did not sit idle during these millennia either, and by the time of Metalica's rediscovery, nearly a dozen neighbouring systems had been incorporated into the Forge Empire of Metalica thanks to the tactical prowess of the Titan Legion.
 
@@ -521,15 +492,15 @@ In war, Legio Metalica was noted to favour ordered tactical plans, despairing of
 
 By the time of the Ullanor Triumph, Legio Metalica had amassed a degree of renown not dissimilar to the reputations of the Triad Ferrum Morgulus. Driven by a desire to possess the strength wielded by Metalica, emissaries of the Warmaster were dispatched in an attempt to sway the allegiance of the Forge World to his cause. The fate of these emissaries remains unknown, for records indicate that conflict erupted soon after they were sent and no evidence exists as to their arrival at Metalica. Irrespective of the fate of the Warmaster's emissaries, the allegiance of Metalica was called into question on numerous occasions during the early years of the Horus Heresy; the most notable occurrence involving conflict between Legio Metalica and Legio Pallidus Mors, with the latter reporting treachery by the Iron Skulls. According to those few Princeps who survived the resulting conflict, the Pale Scythes claimed that a battlegroup of Iron Skulls had attempted to sway them to turn against the Emperor. When Legio Pallidus Mors denied such an offer, it was met with violence, and from that day forth, the Pale Scythes harboured distrust towards Legio Metalica, even after it was revealed that the wayward Iron Skulls had been corrupted by the machinations of Legio Vulturum. Further scattered reports of turncoat Iron Skulls battlegroups were reported elsewhere in the galaxy and the Loyalist strength of Legio Metalica tasked themselves with the extermination of such traitors. The fractious nature of Legio Metalica's loyalty did much to stain the once-impeccable reputation of the Titan Legion leading to the collapse of the Iron Skulls' diplomatic strategists organisation, for few trusted the Titan Legion enough to share tactical secrets lest it be used against their own.
 
-Materiel Strength The operational strength of Legio Metalica is attested to have stood at 159 god-engines following the Ullanor Triumph. As befitting a Titan Legion of its standing, Legio Metalica was noted to contain several super-heavy Battle Titan types amongst its ranks as well as an extensive number of Warlord class Battle Titans. All recorded data concurs with the standard force disposition of a Primus grade Titan Legion though minor equipment variations are referenced in several assessments of Legio Metalica's strength. In particular, many reports referred to the Iron Skulls' preference for the auditory enhancement of each god-engine's loud hailers, resulting in an amplified sound unleashed by a Legio Metalica Titan each time it fired
+### Materiel Strength
 
-a weapon. The exact reason behind such a modification is not recorded within the databases of Legio Metalica, though assessments of the most ancient Titans of Legio Metalica show such modifications were retrospectively added, while Titans less than five centuries old by the time of the Horus Heresy had such enhancements added during construction. The specialised Skitarii support regiments employed by Legio Metalica, of which three were in active use during the Horus Heresy, seemingly drew a measure of inspiration from the modified sound of Legio Metalica warhorns, while opposing forces found such a cacophony highly disorientating. It is presumed that such auditory barrages were fashioned to serve a role similar in fashion to that of a war-cry, albeit one on a gargantuan scale.
+The operational strength of Legio Metalica is attested to have stood at 159 god-engines following the Ullanor Triumph. As befitting a Titan Legion of its standing, Legio Metalica was noted to contain several super-heavy Battle Titan types amongst its ranks as well as an extensive number of Warlord class Battle Titans. All recorded data concurs with the standard force disposition of a Primus grade Titan Legion though minor equipment variations are referenced in several assessments of Legio Metalica's strength. In particular, many reports referred to the Iron Skulls' preference for the auditory enhancement of each god-engine's loud hailers, resulting in an amplified sound unleashed by a Legio Metalica Titan each time it fired a weapon. The exact reason behind such a modification is not recorded within the databases of Legio Metalica, though assessments of the most ancient Titans of Legio Metalica show such modifications were retrospectively added, while Titans less than five centuries old by the time of the Horus Heresy had such enhancements added during construction. The specialised Skitarii support regiments employed by Legio Metalica, of which three were in active use during the Horus Heresy, seemingly drew a measure of inspiration from the modified sound of Legio Metalica warhorns, while opposing forces found such a cacophony highly disorientating. It is presumed that such auditory barrages were fashioned to serve a role similar in fashion to that of a war-cry, albeit one on a gargantuan scale.
 
 ## Legio Metalica (Iron Skulls)
 
-**Legio Trait: Victories Beyond Measure Legio Metalica remains one of the oldest and most**
+### Legio Trait: Victories Beyond Measure
 
-esteemed Titan Legions, possessing a long and storied history of service during the Great Crusade. Their innumerable victories are owed to the skill of the Legio's Princeps in seizing the perfect moment to capitalise on.
+Legio Metalica remains one of the oldest and most esteemed Titan Legions, possessing a long and storied history of service during the Great Crusade. Their innumerable victories are owed to the skill of the Legio's Princeps in seizing the perfect moment to capitalise on.
 
 Once per round, after completing the activation of a friendly Legio Metalica Titan, the Legio Metalica player may immediately activate another friendly Legio Metalica Titan. After resolving the second Titan's activation, increase its Reactor Level by 2. A Titan cannot be activated in this way if the Titan activated first was part of a Squadron, nor can a Titan that is part of a Squadron be chosen as the second activation.
 
@@ -539,23 +510,139 @@ Formed from metal and little else, the world of Metalica is a sterile planet whe
 
 This Stratagem can be purchased by a Legio Metalica player. Play this Stratagem when a Titan's Machine Spirit awakens as a result of pushing its Reactor. The Machine Spirit is not awakened, in the same manner as if the Titan has passed its Command check.
 
-**Legio Specific Wargear: Bastion Armour Based upon Metalica, the Iron Skulls benefit from the Forge**
+### Legio Specific Wargear: Bastion Armour
 
-World's expertise in manufacturing, incorporating many unique metallic compounds within their armour plating and skeleton.
+Based upon Metalica, the Iron Skulls benefit from the Forge World's expertise in manufacturing, incorporating many unique metallic compounds within their armour plating and skeleton.
 
 Any Legio Metalica Titan may take Reinforced Armour for +15 points. Weapons with the [Fusion] trait that target a Titan with this upgrade always roll a D6 regardless of range and weapons with the [Rending] trait add 1 to the Armour roll rather than D3 for each Armour roll of a 6.
 
-**Legio Specific Wargear: Auditory Barrage Vox-hailers produced by the Forge World of Metalica are**
+### Legio Specific Wargear: Auditory Barrage
 
-modified to emit distinct blaring sounds so their foes can hear their death approaching, a sound that shatters all but the strongest of wills.
+Vox-hailers produced by the Forge World of Metalica are modified to emit distinct blaring sounds so their foes can hear their death approaching, a sound that shatters all but the strongest of wills.
 
 Any Legio Metalica Titan can be upgraded with an Auditory Barrage for +10 points. When a Titan with this upgrade makes an attack with any weapon that does not have the [Melee] trait, enemy Knight Banners within 8" of the Titan must make a Command check; if the Banner fails its Command check they become Shaken. A Banner can only be affected by this rule upgrade once per round.
 
-**Legio Specific Personal Traits A Legio Metalica Princeps Seniores' Personal trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Metalica Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Paragon of Conquest: The Princeps has never seen defeat, no matter the odds arrayed against them, and is always pressing forward to conquer their foe. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Paragon of Conquest Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan is in the opponent's deployment zone. 2 Diligent Commander: The Princeps has seen battle across countless worlds a...5271 tokens truncated...atched to the many border worlds of Ultramar. Ever the crusaders, the Legio Praesagius were entrusted with the scouring of the shadows at the edges of Ultramar, such that many more worlds could come under its banner and be equally prosperous given time.
+| D3 | Personal Traits |
+| :---: | :--- |
+| 1 | **Paragon of Conquest:** The Princeps has never seen defeat, no matter the odds arrayed against them, and is always pressing forward to conquer their foe. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Paragon of Conquest Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan is in the opponent's deployment zone. |
+| 2 | **Diligent Commander:** The Princeps has seen battle across countless worlds and has decades of experience to draw upon when directing their troops. Once per round, at the end of the Strategy phase, the Legio Metalica player may choose a friendly Legio Metalica Titan within 6" of the Princeps Seniores' Titan. Make a Command check for that Titan. If the check is passed, the Titan may immediately be issued an Order, which replaces any Order it is currently issued with, of the player's choice. The Strategy phase then ends. [Emergency Repairs] orders cannot be replaced in this manner. |
+| 3 | **Godlike Benevolence:** Though the majesty of the god-engines cannot be matched, the Princeps is aware of the value of their smaller allies and bestows their guidance upon them where possible. Once per round, during the End phase, the player can choose a Knight Banner that is Shaken and make a Command check using this Princeps' Command value. If the test is passed, the Banner is no longer Shaken. |
+
+### Legio Metalica Warmaster Heavy Battle Titan
+
+**Doloris Dominus**
+
+Suzerain pattern plasma destructors, such as those wielded by the Warmaster Titan Doloris Dominus of Legio Metalica during the Razing of Arcadiax in 009.M31, required immense energy to function. The Suzerain pattern was specifically designed to be wielded by the Warmaster Titan to allow it to fully leverage the extensive reactor system housed within the Heavy Battle Titan. This standard mode of fire saw the weapon function in a similar fashion to the Sunfury class plasma annihilator, albeit at a greater scale. When circumstances called for the destruction of hardened targets, additional power could be funnelled into the weapon, focusing the unleashed plasma into a concentrated lance-like projectile capable of melting through several layers of armour. This property ensured the plasma destructor was a slayer of god-engines, making it exceedingly dangerous for any Titan foolhardy enough to directly engage a Warmaster Titan.
+
+### Legio Metalica Warlord Battle Titan
+
+**Custodire Invidia**
+
+
+
+Custodire Invidia Custodire Invidia was the personal Titan of Princeps Seniores Ulrichit Larzend, known within the records of Metalica as the Warden of Saraninent. This title was granted during the Great Crusade, when Princeps Larzend and his maniple found itself adrift following the redeployment of the 183rd Expeditionary Fleet. The vessels carrying Custodire Invidia and its kin emerged within the borders of the Saraninent Conglomerate, a human enclave previously unknown to the Imperium. For a decade, the small contingent of Legio Metalica Titans led by Larzend fought off xenos pirates that had plagued the region for two millennia. When contact was reestablished with the 183rd Expeditionary Fleet, the Saraninent Conglomerate eagerly joined the Imperium and Larzend was honoured for his service under extreme conditions. To this day, monuments to Legio Metalica exist across all of the Conglomerate's worlds, each dedicated to Larzend and his warriors.
+
+## Legio Astraman
+
+- **Title:** The Legio Astraman Ordo Titanica
+- **Militaris Grade:** Primus
+- **Patent:** Pre-Imperial, Graian Mechanicum
+- **Warden Domains:** Graia (Forge World), Nalindeer, Nanrzo VI, Rarendeer Station
+- **Cognomen:** The Morning Stars
+- **Allied War Houses:** Moritain
+- **Allegiance:** Fidelitas Constantus
+
+The history of Graia and the Legio Astraman is intrinsically linked to the Belt of Iron, a name given to a region of space spanning the border sectors of the Segmentum Tempestus and Segmentum Pacificus which contained numerous lesser Forge Worlds. When the colony arks sent forth from Mars during the Age of Strife reached the planet that would become the Forge World of Graia, they found a world overrun by warring tribes of feral greenskins. Though the presence of the xenos made initial attempts at colonisation far from simple, it also proved to be the first test of the yet-unnamed Titan Legion that would come to form the basis of Legio Astraman. The exact origin of the name 'The Morning Stars' is unknown and unrecorded, bar that it was bequeathed upon Legio Astraman during the colonisation of the Forge World. Speculation as to the provenance of the name makes reference to fragmented reports of battles that took place during initial landfall upon the planet, with data-fragments stating that "…preceded by thunderous steps they came… striding forth haloed by the first rays of sun… and lo did the creatures blister and burn, as the wrath of the Omnissiah shone like a star amongst their ranks."
+
+It was the strength of Legio Astraman that ensured Graia thrived during the Age of Strife, expanding its reach to over two dozen star systems by the time contact was made with the Imperium. The Morning Stars' success can be attributed to three defining factors. The first was the construction of an extensive network of manufactoria that were capable of producing Titans, allowing the expansion of Legio Astraman to a size equivalent to a Primus grade Titan Legion. Secondly, its tenacity and firm resolve, for which Legio Astraman quickly became known for during the Great Crusade, bred a Titan Legion capable of overcoming the numerous threats they faced. Lastly, the Magi of Graia laboured for centuries to construct a network of orbital platforms around the Forge World, each bristling with weapons while offering additional residential and research capacity, should it be required. This network became known as the Crown of Graia and served to alleviate the need for large numbers of Morning Stars god-engines to remain deployed in defence of the Forge World, allowing the Legio's strength to be focussed on Graia's more distant holdings. Thus, when the Great Crusade began its expansion into the Segmentum Pacificus, it found a prosperous Forge Empire defended by a Titan Legion of considerable size.
+
+The strength of Legio Astraman ensured that initial contact between Graia and the Imperium was tense, for the representatives of the Emperor voiced concerns that any attempt to conquer the Forge Empire would be a protracted and bloody affair. It was with much relief to such individuals that Graia appeared willing to join the Imperium with minimal resistance and, in return for their service, the Forge Empire was granted feudal rights to an additional handful of star systems which the Imperium had already conquered. The rediscovery of Graia proved advantageous for the Imperium as the Titan Legion's god-engines were sorely tested in the decades following the Forge World's rediscovery. Expansion across the region of space that would eventually become known as the Belt of Iron saw the Imperium encounter many Forge Worlds of varying strength, some of which were protected by Titan Legions of their own. The first such world to be encountered after Graia was the Forge Empire of Valia-Maximal and the now-infamous Titan Legion known as Legio Laniaskara that defended it. Unlike Graia, the people of Valia-Maximal were not open to Compliance and opposed the Imperium with all their might. Though Valia-Maximal eventually fell, it did so only after a protracted campaign in which the Morning Stars and the Impalers inflicted considerable damage upon one another, which in turn inflicted irreparable damage upon the diplomatic relationship between the two Forge Worlds. Further conflict with dissident Titan Legions, such as Legio Venator, was not uncommon during the conquest of the two Segmentum, though it was not the sole war front on which Legio Astraman fought. Indeed, the Morning Stars soon earned themselves a name serving alongside the Raven Guard Legiones Astartes, thanks in part to the Titan Legion's overreliance on data-predictions to dictate their tactics which enabled them to proactively support the clandestine nature of the Raven Guard's tactics.
+
+By the onset of the Horus Heresy, Legio Astraman was perhaps one of the foremost experts in fighting other Titan Legions, thanks largely to their participation in the conquest of various Forge Worlds, marking them out as a potentially significant threat in the war to come. Presuming the loyalties of Graia would be difficult to gain, emissaries of the Warmaster instead turned Valia-Maximal to their side, stoking the fires of resentment and placing the two Forge Worlds in direct opposition. When the latter publicly declared for the Warmaster, Graia found itself pulled into an escalating conflict with Valia-Maximal and Legio Laniaskara, leading to the recall of much of the Morning Stars' strength. Their numbers proved valuable following the eruption of full-scale war across the Belt of Iron. Over two-thirds of the strength of Legio Astraman was committed to the region and the resulting conflict, known as the Cataclysm of Iron, was to see hundreds of worlds devastated, with even Graia itself feeling the tread of Traitor god-engines when Legio Laniaskara fell upon the Forge World. What strength Legio Astraman held elsewhere in the galaxy soon found itself drawn into the deadliest conflicts of the Horus Heresy, including the chaotic maelstrom of the Beta-Garmon campaign. In the dark days following the fall of the Warmaster, it was the Morning Stars that discovered Valia-Maximal abandoned, the once-prosperous Forge World left barren save for the desecrated husks of those Morning Stars Titans that had fallen during the conflict, unable to be retrieved. Since that day, Legio Astraman has vowed to pursue Legio Laniaskara to the end of the galaxy, until such a time as its memory has been banished.
+
+### Materiel Strength
+
+The strength of Legio Astraman benefited greatly from both the manufacturing capacity of Graia and the Imperium's need to sustain their numbers during conflicts with enemy Titan Legions during the Great Crusade, such as Legio Laniaskara and Legio Venator. To ensure that the attrition of such conflicts did not wear down the Morning Stars' numbers, over a dozen lesser Forge Worlds in close proximity to Graia were tasked with supplying Legio Astraman with materiel and, where possible, Titans. Through careful negotiation, this flow of resources was maintained until the outbreak of the Horus Heresy which saw the strength of Legio Astraman stand at 156 god-engines. Given the ancient status of the Titan Legion, several of these were of rarer classes including at least three Imperator Titans, of which one fell upon Urdesh and has yet to be rebuilt. Of the remaining Titans, the Morning Stars showed a preference towards the deployment of Warlord Battle Titans, with nearly half their number drawn exclusively from its ranks. The remaining god-engines utilised by Legio Astraman were split evenly between Scout class and Battle Titans, with numbers of both maintained at equivalent levels to ensure the Titan Legion could adapt to any situation.
+
+## Legio Astraman (Morning Stars)
+
+### Legio Trait: Unyielding
+
+Like all drawn from Graia, the Morning Stars possessed an innate tenacity and refusal to yield, never retreating, even in the face of certain death.
+
+When activated during the Movement phase, a Legio Astraman Titan can choose to voluntarily Awaken their Machine Spirit - this counts as the Titan's activation. If they do this, advance their Reactor Status marker by 2. The Titan automatically fails their Command check to quell the Machine Spirit and applies the Stalwart result from the Awakened Machine Spirit table instead of rolling. The chosen Titan cannot be activated in the subsequent Combat phase.
+
+### Legio Stratagem: Strength and Resolve (1)
+
+The Princeps of Legio Astraman were trained to operate with reduced systems, pushing them to better understand the limitations of their engines.
+
+This Stratagem can be purchased by any Legio Astraman player. The Legio Astraman player may reveal this Stratagem when activating a Titan during the Strategy phase. Until the beginning of the following round, attacks made against that Titan gain no bonus to Armour rolls as a result of damage already inflicted as indicated by the Command Terminal (see the Adeptus Titanicus rulebook). This counts as the Titan's activation for that phase.
+
+### Legio Specific Stratagem: Stand Firm (3)
+
+In the face of superior firepower, the Morning Stars would form an immovable front, standing shoulder to shoulder to weather incoming fire.
+
+This Stratagem can be purchased by any Legio Astraman player. The Legio Astraman player may reveal this Stratagem at the beginning of any round. For the duration of that round, any friendly Legio Astraman Titan can merge void shields with any other friendly Legio Astraman Titans as if they were part of the same Squadron, so long as none of the Titans sharing void shields have moved this round (voluntarily or involuntarily).
+
+### Legio Specific Wargear: Maglock Shells
+
+Legio Astraman Titans made use of modified ordnance designed to adhere to the armour of their target before detonation, localising the damage for greater impact.
+
+Any Legio Astraman Titan armed with a weapon with the [Ordnance] trait may take Maglock Shells so long as that Titan does not already have an upgrade affecting that weapon at a cost of +5 points multiplied by each weapon's Dice value; for example a Reaver Gatling Blaster would have a cost of +30 points. Each weapon a Titan is armed with must be upgraded separately. Add 1 to the result of all Armour rolls made by a weapon with this upgrade when resolving an attack made with an [Ordnance] weapon. Rolls of a natural 1 are still a Superficial Hit.
+
+### Legio Specific Personal Traits
+
+A Legio Astraman Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+
+| D3 | Personal Traits |
+| :---: | :--- |
+| 1 | **Steadfast:** The iron will of the Princeps is legendary and nothing can dissuade them from their chosen path. When the Princeps' Titan is required to roll on the Awakened Machine Spirit table, they may instead choose the result from the table instead of rolling. If they do this, increase their Reactor level by 1, in addition to any other effects. |
+| 2 | **Diligent:** The Princeps is careful to ensure their Titan is always operating at peak condition, monitoring all systems even in the heat of battle. Once per game, during the Strategy phase, the Princeps' Titan may be issued an [Emergency Repairs] order without the need to make a Command check. |
+| 3 | **Immovable Bastion:** The Princeps believes in facing adversity head-on and will not baulk in the face of a charging foe. Once per game, after resolving the effects of an attack made against the Princeps' Titan by an enemy Titan as part of a [Charge] order, the Princeps' Titan may immediately make a Smash Attack, or an attack with a weapon with the [Melee] trait, against the attacking unit. |
+
+### Legio Astraman Warlord Battle Titan
+
+**Fortiter Bellator**
+
+
+
+Fortiter Bellator Titans were engineered to be capable of facing any threat the wider galaxy could throw at them, and loadouts such as that displayed by Fortiter Bellator here were common when called upon to face enemy infantry. Fortiter Bellator is pictured upon the agri-world of Nariindi, one of the principal suppliers of food to the Forge World of Graia. The agri-world was plagued by widespread rebellion during the Cataclysm of Iron, resulting in a maniple of Titans, including Fortiter Bellator, being deployed to placate the world. Contact was lost in 012.M31, and it was only upon the rediscovery of the gutted carcass of the Warlord upon the abandoned Valia-Maximal two years later that its fate became known.
+
+### Legio Astraman Warbringer Nemesis Titan
+
+**Fulgur Magno**
+
+
+
+Fulgur Magno Though the Morning Stars contributed forces to conflicts throughout the Belt of Iron and the wider galaxy, much of their efforts focused on halting the advances of Legio Laniaskara into the borders of Graia's Forge Empire. Given the infamously direct tactics of the Impalers, those in command of Morning Stars forces relied heavily upon defensive strategies in response. Warbringer Nemesis Titans, such as Fulgur Magno, were vital elements of such tactics, often being used as anchors for a defensive line. Faster elements of Legio Astraman would draw Impalers engines into carefully prepared kill zones where the Traitors' movements were slowed by the debilitating effects of the Morning Stars' quake cannon.
+
+## Legio Praesagius
+
+- **Title:** The Praesagius Ordo Titanica
+- **Militaris Grade:** Secundus
+- **Patent:** Post-Unification, Martian Mechanicum
+- **Warden Domain(s):** Gantz (Forge World)
+- **Cognomen:** The True Messengers
+- **Allied War Houses:** Vornherr
+- **Allegiance:** Fidelitas Constantus
+
+The Legio Praesagius were noble champions of the Imperium, a host of war engines of cataclysmic power which sought not only to destroy, but to inspire through pageantry, pomp and ceremony. Bedecked in secular finery, the Titans of Legio Praesagius were an enduring symbol of the righteous cause of the Great Crusade. Its Titan crews fought with a strict chivalric honour code which forbade the indiscriminate use of ordinance and collateral slaughter of human life, which they saw as unbefitting a true god-machine, instead favouring the precision duelling of individual Titans with worthy opponents. Through this method of warfare did Legio Praesagius seek to leave a functional realm in their wake, its cities intact and its peoples prosperous.
+
+Given patent on Mars at the outset of the Great Crusade, Praesagius was one of the many Titan Legions born to support the Imperium's expansion. Scions of the storied and ancient Legio Gryphonicus, the Legio Praesagius was provided at their founding with a large complement of heavy Battle Titans, and were thus destined from their inception to become one of the grandest of the Titan Legions. They would walk time and again throughout the Great Crusade, forging their reputation not as brutes prone to indiscriminate destruction, but as warriors of precision who treated their allies with consideration and compassion, not as a currency to be spent in the brutality of war. For this they earned honours from the Officio Militaris, and earned the respect and trust of the Legiones Astartes, particularly the XIIIth Legion.
+
+The Legio Praesagius first earned renown and glory at Tentrion, a prosperous foothold for the forces of the Great Crusade which linked the cradle of Imperium with the worlds of the galactic core. Valuable for its prodigious manufactoria and its many ancient and long-forgotten remnants of Mankind's earliest golden days amongst the stars, Tentrion's populace refused to yield their hegemony to the rule of the Emperor. Reports prepared by the most lauded of tacticians stated that the expected war against Tentrion would cost the Great Crusade millions of lives, exhaust its burgeoning resources and momentum and ravage the worlds of Tentrion beyond hope of repair. Were it not for the actions of Legio Praesagius, the Great Crusade may have floundered in its first moments.
+
+When dispatched, the war council expected the Legio to inspire fear by bellowing fiery destruction upon the great cities of Tentrion. Instead, the Legio's Grand Master, Bohemond, and the other Titans of his maniple took to the field alone, far from the populous cities, and there laid a challenge of single combat at the feet of the mightiest war machines of Tentrion. After five days of arduous duelling with the mighty gun-crawlers of Tentrion, the Legio Praesagius stood victorious, proving its prowess and the Imperium's noble intent in a statement of supremacy which awed the denizens of Tentrion peacefully into the fold of Imperial Compliance. The Emperor Himself honoured Legio Praesagius after this incredible feat. For their courage and skill in turning an unfathomably costly siege into a grand and swift victory, He named them "the truest messengers of His grand intent", a cognomen they proudly adopted forevermore.
+
+Tentrion was but the first of a long roll of prestigious honours won by the Legio Praesagius. The brilliance of their Princeps and skill of their Moderatii became well-known throughout the Great Crusade, becoming the envy of many of their brother Legios. These rivals cursed them as cowards unable to face the realities of war; they accused the True Messengers of taking little risk and making few sacrifices for the Imperium, instead winning victories with showmanship and trickery to earn unjust accolades. Indeed, it could be said of the Legio Praesagius that they haughtily would not engage a foe if they could not do so without causing collateral damage, and would simply withdraw from the field if massed infantry were utilised by the enemy. While their detractors would decry such actions as timidity, the Titan Legion's own battle reports show that they honourably refused to be the cause of massed, casual slaughter.
+
+Venerable and ancient Legios with much influence, such as the Legio Mortis and Legio Suturvora, came to hate proud Praesagius in time, for though they were larger and equally successful, they were not vaunted gloriously but rather haunted by rumour of unnecessary massacre and marred by a dark hunger for bloody atrocity. The petitioning and auspices of the Princeps of these jealous Legios saw the Legio Praesagius pitched time and again into awful conflicts every bit as mired in terror and brutality as any that the Collegia Titanica encountered. Though they were undaunted and emerged victorious from these awful wars, attrition wore away at the strength of the noble Legio, until they were no longer of sufficient strength to remain at the tip of the spear of the Great Crusade.
+
+Hope was not lost, however, for in recognition of the Legio Praesagius' noble bearing and history of service with distinction, Roboute Guilliman, Primarch of the Ultramarines, invited the Legio to take up a new home within his realm of Ultramar on the Forge World of Gantz, an honour which the Legio accepted with solemn dignity. However, the Legio Praesagius did not tarry long upon their Warden world, staying only long enough to regroup and re-supply before demi-Legio forces were dispatched to the many border worlds of Ultramar. Ever the crusaders, the Legio Praesagius were entrusted with the scouring of the shadows at the edges of Ultramar, such that many more worlds could come under its banner and be equally prosperous given time.
 
 At the dawn of the Horus Heresy, the might of Praesagius was called to war as a full Legio for the first time in decades. Mustering on Calth in a grand procession as they embarked upon their landing craft, they were betrayed by the Word Bearers Space Marines. Caught unawares, the majority of Legio Praesagius was ruthlessly destroyed in the opening salvo of treachery, as their dropships were blasted from near-orbit and their parade-ready Titans were ambushed by their erstwhile allies amongst the Legio Suturvora. It is a testament to the courage and discipline of the Legio Praesagius that, faced with such shocking catastrophe and brutal losses, they succumbed neither to panic nor disarray in the face of the onslaught.
 
@@ -563,25 +650,27 @@ Those of the True Messengers who remained active after the initial storm of fire
 
 When news reached Gantz of the betrayal at Calth, the remainder of the True Messengers swore a Crusade of Iron against the Traitors rampant within the Five Hundred Worlds of Ultramar. Legio Praesagius, alongside their allies of the Legio Oberon and the Ordo Sinister, dispatched their maniples across the worlds assailed by the enemy, to hunt and to punish the Traitor Legios in dozens of brutal conflicts, and though they were few, every Titan tallied many times their own number in kills before being laid low. In the wake of this crusade, the remnants of Praesagius would not be content to limp back to Gantz, but once again began the effort of re-marshalling their strength, to join the Ultramarines on their long and difficult road to Terra.
 
-Materiel Strength In the early days of the Legio Praesagius, it was ranked as Primaris grade with over 300 god-engines to its name, and notably had a significant standing of heavy Battle Titans including Warlord, Imperator and Carnivore class god-engines. For much of the Great Crusade, it was rare for the Legio to be assembled in its entirety for war. Due to the great size of the Legio Praesagius, it was separated into demi-Legio battlegroups that encouraged a structure of dispersed command and reliance on the initiative of its Titan Princeps. This was the cornerstone of their many victories, for each Princeps was a respected commander and a veteran leader of battlegroups. By their time on Gantz, the Legio Praesagius' size was greatly diminished, numbering only 112 Titans at the time of the muster on Calth, of which most were Warlord and Reaver classes with seasoned veteran crews. In the tragic aftermath of Calth, and for much of the Shadow Crusade, a mere dozen Titans were all that would remain of proud Legio Praesagius.
+### Materiel Strength
+
+In the early days of the Legio Praesagius, it was ranked as Primaris grade with over 300 god-engines to its name, and notably had a significant standing of heavy Battle Titans including Warlord, Imperator and Carnivore class god-engines. For much of the Great Crusade, it was rare for the Legio to be assembled in its entirety for war. Due to the great size of the Legio Praesagius, it was separated into demi-Legio battlegroups that encouraged a structure of dispersed command and reliance on the initiative of its Titan Princeps. This was the cornerstone of their many victories, for each Princeps was a respected commander and a veteran leader of battlegroups. By their time on Gantz, the Legio Praesagius' size was greatly diminished, numbering only 112 Titans at the time of the muster on Calth, of which most were Warlord and Reaver classes with seasoned veteran crews. In the tragic aftermath of Calth, and for much of the Shadow Crusade, a mere dozen Titans were all that would remain of proud Legio Praesagius.
 
 ## Legio Praesagius (True Messengers)
 
-**Legio Trait: Pinpoint Accuracy The True Messengers showed a distinct preference for**
+### Legio Trait: Pinpoint Accuracy
 
-precision weaponry, believing indiscriminate destruction was unfitting conduct for a true Titan Legion.
+The True Messengers showed a distinct preference for precision weaponry, believing indiscriminate destruction was unfitting conduct for a true Titan Legion.
 
 A Legio Praesagius player may re-roll the Location dice for attacks made by Legio Praesagius Titans when using a weapon's Long range - they must accept the second roll. They may not re-roll the Location dice if the attack was made with a [Blast] weapon that subsequently missed.
 
-**Legio Trait: Fluid Command Structure Due to the great size of the Legio Praesagius, the**
+### Legio Trait: Fluid Command Structure
 
-Legio was separated into demi-Legio battlegroups that encouraged a structure of dispersed command and reliance on the initiative of its Titan Princeps.
+Due to the great size of the Legio Praesagius, the Legio was separated into demi-Legio battlegroups that encouraged a structure of dispersed command and reliance on the initiative of its Titan Princeps.
 
 If the Princeps Seniores of a Legio Praesagius maniple is destroyed, the player may choose another Titan from that maniple to designate as the new Princeps Seniores. The new Princeps Seniores follows all the rules for being a Princeps Seniores but has no Personal Trait. Only a Princeps Seniores chosen during battlegroup selection counts for the purpose of determining Victory points and other scenario effects.
 
-**Legio Trait: Against the Impossible Often assigned to the vanguard of Expeditionary fleets,**
+### Legio Trait: Against the Impossible
 
-the Legio Praesagius became renowned for achieving the seemingly impossible.
+Often assigned to the vanguard of Expeditionary fleets, the Legio Praesagius became renowned for achieving the seemingly impossible.
 
 Once per battle, when any Legio Praesagius Titan takes Critical Damage from a weapon attack, after the weapon attack has been resolved, it may immediately undergo an Emergency Repair as if it had been issued the [Emergency Repairs] order. This cannot be used if the Titan has suffered Catastrophic Damage.
 
@@ -589,49 +678,37 @@ Once per battle, when any Legio Praesagius Titan takes Critical Damage from a we
 
 This Stratagem can be purchased by any Legio Praesagius player. Play this Stratagem at the start of the Strategy phase, before any Orders are issued. Until the start of the next round, add 1 to the Hit rolls of all attacks made by Legio Praesagius Titans when using a weapon's Long range.
 
-**Legio Specific Personal Traits A Legio Praesagius Princeps Seniores' Personal Trait can either be generated**
+### Legio Specific Personal Traits
 
-from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Praesagius Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Noble Legacy:The Princeps was there at the start of the Great Crusade and still upholds the promise that the dream of humanity will one day be achieved. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Eternal Bastion Tertiary Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan was not destroyed or Structurally Compromised. 2 Natural Commander: The Princeps is able to quickly assess the ebb and flow of battle, directing the engines under their command with ease. If the Princeps' Titan rolls a 9 or 10 for a Command check made when issuing Orders, they may issue the same Order to any or all of the Titans in their maniple (provided they do not already have an Order) without the need to make a Command check. 3 Crusader: The Princeps is a true believer in the crusading spirit of their Legio, adhering to a doctrine of marching forwards with relentless purpose. Once per round, when moving in the Combat phase as part of a [Full Stride] order, the Princeps' Titan may fire one of its weapons after they have finished moving. Apply a -2 modifier to the Hit rolls.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | Noble Legacy:The Princeps was there at the start of the Great Crusade and still upholds the promise that the dream of humanity will one day be achieved. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Eternal Bastion Tertiary Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan was not destroyed or Structurally Compromised. |
+| 2 | **Natural Commander:** The Princeps is able to quickly assess the ebb and flow of battle, directing the engines under their command with ease. If the Princeps' Titan rolls a 9 or 10 for a Command check made when issuing Orders, they may issue the same Order to any or all of the Titans in their maniple (provided they do not already have an Order) without the need to make a Command check. |
+| 3 | **Crusader:** The Princeps is a true believer in the crusading spirit of their Legio, adhering to a doctrine of marching forwards with relentless purpose. Once per round, when moving in the Combat phase as part of a [Full Stride] order, the Princeps' Titan may fire one of its weapons after they have finished moving. Apply a -2 modifier to the Hit rolls. |
 
-Legio Praesagius Warlord Battle Titan
+### Legio Praesagius Warlord Battle Titan
 
-Auric Pegasus Commanded by Master-Princeps Rhiko Trieste, a veteran warrior respected by her peers, Auric Pegasus saw its finest moments
+**Auric Pegasus**
 
-upon the surface of Calth. Taking command of the scattered elements of Legio Praesagius after the felling of the Arutan,
+Commanded by Master-Princeps Rhiko Trieste, a veteran warrior respected by her peers, Auric Pegasus saw its finest moments upon the surface of Calth. Taking command of the scattered elements of Legio Praesagius after the felling of the Arutan, Trieste issued her first, and final, command as mistress of the Titan Legion. Nine Warlords, Auric Pegasus amongst them, charged at the centre of the Fire Masters' line, buying time for the surviving True Messengers to withdraw into Ithraca City. Now known to the annals of the Collegia Titanica as the Nine Paragons of Ithraca, of these nine Warlord Titans Auric Pegasus was reportedly the last to fall, the severed and crushed head of an enemy Reaver Titan clenched in the god-engine's fist.
 
-Trieste issued her first, and final, command as mistress of the Titan Legion. Nine Warlords, Auric Pegasus amongst them, charged at the centre of the Fire Masters' line, buying time for the surviving True Messengers to withdraw into Ithraca City. Now known to the annals of the Collegia Titanica as the Nine Paragons of Ithraca, of these nine Warlord Titans Auric Pegasus
+### Legio Praesagius Warbringer Nemesis Titan
 
-was reportedly the last to fall, the severed and crushed head of an enemy Reaver Titan clenched in the god-engine's fist.
+**Sonitus Iustitiae**
 
-Legio Praesagius Warbringer Nemesis Titan
-
-Sonitus Iustitiae A relic of a forgotten war, Sonitus Iustitiae once belonged to a now-extinct Titan Legion, having fallen
-
-silent during the Age of Strife and remained lost until Explorator fleets found its remains upon the dead world of Kelossi VI. Painstakingly revived, it remained in the war vaults of Konor for nearly two
-
-centuries, awaiting the call to battle. When Legio Praesagius sought a renewal of their lost strength,
-
-Sonitus Iustitiae was awakened for the first time in millennia, the dolorous boom of its guns the
-
-herald of grim vengeance.
+A relic of a forgotten war, Sonitus Iustitiae once belonged to a now-extinct Titan Legion, having fallen silent during the Age of Strife and remained lost until Explorator fleets found its remains upon the dead world of Kelossi VI. Painstakingly revived, it remained in the war vaults of Konor for nearly two centuries, awaiting the call to battle. When Legio Praesagius sought a renewal of their lost strength, Sonitus Iustitiae was awakened for the first time in millennia, the dolorous boom of its guns the herald of grim vengeance.
 
 ## Legio Fortidus
 
-Title: The Legio Fortidus Ordo Titanica
-
-Militaris Grade: Secundus
-
-Patent: Pre-Imperium. Martian Mechanicum
-
-Warden Domain(s): Mars (Forge World), Bokiicatau (Legio Outpost), Molech (Legio Outpost)
-
-Cognomen: The Dauntless
-
-Allied War Houses: Knight Houses of Molech, Taranis, Zavora
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Fortidus Ordo Titanica
+- **Militaris Grade:** Secundus
+- **Patent:** Pre-Imperium. Martian Mechanicum
+- **Warden Domain(s):** Mars (Forge World), Bokiicatau (Legio Outpost), Molech (Legio Outpost)
+- **Cognomen:** The Dauntless
+- **Allied War Houses:** Knight Houses of Molech, Taranis, Zavora
+- **Allegiance:** Fidelitas Constantus
 
 The exact date of Legio Fortidus' founding, along with events that saw the bestowment of the cognomen "The Dauntless" upon the Titan Legion, is but one of many pieces of knowledge lost over the course of the Red Planet's history. That it was forged during the Age of Strife remains the sole concrete truth, for the Dauntless stood guard over Mars when the Emperor forged His pact with the Mechanicum, one amongst many Titan Legions bound to the planet. What little that can be gleaned from scattered records collated during the Age of Strife tells of a Titan Legion unwilling to bow before impending doom. Indeed, the strength of Legio Fortidus has both waxed and waned, the Titan Legion brought to the edge of extinction numerous times during the long millennia of warfare yet never truly broken upon the anvil of war before the coming of the Imperium.
 
@@ -641,21 +718,23 @@ Unable to call upon the near-boundless resources of their home world, Legio Fort
 
 When news reached the distant outposts of Legio Fortidus of the fall of their most seasoned commanders and the destruction of the Titan Legion's most ancient god-engines, it is said that only rage could fill the void such a loss left behind. Devoid of aid from both Mars and other Dauntless battlegroups, each pocket of Legio Fortidus became, in its own eyes, the sole survivors of the Titan Legion. Reliant on small outposts, well- developed as they were, few such battlegroups were capable of sustaining the losses the Horus Heresy would bring, yet retreat and isolation was not a notion entertained by any amongst the Titan Legion. On a dozen worlds across the galaxy, the god-engines of Legio Fortidus forged a fearsome name for themselves, displaying a distinct lack of care for their own wellbeing, as if death, be it the Traitors' or their own, was the sole goal of the Titan Legion's Princeps.
 
-Materiel Strength Before betrayal dealt it a grievous blow the strength of Legio Fortidus was well-recorded, with data collated from the numerous outposts of the Titan Legion noting 127 active god-engines of varying classes and sizes in service to Legio Fortidus. Of these, over a third were Warlord class Battle Titans, with the remaining god-engines made up of other Scout and Battle Titans, as well as several Imperator and Nemesis Titans within their ranks.
+### Materiel Strength
+
+Before betrayal dealt it a grievous blow the strength of Legio Fortidus was well-recorded, with data collated from the numerous outposts of the Titan Legion noting 127 active god-engines of varying classes and sizes in service to Legio Fortidus. Of these, over a third were Warlord class Battle Titans, with the remaining god-engines made up of other Scout and Battle Titans, as well as several Imperator and Nemesis Titans within their ranks.
 
 The outbreak of the Horus Heresy saw this number vastly diminished, and the true cost of betrayal may never be known. What is clear is that the Death of Innocence, the name given to the revelation of treachery upon Mars, destroyed 53 god-engines and claimed the lives of the majority of the Titan Legion's greatest Titans. The catastrophe upon Mars was not the only act of betrayal to bring disaster to Legio Fortidus, for two recorded instances tell of Mechanicum fleets ferrying Dauntless Titans laid to waste when the guns of presumed allies were turned upon the vessels. Following such losses, Legio Fortidus could call upon an estimated 40 god-engines though these numbers were located across the galaxy and incapable of joining together. Furthermore, there proved a lack of consistent supply in order to arm the Dauntless battlegroups and replenish their numbers, resulting in significant deviations from standard tactical patterns laid down within the Collegia Titanica's charters. The most notable adaptation forced upon Legio Fortidus was the abandonment of the conventional Titan warfare role, with the varying battlegroups forced to deploy certain Titan classes in roles they were not designed for, such as utilising Reavers and Warlords as vanguards in the absence of Warhounds or other Scout Titans.
 
 ## Legio Fortidus (Dauntless)
 
-**Legio Trait: Children of Mars Legio Fortidus is among one of the oldest of the Titan Legions**
+### Legio Trait: Children of Mars
 
-and rightly proud of its heritage. Even those who had never laid eyes upon the red sands of their home world stood firm in the face of danger, the glory of Mars theirs to uphold.
+Legio Fortidus is among one of the oldest of the Titan Legions and rightly proud of its heritage. Even those who had never laid eyes upon the red sands of their home world stood firm in the face of danger, the glory of Mars theirs to uphold.
 
 Legio Fortidus Titans never suffer penalties to their Command checks and may ignore effects that force them to re-roll successful Command checks. Knight Banners bonded to Legio Fortidus may re-roll Command checks to avoid becoming Shaken provided they are within line of sight of at least one friendly Legio Fortidus Titan.
 
-**Legio Trait: Lost Sons With the majority of their Legio destroyed, the surviving Princeps**
+### Legio Trait: Lost Sons
 
-Seniores of the Dauntless were forced to become more flexible in their tactics and use whatever Titan assets they could call upon to aid them.
+With the majority of their Legio destroyed, the surviving Princeps Seniores of the Dauntless were forced to become more flexible in their tactics and use whatever Titan assets they could call upon to aid them.
 
 A Legio Fortidus battlegroup may alter one of the mandatory Titan components of any of its maniples, exchanging this mandatory component for a Titan of Scale 10 or lower. Note that for the purposes of the maniple's rules, the replacement Titan does not count as the Titan type it is replacing.
 
@@ -671,47 +750,37 @@ Such was the wound inflicted on the Dauntless by the Traitors that its Princeps 
 
 This Stratagem can be purchased by any Legio Fortidus player. The Legio Fortidus player may reveal this Stratagem when one of their Titans suffers a Magazine Detonation or Catastrophic Meltdown result on the Catastrophic Damage table (see the Adeptus Titanicus rulebook). When resolving the Catastrophic Damage effects, add 5 to the Titan's Scale.
 
-**Legio Specific Personal Traits A Legio Fortidus Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Fortidus Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Broken by Treachery: The Princeps has become filled with despair at the destruction of their kin, seeking out the largest among the enemy so they might bring them down or meet their own end. Once per round, when targeting a Titan with a Scale equal to or greater than the Princeps' own Titan, you may re-roll the Hit dice. Note that in the case of attacks with multiple dice rolled, all of the dice must be re- rolled or none of them. 2 Immortal of Mars: Arrogance drives the Princeps, who believes they were spared the betrayal on Mars by divine providence, and that they cannot die. The Princeps counts the effects of Critical Damage to their Titan's Head as one level lower than it is (i.e., Moderati Wounded and Princeps Wounded counts a Moderati Wounded and MIU Feedback, while Moderati Wounded and MIU Feedback counts only as MIU Feedback, while MIU Feedback alone is ignored). 3 Soldier of the Crusade: The Princeps is the commander of a self-contained Great Crusade battlegroup, of the Legio but apart, and able to call upon its own devoted supporting units. Before forces are deployed, when choosing Stratagems, the Legio Fortidus player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Broken by Treachery:** The Princeps has become filled with despair at the destruction of their kin, seeking out the largest among the enemy so they might bring them down or meet their own end. Once per round, when targeting a Titan with a Scale equal to or greater than the Princeps' own Titan, you may re-roll the Hit dice. Note that in the case of attacks with multiple dice rolled, all of the dice must be re- rolled or none of them. |
+| 2 | **Immortal of Mars:** Arrogance drives the Princeps, who believes they were spared the betrayal on Mars by divine providence, and that they cannot die. The Princeps counts the effects of Critical Damage to their Titan's Head as one level lower than it is (i.e., Moderati Wounded and Princeps Wounded counts a Moderati Wounded and MIU Feedback, while Moderati Wounded and MIU Feedback counts only as MIU Feedback, while MIU Feedback alone is ignored). |
+| 3 | **Soldier of the Crusade:** The Princeps is the commander of a self-contained Great Crusade battlegroup, of the Legio but apart, and able to call upon its own devoted supporting units. Before forces are deployed, when choosing Stratagems, the Legio Fortidus player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force. |
 
-Legio Fortidus Warlord Battle Titan
+### Legio Fortidus Warlord Battle Titan
 
-Bastion of Sorrow Scattered across the galaxy and heavily depleted after the Schism of Mars, many Fortidus battlegroups firmly believed they
+**Bastion of Sorrow**
 
-were the only survivors of their ancient Order. Many Princeps underwent marked changes because of this. The Princeps of
+Scattered across the galaxy and heavily depleted after the Schism of Mars, many Fortidus battlegroups firmly believed they were the only survivors of their ancient Order. Many Princeps underwent marked changes because of this. The Princeps of Bastion of Sorrow, shown here during the later years of the Great Crusade bearing its old title "Defender of Dawn", became so focused on avenging the wrongs dealt to their Legio, they altered their Titan's name and sacrificed some of its long range firepower for weapons better suited to deliver its vengeance directly.
 
-Bastion of Sorrow, shown here during the later years of the Great Crusade bearing its old title "Defender of Dawn", became so focused on avenging the wrongs dealt to their Legio, they altered their Titan's name and sacrificed some of its long range
+### Legio Fortidus Warhound Battle Titan
 
-firepower for weapons better suited to deliver its vengeance directly.
+**Valour of Mars**
 
-Legio Fortidus Warhound Battle Titan
-
-Valour of Mars Originally conceived as scouts and skirmishers, catastrophic losses saw many Warhounds pushed into roles normally reserved
-
-for their larger brethren. Depicted here during the defence of Lupercalia, the Valour of Mars is noted for utilising tactics
-
-deemed hazardous by many observers. Leading a squadron of Warhounds similarly armed with weapons that taxed the smaller reactor of the Titan, Valour of Mars led numerous sorties through the ruins of Lupercalia that proved instrumental in
-
-driving the Traitors from the world.
+Originally conceived as scouts and skirmishers, catastrophic losses saw many Warhounds pushed into roles normally reserved for their larger brethren. Depicted here during the defence of Lupercalia, the Valour of Mars is noted for utilising tactics deemed hazardous by many observers. Leading a squadron of Warhounds similarly armed with weapons that taxed the smaller reactor of the Titan, Valour of Mars led numerous sorties through the ruins of Lupercalia that proved instrumental in driving the Traitors from the world.
 
 ## Legio Crucius
 
-Title: The Legio Crucius Ordo Titanica
-
-Militaris Grade: Primus
-
-Patent: Pre-Imperium, Ryzan Mechanicum
-
-Warden Domain(s): Ryza (Forge World), Molech, Tassandar V, Zerindal
-
-Cognomen: The Warmongers
-
-Allied War Houses: No notable allies Pre-Heresy; Sidus, Taranis, Zavora
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Crucius Ordo Titanica
+- **Militaris Grade:** Primus
+- **Patent:** Pre-Imperium, Ryzan Mechanicum
+- **Warden Domain(s):** Ryza (Forge World), Molech, Tassandar V, Zerindal
+- **Cognomen:** The Warmongers
+- **Allied War Houses:** No notable allies Pre-Heresy; Sidus, Taranis, Zavora
+- **Allegiance:** Fidelitas Constantus
 
 Amongst the echelons of the Cult Mechanicus, Ryza, founding world of Legio Crucius, stood second only to Mars in power and prominence by the end of the Great Crusade. Located within the Ultima Segmentum, its position was secured by both its raw manufacturing power and its tactical location, which leant great aid to the Great Crusade's efforts to expand towards the galactic east. Above all else, Ryza possessed both unparalleled expertise in the engineering and production of plasma technology and a Titan Legion which, at its zenith, rivalled the power of the Triad Ferrum Morgulus in size and strength.
 
@@ -723,73 +792,69 @@ While suspicions towards Ryza's growing power no doubt stemmed, at least in part
 
 This forethought did much to preserve Legio Crucius' strength during the Horus Heresy. On a handful of worlds, including Molech, battlegroups of Warmongers fell victim to the Warmaster's wrath and, though the loss of even a handful of Titans was a keen blow to any Titan Legion, the greater strength of Legio Crucius was not harmed by such injuries. Perhaps the greatest threat to the continued prosperity of Legio Crucius came during the Battle for Ryza, when the Warmaster's allies descended upon the Forge World intent upon claiming it as their own. Though the Horus Heresy was far greater in scope than even the most dire of predictions, a contingency plan designed to combat a direct assault upon Ryza had been designed. Following directives issued to them decades before, those outposts closest to Ryza were abandoned, each one journeying to the Forge World. More distant garrisons remained where they were, preserving their corner of the galaxy in acknowledgement of the fact that, should Ryza fall, others must continue its legacy. When the Traitors were thrown back from the Forge World, Legio Crucius was much diminished yet stood far from powerless, and what strength remained departed to the stars in pursuit of the invaders and in search of surviving pockets of Warmonger elements. Following the fall of the Warmaster, much of Legio Crucius had been reconnected and it was clear that though the war remained far from over, the foresight of its masters had proved enough to preserve them for millennia to come.
 
-Materiel Strength Officially, according to records supplied by Ryza, the strength of Legio Crucius sat at 152 god-engines a decade before the Horus Heresy began. Subsequent events, such as the emergence of House Sidus, throw doubts upon this number as, if suspicions are correct, Ryza concealed a measure of its strength from all outside their domain. Attempts to further clarify the total strength of Legio Crucius have proven difficult and require data collated from multiple sources of varying objectivity; of the 17 confirmed outposts dedicated to Legio Crucius, at least 57 god-engines were recorded as part of their garrisons, yet a total of 36 god-engines are recorded to have been garrisoned upon Ryza at the same time and a further 82 in active service upon Expeditionary fleets, giving a number above the recorded total. Further confusion of total strength is added when one considers the emergence of Warmaster Titans from many Forge Worlds during the days of the Horus Heresy, of which at least two are now known to have been in service to Legio Crucius. It should, therefore, suffice to say that the official count is conservative at best and, in a move no doubt intended to hide the true strength and location of all of its god-engines, a not inconsiderate number of Legio Crucius Titans were concealed from the gaze of others. The last piece of data that should be considered is the recorded number a decade after the Horus Heresy ended, placing the remaining strength of Legio Crucius at 74 god- engines, a number significantly smaller than even the most conservative of pre-Heresy estimates.
+### Materiel Strength
+
+Officially, according to records supplied by Ryza, the strength of Legio Crucius sat at 152 god-engines a decade before the Horus Heresy began. Subsequent events, such as the emergence of House Sidus, throw doubts upon this number as, if suspicions are correct, Ryza concealed a measure of its strength from all outside their domain. Attempts to further clarify the total strength of Legio Crucius have proven difficult and require data collated from multiple sources of varying objectivity; of the 17 confirmed outposts dedicated to Legio Crucius, at least 57 god-engines were recorded as part of their garrisons, yet a total of 36 god-engines are recorded to have been garrisoned upon Ryza at the same time and a further 82 in active service upon Expeditionary fleets, giving a number above the recorded total. Further confusion of total strength is added when one considers the emergence of Warmaster Titans from many Forge Worlds during the days of the Horus Heresy, of which at least two are now known to have been in service to Legio Crucius. It should, therefore, suffice to say that the official count is conservative at best and, in a move no doubt intended to hide the true strength and location of all of its god-engines, a not inconsiderate number of Legio Crucius Titans were concealed from the gaze of others. The last piece of data that should be considered is the recorded number a decade after the Horus Heresy ended, placing the remaining strength of Legio Crucius at 74 god- engines, a number significantly smaller than even the most conservative of pre-Heresy estimates.
 
 ## Legio Crucius (Warmongers)
 
-**Legio Trait: Forgeborn Compared to their contemporaries, the majority of Legio Crucius**
+### Legio Trait: Forgeborn
 
-Titans were fresh from the forges. These Titans enjoyed the benefits of systems that had not faced the excesses of plasma overloads or countless combat repairs, and so fared better in those critical first moments of an engagement between god-engines.
+Compared to their contemporaries, the majority of Legio Crucius Titans were fresh from the forges. These Titans enjoyed the benefits of systems that had not faced the excesses of plasma overloads or countless combat repairs, and so fared better in those critical first moments of an engagement between god-engines.
 
 In the first and second rounds of the game, when a Legio Crucius Titan makes a Repair roll, either in the Damage Control phase or as a result of being issued an [Emergency Repairs] order, it may re-roll any dice results of a 1.
 
-**Legio Trait: Pride of Ryza The Tech-Priests of Ryza are keepers of ancient plasma**
+### Legio Trait: Pride of Ryza
 
-technologies and the secrets of their creation. Sunfury weaponry, plasma reactors and venting systems produced on Ryza are rightly prized by countless Legio, though as with all things, the Ryzan Mechanicum keep back the best examples for themselves.
+The Tech-Priests of Ryza are keepers of ancient plasma technologies and the secrets of their creation. Sunfury weaponry, plasma reactors and venting systems produced on Ryza are rightly prized by countless Legio, though as with all things, the Ryzan Mechanicum keep back the best examples for themselves.
 
 During the Damage Control phase, or when making Repair rolls as part of an [Emergency Repairs] order, when a Legio Crucius Titan uses a dice result of 6 to Vent Plasma, decrease the Titan's Reactor level by 2 rather than 1.
 
-**Legio Specific Wargear: Terminus Override Mechanisms Some Legio Crucius Titans employed ancient**
+### Legio Specific Wargear: Terminus Override Mechanisms
 
-terminus override systems for their Titans. These complex devices could read the mood of an unruly plasma reactor, detecting changes invisible even to the Princeps and protecting the Titan against sudden overloads or devastating power spikes.
+Some Legio Crucius Titans employed ancient terminus override systems for their Titans. These complex devices could read the mood of an unruly plasma reactor, detecting changes invisible even to the Princeps and protecting the Titan against sudden overloads or devastating power spikes.
 
 Any Legio Crucius Titan may be equipped with a Terminus Override Mechanism for +30 points. The first time a Legio Crucius Titan with a Terminus Override Mechanism would be required to roll on the Reactor Overload table (see the Adeptus Titanicus rulebook), instead of rolling, nothing happens - no roll is needed. Once triggered in this manner, a Terminus Override Mechanism has no further effect on the game.
 
-**Legio Specific Wargear: Bi-folded Power Containment Ryzan Titan weapons often employed cunning**
+### Legio Specific Wargear: Bi-folded Power Containment
 
-bi-folded power containment chambers to mitigate the effects on the reactor of particularly energy-hungry weapons such as Sunfury plasma annihilators and volcano cannon, though, as with all such plasma mechanisms, they were never completely reliable.
+Ryzan Titan weapons often employed cunning bi-folded power containment chambers to mitigate the effects on the reactor of particularly energy-hungry weapons such as Sunfury plasma annihilators and volcano cannon, though, as with all such plasma mechanisms, they were never completely reliable.
 
 Any Legio Crucius Titan may be equipped with a Bi- folded Power Containment System for +20 points. When firing a weapon with the [Draining] trait (see the Adeptus Titanicus rulebook), a Titan equipped with a Bi-folded Power Containment System can roll a D6 to mitigate its effect. On a 4+, the Titan can roll the Reactor dice twice and choose the result they want. On a 1, however, they must roll the Reactor dice twice and choose the result that would advance their Reactor marker by the most or, if both results would advance it by the same amount, the result that would Awaken the Machine Spirit.
 
-**Legio Specific Personal Traits A Legio Crucius Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Crucius Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Collegia Lord: The Princeps holds dual rank between the Legio and the Ryzan Mechanicum, commanding a greater measure of the Titan Legion's resources as befits their position. When making a Command check for the Princeps Seniores' Titan, if a 9 or 10 is rolled they may issue Orders to any or all of the Titans in their maniple (provided that they do not already have an Order) without the need to make Command checks for them. 2 Mechanicum Born: The Princeps was drawn from the Magos of Ryza and is closer to their god-machine than their more mortal counterparts as a result. Once in each Damage Control phase, you can re-roll one of the Repair dice for the Princeps Seniores' Titan, though you must accept the second result, even if it is worse. 3 Black Banner: The Princeps hails from one of the Legio's remote outpost fortresses, loyal to their home world before either the Emperor or the Warmaster. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Salvation of Crucius Tertiary Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan was not destroyed or Structurally Compromised.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Collegia Lord:** The Princeps holds dual rank between the Legio and the Ryzan Mechanicum, commanding a greater measure of the Titan Legion's resources as befits their position. When making a Command check for the Princeps Seniores' Titan, if a 9 or 10 is rolled they may issue Orders to any or all of the Titans in their maniple (provided that they do not already have an Order) without the need to make Command checks for them. |
+| 2 | **Mechanicum Born:** The Princeps was drawn from the Magos of Ryza and is closer to their god-machine than their more mortal counterparts as a result. Once in each Damage Control phase, you can re-roll one of the Repair dice for the Princeps Seniores' Titan, though you must accept the second result, even if it is worse. |
+| 3 | **Black Banner:** The Princeps hails from one of the Legio's remote outpost fortresses, loyal to their home world before either the Emperor or the Warmaster. If the Princeps' battlegroup does not have a Tertiary Objective (as part of a Stratagem or Mission), it gains the Salvation of Crucius Tertiary Objective. A battlegroup with this objective earns 5 Victory points at the end of the game if their Princeps Seniores' Titan was not destroyed or Structurally Compromised. |
 
-Legio Crucius Warlord Battle Titan
+### Legio Crucius Warlord Battle Titan
 
-Deus Praesitor Arioch power claws are a less commonly seen armament designed to allow a Warlord Titan to shatter enemy fortifications.
+**Deus Praesitor**
 
-During the Battle of Molech, they proved unexpectedly beneficial to Deus Praesitor when it lay buried underneath the
+Arioch power claws are a less commonly seen armament designed to allow a Warlord Titan to shatter enemy fortifications.
 
-ruins of the Iron Fist Mountain. Able to dig itself from the rubble with the aid of its power claw, the Deus Praesitor emerged to engage the Traitor Legions in close combat in an effort to avenge the wrong wrought against their Legio, both
+During the Battle of Molech, they proved unexpectedly beneficial to Deus Praesitor when it lay buried underneath the ruins of the Iron Fist Mountain. Able to dig itself from the rubble with the aid of its power claw, the Deus Praesitor emerged to engage the Traitor Legions in close combat in an effort to avenge the wrong wrought against their Legio, both on Molech and across the galaxy.
 
-on Molech and across the galaxy.
+### Legio Crucius Reaver Battle Titan
 
-Legio Crucius Reaver Battle Titan
+**Astramos Mortis Æternem**
 
-Astramos Mortis Æternem Legio Crucius had long predicted that a war between Titans would come to pass and had undertaken numerous wargames
-
-in preparation for such a time. Many Legio Crucius Reavers, including Astramos Mortis Æternem, were often employed as shield breakers and area deterrents. A favoured tactic of Legio Crucius against more cautious foes was to create a no man's land with a screen of Reavers that tore apart any who dared venture close and subjected those who stayed back to
-
-bombardments from supporting Warlords.
+Legio Crucius had long predicted that a war between Titans would come to pass and had undertaken numerous wargames in preparation for such a time. Many Legio Crucius Reavers, including Astramos Mortis Æternem, were often employed as shield breakers and area deterrents. A favoured tactic of Legio Crucius against more cautious foes was to create a no man's land with a screen of Reavers that tore apart any who dared venture close and subjected those who stayed back to bombardments from supporting Warlords.
 
 ## Legio Honorum
 
-Title: The Legio Honorum Ordo Titanica
-
-Militaris Grade: Secundus
-
-Patent: Pre-Imperial, Martian Mechanicum
-
-Warden Domain(s): Bezcrox IV (Forge-fortress), Jakarai Cluster, Zenn Prime (Forge-fortress)
-
-Cognomen: Death Bolts I
-
-Allied War Houses: Arundel, Zavora
-
-Allegiance: Fidelitas Exemplorum
+- **Title:** The Legio Honorum Ordo Titanica
+- **Militaris Grade:** Secundus
+- **Patent:** Pre-Imperial, Martian Mechanicum
+- **Warden Domain(s):** Bezcrox IV (Forge-fortress), Jakarai Cluster, Zenn Prime (Forge-fortress)
+- **Cognomen:** Death Bolts I
+- **Allied War Houses:** Arundel, Zavora
+- **Allegiance:** Fidelitas Exemplorum
 
 Much of Legio Honorum's history lies with the Great Crusade, for the Titan Legion was founded only three decades before the Emperor set foot upon Mars and secured an agreement between Terra and the Mechanicum. The founding of the Death Bolts, to give the Titan Legion the cognomen assigned to it on creation, was driven by the desire held by many on Mars to spread the reach of the Red Planet elsewhere across the galaxy. It was with this goal in mind that Legio Honorum was created, not to serve as warders of the Red Planet but rather conquerors of distant stars. Thus, when the Emperor presented His dream of the Great Crusade the Death Bolts were well-prepared to depart alongside His Expeditionary fleets.
 
@@ -801,19 +866,21 @@ With the benefit of hindsight, it is clear that the invitation extended to Legio
 
 The treachery on Mars dealt a grievous blow to Legio Honorum, for it was its most honoured and ancient commanders that had travelled to swear allegiance to the Fabricator General, including the Grand Master of the Death Bolts himself. Despite this, much of Legio Honorum's strength lay elsewhere, embedded with various Expeditionary fleets which, by serendipity, remained firmly loyal to the Emperor. Indeed, the true fate of its commanders was not revealed until after the Warmaster's fall, for the Red Planet was blockaded and all contact, at least through means available to the surviving Death Bolts, severed. Presuming the worst, the command structure of Legio Honorum was reorganised and adapted to the new war engulfing the galaxy. As with the Great Crusade, much of the Death Bolts' war efforts were focused on maintaining constant movement, committing to war zone after war zone as they moved to liberate worlds from the Warmaster's yoke. As the conflict progressed, the continued success of Legio Honorum saw its foes unleash their wrath upon the Death Bolts' holdings, levelling three forge-fortresses with orbital bombardments and denying the Titan Legion the means to replenish their number. In response, Legio Honorum was to assemble in its entirety and lay siege to the Forge World of Stygies VIII, founding world of Legio Vulcanum. Though well defended, much of Legio Vulcanum's strength was scattered throughout the Warmaster's armies and the Forge World fell quickly to the overwhelming might of Legio Honorum. Of all the victories achieved by the Death Bolts during the Horus Heresy, the conquest of Stygies VIII was perhaps their greatest, yet it was not without loss, for the subjugation of the Forge World marked the end of Legion Honorum as a crusading Titan Legion, anchoring them to a single world ever since.
 
-Materiel Strength Definitive numbers as to the total strength of Legio Honorum are difficult to assert, a circumstance largely derived from the disparate nature of its battlegroups, deployed as they were within multiple Expeditionary fleets. It is known, within a confident margin of error, that the two principal crusading arms of Legio Honorum contained between 15-25 god-engines each. By applying this data to the other six crusading arms of Legio Honorum, presuming lesser numbers in these, the estimated strength of Legio Honorum can be placed at 110-120 god-engines prior to the losses inflicted upon the Death Bolts on Mars. This number is consistent with the Titan Legion's Secundus grade, as recorded within the centralised archives of the Divisio Militaris. Muster reports taken before the conquest of Stygies VIII state that 42 god-engines were gathered together, representing the entirety of those Death Bolts that were contactable, highlighting the considerable losses suffered by Legio Honorum during the Horus Heresy. Given the Death Bolts' propensity for adhering to the core tenets of the Collegia Titanica, the composition of Legio Honorum's contingent of god-engines was of roughly equal numbers of Warlord and Reaver class Battle Titans, with over two dozen Warhound class Scout Titans and an increased number of Warbringer Nemesis class Titans relative to other Titan Legions of similar size.
+### Materiel Strength
+
+Definitive numbers as to the total strength of Legio Honorum are difficult to assert, a circumstance largely derived from the disparate nature of its battlegroups, deployed as they were within multiple Expeditionary fleets. It is known, within a confident margin of error, that the two principal crusading arms of Legio Honorum contained between 15-25 god-engines each. By applying this data to the other six crusading arms of Legio Honorum, presuming lesser numbers in these, the estimated strength of Legio Honorum can be placed at 110-120 god-engines prior to the losses inflicted upon the Death Bolts on Mars. This number is consistent with the Titan Legion's Secundus grade, as recorded within the centralised archives of the Divisio Militaris. Muster reports taken before the conquest of Stygies VIII state that 42 god-engines were gathered together, representing the entirety of those Death Bolts that were contactable, highlighting the considerable losses suffered by Legio Honorum during the Horus Heresy. Given the Death Bolts' propensity for adhering to the core tenets of the Collegia Titanica, the composition of Legio Honorum's contingent of god-engines was of roughly equal numbers of Warlord and Reaver class Battle Titans, with over two dozen Warhound class Scout Titans and an increased number of Warbringer Nemesis class Titans relative to other Titan Legions of similar size.
 
 ## Legio Honorum (Death Bolts I)
 
-**Legio Trait: Resolute and Unbowed The Death Bolts stood by the core tenets of the Collegia**
+### Legio Trait: Resolute and Unbowed
 
-Titanica and the Great Crusade, believing it was forever their duty to march forth and bring death to the enemies of the Imperium and the Omnissiah.
+The Death Bolts stood by the core tenets of the Collegia Titanica and the Great Crusade, believing it was forever their duty to march forth and bring death to the enemies of the Imperium and the Omnissiah.
 
 Any Legio Honorum Titan that has voluntarily moved more than 4" in the Movement phase of any round decreases the bonus to an attacker's Armour roll as the result of damage already inflicted on a location by 1, as indicated by the Titan's Command Terminal (see the Adeptus Titanicus rulebook), so long as the attack originates from within the Titan's Front arc.
 
-**Legio Trait: Founding Tenets The core of Legio Honorum favoured the traditional tactics of**
+### Legio Trait: Founding Tenets
 
-the Collegia Titanica, adapting them to the needs of a campaign while shying away from the more elaborate methods of other Legio.
+The core of Legio Honorum favoured the traditional tactics of the Collegia Titanica, adapting them to the needs of a campaign while shying away from the more elaborate methods of other Legio.
 
 A Legio Honorum maniple may substitute any mandatory component from an Axiom, Myrmidon or Fortis maniple with a Reaver or Warlord Titan, so long as that new Titan is of equal to or greater Scale than the Titan it is replacing. In addition, a Legio Honorum Titan may replace a single optional component Reaver or Warlord Titan from these maniples with a Warbringer Nemesis Titan. Each maniple can only include a single Warbringer Nemesis Titan in this way.
 
@@ -823,53 +890,43 @@ Since its inception, Legio Honorum has strode ever forwards, preferring death ov
 
 This Stratagem can be purchased by any Legio Honorum player. Play this Stratagem during any Strategy phase. For the remainder of the phase, friendly Legio Honorum Titans do not suffer penalties to Command checks. In addition, a single Legio Honorum Titan may re-roll a failed Command check made when issuing Orders.
 
-**Legio Specific Wargear: Basilius Throne The Princeps of Legio Honorum make use of modified command**
+### Legio Specific Wargear: Basilius Throne
 
-thrones that allow a great passage of knowledge between those Titans under their control, so long as the Princeps can filter the vast torrent of information.
+The Princeps of Legio Honorum make use of modified command thrones that allow a great passage of knowledge between those Titans under their control, so long as the Princeps can filter the vast torrent of information.
 
 A Legio Honorum Princeps Seniores' Titan may take a Basilius Throne for +25 points. A Titan with this upgrade may be issued Orders without the need to make a Command check. In addition, any Legio Honorum Titan adds 1 to the result of any Command check made when being issued an Order previously issued to a Princeps Seniores' Titan with this upgrade within the same maniple this round.
 
-**Legio Specific Personal Traits A Legio Honorum Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Honorum Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Ardent Crusader: The values of the Great Crusade are ones the Princeps still holds true to, even during their darkest moments. The presence of this Princeps within the battlegroup allows it to purchase the Legio Specific Stratagem: Crusading Spirit multiple times. 2 Stubborn: Once they have set their mind upon a solution, it is rare for the Princeps to stray. The Princeps may always be issued Orders during the Strategy phase, even if normally unable to do so, e.g., due to Vox Blackout or because a friendly Titan has failed their Command check when being issued an Order. 3 Iron Resolve: The will of the Princeps will never be broken and those that have strayed from their oaths will be punished for their treachery. The Princeps Seniores' Titan always benefits from the Resolute and Unbowed Legio Specific Trait, even if it has moved less than 4" that round, so long as the attack originates from within the Titan's Front arc.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Ardent Crusader:** The values of the Great Crusade are ones the Princeps still holds true to, even during their darkest moments. The presence of this Princeps within the battlegroup allows it to purchase the Legio Specific Stratagem: Crusading Spirit multiple times. |
+| 2 | **Stubborn:** Once they have set their mind upon a solution, it is rare for the Princeps to stray. The Princeps may always be issued Orders during the Strategy phase, even if normally unable to do so, e.g., due to Vox Blackout or because a friendly Titan has failed their Command check when being issued an Order. |
+| 3 | **Iron Resolve:** The will of the Princeps will never be broken and those that have strayed from their oaths will be punished for their treachery. The Princeps Seniores' Titan always benefits from the Resolute and Unbowed Legio Specific Trait, even if it has moved less than 4" that round, so long as the attack originates from within the Titan's Front arc. |
 
-Legio Honorum Warlord Battle Titan
+### Legio Honorum Warlord Battle Titan
 
-Custos Honoris For much of the Great Crusade, Legio Honorum worked in conjunction with Mechanicum Explorator fleets, venturing beyond the
+**Custos Honoris**
 
-edges of the known Imperium in order to secure the interests of Mars upon newly-discovered worlds. This role saw many Death Bolts Titans, Custos Honoris amongst them, avoid the carnage that heralded the beginning of the Horus Heresy, though their most experienced leaders were slain upon Mars during the opening salvos. Devoid of both supplies from Mars and a centralised leadership,
+For much of the Great Crusade, Legio Honorum worked in conjunction with Mechanicum Explorator fleets, venturing beyond the edges of the known Imperium in order to secure the interests of Mars upon newly-discovered worlds. This role saw many Death Bolts Titans, Custos Honoris amongst them, avoid the carnage that heralded the beginning of the Horus Heresy, though their most experienced leaders were slain upon Mars during the opening salvos. Devoid of both supplies from Mars and a centralised leadership, the disparate elements of Legio Honorum found themselves in need of new allies to ensure their survival. For Battlegroup Pradaius, consisting of 11 Legio Honorum Titans commanded by Custos Honoris, their new path led them to Ryza, serving as protectors to the Forge World as compensation for supplies and god-engines to bolster the Death Bolts' numbers.
 
-the disparate elements of Legio Honorum found themselves in need of new allies to ensure their survival. For Battlegroup Pradaius, consisting of 11 Legio Honorum Titans commanded by Custos Honoris, their new path led them to Ryza, serving as protectors to the
+### Legio Honorum Warbringer Nemesis Titan
 
-Forge World as compensation for supplies and god-engines to bolster the Death Bolts' numbers.
+**Resonare Mortis**
 
-Legio Honorum Warbringer Nemesis Titan
-
-Resonare Mortis Though originally designed to act as a designated support platform adept at destroying Titan-class targets, some Titan Legions, Legio Honorum amongst them, often placed their Nemesis-class Warbringers on the front line, trusting in their survivability to march alongside the Legio's Battle Titans. Depicted here during the Siege of Vrardi in 974.M30, Resonare Mortis bears a loadout commonly seen on Legio Honorum Warbringer Nemesis Titans, balancing the destructive potential
-
-that made it especially dangerous to both fortifications and enemy Titans with the need for close-ranged defence. Legio
-
-Honorum Warbringer Nemesis Titans became infamous for leading maniples of Reaver Titans in punishing assaults
-
-capable of breaking the back of all but the most determined of defences.
+Though originally designed to act as a designated support platform adept at destroying Titan-class targets, some Titan Legions, Legio Honorum amongst them, often placed their Nemesis-class Warbringers on the front line, trusting in their survivability to march alongside the Legio's Battle Titans. Depicted here during the Siege of Vrardi in 974.M30, Resonare Mortis bears a loadout commonly seen on Legio Honorum Warbringer Nemesis Titans, balancing the destructive potential that made it especially dangerous to both fortifications and enemy Titans with the need for close-ranged defence. Legio Honorum Warbringer Nemesis Titans became infamous for leading maniples of Reaver Titans in punishing assaults capable of breaking the back of all but the most determined of defences.
 
 ## Legio Osedax
 
-Title: The Legio Osedax Ordo Titanica
-
-Militaris Grade: Primus (Minoris)
-
-Patent: Pre-Imperial, Phaetonite Orthodox Mechanicum
-
-Warden Domain(s): Phaeton (Forge World)
-
-Cognomen: The Cockatrices
-
-Allied War Houses: Skramasax, Mehdrisur, Arx Canis
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Osedax Ordo Titanica
+- **Militaris Grade:** Primus (Minoris)
+- **Patent:** Pre-Imperial, Phaetonite Orthodox Mechanicum
+- **Warden Domain(s):** Phaeton (Forge World)
+- **Cognomen:** The Cockatrices
+- **Allied War Houses:** Skramasax, Mehdrisur, Arx Canis
+- **Allegiance:** Fidelitas Constantus
 
 The more common appellation for Legio Osedax is aptly chosen for, like the ancient cockatrice that once ravaged Old Earth, it is a beast twisted by a cold rage and utterly lacking in mercy, its very presence anathema to that which lives. Where its engines tread they bring only death and ruin, leaving behind no refuge for the foe nor shelter for the enemies of the Imperium. Their Princeps specialise in the brutal realm of close-quarters combat, and it is a rare sight when a Legio Osedax engine takes to the field unadorned by vast power claws or immense chainblades with which to rend and tear at the foe. In battle, they are a fearsome force, unrelenting and heedless of their own safety, seeking only to close with and eradicate the foe. Yet, they are not mindless berserkers, instead applying their savage skills with a deliberate and calculated cruelty in battle and adopting a scrupulous sense of decorum when off the field of war.
 
@@ -885,15 +942,17 @@ Following on the heels of this onslaught the orbiting bulk haulers suddenly dipp
 
 It was not only on Phaeton, but across the galaxy, that the revenge of Mars was played out, with detachments of the Legio Osedax operating as the spearhead of the Great Crusade suddenly abandoned by their allies in the midst of battle, or worse yet, caught in treacherous ambush by those they had once called friend. Within the space of a few short days, the Legio Osedax would find its forces decimated in scattered war zones across the galaxy. The treachery of Mars would leave them with barely enough operational Titans to field even a demi-Legio scale force, though thanks to their defiant resistance enough of Phaeton's infrastructure had survived so that many crippled Titans would be swiftly repaired and returned to action. Many among the ranks of the Traitors on Mars and further afield would celebrate this as a great victory, yet they had failed to kill the beast that was the Legio Osedax and had only succeeded in awakening it. Across the galaxy, Legio Osedax patched their rent armour and nurtured the hatred kindled by this betrayal, preparing themselves to return to the fray in earnest. The infamy they had claimed in the darkest years of their history had not been extinguished, and they stood ready to remind the Magi of Mars what it meant to claim the Cockatrices as an enemy.
 
-Materiel Strength Forged by the once-boundless industrial might of Phaeton, the Legio Osedax was a Titan Legion of the first order. Preserved against the ravages of Old Night and enriched by the spoils of the Great Crusade, Phaeton was prolific in its creation of machines of war and by the middle years of the Great Crusade, the Legio Osedax rivalled the Legio Mortis for sheer number of Battle Titans in its ranks. However, this time of plenty would be cut short by the bitter enmity kindled between Phaeton and Mars, leading to a full third of the Legio's Titans being tithed to the newly-birthed realm of Atar-Median. Furthermore, the treachery suffered by Phaeton at the outbreak of the Horus Heresy would further deplete the ranks of Legio Osedax. By the year 010.M31, at the heart of the Age of Darkness, the Cockatrices could field little more than 75 Battle Titans, mostly ancient Reaver class machines.
+### Materiel Strength
+
+Forged by the once-boundless industrial might of Phaeton, the Legio Osedax was a Titan Legion of the first order. Preserved against the ravages of Old Night and enriched by the spoils of the Great Crusade, Phaeton was prolific in its creation of machines of war and by the middle years of the Great Crusade, the Legio Osedax rivalled the Legio Mortis for sheer number of Battle Titans in its ranks. However, this time of plenty would be cut short by the bitter enmity kindled between Phaeton and Mars, leading to a full third of the Legio's Titans being tithed to the newly-birthed realm of Atar-Median. Furthermore, the treachery suffered by Phaeton at the outbreak of the Horus Heresy would further deplete the ranks of Legio Osedax. By the year 010.M31, at the heart of the Age of Darkness, the Cockatrices could field little more than 75 Battle Titans, mostly ancient Reaver class machines.
 
 Those Titans in service with the Cockatrices during the Horus Heresy, though few in number, were some of the best equipped machines to be found in the Imperium. Phaeton recognised the sacrifices made by the Legio Osedax by providing it with the most valuable technological relics in its armouries, from advanced plasma channels to multi-phase cyclic void shield generators. By long preference, its Princeps went to war equipped for close quarters battle, and its ranks bristled with chainfists, multi-barrelled mega-bolters and short ranged melta cannon. Though in addition to these forces the Legio Osedax had always maintained a well-equipped force of siege Titans, their Princeps uniquely skilled in the reduction of enemy fortifications and often considered excessive in their zeal for the task.
 
 ## Legio Osedax (The Cockatrices)
 
-**Legio Specific Trait: Reforged in War Legio Osedax were nearly broken in the fires of treachery and,**
+### Legio Specific Trait: Reforged in War
 
-though it threatened to consume them, they refused to yield.
+Legio Osedax were nearly broken in the fires of treachery and, though it threatened to consume them, they refused to yield.
 
 Legio Osedax Titans never suffer penalties to Command checks and may ignore effects that force them to re-roll successful Command checks.
 
@@ -909,49 +968,43 @@ Their numbers vastly reduced during the opening salvos of the Horus Heresy, the 
 
 This Stratagem can be purchased by any Legio Osedax player. Play this Stratagem when a friendly Legio Osedax Titan suffers Catastrophic Damage. After resolving the effects of the Catastrophic Damage, every friendly Legio Osedax Titan may immediately make a single weapon attack. This attack must be made against the closest visible enemy unit. Increase the Plasma Reactor level of any Titan that makes an attack in this way by 2, in addition to any other advances associated with weapon fire.
 
-**Legio Specific Wargear: Plasma Channels The Forge World of Phaeton was a significant power within the**
+### Legio Specific Wargear: Plasma Channels
 
-Segmentum Solar and was capable of equipping the Titans of Legio Osedax with numerous innovations.
+The Forge World of Phaeton was a significant power within the Segmentum Solar and was capable of equipping the Titans of Legio Osedax with numerous innovations.
 
 Any Legio Osedax Titan may be equipped with Plasma Channels for +20 points. Once per game, during the Movement phase, a Titan equipped with Plasma Channels can activate them. If they do so, decrease the Reactor Level of that Titan by D3+1. This counts as the Titan's activation for that phase.
 
-**Legio Specific Personal Traits A Legio Osedax Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Osedax Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Natural General: Newly promoted to replace a fallen leader, the Princeps has a natural talent for battle, despite their relative inexperience. During the Strategy phase, when the Princeps is successfully issued with an Order, a single friendly Legio Osedax Titan within the same maniple may be issued the same Order without the need to make a Command check. 2 Careful Planner:The Princeps places their trust in carefully-laid strategies, devising all manner of counter- ploys for potential threats. Once per game, the Legio Osedax player can reuse a Stratagem that cost 1 or fewer Stratagem points and has been used earlier in the battle by the Legio Osedax player. The Princeps must be on the battlefield to use this ability. If the Stratagem is one that can be used more than once (i.e., Artillery Bombardment), it may instead be used twice in one phase by the Legio Osedax player. 3 Lightning Assault: The Princeps is known for practicing swift attacks, bearing down upon their foe with deadly intent. After both players have deployed, but before players determine who is the First Player, Titans within the Princeps Seniores' maniple may immediately make a move. Each Titan may move no more than 6" when making this move. Any Titan that moves in this way cannot be issued Orders during the first round.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Natural General:** Newly promoted to replace a fallen leader, the Princeps has a natural talent for battle, despite their relative inexperience. During the Strategy phase, when the Princeps is successfully issued with an Order, a single friendly Legio Osedax Titan within the same maniple may be issued the same Order without the need to make a Command check. |
+| 2 | Careful Planner:The Princeps places their trust in carefully-laid strategies, devising all manner of counter- ploys for potential threats. Once per game, the Legio Osedax player can reuse a Stratagem that cost 1 or fewer Stratagem points and has been used earlier in the battle by the Legio Osedax player. The Princeps must be on the battlefield to use this ability. If the Stratagem is one that can be used more than once (i.e., Artillery Bombardment), it may instead be used twice in one phase by the Legio Osedax player. |
+| 3 | **Lightning Assault:** The Princeps is known for practicing swift attacks, bearing down upon their foe with deadly intent. After both players have deployed, but before players determine who is the First Player, Titans within the Princeps Seniores' maniple may immediately make a move. Each Titan may move no more than 6" when making this move. Any Titan that moves in this way cannot be issued Orders during the first round. |
 
-Legio Osedax Warlord Battle Titan
+### Legio Osedax Warlord Battle Titan
 
-Galeru Legio Osedax Warlord Titans were often bequeathed the names of mythical beasts drawn from the annals of Ancient Terran history, paying homage both to the Low Gothic moniker of the Legio and the fearsome nature of the Warlord itself. As is oft the case with many antiquated tales, the true details were lost to time,
+**Galeru**
 
-leaving many of the names devoid of context. Amongst Legio Osedax this was seen as a good omen, for only the future deeds of the Titan and its Princeps would be preserved in the annals of Mankind, tainted
+Legio Osedax Warlord Titans were often bequeathed the names of mythical beasts drawn from the annals of Ancient Terran history, paying homage both to the Low Gothic moniker of the Legio and the fearsome nature of the Warlord itself. As is oft the case with many antiquated tales, the true details were lost to time, leaving many of the names devoid of context. Amongst Legio Osedax this was seen as a good omen, for only the future deeds of the Titan and its Princeps would be preserved in the annals of Mankind, tainted not by superstitious fears conjured during the more primitive ages.
 
-not by superstitious fears conjured during the more primitive ages.
+### Legio Osedax Reaver Battle Titan
 
-Legio Osedax Reaver Battle Titan
+**Enmity's Angel**
 
-Enmity's Angel In preparation for the inevitable close-quarters battles amongst the vast industrial sprawl of Ryza, many Legio Osedax Reavers were armed in a manner best suited for close-ranged warfare against opposing Titans. To maximise the destruction each Reaver could cause, the outskirts of many forge-fanes were decommissioned, the manufactoria and warehouses hollowed and adapted to create ideal hiding places for Reaver Titans such as Enmity's Angel. Hidden from enemy sensors thanks to carefully placed electronic
-
-disrupters, the Reaver Titans would burst from hiding once the frontline of the Traitors' advance had passed their position, tearing through their surprised foe with powerful sweeps of their chainfist. The brutality of such ambushes often forced the Traitors from the
-
-confines of the forge-fanes and directly into the firing range of the Reavers' more powerful, long-ranged guns.
+In preparation for the inevitable close-quarters battles amongst the vast industrial sprawl of Ryza, many Legio Osedax Reavers were armed in a manner best suited for close-ranged warfare against opposing Titans. To maximise the destruction each Reaver could cause, the outskirts of many forge-fanes were decommissioned, the manufactoria and warehouses hollowed and adapted to create ideal hiding places for Reaver Titans such as Enmity's Angel. Hidden from enemy sensors thanks to carefully placed electronic disrupters, the Reaver Titans would burst from hiding once the frontline of the Traitors' advance had passed their position, tearing through their surprised foe with powerful sweeps of their chainfist. The brutality of such ambushes often forced the Traitors from the confines of the forge-fanes and directly into the firing range of the Reavers' more powerful, long-ranged guns.
 
 ## Legio Oberon
 
-Title: The Legio Oberon Ordo Titanica
-
-Militaris Grade: Tertius
-
-Patent: Post-Unification, Accatran Mechanicum
-
-Warden Domain(s): Anvari (Forge World)
-
-Cognomen: Death Bolts II
-
-Allied War Houses: Orhlacc, Vyronii
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Oberon Ordo Titanica
+- **Militaris Grade:** Tertius
+- **Patent:** Post-Unification, Accatran Mechanicum
+- **Warden Domain(s):** Anvari (Forge World)
+- **Cognomen:** Death Bolts II
+- **Allied War Houses:** Orhlacc, Vyronii
+- **Allegiance:** Fidelitas Constantus
 
 The date of Legio Oberon's founding lies not in the distant, darkened past but within the glory days of the Great Crusade, its creation sanctioned alongside the colonisation of a new Forge World. Anvari, for that was the name bequeathed upon the Forge World, was established as a thrall domain of the mighty Accatran in an attempt to secure the latter's power within the realm of Ultramar. In honour of the Forge World's founding, the first colonists were gifted a fragment of Legio Destructor's strength, the wardens of Accatran given leave to forswear their oaths to their home world in order to protect another. In recognition of this act, the god-engines took new names and assembled under a new banner - that of Legio Oberon.
 
@@ -961,19 +1014,21 @@ Legio Honorum and Legio Oberon The naming of Legio Oberon caused much contention
 
 As events have since shown, such a mustering was nothing more than a pretence through which the Warmaster hoped to deal a fatal blow to the Ultramarines and their allies, including Legio Oberon. The Death Bolts were to emerge from the calamitous events of Calth largely unscathed, for the principal strength of the Titan Legion had yet to arrive when the Word Bearers embarked upon their campaign of extermination. Such an outcome was a mote of light in an otherwise series of dark events yet it offered little solace to Legio Oberon itself, for the catastrophic damage wrought upon both Calth and the numbers of Legio Praesagius was seen as a stain upon the Death Bolts' honour. In vengeance, many Princeps of Legio Oberon swore oaths of battle to never return to Anvari until the Traitors had been driven back and the strength of Legio Praesagius restored. To fulfil this oath, the god-engines of Legio Oberon were readily committed to the Crusade of Iron when Gantz dispatched a call for aid. For the remainder of the Horus Heresy, much of Legio Oberon's strength was committed to Ultramar in pursuit of the surviving engines of Legio Infernus and the Word Bearers who fought alongside them. Those Princeps that had vowed never to rest until the Traitors were defeated did not return to Anvari until the fires of war had settled and those that did were few in number, the rest having gained redemption in the cold embrace of death.
 
-Materiel Strength At the onset of the Horus Heresy, Legio Oberon had existed for less than 200 years. Such a time frame precluded any chance of the Death Bolts amassing vast numbers of god-engines, for the construction of such machines remains a laborious process. Like many newly founded Titan Legions, the core of Legio Oberon has come from another, far older Legio which equipped the Death Bolts with over two dozen ancient god-engines that outdated Legio Oberon's founding by several millennia. The composition of Legio Oberon fitted the standard distribution as set down by the doctrines of the Collegia Titanica which consisted of a flexible mixture of Warlord, Reaver and Warhound class Titans. A notable exception was the presence of a single Imperator class Titan, dispatched from Accatran, which remains the personal god-engine of Legio Oberon's Grand Master to this day.
+### Materiel Strength
 
-## Legio Oberon (Death Bolts Ii)
+At the onset of the Horus Heresy, Legio Oberon had existed for less than 200 years. Such a time frame precluded any chance of the Death Bolts amassing vast numbers of god-engines, for the construction of such machines remains a laborious process. Like many newly founded Titan Legions, the core of Legio Oberon has come from another, far older Legio which equipped the Death Bolts with over two dozen ancient god-engines that outdated Legio Oberon's founding by several millennia. The composition of Legio Oberon fitted the standard distribution as set down by the doctrines of the Collegia Titanica which consisted of a flexible mixture of Warlord, Reaver and Warhound class Titans. A notable exception was the presence of a single Imperator class Titan, dispatched from Accatran, which remains the personal god-engine of Legio Oberon's Grand Master to this day.
 
-**Legio Trait: Efficient Planners Years spent fighting alongside the Ultramarines have seen**
+## Legio Oberon (Death Bolts II)
 
-the Death Bolts II Princeps learn much from the thorough tactics of the XIIIth Legion.
+### Legio Trait: Efficient Planners
+
+Years spent fighting alongside the Ultramarines have seen the Death Bolts II Princeps learn much from the thorough tactics of the XIIIth Legion.
 
 When issuing an Order to any friendly Legio Oberon Titan, add 1 to the result of the Command check for each Legio Oberon Titan that has already been successfully issued with the same Order during this round, to a maximum of +3.
 
-**Legio Trait: Armoured Phalanx Death Bolts II battlegroups advanced in tight formations, each**
+### Legio Trait: Armoured Phalanx
 
-Titan supporting the next to stand resolute in the face of incoming fire.
+Death Bolts II battlegroups advanced in tight formations, each Titan supporting the next to stand resolute in the face of incoming fire.
 
 Subtract 1 from the result of any Armour roll made against a Legio Oberon Titan within 2" of one or more friendly Legio Oberon Titan.
 
@@ -989,47 +1044,37 @@ Legio Oberon often employed trained Strategisers whose sole duty was to watch th
 
 This Stratagem can be purchased by any Legio Oberon player. Play this Stratagem when an opponent plays a Stratagem that costs 2 or fewer Stratagem points, before resolving its effects. The Stratagem is discarded and its effects ignored.
 
-**Legio Specific Personal Traits A Legio Oberon Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Oberon Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Unwavering: The Princeps has complete confidence in their own ability upon the battlefield and rarely second-guesses their own decisions. Once per game, if the Princeps' Titan fails a Command check, it can choose to pass it instead. 2 Peerless Commander: The Princeps commands both Titans and Knights with great skill, directing their efforts even as they unleash their anger upon a foe. Friendly Knight Banners with at least one model within 6" of the Princeps' Titan automatically pass Command checks when testing to see if they are Shaken or recover from being Shaken. 3 Tactical Genius: Even amongst a Legio famed for their robust tactics, the Princeps excels at developing near foolproof plans. Before forces are deployed, when choosing Stratagems, the Legio Oberon player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Unwavering:** The Princeps has complete confidence in their own ability upon the battlefield and rarely second-guesses their own decisions. Once per game, if the Princeps' Titan fails a Command check, it can choose to pass it instead. |
+| 2 | **Peerless Commander:** The Princeps commands both Titans and Knights with great skill, directing their efforts even as they unleash their anger upon a foe. Friendly Knight Banners with at least one model within 6" of the Princeps' Titan automatically pass Command checks when testing to see if they are Shaken or recover from being Shaken. |
+| 3 | **Tactical Genius:** Even amongst a Legio famed for their robust tactics, the Princeps excels at developing near foolproof plans. Before forces are deployed, when choosing Stratagems, the Legio Oberon player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force. |
 
-Legio Oberon Warlord Battle Titan
+### Legio Oberon Warlord Battle Titan
 
-Panthera Rex Depicted here before the ambush on Espandor, Panthera Rex is armed in a manner favouring the bold and decisive
+**Panthera Rex**
 
-tactics of Legio Oberon. The Warlord was to play a significant role in the battle, launching devastating counter- attacks against the hunting packs of Legio Audax. Though outmatched in terms of speed, Panthera Rex unleashed
+Depicted here before the ambush on Espandor, Panthera Rex is armed in a manner favouring the bold and decisive tactics of Legio Oberon. The Warlord was to play a significant role in the battle, launching devastating counter- attacks against the hunting packs of Legio Audax. Though outmatched in terms of speed, Panthera Rex unleashed the power of its volcano cannon at close range, scarring its own hull as payment for the death of the Traitors. However, the agri-world would prove to be the Titan's grave, as it would fall alongside those of its Legio who gave their lives so that Legio Praesagius could withdraw.
 
-the power of its volcano cannon at close range, scarring its own hull as payment for the death of the Traitors. However, the agri-world would prove to be the Titan's grave, as it would fall alongside those of its Legio who gave
+### Legio Oberon Warhound Scout Titan
 
-their lives so that Legio Praesagius could withdraw.
+**Feram Lex**
 
-Legio Oberon Warhound Scout Titan
-
-Feram Lex The prosecution of war was, to the Princeps of Legio Oberon, an exercise in mental prowess, and their Princeps participated in games of strategy when not upon the field of battle. The use of Warhound Titans such as Feram Lex proved a key element
-
-of battlefield tactics within Legio Oberon. When enemy movements were known, maniples of Warhounds would often be
-
-dispatched to strategic locations long before the Legio marched. Operating as a hidden vanguard, the Warhounds would conceal themselves until the enemy line moved past their position. When the remainder of Legio Oberon engaged their foes
-
-in battle the Warhounds would emerge, assaulting the rear of the enemy, sowing disorder and panic in their ranks.
+The prosecution of war was, to the Princeps of Legio Oberon, an exercise in mental prowess, and their Princeps participated in games of strategy when not upon the field of battle. The use of Warhound Titans such as Feram Lex proved a key element of battlefield tactics within Legio Oberon. When enemy movements were known, maniples of Warhounds would often be dispatched to strategic locations long before the Legio marched. Operating as a hidden vanguard, the Warhounds would conceal themselves until the enemy line moved past their position. When the remainder of Legio Oberon engaged their foes in battle the Warhounds would emerge, assaulting the rear of the enemy, sowing disorder and panic in their ranks.
 
 ## Legio Venator
 
-Title: The Legio Venator Ordo Titanica
-
-Militaris Grade: Secundus
-
-Patent: Pre-Imperial, Arachnian Mechanicum
-
-Warden Domain(s): Arachnus (Forge World), M'khand (secondary forge-fortress)
-
-Cognomen: The Iron Spiders
-
-Allied War Houses: Numerous Freeblade associations
-
-Allegiance: Unconfirmed (major element Fidelitas Constantus)
+- **Title:** The Legio Venator Ordo Titanica
+- **Militaris Grade:** Secundus
+- **Patent:** Pre-Imperial, Arachnian Mechanicum
+- **Warden Domain(s):** Arachnus (Forge World), M'khand (secondary forge-fortress)
+- **Cognomen:** The Iron Spiders
+- **Allied War Houses:** Numerous Freeblade associations
+- **Allegiance:** Unconfirmed (major element Fidelitas Constantus)
 
 Like the Forge World of Arachnus upon which Legio Venator was founded, the title of "Iron Spiders", the more common appellation given to the Titan Legion, originates from the gargantuan arachnid-like species that once populated the world. It was as opposition to these creatures that Legio Venator was created, and the earliest records of the Titan Legion detail at length the protracted campaign of extermination the Iron Spiders embarked upon. The motive behind such an effort lay largely with the planet of Arachnus, for geological and mineral analysis revealed the abundant ore veins that promised lucrative industry for the settlers who had discovered the planet. The prevalence and deadliness of the mega-fauna once native to Arachnus prevented the Explorator arks dispatched from Mars from establishing a colony directly on the world and thus it was to be the planet's two moons, named Iktomia and Nizkara, that would see civilisation brought to them first. It was upon these two celestial bodies that Legio Venator would be founded and set loose upon Arachnus, armed and armoured by the extensive array of manufactoria dedicated to war that soon sprang up across both moons.
 
@@ -1043,77 +1088,71 @@ The ideological splits between the two disparate elements of Legio Venator were 
 
 For the remainder of the Horus Heresy the remnants of Legio Venator utilised the forge-fortress of M'Khand, gifted to them during the Great Crusade, as their primary base of operations. From there, Legio Venator ranged across the Belt of Iron in search of the support needed to reconquer Arachnus, the Titan Legion's number heavily depleted first by treachery and then the endless attrition of war. When Legio Venator returned to Arachnus, wrestling it from the grip of those who had spat upon their oaths to the Imperium, the Forge World of their founding was but a shadow of its former glory, lesser than M'Khand and perhaps never to return to what it once was.
 
-Materiel Strength The strength and grade of Legio Venator fluctuated greatly during its time in service to the Imperium. Upon its rediscovery, when Arachnus first opposed the Imperium, the Iron Spiders were noted to stand at an estimated 134 god-engines, including two Imperator class Titans. Of these, only 54 god-engines, and a singular Imperator, were to survive Arachnus' conflict with the Imperium. Great efforts were made to replenish the strength of Legio Venator in the first decade of its service and by the onset of the Horus Heresy, the Titan Legion's numbers had newly been restored to its former glory.
+### Materiel Strength
+
+The strength and grade of Legio Venator fluctuated greatly during its time in service to the Imperium. Upon its rediscovery, when Arachnus first opposed the Imperium, the Iron Spiders were noted to stand at an estimated 134 god-engines, including two Imperator class Titans. Of these, only 54 god-engines, and a singular Imperator, were to survive Arachnus' conflict with the Imperium. Great efforts were made to replenish the strength of Legio Venator in the first decade of its service and by the onset of the Horus Heresy, the Titan Legion's numbers had newly been restored to its former glory.
 
 By mid-011.M31, following the breaking of Legio Venator into the Iron Spiders and the Dark Tide, Legio Venator held a strength of 67 god-engines still loyal to the Imperium, the remainder having assumed the mantle of Legio Tritonis or fallen opposing the rise of Arachnus as an independent power. Of these, most were Reaver and Warhound class Titans, with Legio Venator possessing only a handful of greater Battle Titans. The forges of M'Khand worked tirelessly to construct additional engines, yet the forge-fortress' capabilities were far below that of a true Forge World. In truth, the greater number of new god-engines added to the ranks of Legio Venator were those captured during the Cataclysm of Iron, fallen machines of foes and Traitors repurposed in the Emperor's name.
 
 ## Legio Venator (Iron Spiders)
 
-**Legio Trait: Loyalty Above All Within Legio Venator, it is the duty of all Moderatii to**
+### Legio Trait: Loyalty Above All
 
-defend the Princeps against death itself, regardless of the cost.
+Within Legio Venator, it is the duty of all Moderatii to defend the Princeps against death itself, regardless of the cost.
 
 Legio Venator Titans ignore the Princeps Wounded Critical Damage effect. In addition, friendly Legio Venator Titans add 1 to the result of any Command check they make while within 6" of a Legio Venator Princeps Seniores' Titan.
 
-**Legio Trait: One Mind The Princeps of Legio Venator maniples train together extensively,**
+### Legio Trait: One Mind
 
-learning to work in near-perfect concert until they can anticipate each other's actions nearly as well as their own.
+The Princeps of Legio Venator maniples train together extensively, learning to work in near-perfect concert until they can anticipate each other's actions nearly as well as their own.
 
 At the beginning of each round, Titans within a friendly Legio Venator maniple may be formed into Squadrons. Each Squadron may contain a maximum of two Titans and cannot include a Titan that is already part of a Squadron. These Squadrons last until the end of the round. Titans formed into a Squadron in this manner cannot merge void shields but follow all other Squadron rules as normal.
 
-**Legio Trait: Mobile Force After the loss of Arachnus, Legio Venator found itself deprived of**
+### Legio Trait: Mobile Force
 
-large numbers of heavier Battle Titans, adapting their tactics to accommodate larger numbers of lighter engines.
+After the loss of Arachnus, Legio Venator found itself deprived of large numbers of heavier Battle Titans, adapting their tactics to accommodate larger numbers of lighter engines.
 
 Any Legio Venator maniple may select a Reaver Titan in place of any Warlord Titan as part of its mandatory components.
 
-**Legio Specific Wargear: Blind Launchers Legio Venator makes use of one-shot launchers that can unleash**
+### Legio Specific Wargear: Blind Launchers
 
-a burst of smoke that interferes with conventional vision and electronic sensors.
+Legio Venator makes use of one-shot launchers that can unleash a burst of smoke that interferes with conventional vision and electronic sensors.
 
 Any Legio Venator Titan may be equipped with Blind Launchers for +20 points. Once per game, during the Combat phase, a Titan with this upgrade may activate its Blind Launchers. If it does, until the start of the next Combat phase apply a -1 modifier to all Hit rolls for attacks made against this Titan and a -1 modifier to any Hit rolls for attacks made by this Titan. Blind Launchers can be activated at any point during the Titan's activation (i.e., after it has made any attacks).
 
-**Legio Specific Personal Traits A Legio Venator Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Venator Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Burning Hatred: The Princeps seethes with an intense hatred of all Traitors, raging at their abandonment of the true order and vowing that all will fall before them - whatever the cost. Once per round, when the Princeps' Titan causes Critical Damage to an enemy Titan, the Princeps' Titan may immediately make an attack with one of its weapons, chosen by the controlling player. After resolving the effects of this attack, roll a D6 on the Reactor Overload table for the Princeps' Titan. 2 Crusade Veteran: Many Princeps of Legio Venator spent long decades fighting within the Expeditionary fleets, and are able to control their god-engines with seemingly preternatural skill. Once per game, after resolving a Repair roll made as part of an [Emergency Repairs] order, the Princeps may discard the Order and immediately be issued a second Order. This second Order can be another [Emergency Repairs] order. Even if an [Emergency Repairs] order is removed in this manner, the Princeps' Titan can still only be activated in either the subsequent Movement phase or Combat phase of that round as normal. 3 SuperiorTactician: The Princeps is well-practiced in commanding Titans in battle, and is capable of drawing up intricate plans with built-in redundancies. Before forces are deployed, when choosing Stratagems, the Legio Venator player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Burning Hatred:** The Princeps seethes with an intense hatred of all Traitors, raging at their abandonment of the true order and vowing that all will fall before them - whatever the cost. Once per round, when the Princeps' Titan causes Critical Damage to an enemy Titan, the Princeps' Titan may immediately make an attack with one of its weapons, chosen by the controlling player. After resolving the effects of this attack, roll a D6 on the Reactor Overload table for the Princeps' Titan. |
+| 2 | **Crusade Veteran:** Many Princeps of Legio Venator spent long decades fighting within the Expeditionary fleets, and are able to control their god-engines with seemingly preternatural skill. Once per game, after resolving a Repair roll made as part of an [Emergency Repairs] order, the Princeps may discard the Order and immediately be issued a second Order. This second Order can be another [Emergency Repairs] order. Even if an [Emergency Repairs] order is removed in this manner, the Princeps' Titan can still only be activated in either the subsequent Movement phase or Combat phase of that round as normal. |
+| 3 | **Superior Tactician:** The Princeps is well-practiced in commanding Titans in battle, and is capable of drawing up intricate plans with built-in redundancies. Before forces are deployed, when choosing Stratagems, the Legio Venator player gains +1 Stratagem point if one or more Princeps with this Personal Trait is present in the force. |
 
-Legio Venator Warlord Battle Titan
+### Legio Venator Warlord Battle Titan
 
-Lupus Ira The incorporation of both Legio Venator and Arachnus into the Imperium proved a tumultuous affair marred by conflict. When Arachnus was finally brought into the Imperial fold, there were those amongst the Imperium who expressed concern over fighting beside Legio Venator Titans they had previously fought against. Such worries were
+**Lupus Ira**
 
-quickly dismissed when dozens of Iron Spiders Titans were given long-term assignments to Expeditionary fleets.
+The incorporation of both Legio Venator and Arachnus into the Imperium proved a tumultuous affair marred by conflict. When Arachnus was finally brought into the Imperial fold, there were those amongst the Imperium who expressed concern over fighting beside Legio Venator Titans they had previously fought against. Such worries were quickly dismissed when dozens of Iron Spiders Titans were given long-term assignments to Expeditionary fleets.
 
-Titans such as Lupus Ira would go on to prove their loyalty across innumerable battlefields, quickly developing a great devotion to those they served alongside. The respect they held for the forces of the Great Crusade drove many
+Titans such as Lupus Ira would go on to prove their loyalty across innumerable battlefields, quickly developing a great devotion to those they served alongside. The respect they held for the forces of the Great Crusade drove many of Legio Venator to turn against their former masters when Arachnus seceded from the Imperium.
 
-of Legio Venator to turn against their former masters when Arachnus seceded from the Imperium.
+### Legio Venator Warhound Scout Titan
 
-Legio Venator Warhound Scout Titan
+**Theridionx**
 
-Theridionx Legio Venator Warhounds such as Theridionx, pictured here during the assembly at M'Khand following the fall of Arachnus, became integral to the continued operation of the Titan Legion after many of its oldest Princeps defected
-
-to the nascent Legio Tritonis. The existence of the Dark Tide was a great stain upon the honour of Legio Venator and the Princeps of its Warhounds believed it their task to exterminate all who wore the colours of their traitorous
-
-kin. An unofficial, yet widely adhered to, practice during the Cataclysm of Iron was for existing kill markings on Iron Spiders Warhound honour banners to be daubed in white for each Legio Tritonis god-engine they claimed; the
-
-greater the number of Traitors slain, the more lauded the Princeps.
+Legio Venator Warhounds such as Theridionx, pictured here during the assembly at M'Khand following the fall of Arachnus, became integral to the continued operation of the Titan Legion after many of its oldest Princeps defected to the nascent Legio Tritonis. The existence of the Dark Tide was a great stain upon the honour of Legio Venator and the Princeps of its Warhounds believed it their task to exterminate all who wore the colours of their traitorous kin. An unofficial, yet widely adhered to, practice during the Cataclysm of Iron was for existing kill markings on Iron Spiders Warhound honour banners to be daubed in white for each Legio Tritonis god-engine they claimed; the greater the number of Traitors slain, the more lauded the Princeps.
 
 ## Legio Lysanda
 
-Title: The Legio Lysanda Ordo Titanica
-
-Militaris Grade: Tertius
-
-Patent: Post-Unification, Konorian Mechanicum
-
-Warden Domain(s): The Eastern Fringe, Karadozit (Forge-fortress), Yandrill Prime (Forge-fortress)
-
-Cognomen: Sentinels of the Edge
-
-Allied War Houses: None
-
-Allegiance: Fidelitas Constantus
+- **Title:** The Legio Lysanda Ordo Titanica
+- **Militaris Grade:** Tertius
+- **Patent:** Post-Unification, Konorian Mechanicum
+- **Warden Domain(s):** The Eastern Fringe, Karadozit (Forge-fortress), Yandrill Prime (Forge-fortress)
+- **Cognomen:** Sentinels of the Edge
+- **Allied War Houses:** None
+- **Allegiance:** Fidelitas Constantus
 
 The founding of Legio Lysanda was a far cry from the quasi- ritualistic affair that is normally associated with the creation of a new Titan Legion, for it was born not out of desire to seed a new Titan Legion but rather pure necessity. As the Great Crusade pushed ever onwards and the borders of the Imperium expanded, it came into contact with increasing numbers of hostile empires, both xenos and otherwise, that offered a significant threat to the developing Imperium of Mankind. Given the widespread nature of the Expeditionary fleets, it proved impossible for each threat to receive proper attention upon discovery, and in such instances containment became the goal until such time as a suitable force could be assembled. Thus the newest borders of the Imperium, consisting of star systems only recently sworn to the Emperor, faced the persistent threat of invasion from creatures emerging from the darkest recesses of the galaxy to tear down the edifices of Mankind. Mindful that the continued loyalty of newly-Compliant worlds would be impossible should many remain threatened by external foes, edicts were issued demanding the foundation of dedicated forces intended to watch over the boundaries of Imperial space. In the Ultima Segmentum, a Titan Legion, bearing the title Legio Lysanda, was founded as one such force.
 
@@ -1125,19 +1164,21 @@ More so than most Titan Legions, save those that served the Warmaster and felt t
 
 Aegis Etchings The worlds to which Legio Lysanda were assigned held great value to the Princeps of the god-engines tasked with watching over them. Indeed, many of the Legio's Princeps were recorded to have regularly integrated themselves into the local culture, forming bonds with its rulers and walking amongst its people. In some ways, the Sentinels of the Edge served in a capacity similar to, although far less influential than, that of an Iterator of the Great Crusade. When it came time for the Titan Legion to depart from a planet, the crew of each god-engine would personally carve a memento into the carapace of their Titan that marked the world they had protected. Each held meaning to the individual crew, with the most seasoned Titans bearing a tapestry of its deeds engraved on its carapace. Numerous recovered pict-captures of Legio Lysanda engines taken during the Horus Heresy show that many of the Legio's Titans bore such mementos that had been deliberately defaced; cross-references with the worlds they represented show that all such planets had either sided with the Warmaster or were brought low by his wrath.
 
-Materiel Strength Given that Legio Lysanda were rarely assembled together for war, an exact count of their numbers is all but impossible to determine. What can be determined is based on the known worlds they garrisoned in the years prior to the outbreak of the Horus Heresy which placed Legio Lysanda as a Tertius grade Titan Legion, capable of fielding at least 53 god-engines, with an estimated upwards maximum of 72. Owing to the relative youth of the Titan Legion, Legio Lysanda was unable to call upon rarer classes of Titan, relying almost exclusively upon Warlord, Reaver and Warhound class Titans. Nevertheless, the chaotic nature of the Horus Heresy, combined with the prevalence of scavenging enacted by many Titan Legions, may have leant opportunity for Legio Lysanda to acquire Titan classes outside their pre-Heresy allocation.
+### Materiel Strength
+
+Given that Legio Lysanda were rarely assembled together for war, an exact count of their numbers is all but impossible to determine. What can be determined is based on the known worlds they garrisoned in the years prior to the outbreak of the Horus Heresy which placed Legio Lysanda as a Tertius grade Titan Legion, capable of fielding at least 53 god-engines, with an estimated upwards maximum of 72. Owing to the relative youth of the Titan Legion, Legio Lysanda was unable to call upon rarer classes of Titan, relying almost exclusively upon Warlord, Reaver and Warhound class Titans. Nevertheless, the chaotic nature of the Horus Heresy, combined with the prevalence of scavenging enacted by many Titan Legions, may have leant opportunity for Legio Lysanda to acquire Titan classes outside their pre-Heresy allocation.
 
 ## Legio Lysanda (Sentinels Of The Edge)
 
-**Legio Trait: Patience Beyond Measure Before a Legio Lysanda Princeps could ascend to command**
+### Legio Trait: Patience Beyond Measure
 
-a Titan, they were required to sit in silent contemplation for seven days to ensure only those with true inner peace ascended to the role.
+Before a Legio Lysanda Princeps could ascend to command a Titan, they were required to sit in silent contemplation for seven days to ensure only those with true inner peace ascended to the role.
 
 Before any units are deployed, a battleforce that contains at least one Legio Lysanda maniple may choose to deploy all their units at once at the start of deployment, before their opponent deploys any unit. If they do so, the Legio Lysanda player does not roll to determine the First Player in the first round, instead allowing their opponent to win the roll-off. If they do so, all Legio Lysanda Titans add 1 to the result of any Hit rolls and Command checks made during the first round. Patience Beyond Measure has no effect in Narrative missions unless otherwise stated.
 
-**Legio Trait: Stillness of Mind Many Legio Lysanda Princeps spent time between conflicts**
+### Legio Trait: Stillness of Mind
 
-alone in their god-engines, embracing the silence a sleeping Titan offers to better rouse it in times of war.
+Many Legio Lysanda Princeps spent time between conflicts alone in their god-engines, embracing the silence a sleeping Titan offers to better rouse it in times of war.
 
 Add 2 to the result when rolling to see if a [Shutdown] order is removed from a Legio Lysanda Titan.
 
@@ -1147,28 +1188,30 @@ Legio Lysanda was often tasked with guarding important worlds, towering protecto
 
 This Stratagem can be purchased by any Legio Lysanda player. Play this Stratagem during the Strategy phase of any round. Until the end of the round, the BS and WS of any Legio Lysanda Titan that is within 6" of an objective marker (for their own victory conditions) when this Stratagem is played is increased by 1, to a maximum of 2+.
 
-**Legio Specific Wargear: Mantle of Responsibility Legio Lysanda perceive trophies of war gifted to them**
+### Legio Specific Wargear: Mantle of Responsibility
 
-as the highest honour, and display them proudly upon their Titans to show their dedication to the Imperium.
+Legio Lysanda perceive trophies of war gifted to them as the highest honour, and display them proudly upon their Titans to show their dedication to the Imperium.
 
 Any Legio Lysanda Titan can be upgraded to have a Mantle of Responsibility for +15 points. A Titan with this upgrade may re-roll results of a 1 or 2 when making a Command check.
 
-**Legio Specific Personal Traits A Legio Lysanda Princeps Seniores' Personal Trait can either be generated from**
+### Legio Specific Personal Traits
 
-the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Lysanda Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
-D3 Personal Traits 1 Harrowed by Betrayal: Once famous for their calm, the horrors of the Horus Heresy have twisted the Princeps until they were filled with anger beyond measure. If the Machine Spirit of a Legio Lysanda Titan awakens, the Titan may apply the Wrathful result instead of rolling on the Awakened Machine Spirit table. 2 Serene: The Princeps is untroubled by the horrors of the galaxy, believing that only through opposing them without fear can they truly be defeated. The Princeps' Titan never suffers penalties to their Command checks and may ignore effects that force them to re-roll successful Command checks. 3 Vanguard Leader: The Princeps fights at the fore, setting an example for all who follow. Any friendly Legio Lysanda Titan that begins its movement within 3" of the Princeps' Titan can declare Power to Locomotors! without pushing its reactor. This includes the Princeps' Titan.
+| D3 | Personal Traits |
+| :-: | --- |
+| 1 | **Harrowed by Betrayal:** Once famous for their calm, the horrors of the Horus Heresy have twisted the Princeps until they were filled with anger beyond measure. If the Machine Spirit of a Legio Lysanda Titan awakens, the Titan may apply the Wrathful result instead of rolling on the Awakened Machine Spirit table. |
+| 2 | **Serene:** The Princeps is untroubled by the horrors of the galaxy, believing that only through opposing them without fear can they truly be defeated. The Princeps' Titan never suffers penalties to their Command checks and may ignore effects that force them to re-roll successful Command checks. |
+| 3 | **Vanguard Leader:** The Princeps fights at the fore, setting an example for all who follow. Any friendly Legio Lysanda Titan that begins its movement within 3" of the Princeps' Titan can declare Power to Locomotors! without pushing its reactor. This includes the Princeps' Titan. |
 
-Legio Lysanda Warlord Battle Titan
+### Legio Lysanda Warlord Battle Titan
 
-Lord of Virtues For two decades, Lord of Virtues stood in defence of those worlds settled on the edge of the Ghoul Stars, vigilant for threats undescribed in known records. Its tenure as sentinel ended when called to war in Ultramar, participating in numerous battles during the Crusade of Iron upon nearly a dozen worlds. Armed with two Sunfury plasma annihilators, Lord of Virtues operated as master of a Vilicus maniple, recording seven confirmed engine-kills before being redeployed. Drawing upon patience earned through decades of service, Lord of Virtues would power down and wait in silence as accompanying Warhounds drew the enemy
+**Lord of Virtues**
 
-into an ambush, the sudden flare of the Warlord's plasma reactor bursting into life signalling the death of Traitors.
+For two decades, Lord of Virtues stood in defence of those worlds settled on the edge of the Ghoul Stars, vigilant for threats undescribed in known records. Its tenure as sentinel ended when called to war in Ultramar, participating in numerous battles during the Crusade of Iron upon nearly a dozen worlds. Armed with two Sunfury plasma annihilators, Lord of Virtues operated as master of a Vilicus maniple, recording seven confirmed engine-kills before being redeployed. Drawing upon patience earned through decades of service, Lord of Virtues would power down and wait in silence as accompanying Warhounds drew the enemy into an ambush, the sudden flare of the Warlord's plasma reactor bursting into life signalling the death of Traitors.
 
-Legio Lysanda Reaver Battle Titan
+### Legio Lysanda Reaver Battle Titan
 
-Unfolding Wrath Though the Sentinels of the Edge were famed for their patience, such a reservoir was not infinite. The magnitude of betrayal wrought many changes upon Legio Lysanda, and a handful of Princeps amongst their number cast aside reason
+**Unfolding Wrath**
 
-in favour of wrath. In recognition of their new creed, such Princeps marched to war under new names, for Unfolding Wrath was once known as Argent Flame.To match its newfound purpose, the Reaver was armed with weapons focused
-
-upon total annihilation, taking to battle on Ulixis as leader of a Corsair maniple that stalked the tunnels of the world, tearing into any Traitor forces they came across with a reckless abandon far removed from the reputation of their Legio.
+Though the Sentinels of the Edge were famed for their patience, such a reservoir was not infinite. The magnitude of betrayal wrought many changes upon Legio Lysanda, and a handful of Princeps amongst their number cast aside reason in favour of wrath. In recognition of their new creed, such Princeps marched to war under new names, for Unfolding Wrath was once known as Argent Flame. To match its newfound purpose, the Reaver was armed with weapons focused upon total annihilation, taking to battle on Ulixis as leader of a Corsair maniple that stalked the tunnels of the world, tearing into any Traitor forces they came across with a reckless abandon far removed from the reputation of their Legio.

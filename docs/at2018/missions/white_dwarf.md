@@ -173,11 +173,11 @@ The battle lasts for 4 rounds, after which either the Loyalist player has halted
 
 At the end of the battle, if less than half of the Loyalists' Warmaster Titans have been destroyed, then the Loyalist player is victorious. If over half of the Loyalists' Warmaster Titans have been destroyed, then the game is a draw. If all of the Loyalists' Warmaster Titans have been destroyed, then the Traitor player is victorious.
 
-!!! note "Three or More Players"
+**Three or More Players**
 
-    The Siege of Travo'anor is a perfect mission for multiplayer games. Instead of one player controlling the Loyalist Warmaster Titans, multiple players can control one or more Warmaster Titans each, while several Traitor players combine their battlegroups together into a larger force.
+*The Siege of Travo'anor is a perfect mission for multiplayer games. Instead of one player controlling the Loyalist Warmaster Titans, multiple players can control one or more Warmaster Titans each, while several Traitor players combine their battlegroups together into a larger force.*
 
-    When playing in this way, it is worth keeping track of secondary victory conditions for added fun and bragging rights. Loyalist players should keep a running total of engine kills each Warmaster Titan makes during the battle, while Traitor players should track how many Warmaster Titans each separate battlegroup destroys. The Loyalist winner is the player who controls the Warmaster Titan that scored the greatest number of engine kills, and the Traitor winner is the player who controls the battlegroup that felled the most Warmaster Titans.
+*When playing in this way, it is worth keeping track of secondary victory conditions for added fun and bragging rights. Loyalist players should keep a running total of engine kills each Warmaster Titan makes during the battle, while Traitor players should track how many Warmaster Titans each separate battlegroup destroys. The Loyalist winner is the player who controls the Warmaster Titan that scored the greatest number of engine kills, and the Traitor winner is the player who controls the battlegroup that felled the most Warmaster Titans.*
 
 ## White Dwarf Battlefield Effects
 

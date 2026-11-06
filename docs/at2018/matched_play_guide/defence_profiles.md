@@ -18,7 +18,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Questoris Knight Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -36,7 +36,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Cerastus Knight Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Cerastus Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Cerastus Knight Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -54,7 +54,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Acastus Knight Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Acastus Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Acastus Knight Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -71,7 +71,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Questoris Knight Styrix Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -89,7 +89,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Questoris Knight Magaera Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -107,7 +107,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Moirax Knight Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Moirax Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑4 Moirax Knight Banner Ion Shields | 2‑4 | 4+ | 5+ | 6+ | - | - |
@@ -126,7 +126,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Armiger Knights Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Armiger Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑4 Armiger Knight Banner Ion Shields | 2‑4 | 4+ | 5+ | 6+ | - | - |
@@ -144,7 +144,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Acastus Knight Asterius Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Acastus Knight Asterius Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Acastus Knight Asterius Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -161,7 +161,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Cerastus Knight Atrapos Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Cerastus Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Cerastus Knight Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -227,7 +227,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Cerastus Acheron Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Cerastus Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Cerastus Knight Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -245,7 +245,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Cerastus Atrapos Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Cerastus Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Cerastus Knight Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -263,7 +263,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Cerastus Castigator Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Cerastus Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Cerastus Knight Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -281,7 +281,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Cerastus Lancer Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Cerastus Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2 Cerastus Knight Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -299,7 +299,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Crusader Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -317,7 +317,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Double Battlecannon Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -335,7 +335,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Double Avenger Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -353,7 +353,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Warden Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -371,7 +371,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Paladin Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -389,7 +389,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Gallant Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -407,7 +407,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Errant Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -425,7 +425,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Double Thermal Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -443,7 +443,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Magaera Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -461,7 +461,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Magaera Double Lightning Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -479,7 +479,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Magaera Double Hekaton Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -497,7 +497,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Styrix Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -515,7 +515,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Styrix Double Hekaton Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -533,7 +533,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Questoris Styrix Double Volkite Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Questoris Support Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑3 Questoris Support Banner Ion Shields | 2 | 4+ | 5+ | 6+ | - | - |
@@ -551,7 +551,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Moirax Volkite Gyges Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Moirax Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑4 Moirax Knight Banner Ion Shields | 2‑4 | 4+ | 5+ | 6+ | - | - |
@@ -569,7 +569,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Armiger Warglaives Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Armiger Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑4 Armiger Knight Banner Ion Shields | 2‑4 | 4+ | 5+ | 6+ | - | - |
@@ -587,7 +587,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Armiger Helverins Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Armiger Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑4 Armiger Knight Banner Ion Shields | 2‑4 | 4+ | 5+ | 6+ | - | - |
@@ -605,7 +605,7 @@ Ion shield saves are shown by attack Strength. A dash means no save is listed. D
 
 ## Lance Moirax Dual Lightning Banner
 
-| Ion Shield Profile | Models | S1-6 | S7 | S8 | S9 | S10+ |
+| Ion Shield Profile | Models | S1‑6 | S7 | S8 | S9 | S10+ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 Moirax Knight Banner Ion Shields | 1 | 5+ | 6+ | - | - | - |
 | 2‑4 Moirax Knight Banner Ion Shields | 2‑4 | 4+ | 5+ | 6+ | - | - |

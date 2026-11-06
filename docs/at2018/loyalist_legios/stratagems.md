@@ -2,7 +2,11 @@ The next few pages list Stratagems available to any battlegroup and those availa
 
 All Stratagems shown here have previously been published in an Adeptus Titanicus supplement, however, some may have been adjusted to reflect player feedback or rules changes. As such, the rules published here take precedence over any presented in earlier Adeptus Titanicus supplements, and should be used in place of those.
 
-Ranged Support Stratagems Stratagem: Artillery Bombardment (2) Play this during each Strategy phase. Place the 5" Blast marker anywhere on the battlefield, then scatter it D10". Any unit touched by the marker where it eventually lands suffers a Strength 8 hit, or two Strength 8 hits if the central hole of the Blast marker is entirely over its base.
+## Ranged Support Stratagems
+
+### Stratagem: Artillery Bombardment (2)
+
+Play this during each Strategy phase. Place the 5" Blast marker anywhere on the battlefield, then scatter it D10". Any unit touched by the marker where it eventually lands suffers a Strength 8 hit, or two Strength 8 hits if the central hole of the Blast marker is entirely over its base.
 
 ### Stratagem: Orbital Lance Strike (2)
 
@@ -12,7 +16,11 @@ Once per battle, play this during the Strategy phase. Place the 3" Blast marker 
 
 Once per battle, play this during the Strategy phase. Pick a unit on the battlefield. Any attacks that target it or are made by it suffer a -2 To Hit penalty for the duration of the round.
 
-Tricks and Tactics Stratagems Stratagem: Noble Sacrifice (1) A player can enact this Stratagem during the Strategy phase. To do so, they pick a Titan from their force whose structure has been compromised and roll a D6. Add 1 to the result if its Reactor Status marker is in a hole with an orange indicator, or add 3 to the result if it is in a hole with a red indicator. The Titan suffers a Magazine Detonation on a result of 1-4, or a Catastrophic Meltdown on a result of 5-6 (see the Catastrophic Damage table).
+## Tricks and Tactics Stratagems
+
+### Stratagem: Noble Sacrifice (1)
+
+A player can enact this Stratagem during the Strategy phase. To do so, they pick a Titan from their force whose structure has been compromised and roll a D6. Add 1 to the result if its Reactor Status marker is in a hole with an orange indicator, or add 3 to the result if it is in a hole with a red indicator. The Titan suffers a Magazine Detonation on a result of 1-4, or a Catastrophic Meltdown on a result of 5-6 (see the Catastrophic Damage table).
 
 ### Stratagem: Outflank (X)
 
@@ -150,7 +158,11 @@ This Stratagem can be purchased by any Loyalist player. Play this Stratagem duri
 
 This Stratagem can be purchased by any Loyalist player. Play this at the start of any Combat phase. Place the 5" Blast marker so that the central hole is entirely over a friendly model's base. Any unit touched by the marker suffers D3 Strength 10 hits, or 2D3 Strength 10 hits if the central hole of the Blast marker is entirely over its base. This attack does not ignore void shields, even if the friendly model the marker is centred over is within 2" of a Titan with active shields.
 
-Tactical Support Stratagems Stratagem: Concealment Barrage (1) Play this Stratagem at the start of any Strategy phase. Place the 5" Blast marker anywhere on the battlefield. Any part of the battlefield underneath the template blocks line of sight. Remove the Blast marker at the end of the round.
+## Tactical Support Stratagems
+
+### Stratagem: Concealment Barrage (1)
+
+Play this Stratagem at the start of any Strategy phase. Place the 5" Blast marker anywhere on the battlefield. Any part of the battlefield underneath the template blocks line of sight. Remove the Blast marker at the end of the round.
 
 ### Stratagem: MIU Link (1)
 
@@ -170,7 +182,11 @@ Play this Stratagem immediately after an enemy Titan has finished moving or maki
 
 Stratagem:Tracer Cloud (1) Play this Stratagem at the start of any Strategy phase. Place the 5" Blast marker anywhere on the battlefield. A player may re- roll Hit rolls for attacks made against any unit underneath the marker. Remove the Blast marker at the end of the round.
 
-Experimental Warfare Stratagems Stratagem: Homing Warheads (2) Play this Stratagem in the first Strategy phase of the game. The player chooses one of their Titans armed with an Apocalypse missile launcher or paired Apocalypse missile launchers, so long as that Titan does not already have an upgrade affecting that weapon. Subtract 3 from the Dice Value of the weapon (to a minimum of 1). For the remainder of the game, attacks with that weapon do not suffer negative modifiers when attacking an obscured target or when attacking a target out of line of sight via the [Barrage] trait.
+## Experimental Warfare Stratagems
+
+### Stratagem: Homing Warheads (2)
+
+Play this Stratagem in the first Strategy phase of the game. The player chooses one of their Titans armed with an Apocalypse missile launcher or paired Apocalypse missile launchers, so long as that Titan does not already have an upgrade affecting that weapon. Subtract 3 from the Dice Value of the weapon (to a minimum of 1). For the remainder of the game, attacks with that weapon do not suffer negative modifiers when attacking an obscured target or when attacking a target out of line of sight via the [Barrage] trait.
 
 ### Stratagem: Enhanced Coolant (2)
 
