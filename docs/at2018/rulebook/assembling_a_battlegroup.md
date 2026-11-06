@@ -2,7 +2,7 @@
 
 (see Building a Battlegroup, [page 7 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#building-a-battlegroup))
 
-**Weapon Cards.** Each of a Titan's weapons is represented by a double-sided Weapon card, which shows all of its rules and tracks whether it is active or disabled. The Titan's Command Terminal has a Weapon card slot for each of its weapons, each of which must be filled when assembling a battlegroup as described on page 53. The Adeptus Titanicus boxed game contains a number of Weapon cards, and others will be made available separately.
+**Weapon Cards.** Each of a Titan's weapons is represented by a double-sided Weapon card, which shows all of its rules and tracks whether it is active or disabled. The Titan's Command Terminal has a Weapon card slot for each of its weapons, each of which must be filled when assembling a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup). The Adeptus Titanicus boxed game contains a number of Weapon cards, and others will be made available separately.
 
 ---
 
@@ -42,7 +42,7 @@ After assembling their battlegroup, the player should pick one Titan in their ma
 
 **Orders.** Add 2 to the result of any Command checks made when issuing an order to the Princeps Seniores' Titan.
 
-**Personal Traits.** Each Princeps Seniores has a Personal trait, which is in effect for as long as they are on the battlefield. (see Battlegroup Leader, [page 10 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#battlegroup-leader))
+**Personal Traits.**{ #personal-traits } Each Princeps Seniores has a Personal trait, which is in effect for as long as they are on the battlefield. (see Battlegroup Leader, [page 10 of the *Matched Play Guide*](../matched_play_guide/organised_play.md#battlegroup-leader))
 
 | D6 | PERSONAL TRAIT |
 |---|---|

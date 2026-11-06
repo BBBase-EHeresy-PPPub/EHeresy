@@ -6,15 +6,15 @@
 
 During the Horus Heresy numerous Titan Legions fought on both sides of the conflict, many with their own distinctive combat doctrines and fighting styles. For years these Legios had been fighting at the leading edge of the Great Crusade, casting down alien empires and recalcitrant human worlds that refused to bend the knee to the Imperium. Where the Legiones Astartes were created to conquer and the Solar Auxilia to pacify, the Legios Titanicus had but one use during the Great Crusade - the total annihilation of the Emperor's foes, their works, their worlds and all they stood for. It was only with the outset of the Horus Heresy that they would be truly tested, tragically, by entering battle against their own kind.
 
-*Adeptus Titanicus: Loyalist Legios* and *Adeptus Titanicus: Traitor Legios* present rules for many of the most well-known Legios. Scores of other Titan Legions exist in the lore of the Horus Heresy, with plenty of space within the background for players to add or invent their own. While the *Adeptus Titanicus* rulebook grants players a bonus in the form of extra Stratagem points when facing an opponent using Legio rules when not using any themselves, players may want to represent a Titan Legion not yet covered or one of their own invention. To help players do so, presented here are rules for creating Crusade Titan Legions.
+*[Adeptus Titanicus: Loyalist Legios](../loyalist_legios/loyalist_titan_legions.md)* and *[Adeptus Titanicus: Traitor Legios](../traitor_legios/traitor_titan_legions.md)* present rules for many of the most well-known Legios. Scores of other Titan Legions exist in the lore of the Horus Heresy, with plenty of space within the background for players to add or invent their own. While the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#stratagem-points) grants players a bonus in the form of extra Stratagem points when facing an opponent using Legio rules when not using any themselves, players may want to represent a Titan Legion not yet covered or one of their own invention. To help players do so, presented here are rules for creating Crusade Titan Legions.
 
-The rules given here expand upon and replace the Crusade Titan Legions rules provided in earlier publications. The following rules allow players to pick and choose from a collection of Legio traits, Legio Specific Stratagems and Legio Specific Wargear that best represent the Titan Legion they wish to field. Once these choices have been made, for all intents and purposes a Crusade Titan Legion counts as a specific Legio. This means a battlegroup could contain maniples and Titans from different Crusade Titan Legions, or a Crusade Titan Legion and Titan Legions drawn from other supplements, with each different Crusade Titan Legion or other Legio included granting your opponent additional Stratagem points (see the *Adeptus Titanicus* rulebook).
+The rules given here expand upon and replace the Crusade Titan Legions rules provided in earlier publications. The following rules allow players to pick and choose from a collection of Legio traits, Legio Specific Stratagems and Legio Specific Wargear that best represent the Titan Legion they wish to field. Once these choices have been made, for all intents and purposes a Crusade Titan Legion counts as a specific Legio. This means a battlegroup could contain maniples and Titans from different Crusade Titan Legions, or a Crusade Titan Legion and Titan Legions drawn from other supplements, with each different Crusade Titan Legion or other Legio included granting your opponent additional Stratagem points (see the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#stratagem-points)).
 
 ## Creating a Crusade Titan Legion
 
 To create your own Crusade Titan Legion, you should choose four special rules from those presented on the following pages. These are divided into three categories: Legio traits, Legio Specific Stratagems, and Legio Specific Wargear. Players can choose any combination of Traits, Stratagems and Wargear, however each Trait, Stratagem or Wargear can only be chosen once, unless stated otherwise. In addition, players may make no more than two selections from each category (i.e., no more than two Traits, two Stratagems, or two Wargear may be chosen). Each Stratagem and Wargear chosen must be purchased (with Stratagem points or points respectively) as normal. Crusade Titan Legions cannot take Corrupted Titans unless they have the Plaything of the Gods trait.
 
-Certain Traits can only be taken by a Legio with a specific allegiance, i.e., a Loyalist Legio or a Traitor Legio. If a Trait with such a restriction is taken, any battlegroup that includes that Legio automatically gains the same allegiance, e.g., a battlegroup with a Loyalist Legio is a Loyalist battlegroup (see page 8 of *Adeptus Titanicus: Loyalist Legios*). A Legio can only choose Legio Specific Traits, Stratagems or Wargear from a single allegiance. Crusade Titan Legions generate their Princeps Senoris' Personal trait from the table in the *Adeptus Titanicus* rulebook.
+Certain Traits can only be taken by a Legio with a specific allegiance, i.e., a Loyalist Legio or a Traitor Legio. If a Trait with such a restriction is taken, any battlegroup that includes that Legio automatically gains the same allegiance, e.g., a battlegroup with a Loyalist Legio is a Loyalist battlegroup (see [page 8](../matched_play_guide/organised_play.md#battlegroup-allegiance) of *Adeptus Titanicus: Loyalist Legios*). A Legio can only choose Legio Specific Traits, Stratagems or Wargear from a single allegiance. Crusade Titan Legions generate their Princeps Senoris' Personal trait from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits).
 
 Legio traits are split into two categories - Trait Majoris and Trait Minoris. a Crusade Titan Legion can have a maximum of one Trait Majoris.
 
@@ -42,7 +42,7 @@ This Trait can only be taken by a Blackshield Legio. Titans from this Legio may 
 
 *The Titan Legion is widely feared by its enemies for having a reputation for relentless savagery. Enemy Princeps are steeled against such tales by the strength of their god-engines, though Knight Banners are not so fortunate.*
 
-At the end of the Movement phase, enemy Knight Banners within 3" of a Titan from this Legio immediately become Shaken (see the *Adeptus Titanicus* rulebook).
+At the end of the Movement phase, enemy Knight Banners within 3" of a Titan from this Legio immediately become Shaken (see the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#shaken-banners)).
 
 **Legio Trait: Loci of the Cause**
 
@@ -54,7 +54,7 @@ During the Strategy phase, allied Knight Banners add 2 to the result of any Comm
 
 *The Legio will never be found wanting, standing true to oaths sworn long ago and conducting themselves with honour even in the face of rampant depravity.*
 
-This Trait can only be taken by a Loyalist Legio. A friendly Titan from this Legio may be issued a different Order via the Adaptive Tactics Allegiance Ability (see page 8 of *Adeptus Titanicus: Loyalist Legios*) once per round, instead of once per game.
+This Trait can only be taken by a Loyalist Legio. A friendly Titan from this Legio may be issued a different Order via the Adaptive Tactics Allegiance Ability (see [page 8](../matched_play_guide/battlegroup_allegiances.md#loyalist-titan-allegiance-ability-adaptive-tactics) of *Adeptus Titanicus: Loyalist Legios*) once per round, instead of once per game.
 
 ### Trait Minoris
 
@@ -98,7 +98,7 @@ Titans fielded as part of this Legio add 2 to the result of any Command checks w
 
 During deployment, before any units have been deployed, two Reaver Battle Titans from this Legio can be paired; to do this, choose two Reaver Titans from the Legio within your battlegroup - these do not have to be part of the same maniple and a battlegroup can contain one or more pairs of Reavers.
 
-At the beginning of each round, paired Reaver Titans may be formed into a Squadron with each other (see the *Adeptus Titanicus* rulebook). These Squadrons last until the end of the round. However, paired Reaver Titans in a Squadron may not merge void shields.
+At the beginning of each round, paired Reaver Titans may be formed into a Squadron with each other (see the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#squadrons)). These Squadrons last until the end of the round. However, paired Reaver Titans in a Squadron may not merge void shields.
 
 **Legio Trait: Towering Exemplar**
 
@@ -122,7 +122,7 @@ Titans from this Legio add 1 to the result of all Command checks made while they
 
 *The Legio follows a doctrine of seizing vital targets and holding the ground against the inevitable counter-attacks.*
 
-Titans from this Legio can move at full speed when Backing Up (see the *Adeptus Titanicus* rulebook). In addition, when a Titan from this Legio is attacked as part of a [Charge] order, it may immediately move backwards up to 3" and make a single weapon attack at the unit that attacked them. If they do this, increase the Titan's Reactor Status level by 1. Each Titan can only do this once per round. This move and attack is resolved after the effects of the [Charge] order and the subsequent attack have been resolved.
+Titans from this Legio can move at full speed when Backing Up (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#sidestepping-and-backing-up)). In addition, when a Titan from this Legio is attacked as part of a [Charge] order, it may immediately move backwards up to 3" and make a single weapon attack at the unit that attacked them. If they do this, increase the Titan's Reactor Status level by 1. Each Titan can only do this once per round. This move and attack is resolved after the effects of the [Charge] order and the subsequent attack have been resolved.
 
 ## Legio-specific Stratagems
 
@@ -230,21 +230,21 @@ Wargear represents those weapons and ordnance favoured by the Titan Legion or pe
 
 *Advanced layered armour has been added to one of the Titan's critical locations. These plates are usually only good for a single battle but this is often enough to protect the Titan from destruction or critical damage.*
 
-Any of the Legio's Titans can be upgraded to have Ablative Ceramite Plating for +30 points. At the start of the battle, a Titan equipped with Ablative Ceramite Plating can choose either its Body, Legs or Head. The Titan ignores the bonus to the attacker's armour roll as a result of damage already inflicted on the chosen location, as indicated by the Command Terminal (see the *Adeptus Titanicus* rulebook).
+Any of the Legio's Titans can be upgraded to have Ablative Ceramite Plating for +30 points. At the start of the battle, a Titan equipped with Ablative Ceramite Plating can choose either its Body, Legs or Head. The Titan ignores the bonus to the attacker's armour roll as a result of damage already inflicted on the chosen location, as indicated by the Command Terminal (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#armour-rolls)).
 
-Additionally, if the Head is chosen, in a campaign the Titan's crew will always survive the destruction of their Titan on a 2+ (see page 201).
+Additionally, if the Head is chosen, in a campaign the Titan's crew will always survive the destruction of their Titan on a 2+ (see [page 201](../campaigns/index.md#crew-survival)).
 
 #### Legio Specific Wargear: Armour Spikes
 
 *Some Forge Worlds fashion baroque blades and spikes of prodigious size to the armour of their Titans. These massive spear and sword tips are more than ornamentation and can be used by aggressive Princeps to gut enemy war engines.*
 
-Any of the Legio's Titans can be upgraded to have Armour Spikes for +20 points. A Titan with Armour Spikes increases the number of dice it generates when making a Smash attack from D3 to D6 (see page 36 of the *Adeptus Titanicus* rulebook).
+Any of the Legio's Titans can be upgraded to have Armour Spikes for +20 points. A Titan with Armour Spikes increases the number of dice it generates when making a Smash attack from D3 to D6 (see [page 36](../rulebook/basic_rules.md#smash-attacks) of the *Adeptus Titanicus* rulebook).
 
 #### Legio Specific Wargear: Auxiliary Shield Capacitors
 
 *Redundant energy coils are built into the Titan's void shield array allowing it to reroute power from the reactor to the shields with maximum efficiency. The fragility of these coils limits their use, however, and once used they cannot be replaced until after the battle.*
 
-Any of the Legio's Titans can be upgraded to have Auxiliary Shield Capacitors for +20 points. Once per round, a Titan with this upgrade can declare Voids to Full! (see the *Adeptus Titanicus* rulebook) without having to push the reactor. As soon as the Titan's shields collapse, the benefits from this piece of Wargear are lost for the remainder of the battle, even if the Titan's shields are later reignited.
+Any of the Legio's Titans can be upgraded to have Auxiliary Shield Capacitors for +20 points. Once per round, a Titan with this upgrade can declare Voids to Full! (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#voids-to-full)) without having to push the reactor. As soon as the Titan's shields collapse, the benefits from this piece of Wargear are lost for the remainder of the battle, even if the Titan's shields are later reignited.
 
 #### Legio Specific Wargear: Blind Missiles
 

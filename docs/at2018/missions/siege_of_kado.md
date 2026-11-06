@@ -19,7 +19,7 @@ Following the Traitor invasion of Kado, the Amethyst Plains rapidly became the m
 
 **Battlegroups**
 
-One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup as described in the *Adeptus Titanicus* rulebook. Each player's force should have a Battle Rating of up to 3,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). Each player's force should have a Battle Rating of up to 3,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 **Battlefield**
 
@@ -27,7 +27,7 @@ The battle is played on a 6'x4' board. An appropriate terrain piece is placed in
 
 **Stratagems**
 
-Each player has 3 points to spend on Stratagems (see the *Adeptus Titanicus* rulebook). The Traitor player may not choose any Battlefield Assets, the Orbital Lance Strike or Tertiary Objectives Stratagems. The Loyalist player cannot choose the Outflank, Orbital Lance Strike or Tertiary Objectives Stratagems.
+Each player has 3 points to spend on Stratagems (see the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#choosing-stratagems)). The Traitor player may not choose any Battlefield Assets, the Orbital Lance Strike or Tertiary Objectives Stratagems. The Loyalist player cannot choose the Outflank, Orbital Lance Strike or Tertiary Objectives Stratagems.
 
 ### Mission Special Rules
 
@@ -69,7 +69,7 @@ Some of the heaviest fighting was seen at the Delta Gate, a towering edifice eng
 
 ### Battlegroups
 
-One player controls the Legio Audax force, which can take Legio Mortis and/or Legio Vulpa Titans as Reinforcements, while their opponent controls the forces of Legio Metalica. Each player selects a battlegroup, as in the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 2,500 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the Legio Audax force, which can take Legio Mortis and/or Legio Vulpa Titans as Reinforcements, while their opponent controls the forces of Legio Metalica. Each player selects a battlegroup, as in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). The Traitor player's force should have a Battle Rating of up to 2,500 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### The Battlefield
 
@@ -121,7 +121,7 @@ As predicted, the clearing of defenders and hive citizens from the area drove th
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls the Ordo Sinister forces. Each player selects a battlegroup, as described on page 53 of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,500 points. The Traitor force should consist solely of Corrupted Titans. The Loyalist force consists solely of Psi-Titans; no maniples are required and Psi-Titans ignore the usual restriction of a maximum of one Psi-Titan per maniple.
+One player controls the Traitor forces, while their opponent controls the Ordo Sinister forces. Each player selects a battlegroup, as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,500 points. The Traitor force should consist solely of Corrupted Titans. The Loyalist force consists solely of Psi-Titans; no maniples are required and Psi-Titans ignore the usual restriction of a maximum of one Psi-Titan per maniple.
 
 ### The Battlefield
 

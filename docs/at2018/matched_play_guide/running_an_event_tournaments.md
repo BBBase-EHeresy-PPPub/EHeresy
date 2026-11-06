@@ -18,7 +18,7 @@ The Organiser is essentially in charge of everything on the day, and all partici
 
 Every event needs a Referee which, at small events, can be the Organiser, although one or more additional Referees during larger events helps quickly settle issues that might crop up. It is a Referee's job to observe games as they are played, enforce the rules, answer any rules queries the players may have and settle disputes between players in a calm and fair manner.
 
-In order to fulfil their role a Referee must have a good knowledge of the rules of the game, and have a copy of the *Adeptus Titanicus* rulebook, any relevant Adeptus Titanicus supplements and all Errata and FAQs on hand in case a rule query comes up.
+In order to fulfil their role a Referee must have a good knowledge of the rules of the game, and have a copy of the [Adeptus Titanicus rulebook](../rulebook/index.md), any relevant Adeptus Titanicus supplements and all Errata and FAQs on hand in case a rule query comes up.
 
 A Referee's ruling is final during the course of an event and all players must agree to honour a Referee's ruling in such situations. The Referee should not participate in the tournament so they are accessible when queries arise and to ensure their judgements are fair.
 
@@ -30,7 +30,7 @@ Every event will also need a Scorekeeper which can be the Organiser in small eve
 
 ### Spare Player
 
-Often tournaments will have an odd number of players, either from an odd number of players buying tickets or because a player drops out before or during the tournament, meaning a player would be without an opponent. Whilst this can be settled by a predetermined result, known as a Bye (see page 28), it is much more satisfying for that player if they have a game to play - after all, that is why they are at the event! To allow this, it is recommended to have a Spare Player on standby for the event.
+Often tournaments will have an odd number of players, either from an odd number of players buying tickets or because a player drops out before or during the tournament, meaning a player would be without an opponent. Whilst this can be settled by a predetermined result, known as a Bye (see [page 28](#bye)), it is much more satisfying for that player if they have a game to play - after all, that is why they are at the event! To allow this, it is recommended to have a Spare Player on standby for the event.
 
 The Spare Player should be someone who knows how to play the game and will provide their opponent with a fun and enthusiastic game rather than simply sitting around waiting. The Spare Player should not be included in the rankings and thus cannot win any awards or the entire event, and should play each game in an appropriate manner. If an event is a competitive one then the Spare Player should not just let their opponent win, instead ensuring they have a fun and rewarding game, while earning any victory they achieve.
 
@@ -44,7 +44,7 @@ Each player is responsible for bringing their own miniatures, dice, rules manual
 
 Every tournament should have a set of rules that dictates the limitations and boundaries for the event. These rules should be clearly explained in the event pack, which should be available to all players before they purchase their ticket to ensure everyone knows where they stand. If players have a question, they should initially check the event pack to see if their query is answered in it before contacting the Tournament Organiser. It is advised to use the rules presented here as the foundation for Organised Play.
 
-All games played at an Adeptus Titanicus Organised Play tournament use the *Adeptus Titanicus* rulebook, any supplement books, and the most recent FAQs and rules clarifications as found at warhammer-community.com. All players are expected to know the stated rules.
+All games played at an Adeptus Titanicus Organised Play tournament use the [Adeptus Titanicus rulebook](../rulebook/index.md), any supplement books, and the most recent FAQs and rules clarifications as found at warhammer-community.com. All players are expected to know the stated rules.
 
 ### Miniatures
 
@@ -64,7 +64,7 @@ In a tournament, players will earn a number of Tournament Points (TPs) depending
 
 ### Determining Objectives During a Tournament
 
-In a one-off Matched Play game of Adeptus Titanicus, players will randomly determine two Primary and two Secondary Objectives and choose which of each to be their objectives for the battle as described on page 17. During events with multiple games, this system can be used as is, with players generating new objectives at the start of each battle.
+In a one-off Matched Play game of Adeptus Titanicus, players will randomly determine two Primary and two Secondary Objectives and choose which of each to be their objectives for the battle as described on [page 17](organised_play.md#objectives-tables). During events with multiple games, this system can be used as is, with players generating new objectives at the start of each battle.
 
 However, this can create considerable variance across a weekend, with some players consistently getting the same objectives, while others get different objectives every time. As such, the suggestion method is an 'Objective Pool'.
 
@@ -98,7 +98,7 @@ For the first round, players are paired together randomly using player numbers g
 
 If, during subsequent rounds, a player who has already played the Spare Player is drawn against them again, then a player of similar rank (e.g., the rank above or the rank below) who has not already played the Spare Player will play them instead. We would always recommend that a tournament has a Spare Player, as that is more fun for your attendees than having a Bye.
 
-**Bye:** Sometimes, you may be unable to find a Spare Player for your event. In this case, the player that would normally be paired with the Spare Player (as described above) will instead have a Bye. A Bye counts as winning the game with 20 Victory points, split 15 and 5 over Primary and Secondary Objectives respectively, and 0 Victory points against. The player also counts as having killed the enemy battlegroup leader.
+**Bye:**{ #bye } Sometimes, you may be unable to find a Spare Player for your event. In this case, the player that would normally be paired with the Spare Player (as described above) will instead have a Bye. A Bye counts as winning the game with 20 Victory points, split 15 and 5 over Primary and Secondary Objectives respectively, and 0 Victory points against. The player also counts as having killed the enemy battlegroup leader.
 
 **Conceding:** Should a player concede a game, their opponent will automatically receive a win, count as having scored full Victory points for both their Primary and Secondary Objectives and count as having killed the enemy battlegroup leader.
 

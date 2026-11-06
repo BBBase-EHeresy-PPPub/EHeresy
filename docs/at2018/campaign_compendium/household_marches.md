@@ -28,7 +28,7 @@ When the forces of a Knightly Household march to war en masse, however, they do 
 
 #### Assembling a Household Force
 
-In Open Play (see page 66 of the *Adeptus Titanicus* rulebook), assembling a Household is as simple as deciding which models from your collection you wish to use, taking a Command Terminal for each one and getting the battle started. In Matched Play (see page 84 of the *Adeptus Titanicus* rulebook) and Narrative Play (see page 67 of the *Adeptus Titanicus* rulebook), the rules for assembling a battlegroup are a little more structured. In either of these play modes, a Household must consist of at least one Lance, made up of three Banners, plus a number of reinforcement units as described as follows. Each unit (whether it is part of a Lance or chosen as Reinforcements) has a points cost, which is made up of the unit's base cost plus the cost of any weapons and upgrades it takes. The total points cost of all of a Household's units is referred to as the Household's "Battle Rating".
+In Open Play (see [page 66](../rulebook/open_play.md) of the *Adeptus Titanicus* rulebook), assembling a Household is as simple as deciding which models from your collection you wish to use, taking a Command Terminal for each one and getting the battle started. In Matched Play (see [page 84](../matched_play_guide/organised_play.md#matched-play-objectives-and-deployment-maps) of the *Adeptus Titanicus* rulebook) and Narrative Play (see [page 67](../rulebook/narrative_play.md) of the *Adeptus Titanicus* rulebook), the rules for assembling a battlegroup are a little more structured. In either of these play modes, a Household must consist of at least one Lance, made up of three Banners, plus a number of reinforcement units as described as follows. Each unit (whether it is part of a Lance or chosen as Reinforcements) has a points cost, which is made up of the unit's base cost plus the cost of any weapons and upgrades it takes. The total points cost of all of a Household's units is referred to as the Household's "Battle Rating".
 
 ##### Household Force Roster
 
@@ -63,7 +63,7 @@ Players should record the details of their Household on a Household roster, whic
 
 [unreadable]
 
-Each Banner has a Command Terminal, in the same way as a Titan. Most of the information on the Command Terminal will be familiar (Class, Scale, Order space, Characteristics, and so on), but as Knights are much smaller than Titans, they do not have multiple Hit locations. Instead, they have a single Damage table and Structure Points Status track. As such, it is never necessary to roll the Location dice when attacking a Banner. Also, instead of void shields, Knights have ion shields, which are described on page 177 and summarised on their Command Terminal. Note that Knights do not have plasma reactors, so can never make Reactor rolls.
+Each Banner has a Command Terminal, in the same way as a Titan. Most of the information on the Command Terminal will be familiar (Class, Scale, Order space, Characteristics, and so on), but as Knights are much smaller than Titans, they do not have multiple Hit locations. Instead, they have a single Damage table and Structure Points Status track. As such, it is never necessary to roll the Location dice when attacking a Banner. Also, instead of void shields, Knights have ion shields, which are described on [page 177](#ion-shields) and summarised on their Command Terminal. Note that Knights do not have plasma reactors, so can never make Reactor rolls.
 
 #### Composition of a Banner
 
@@ -89,7 +89,7 @@ Units of Freeblades are added to the Household force just like Household Support
 - The Knights in a Support Banner can be armed in any combination.
 - A Freeblade Banner cannot join a Lance or benefit from any of the rules that apply to Banners within a Lance.
 - A Freeblade Banner cannot be given [Coordinated Strike] orders.
-- Freeblade Banners cannot be formed into Lances (see below).
+- Freeblade Banners cannot be formed into Lances (see [below](#lances)).
 
 #### Lances
 
@@ -105,7 +105,7 @@ When assembling a Household force, all Household Banners must be formed into Lan
 - A Lance may not contain any Freeblade Banners.
 - At least two Banners within a Lance must be of the same type (for example, a Lance may contain two Questoris Banners and one Cerastus Banner, but not one Questoris, one Cerastus and one Acastus).
 - The Knights within each Banner must be armed alike, as described previously, but each Banner within the Lance may be armed differently.
-- One Banner within the Lance must be designated as the High Scion's Banner (see page 177).
+- One Banner within the Lance must be designated as the High Scion's Banner (see [page 177](#high-scions)).
 - All of the Banners within a Lance count as a single unit for the purposes of deployment and activation.
 
 ##### Activating Lances
@@ -119,7 +119,7 @@ Banners in a Lance are activated as a group, i.e., at the same time. In other wo
 
 #### The Strategy Phase
 
-A Lance or an individual Banner can be issued orders in the same way as a Titan. Banners cannot be issued Damage Control or [Shutdown] orders. A Banner that is part of a Lance can be issued orders as part of the Lance rather than alone, as described below, and can receive a special [Coordinated Strike] order (see page 176), that is available only to the Banners that make up the Lances of a Household force.
+A Lance or an individual Banner can be issued orders in the same way as a Titan. Banners cannot be issued Damage Control or [Shutdown] orders. A Banner that is part of a Lance can be issued orders as part of the Lance rather than alone, as described below, and can receive a special [Coordinated Strike] order (see [page 176](#coordinated-strike-orders)), that is available only to the Banners that make up the Lances of a Household force.
 
 ##### Lance Orders
 
@@ -139,17 +139,17 @@ In the Movement phase, the Banners that make up a Lance are activated together a
 - Knights are considered to have a 360° Front arc.
 - Unless acting under [Charge] orders, Knights can make as many turns as they wish when moving.
 - When a Banner has finished moving, it must form a group with every Knight within 3" of at least one other Knight within the same Banner - this is called Banner coherency. If anything causes a Banner to become split up, it must re-establish coherency the next time it moves.
-- Until Banner coherency is re-established, the Banner becomes Shaken (see page 177).
+- Until Banner coherency is re-established, the Banner becomes Shaken (see [page 177](#shaken-banners)).
 - When all of the Banners within a Lance have finished moving, at least one Knight from each Banner must be within 6" of a Knight that is within another Banner that forms part of the same Lance - this is called Lance coherency. If anything causes a Banner to become separated from its Lance, it must re-establish coherency the next time it moves.
 - Until Lance coherency is re-established, any Banner that is out of coherency becomes Shaken.
 
 #### Charge Orders
 
-When a Banner of Knights moving under [Charge] orders activates, it does not act in the same way that a Titan would; Knights are smaller, lighter and are less able to use their momentum on a charge than a Titan. The following [Charge] order is for all Knight Banners and replaces the one on page 42 of the *Adeptus Titanicus* rulebook:
+When a Banner of Knights moving under [Charge] orders activates, it does not act in the same way that a Titan would; Knights are smaller, lighter and are less able to use their momentum on a charge than a Titan. The following [Charge] order is for all Knight Banners and replaces the one on [page 42](../matched_play_guide/rules_references.md#charge) of the *Adeptus Titanicus* rulebook:
 
 **Charge:** *With warhorns blaring and battlecries on their lips, the Knight pilots rush forwards, seeking to engage the foe at close quarters.*
 
-In the Movement phase, all Knights within a Banner acting under [Charge] orders may move up to their full Speed and are considered to have a 360° Front arc as normal, but they cannot make any turns. However, once they have finished moving, each Knight that is within range can immediately make either a Smash Attack (see page 36 of the *Adeptus Titanicus* rulebook) against units that are of the same Scale or a smaller Scale than themselves, or an attack with a weapon that has the [Melee] trait regardless of Scale. For each full 3" that the Banner moved before attacking, one Knight may add 1 to the Dice value of one of its weapons.
+In the Movement phase, all Knights within a Banner acting under [Charge] orders may move up to their full Speed and are considered to have a 360° Front arc as normal, but they cannot make any turns. However, once they have finished moving, each Knight that is within range can immediately make either a Smash Attack (see [page 36](../rulebook/basic_rules.md#smash-attacks) of the *Adeptus Titanicus* rulebook) against units that are of the same Scale or a smaller Scale than themselves, or an attack with a weapon that has the [Melee] trait regardless of Scale. For each full 3" that the Banner moved before attacking, one Knight may add 1 to the Dice value of one of its weapons.
 
 *For example, if a Banner of Questoris Knights moved 4", one Knight may add 1 to the Dice value of a single weapon. If, however, the Banner moved 6", one Knight may add 2 to the Dice value of a single weapon, or two Knights may each add 1 to the Dice value of a single weapon.*
 
@@ -163,7 +163,7 @@ Banners cannot be activated in the Damage Control phase.
 
 #### Banners in the Combat Phase
 
-When a Banner is activated in the Combat phase, it follows the Combat Sequence (see page 33 of the *Adeptus Titanicus* rulebook) as if it were a Titan. However, instead of attacking with each Knight individually, make an attack with each type of weapon within the Banner in turn:
+When a Banner is activated in the Combat phase, it follows the Combat Sequence (see [page 33](../rulebook/basic_rules.md#the-combat-sequence) of the *Adeptus Titanicus* rulebook) as if it were a Titan. However, instead of attacking with each Knight individually, make an attack with each type of weapon within the Banner in turn:
 
 - Unless acting under [Coordinated Strike] orders (as follows), for each weapon, multiply the Dice characteristic by the number of weapons of that type within the Banner. For example, if a Banner has two Knights armed with rapid fire battle cannon (Dice 2) it would roll four dice when attacking with the battle cannon.
 - If some Knights are within 2" of the target and others are further away, roll using Ballistic Skill for those that are further away, and Weapon Skill for those that are within 2".
@@ -172,7 +172,7 @@ When a Banner is activated in the Combat phase, it follows the Combat Sequence (
 
 **Smash Attacks:** Banners can only make Smash Attacks against other units that are of the same Scale or a smaller Scale than themselves. For example, a Banner that is Scale 4 can make Smash Attacks against a Banner that is Scale 3, but the smaller Knights cannot retaliate in kind.
 
-Note that this is a change to the rule in the *Adeptus Titanicus* rulebook, introduced due to the presence of Knights of varying Scale within the game.
+Note that this is a change to the rule in the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#smash-attacks), introduced due to the presence of Knights of varying Scale within the game.
 
 #### Coordinated Strike Orders
 
@@ -181,7 +181,7 @@ Knights are at their most effective when working in unison against the same targ
 - When a Lance is activated during the Issue Orders step of the Strategy phase, Banners within it may be issued [Coordinated Strike] orders, either as a Lance order or an order issued to an individual Banner, as described previously.
 - If the Command check is successful, an Order dice is placed on the "Order" space on the Command Terminal of each Banner to receive the order. A Banner with [Coordinated Strike] orders is marked by using the Emergency Repairs symbol on the Order dice.
 
-When a Banner with [Coordinated Strike] orders is activated in the Combat phase, the controlling player selects an enemy unit to be the target of the Coordinated Strike, following all of the normal rules as described in the Combat Sequence on page 33 of the *Adeptus Titanicus* rulebook. The Banner makes one attack as described below. Weapons with the [Melee] trait cannot be used to make this attack:
+When a Banner with [Coordinated Strike] orders is activated in the Combat phase, the controlling player selects an enemy unit to be the target of the Coordinated Strike, following all of the normal rules as described in the Combat Sequence on [page 33](../rulebook/basic_rules.md#the-combat-sequence) of the *Adeptus Titanicus* rulebook. The Banner makes one attack as described below. Weapons with the [Melee] trait cannot be used to make this attack:
 
 - When checking the Firing Solution, line of sight and distance is measured as usual for each individual Knight in the Banner. Any Knight that is within 2" of the target that does not have line of sight or that is out of range cannot participate in the Coordinated Strike.
 - When making the Hit roll, nominate one Knight within the Banner that is participating in the Coordinated Strike and roll a number of D6 equal to the Dice characteristic of the weapon being used for the attack.
@@ -203,7 +203,7 @@ If a Banner is hit by a shooting attack, hits are resolved (at Step 5 of the Com
 
 - Target's controlling player makes Ion Shield saves.
 - The attacking player makes Armour rolls for any remaining hits.
-- To make an Ion Shield save, look up the Ion Shield level on the Banner's Command Terminal, which varies depending on the number of Knights currently in the Banner and the Strength of the attack. Then roll a D6 for each hit that was scored. For each dice that equals or beats the Ion Shield level, the hit is discarded. Then, for each remaining hit, the attacking player makes an Armour roll, as described on page 34 of the *Adeptus Titanicus* rulebook.
+- To make an Ion Shield save, look up the Ion Shield level on the Banner's Command Terminal, which varies depending on the number of Knights currently in the Banner and the Strength of the attack. Then roll a D6 for each hit that was scored. For each dice that equals or beats the Ion Shield level, the hit is discarded. Then, for each remaining hit, the attacking player makes an Armour roll, as described on [page 34](../rulebook/basic_rules.md#armour-rolls) of the *Adeptus Titanicus* rulebook.
 
 #### Damaging Banners
 
@@ -270,7 +270,7 @@ When several Lances form together, the most senior of the High Scions is awarded
 
 **The Baronial Court:** Unlike other Banners that are part of a Lance in a Household force, the individual Knights within the Seneschal's Banner may be equipped differently, following the options available to a Support Banner of the same type of Knight. This allows the player to better represent the unique, elite warriors that make up the Seneschal's companions. However, if this option is taken, the Banner may not be issued with [Coordinated Strike] orders.
 
-**Noble Sacrifice:** If the Seneschal is removed as the result of a Targeted Attack, the controlling player rolls a D6. On a 6, the Seneschal is saved by the sacrifice of one of the Knights in their Banner. The controlling player chooses one other Knight in the Banner to remove instead. If the Seneschal is the last remaining model in the Banner, this rule has no effect.
+**Noble Sacrifice:**{ #noble-sacrifice } If the Seneschal is removed as the result of a Targeted Attack, the controlling player rolls a D6. On a 6, the Seneschal is saved by the sacrifice of one of the Knights in their Banner. The controlling player chooses one other Knight in the Banner to remove instead. If the Seneschal is the last remaining model in the Banner, this rule has no effect.
 
 **The Battle Standard:** The Seneschal will invariably march to war in great splendour and accompanied by the most treasured battle standards of their Household. These honoured relics bear the heraldry of the Household and its home world, alongside campaign and battle honours beyond number. Their presence on the battlefield provides a rallying point for one and all:
 
@@ -278,7 +278,7 @@ When several Lances form together, the most senior of the High Scions is awarded
 - The Battle Standard must be clearly displayed on the model that carries it.
 - As long as the Knight carrying the Battle Standard is part of the Banner, any Banner or Lance within 12" of that Knight may re-roll any failed Command checks to see if the Banner becomes Shaken.
 
-**Knightly Qualities:** Each Seneschal has a Knightly Quality, a unique aspect of their personality which typifies their style of command. This quality is in effect for as long as they are on the battlefield. Immediately before deploying their force, the player controlling the Household force should roll a D6 on the table below to see what their quality is. If both players agree then they can each pick a Knightly Quality instead of rolling a D6.
+**Knightly Qualities:**{ #knightly-qualities } Each Seneschal has a Knightly Quality, a unique aspect of their personality which typifies their style of command. This quality is in effect for as long as they are on the battlefield. Immediately before deploying their force, the player controlling the Household force should roll a D6 on the table below to see what their quality is. If both players agree then they can each pick a Knightly Quality instead of rolling a D6.
 
 If the Household is drawn from one of the Households covered in more detail later in this book, the Seneschal may instead roll on the appropriate Household Specific Knightly Qualities table.
 
@@ -287,9 +287,9 @@ If the Household is drawn from one of the Households covered in more detail late
 | 1 | **First Born:** The Seneschal may issue Full Stride orders to Banners within their Lance without the need to make a Command check. However, deduct 1 from the results of any Command checks to see if any Banner within the Seneschal's Lance becomes Shaken. |
 | 2 | **Elder Patriarch:** When making a Command check to see if they become Shaken, all Banners within 12" of the Seneschal add 1 to the dice roll. |
 | 3 | **Young Blood:** The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. |
-| 4 | **Second Son:** Any Banner within 12" of the Seneschal's Banner may re-roll results of a 1 when making a Ballistic Skill check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described earlier on this page. |
+| 4 | **Second Son:** Any Banner within 12" of the Seneschal's Banner may re-roll results of a 1 when making a Ballistic Skill check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described [earlier on this page](#the-seneschal). |
 | 5 | **Former Freeblade:** The Seneschal may issue Split Fire orders to Banners within their Lance without the need to make a Command check. |
-| 6 | **Outcast Bloodline:** The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described earlier on this page. |
+| 6 | **Outcast Bloodline:** The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described [earlier on this page](#the-seneschal). |
 
 ## Household Rules
 
@@ -305,11 +305,11 @@ Immediately before forces are deployed, each player chooses their Stratagems. Th
 
 Stratagems are kept secret from the other player until they are used, at which point they are revealed.
 
-Keen-eyed players will notice that many of the following Stratagems are similar to those available for Titan Legions. This is deliberate, as the Stratagems available to Titans of any Scale remain similar (and Knights are, after all, a type of Titan, albeit far smaller than those of the Collegia Titanica). The ones listed here have been modified to work in conjunction with the smaller Scale of Knights themselves and the larger numbers within a Household force. Note that Stratagems are not interchangeable - a Household force may only choose from the Stratagems listed here and a Titan Legion may only choose from the Stratagems listed in the *Adeptus Titanicus* rulebook.
+Keen-eyed players will notice that many of the following Stratagems are similar to those available for Titan Legions. This is deliberate, as the Stratagems available to Titans of any Scale remain similar (and Knights are, after all, a type of Titan, albeit far smaller than those of the Collegia Titanica). The ones listed here have been modified to work in conjunction with the smaller Scale of Knights themselves and the larger numbers within a Household force. Note that Stratagems are not interchangeable - a Household force may only choose from the Stratagems listed here and a Titan Legion may only choose from the Stratagems listed in the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#choosing-stratagems).
 
 #### Noble Tactics
 
-**Vengeful (1):** a player can enact this Stratagem during the Strategy phase. To do so, they pick a Banner from their force which has been reduced to a single remaining Knight. This Banner immediately receives [Charge] orders. When it charges, the Knight may make a Smash Attack, as described on page 36 of the *Adeptus Titanicus* rulebook, resolved at Scale x2. Once this is resolved, the Knight is removed from play. At the end of the battle, the enemy gains a number of Victory points equal to half the Scale of this unit, rather than the full amount.
+**Vengeful (1):** a player can enact this Stratagem during the Strategy phase. To do so, they pick a Banner from their force which has been reduced to a single remaining Knight. This Banner immediately receives [Charge] orders. When it charges, the Knight may make a Smash Attack, as described on [page 36](../rulebook/basic_rules.md#smash-attacks) of the *Adeptus Titanicus* rulebook, resolved at Scale x2. Once this is resolved, the Knight is removed from play. At the end of the battle, the enemy gains a number of Victory points equal to half the Scale of this unit, rather than the full amount.
 
 **Outflank (X):** When this Stratagem is chosen, the player secretly nominates one of their Freeblade Banners. The cost of the Stratagem is equal to half of the unit's Scale, rounding up. Play this Stratagem at the start of deployment to set that unit to one side and state that it is outflanking (it is not deployed at the same time as the rest of the Household force). Write down which of the battlefield's neutral flanks it will arrive on, but do not reveal this to the opposing player. While the unit is not on the board, it cannot be activated, and so cannot be issued Orders.
 
@@ -388,19 +388,19 @@ Units can move across Battlefield Assets without penalty. If the base of a Titan
 
 Matched Play focuses more on introducing balance to battles. It is ideal for those who wish to play in a competitive spirit, and is also useful for those who wish to play against opponents they do not regularly play, ensuring a more-or-less fair fight. This makes it ideal for leagues and tournaments, but also for battles fought at gaming clubs and pick-up games in local gaming stores.
 
-The full rules for Matched Play can be found on page 84 of the *Adeptus Titanicus* rulebook. The rules that follow here cover the areas in which a Household force differs from a Titan battlegroup.
+The full rules for Matched Play can be found on [page 84](../matched_play_guide/organised_play.md#matched-play-objectives-and-deployment-maps) of the *Adeptus Titanicus* rulebook. The rules that follow here cover the areas in which a Household force differs from a Titan battlegroup.
 
 #### Meeting Engagement
 
-This is the standard Matched Play mission for Adeptus Titanicus. The players will decide a Battle Rating and plan their forces accordingly, as described previously in this book for a Household force, or in the *Adeptus Titanicus* rulebook for a Titan battlegroup.
+This is the standard Matched Play mission for Adeptus Titanicus. The players will decide a Battle Rating and plan their forces accordingly, as described previously in this book for a Household force, or in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup) for a Titan battlegroup.
 
-The first step in fighting a Meeting Engagement is deciding the Battle Rating, which will determine the size of the battle, the number of Stratagem points available to each player and how long the battle will last, as described on page 84 of the *Adeptus Titanicus* rulebook.
+The first step in fighting a Meeting Engagement is deciding the Battle Rating, which will determine the size of the battle, the number of Stratagem points available to each player and how long the battle will last, as described on [page 84](../matched_play_guide/organised_play.md#matched-play-objectives-and-deployment-maps) of the *Adeptus Titanicus* rulebook.
 
 ##### Selecting Mission Objectives
 
 Once each player has assembled their Household force or Titan battlegroup, they will then each need to select a mission objective. In a Meeting Engagement each side has its own objective, and players must aim to achieve their objective while stopping their opponent from doing the same.
 
-A player using a Household force rolls two D6 and looks their result up on the table below to see which objectives are available, re-rolling any duplicates until they have two different objectives available. The player then secretly writes down which of their two available objectives they will be attempting - the other is discarded, presumably to be handled by a different battlegroup. The objectives for Household forces are detailed as follows. The objectives for Titan battlegroups are detailed on page 85 of the *Adeptus Titanicus* rulebook.
+A player using a Household force rolls two D6 and looks their result up on the table below to see which objectives are available, re-rolling any duplicates until they have two different objectives available. The player then secretly writes down which of their two available objectives they will be attempting - the other is discarded, presumably to be handled by a different battlegroup. The objectives for Household forces are detailed as follows. The objectives for Titan battlegroups are detailed on [page 85](../matched_play_guide/organised_play.md#primary-objectives) of the *Adeptus Titanicus* rulebook.
 
 The players then reveal their chosen objectives simultaneously, before choosing Stratagems and moving on to deployment.
 
@@ -495,7 +495,7 @@ Keep track of enemy units destroyed or Structurally Compromised by an attack ori
 
 All Knight Households carry the banners of their House into battle. These sacred standards can come in many forms. Some bear the heraldry of the Households, inspiring all that see them to greater deeds while others bear the bloody marks of former campaigns, driving Scions to acts of vengeance and bloodshed. Nearly all have ancient technology woven into their threads to preserve the standard for future generations should the bearer fall in battle.
 
-When assembling a Knight Household force, one Knight within the Seneschal's Baronial Court (see page 178) may be upgraded to carry a Battle Standard, purchased from the list that follows, at the associated cost. Each Battle Standard has one or more rules associated with it. At least one model within a Banner must be able to draw line of sight to the model carrying the Battle Standard for the Banner to be affected by it, and the range of the Battle Standard's effects are measured from the Knight carrying the Battle Standard. Unless otherwise stated, only a single Knight from a Banner has to be in range of the Battle Standard for the whole Banner to be affected by it.
+When assembling a Knight Household force, one Knight within the Seneschal's Baronial Court (see [page 178](#battle-standards)) may be upgraded to carry a Battle Standard, purchased from the list that follows, at the associated cost. Each Battle Standard has one or more rules associated with it. At least one model within a Banner must be able to draw line of sight to the model carrying the Battle Standard for the Banner to be affected by it, and the range of the Battle Standard's effects are measured from the Knight carrying the Battle Standard. Unless otherwise stated, only a single Knight from a Banner has to be in range of the Battle Standard for the whole Banner to be affected by it.
 
 A Battle Standard does not replace the weapons a Knight is equipped with (it is presumed the Knight carries the standard in such a way as to not impede their prowess in battle). a Battle Standard must be clearly displayed on the model that carries it. If the Knight carrying the Battle Standard is destroyed, choose another Knight in the Baronial Court to carry the Battle Standard. If the Seneschal is the sole remaining Knight in the Baronial Court then the standard is lost, and the Seneschal cannot carry it.
 
@@ -505,7 +505,7 @@ Finally, Knights only ever benefit from the effects of a Battle Standard carried
 
 *The standard of the king reminds all those who fight beneath it of their duty, whether they fight for the Emperor or the Warmaster, their true lord's gaze is upon them.*
 
-Friendly Banners within 12" of this Battle Standard can re-roll any failed Command checks to see if the Banner becomes Shaken. Note, the King's Standard is the same as the Battle Standard rules in *Adeptus Titanicus: Doom of Molech* with an adjustment to its points, and replaces those rules.
+Friendly Banners within 12" of this Battle Standard can re-roll any failed Command checks to see if the Banner becomes Shaken. Note, the King's Standard is the same as the Battle Standard rules in *[Adeptus Titanicus: Doom of Molech](#the-seneschal)* with an adjustment to its points, and replaces those rules.
 
 ##### Pennant of the Champion - 40 points
 
@@ -654,7 +654,7 @@ Over the years, House Donar became one of the pre-eminent hunting Houses, often 
 
 #### Household Specific Knightly Qualities
 
-A House Donar High Scion or Seneschal Knightly Quality can either be generated from the table on page 178, or by rolling a D3 on the table that follows:
+A House Donar High Scion or Seneschal Knightly Quality can either be generated from the table on [page 178](#knightly-qualities), or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
@@ -688,11 +688,11 @@ The story of the Kaska, at least as they reckon it to be, is carved in the rune 
 
 **Household Specific Knightly Qualities**
 
-A House Kaska High Scion or Seneschal Knightly Quality can either be generated from the table on page 178, or by rolling a D3 on the table that follows:
+A House Kaska High Scion or Seneschal Knightly Quality can either be generated from the table on [page 178](#knightly-qualities), or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Drunken Lord:** When the Seneschal's Banner suffers a Direct Hit, roll a D6. On a 5 or 6, the hit is ignored. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on page 178. |
+| 1 | **Drunken Lord:** When the Seneschal's Banner suffers a Direct Hit, roll a D6. On a 5 or 6, the hit is ignored. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on [page 178](#the-seneschal). |
 | 2 | **Lord of Rain and Ruin:** Banners within the Seneschal's Lance treat Deadly terrain as if it were Dangerous terrain. Note that even Banners with the Agile rule must test as if for Dangerous terrain should they move through Deadly terrain. |
 | 3 | **Scion of the Storm:** When making a Command check to see if they become Shaken, all Banners within 12" of the Seneschal add 1 to the dice roll. |
 
@@ -706,7 +706,7 @@ Of course, the true strength of a Knight is its pilot, and for Kaushik Scions, t
 
 #### Household Specific Knightly Qualities
 
-A House Kaushik High Scion or Seneschal Knightly Quality can either be generated from the table on page 178, or by rolling a D3 on the table that follows:
+A House Kaushik High Scion or Seneschal Knightly Quality can either be generated from the table on [page 178](#knightly-qualities), or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
@@ -724,7 +724,7 @@ Despite their irreverent nature, the Scions of Mamaragon were fiercely loyal to 
 
 #### Household Specific Knightly Qualities
 
-A House Mamaragon High Scion or Seneschal Knightly Quality can either be generated from the table on page 178, or by rolling a D3 on the table that follows:
+A House Mamaragon High Scion or Seneschal Knightly Quality can either be generated from the table on [page 178](#knightly-qualities), or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
@@ -740,10 +740,10 @@ While many other Knight Houses sought to shake off the primitive practices of th
 
 #### Household Specific Knightly Qualities
 
-A House Tazkhar High Scion or Seneschal Knightly Quality can either be generated from the table on page 178, or by rolling a D3 on the table that follows:
+A House Tazkhar High Scion or Seneschal Knightly Quality can either be generated from the table on [page 178](#knightly-qualities), or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
-| 1 | **Dervish Lord:** The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on page 178. |
+| 1 | **Dervish Lord:** The Seneschal may issue Coordinated Strike orders to Banners within their Lance without the need to make a Command check. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described on [page 178](#the-seneschal). |
 | 2 | **Kharii Savage:** The Seneschal may issue Charge orders to Banners within their Lance without the need to make a Command check. Additionally, Banners within the Seneschal's Lance add D3" to their Speed when acting under Charge orders. However, Banners in the Seneschal's Lance cannot be issued First Fire orders. |
 | 3 | **Vizier of Blades:** Knights within the Seneschal's Lance may re-roll any Hit roll of a 1 when using a weapon with the Melee trait. |

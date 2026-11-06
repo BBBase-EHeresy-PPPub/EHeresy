@@ -94,7 +94,7 @@ The advantage of Narrative events is they allow the results of each round to inf
 
 ### Conquest Benefits
 
-Conquest Benefit is a term used here to refer to special rules that are awarded to a faction after they win an event round. These are the spoils of conquest and can represent all manner of tactical advantages. Several Conquest Benefits can be found on page 37, representing the control of certain worlds within a system or key infrastructure upon a planet.
+Conquest Benefit is a term used here to refer to special rules that are awarded to a faction after they win an event round. These are the spoils of conquest and can represent all manner of tactical advantages. Several Conquest Benefits can be found on [page 37](#conquest-benefits_1), representing the control of certain worlds within a system or key infrastructure upon a planet.
 
 At the end of each event round, Conquest Benefits are awarded to the faction that claimed victory during that round. All players within the victorious faction will benefit from the associated special rule for the remainder of the Narrative event.
 
@@ -136,7 +136,7 @@ At a Narrative event with factions, the winner is normally every player in that 
 
 When designing an event, the Tournament Organiser should consider if they wish to add something extra to their event in order to add a unique element to the battles that take place. In general, these should be small things that do not change the core gameplay of Adeptus Titanicus - too complex and players will often forget these elements during the course of play. There are countless things a Tournament Organiser can do to add something extra to an event and over the following pages we've presented some methods to do this.
 
-For individual battles, regardless of the event type, there are Battlefield Rules which represent the nature of the world the forces are fighting over. Battlefield Rules can be found in various Adeptus Titanicus supplements and twelve are presented in this section that provide an extra element to a battle, without unduly slowing the game down. In addition, this section also presents six Conquest Benefits (see page 37) to include in your Narrative events, as well as serve as examples for writing your own.
+For individual battles, regardless of the event type, there are Battlefield Rules which represent the nature of the world the forces are fighting over. Battlefield Rules can be found in various Adeptus Titanicus supplements and twelve are presented in this section that provide an extra element to a battle, without unduly slowing the game down. In addition, this section also presents six Conquest Benefits (see [page 37](#conquest-benefits_1)) to include in your Narrative events, as well as serve as examples for writing your own.
 
 ### Battlefield Rules
 
@@ -194,7 +194,7 @@ Whenever a Titan declares Power to Locomotors! and moves further than its defaul
 
 ## Conquest Benefits
 
-As detailed on page 37, Conquest Benefits are additional rules that represent the spoils of war afforded by past victories. Conquest Benefits are not chosen by players but awarded to a faction if that faction is victorious in an event round. In general, these benefits are themed to particular worlds or areas of strategic interest (such as a Forge World or an important monitoring array) to easily link them to the narrative of the event.
+As detailed on [page 37](#conquest-benefits_1), Conquest Benefits are additional rules that represent the spoils of war afforded by past victories. Conquest Benefits are not chosen by players but awarded to a faction if that faction is victorious in an event round. In general, these benefits are themed to particular worlds or areas of strategic interest (such as a Forge World or an important monitoring array) to easily link them to the narrative of the event.
 
 Conquest Benefits are awarded after the results of a round have been gathered and the victorious faction has been calculated. Once this has been done, the Tournament Organiser should announce to all players which faction was victorious in the round and which Conquest Benefit is being awarded to that faction. Once awarded, a Conquest Benefit is in effect for all players of that faction and applies to all subsequent games of the event.
 

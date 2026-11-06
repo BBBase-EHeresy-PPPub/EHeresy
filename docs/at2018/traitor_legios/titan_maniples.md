@@ -64,7 +64,7 @@ Where other maniples favour firepower and brute strength to overcome the foe, a 
 
 **Maniple Trait**
 
-Opportunistic Strike: If an enemy unit's void shields are collapsed by an attack made by a Warhound Titan from this maniple, the Reaver Titan in this maniple can immediately make an attack against it with one of its weapons, following the Combat Sequence as described in the Adeptus Titanicus rulebook. This means that the Reaver can potentially attack several times in the same phase, as well as attacking normally when it is activated. However, if the Reaver is prevented from attacking in the Combat phase - it has Full Stride or [Shutdown] orders, for example - it cannot make these bonus attacks.
+Opportunistic Strike: If an enemy unit's void shields are collapsed by an attack made by a Warhound Titan from this maniple, the Reaver Titan in this maniple can immediately make an attack against it with one of its weapons, following the Combat Sequence as described in the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#the-combat-sequence). This means that the Reaver can potentially attack several times in the same phase, as well as attacking normally when it is activated. However, if the Reaver is prevented from attacking in the Combat phase - it has Full Stride or [Shutdown] orders, for example - it cannot make these bonus attacks.
 
 </div>
 
@@ -86,7 +86,7 @@ Corsair Battleline Maniples are built around a raiding doctrine, its Titans chos
 
 **Maniple Trait**
 
-Fighting Withdrawal: Titans in this maniple can choose to move outside of their forward arc (see Sidestepping and Backing Up in the Adeptus Titanicus rulebook) at their full movement rather than having to use 2" of movement for every 1" moved. Titans may not use their boosted speed when moving outside of their Front arc.
+Fighting Withdrawal: Titans in this maniple can choose to move outside of their forward arc (see Sidestepping and Backing Up in the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#sidestepping-and-backing-up)) at their full movement rather than having to use 2" of movement for every 1" moved. Titans may not use their boosted speed when moving outside of their Front arc.
 
 </div>
 
@@ -135,7 +135,7 @@ Formations utilising paired Warlord Titans are common to many of the strategies 
 
 Royal Court: The two Warlord Titans within this maniple represent the King and Queen, whose role it is to support each other in battle. While the King and Queen are within 12" of each other, if one successfully gains an Order, the other may gain the same Order without the need to pass a Command check.
 
-The Warhounds are the Courtiers, whose role it is to shield the King and Queen. Courtiers can merge their void shields with the King and Queen as if they were part of the same Squadron (see the Adeptus Titanicus rulebook). In addition, Courtiers may merge their void shields with either the King's or Queen's while within 3" of them, rather than only while in base contact.
+The Warhounds are the Courtiers, whose role it is to shield the King and Queen. Courtiers can merge their void shields with the King and Queen as if they were part of the same Squadron (see the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#merging-void-shields)). In addition, Courtiers may merge their void shields with either the King's or Queen's while within 3" of them, rather than only while in base contact.
 
 </div>
 
@@ -181,7 +181,7 @@ Titans are mobile fortresses as formidable to bring down as any redoubt of steel
 
 **Maniple Trait**
 
-Titanic Fortress: Standing shoulder to shoulder, the Titans of a Fortis Battle Maniple shrug off devastating hits with overlapping void shields and locked armoured plates. When a Titan in a Fortis Battle Maniple is in base contact with another Titan in the maniple, and neither Titan moved in the Movement phase, the Titan ignores Armour roll modifiers resulting from Structural Damage or being attacked in the flank or rear (see the Adeptus Titanicus rulebook). In addition, Titans in a Fortis Battle Maniple may merge their void shields (see the Adeptus Titanicus rulebook).
+Titanic Fortress: Standing shoulder to shoulder, the Titans of a Fortis Battle Maniple shrug off devastating hits with overlapping void shields and locked armoured plates. When a Titan in a Fortis Battle Maniple is in base contact with another Titan in the maniple, and neither Titan moved in the Movement phase, the Titan ignores Armour roll modifiers resulting from Structural Damage or being attacked in the flank or rear (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#armour-rolls)). In addition, Titans in a Fortis Battle Maniple may merge their void shields (see the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#merging-void-shields)).
 
 </div>
 
@@ -368,7 +368,7 @@ Many Titan Legions with large Vassal Houses create special formations within the
 - Two Warhound Titans
 - One Questoris or Cerastus Knight Banner
 
-Maniple Traits Auspex Bafflers: Knight Banners included in a Dominus Battleforce Maniple cannot benefit from obscuring cover (see the Adeptus Titanicus rulebook). If a Knight Banner from a Dominus Battleforce Maniple is wholly within 6" of a Titan from the same maniple (i.e., all Knights from the Banner are within 6" of the Titan), and both the Titan and at least one Knight from that Banner is visible to the attacker, attacks made against the Titan from more than 2" away from the Titan suffer a -1 modifier to the Hit roll.
+Maniple Traits Auspex Bafflers: Knight Banners included in a Dominus Battleforce Maniple cannot benefit from obscuring cover (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#the-combat-sequence)). If a Knight Banner from a Dominus Battleforce Maniple is wholly within 6" of a Titan from the same maniple (i.e., all Knights from the Banner are within 6" of the Titan), and both the Titan and at least one Knight from that Banner is visible to the attacker, attacks made against the Titan from more than 2" away from the Titan suffer a -1 modifier to the Hit roll.
 
 Noble Sacrifice: When a Titan in a Dominus Battleforce Maniple takes a hit from an attack originating from more than 2" away from the Titan, it may transfer the hit to any Knight model from the same maniple within 6", as long as that model is visible to the attacker - the hit must be transferred before any Armour rolls are made. The chosen Knight suffers the full effects of the hit as if it had been the original target. If the hit was from a weapon with the [Blast] trait, centre the Blast marker over the Knight. Hits from weapons with the [Firestorm] or [Beam] traits may not be transferred in this way.
 

@@ -22,7 +22,7 @@ After the beginning of the Horus Heresy and the revelations of House Ærthegn's 
 
 ### Household Specific Knightly Qualities
 
-A House Ærthegn High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Ærthegn High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
@@ -63,13 +63,13 @@ The exact strength of House Morbidia remained a closely-kept secret by the Fabri
 
 ### Household Specific Knightly Qualities
 
-A House Morbidia High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Morbidia High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
 | 1 | **Blackhearted:** The Seneschal cares not for the weakness of mercy and revels in the cries of fear and the shedding of blood. When making an attack during the Movement phase as part of a [Charge] order, Knights within the Seneschal's Lance may re-roll Hit rolls of a 1. |
 | 2 | **Devoid of Virtue:** The Seneschal possesses a dread reputation, striking fear into the hearts of any that oppose them. At the end of the Movement phase, enemy Knight Banners within 6" of the Seneschal's Banner must check to see if they are Shaken, as if one or more Knights within their Banner had been destroyed. |
-| 3 | **Rule through Fear:** The Seneschal controls their warriors through terror, knowing they will not break if they fear their commander more than their enemy. Banners within the Seneschal's Lance cannot be Shaken while the Seneschal is on the battlefield. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in Adeptus Titanicus: Doom of Molech. |
+| 3 | **Rule through Fear:** The Seneschal controls their warriors through terror, knowing they will not break if they fear their commander more than their enemy. Banners within the Seneschal's Lance cannot be Shaken while the Seneschal is on the battlefield. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in [Adeptus Titanicus: Doom of Molech](../campaign_compendium/household_marches.md#the-seneschal). |
 
 ### House Morbidia Cerastus Knight Atrapos
 
@@ -107,13 +107,13 @@ The distrustful nature of House Caesarean meant the Household proved resistant t
 
 ### Household Specific Knightly Qualities
 
-A House Caesarean High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Caesarean High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
 | 1 | **Urban Fighter:** The Seneschal has a reputation for their skill in urban warfare, able to stalk the streets and strike before anyone knows they are there. For the duration of the first round, attacks made against the Seneschal's Lance suffer a -1 modifier to all Hit rolls. |
 | 2 | **Lightning Assault:** The Seneschal favours swiftly falling upon their foes, carving through the opposition before they are aware an attack has come. In the Movement phase, Banners within the Seneschal's Lance add 2" to their Speed characteristic when acting with [Charge] orders. |
-| 3 | **Esteemed Ancestry:** The Seneschal can trace their bloodline back to legendary figures from the Household's first days. Such a legacy is inspiring, even if the Seneschal does not match the deeds of their ancestors. As long as the Seneschal is on the battlefield, Banners within the Seneschal's Lance cannot be Shaken. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in Adeptus Titanicus: Doom of Molech. |
+| 3 | **Esteemed Ancestry:** The Seneschal can trace their bloodline back to legendary figures from the Household's first days. Such a legacy is inspiring, even if the Seneschal does not match the deeds of their ancestors. As long as the Seneschal is on the battlefield, Banners within the Seneschal's Lance cannot be Shaken. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in [Adeptus Titanicus: Doom of Molech](../campaign_compendium/household_marches.md#the-seneschal). |
 
 ### House Caesarean Questoris Knight Warden
 
@@ -148,7 +148,7 @@ Given the lack of data on House Perdaxia, if indeed it was a formal Household, t
 
 ### Household Specific Knightly Qualities
 
-A House Perdaxia High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Perdaxia High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
@@ -189,7 +189,7 @@ The limited population of Slestra did much to prevent House Hyboras from amassin
 
 ### Household Specific Knightly Qualities
 
-A House Hyboras High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Hyboras High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
@@ -232,7 +232,7 @@ House Devine exhibited a distinct preference for the deployment of Cerastus armo
 
 ### Household Specific Knightly Qualities
 
-A House Devine High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Devine High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
@@ -274,7 +274,7 @@ As a Knight Household specialised in urban warfare, attrition proved the limitin
 
 ### Household Specific Knightly Qualities
 
-A House Gotrith High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Gotrith High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
@@ -316,7 +316,7 @@ In strength and deposition of arms, House Mordred was unremarkable, with its num
 
 ### Household Specific Knightly Qualities
 
-A House Mordred High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Mordred High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
@@ -357,11 +357,11 @@ Though House Vextrix stood amongst the smallest of Knight Houses, capable of fie
 
 ### Household Specific Knightly Qualities
 
-A House Vextrix High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Vextrix High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
-| 1 | **Dauntless:** A veteran of war, the Seneschal has strode dozens of battlefields and nothing will stop them from achieving victory. As long as the Seneschal is on the battlefield, Banners within the Seneschal's Lance cannot be Shaken. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in Adeptus Titanicus: Doom of Molech. |
+| 1 | **Dauntless:** A veteran of war, the Seneschal has strode dozens of battlefields and nothing will stop them from achieving victory. As long as the Seneschal is on the battlefield, Banners within the Seneschal's Lance cannot be Shaken. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in [Adeptus Titanicus: Doom of Molech](../campaign_compendium/household_marches.md#the-seneschal). |
 | 2 | **Soul of Decay:** A rot has taken hold within the Seneschal, changing their very being into a creature seemingly immune to pain. Whenever the Seneschal's Banner suffers Critical or Devastating Damage, roll a D6. On a 6, the damage is reduced by one level, i.e., a Critical Hit becomes Devastating Hit, a Devastating Hit becomes a Direct Hit. |
 | 3 | **Implacable Foe:** The Seneschal has never met a foe they cannot kill, laying waste to some of the greatest champions of civilisations across the galaxy. Knights within the Seneschal's Banner may re-roll Armour rolls of a 1 when making an attack during the Movement phase as part of a [Charge] order. |
 
@@ -398,7 +398,7 @@ Divisions within House Ioeden, combined with infighting and frequent transfer of
 
 ### Household Specific Knightly Qualities
 
-A House Ioeden High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Ioeden High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
@@ -442,11 +442,11 @@ Records indicate that before House Oroborn withdrew from the Great Crusade and i
 
 ### Household Specific Knightly Qualities
 
-A House Oroborn High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Oroborn High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
-| 1 | **All But Dead:** A foul change has gripped the Seneschal, for they feel neither pain nor joy, driven only by a burning need to conquer in the name of the Warmaster. As long as the Seneschal is on the battlefield, the Seneschal's Banner cannot be Shaken. In addition, reduce the Strength value of any attack made against the Seneschal's Banner by 1, to a minimum of 1. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in Adeptus Titanicus: Doom of Molech. |
+| 1 | **All But Dead:** A foul change has gripped the Seneschal, for they feel neither pain nor joy, driven only by a burning need to conquer in the name of the Warmaster. As long as the Seneschal is on the battlefield, the Seneschal's Banner cannot be Shaken. In addition, reduce the Strength value of any attack made against the Seneschal's Banner by 1, to a minimum of 1. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in [Adeptus Titanicus: Doom of Molech](../campaign_compendium/household_marches.md#the-seneschal). |
 | 2 | **Noxious:** The joints of the Seneschal's armour weep foul fluids, each drop rusting armour and decaying flesh. Any unit, friend or foe, within 3" of the Seneschal's Banner when it is activated in the Combat phase suffers D3 S5 hits. Titans suffer these hits to their Legs. House Oroborn units are not affected by this rule. However, the Seneschal's Banner may not include a Battle Standard. |
 | 3 | **Last of their Line:** The Seneschal has so far staved off the worst of the corruption rooted within their Household and seeks an honourable death before they too are consumed. As long as the Seneschal is on the battlefield, Banners within the Seneschal's Lance may be issued [Charge] orders without the need to make a Command check. However, at least one Banner within the Seneschal's Lance must be given [Charge] orders in every round from round 2 onwards if possible. |
 
@@ -483,13 +483,13 @@ By the time of the Horus Heresy, the forges of Xana II had swelled the numbers o
 
 ### Household Specific Knightly Qualities
 
-A House Malinax High Scion or Seneschal Knightly Quality can either be generated from the table on page 38 of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
+A House Malinax High Scion or Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of Adeptus Titanicus: Doom of Molech, or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 | :---: | :--- |
 | 1 | **Elusive:** The Seneschal is secretive and reserved by nature, surrounded by a web of lies that conceals their true identity. If the Seneschal is destroyed, the player may choose a friendly Banner of the same type as the Seneschal's Banner to designate as the new Seneschal's Banner. One model of your choice within that Banner is designated as the Seneschal, replacing the Lord Scion or High Scion if one is present. The Banner follows all rules for containing a Seneschal's Banner but has no Knightly Quality. Only the Lance designated as the Seneschal's Lance during battlegroup selection counts for the purpose of determining Victory points and other scenario effects, however the new Banner counts as the Seneschal's Banner for any other purposes. When choosing Stratagems, the presence of the Seneschal does not add additional Stratagem points. |
 | 2 | **Trusted Bearer:** The Seneschal is trusted with ancient technology designed to enhance the weaponry of its bearer and must be preserved no matter the cost. Knights within the Seneschal's Banner may re-roll any Armour rolls of a 1 for any attacks they make with a weapon without the [Melee] trait. However, the Seneschal's Banner cannot be issued [Charge] orders. |
-| 3 | **Favoured Scion:** The Seneschal is a favoured child of Xana II and has access to advanced modifications for their suits, a display of favouritism that displeases other Scions. When the Seneschal's Banner suffers a Direct Hit, roll a D6. On the roll of a 5 or 6, the hit is ignored. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in Adeptus Titanicus: Doom of Molech. |
+| 3 | **Favoured Scion:** The Seneschal is a favoured child of Xana II and has access to advanced modifications for their suits, a display of favouritism that displeases other Scions. When the Seneschal's Banner suffers a Direct Hit, roll a D6. On the roll of a 5 or 6, the hit is ignored. However, the Seneschal's Banner does not add 3 to the result of any of its Command checks, as described in [Adeptus Titanicus: Doom of Molech](../campaign_compendium/household_marches.md#the-seneschal). |
 
 ### House Malinax Acastus Knight Porphyrion
 

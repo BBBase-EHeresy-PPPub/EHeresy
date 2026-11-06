@@ -4,7 +4,7 @@ The following pages provide various optional campaign rules which players can in
 
 ### Extended Titan Crew Experience
 
-As they survive from one battle to the next, Titan crews become more experienced, with some crews able to call upon decades or even centuries of service. In the standard campaign rules, this experience is represented by a Titan having a number of re-rolls dependent on the crew's Experience level. If players prefer, the following rules can replace the standard Titan Crew experience rules presented on page 201.
+As they survive from one battle to the next, Titan crews become more experienced, with some crews able to call upon decades or even centuries of service. In the standard campaign rules, this experience is represented by a Titan having a number of re-rolls dependent on the crew's Experience level. If players prefer, the following rules can replace the standard Titan Crew experience rules presented on [page 201](index.md#crew-experience).
 
 When creating their Campaign roster, or buying new Titans with Armoury points, the controlling player should randomly determine the Crew Experience level for each of their Titans using the Starting Crew Experience table below:
 

@@ -68,7 +68,7 @@ Any Legio Tempestus Titan that is equipped with a turbo-laser destructor, paired
 
 ### Legio Specific Personal Traits
 
-A Legio Tempestus Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Tempestus Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -150,7 +150,7 @@ Any Legio Mortis Titan may be upgraded to have the Warmaster's Beneficence for +
 
 ### Legio Specific Personal Traits
 
-A Legio Mortis Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Mortis Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -230,13 +230,13 @@ A Legio Krytos Warlord or Reaver Titan that is equipped with Apocalypse missile 
 
 ### Legio Specific Personal Traits
 
-A Legio Krytos Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Krytos Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
 | 1 | **Godlike Contempt:** Routinely scouring worlds and extinguishing armies gave many Princeps of the Legio Krytos delusions of divinity - something their allies encouraged by treating the Titans as temples dedicated to war, and their crews as the high priests that worshipped within them. The Princeps' Titan may still make Command checks even if another friendly unit has already failed its Command check. |
-| 2 | **World Bane:** It is not enough for the Princeps to merely bring down cities or reduce fortresses to ruins, instead they seed the earth with unexploded munitions, or purposefully rupture fuel lines, toxic waste containers and huge energy cells to mar the battlefield. Any Blocking terrain destroyed by the Princeps' Titan becomes Dangerous terrain (see the Adeptus Titanicus rulebook) if it was not already. If the optional rules for destroying terrain are not in use and this Personal Trait is randomly chosen, the controlling player may instead choose a different Personal Trait from this table. |
-| 3 | **Path of Iron:** Lesser enemies are crushed under the feet of the Princeps' Titan, their crew barely slowing their massive war machine to consider those they have destroyed or knocked aside. The Princeps Seniores' may make a single Smash Attack (see the Adeptus Titanicus rulebook) during the Movement phase, provided it is against an enemy model of a lower Scale than itself. Stop the Titan when it comes within range of its target and resolve the attack, then complete its movement as normal. When making these kinds of Smash Attacks, the Titan may move through models of Scale 3 or less, provided that they can completely cross the enemy model's base. This attack does not prohibit the Titan from making attacks in the following Combat phase. |
+| 2 | **World Bane:** It is not enough for the Princeps to merely bring down cities or reduce fortresses to ruins, instead they seed the earth with unexploded munitions, or purposefully rupture fuel lines, toxic waste containers and huge energy cells to mar the battlefield. Any Blocking terrain destroyed by the Princeps' Titan becomes Dangerous terrain (see the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#dangerous-terrain)) if it was not already. If the optional rules for destroying terrain are not in use and this Personal Trait is randomly chosen, the controlling player may instead choose a different Personal Trait from this table. |
+| 3 | **Path of Iron:** Lesser enemies are crushed under the feet of the Princeps' Titan, their crew barely slowing their massive war machine to consider those they have destroyed or knocked aside. The Princeps Seniores' may make a single Smash Attack (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#smash-attacks)) during the Movement phase, provided it is against an enemy model of a lower Scale than itself. Stop the Titan when it comes within range of its target and resolve the attack, then complete its movement as normal. When making these kinds of Smash Attacks, the Titan may move through models of Scale 3 or less, provided that they can completely cross the enemy model's base. This attack does not prohibit the Titan from making attacks in the following Combat phase. |
 
 ### Legio Krytos Warlord Battle Titan
 
@@ -288,7 +288,7 @@ The principal strength of the Tiger Eyes was split primarily between the Mars pa
 
 The tribal minds of the Tiger Eyes Princeps have accumulated within the spirits of their god-machines over the centuries. This mingling of predatory instincts and plasma-fuelled fury makes Tiger Eyes Titans more prone to rage, but more focused on their prey when their machine spirits are awakened.
 
-When rolling the Reactor dice (see the Adeptus Titanicus rulebook) a Tiger Eyes player counts both the Machine Spirit symbol and blank facing on the dice as a trigger for the awakening of their Titan's machine spirit; the blank face does not increase the Reactor level. However, if a Tiger Eyes player fails the Command check to quell the machine spirit, they may choose the result from the Awakened Machine Spirit table, rather than rolling randomly. If the Titan is a Corrupted Titan, it instead rolls two dice on the Awakened Entity table when called upon to do so, and chooses one of the results.
+When rolling the Reactor dice (see the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#reactor-dice)) a Tiger Eyes player counts both the Machine Spirit symbol and blank facing on the dice as a trigger for the awakening of their Titan's machine spirit; the blank face does not increase the Reactor level. However, if a Tiger Eyes player fails the Command check to quell the machine spirit, they may choose the result from the Awakened Machine Spirit table, rather than rolling randomly. If the Titan is a Corrupted Titan, it instead rolls two dice on the Awakened Entity table when called upon to do so, and chooses one of the results.
 
 ### Legio Trait: Many Faces of the Omnissiah
 
@@ -310,7 +310,7 @@ Any Legio Fureans Titan may be upgraded with a Hunting Auspex for +20 points. A 
 
 ### Legio Specific Personal Traits
 
-A Legio Fureans Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Fureans Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -392,7 +392,7 @@ Any Legio Vulpa Titan may take Disruption Emitters for +35 points. A Titan with 
 
 ### Legio Specific Personal Traits
 
-A Legio Vulpa Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Vulpa Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -470,7 +470,7 @@ This Stratagem can be purchased by any Legio Vulcanum player. Play this Stratage
 
 Just as the Legio Vulcanum was said to have cloned its greatest Princeps to command their Titans, so too were notable Titans replicated, their machine spirits divided and enshrined in different god-engines by dark technological rituals.
 
-Any two Legio Vulcanum Titans may be upgraded with Twinned Machine Spirits for +20 points each. Legion Vulcanum Titans with twinned machine spirits count as being part of a squadron with each other (see the Adeptus Titanicus rulebook) - these Titans may not join another squadron. However, should a Titan with a twinned machine spirit roll the Machine Spirit symbol on the Reactor dice, both it and its paired Titan must make a Command check to see if their Titan's machine spirit awakens. Note that multiple pairs of Titans in a Legio Vulcanum Battlegroup may be equipped to have twinned machine spirits, each forming their own squadron of two. A Titan with this upgrade cannot otherwise be part of a Squadron.
+Any two Legio Vulcanum Titans may be upgraded with Twinned Machine Spirits for +20 points each. Legion Vulcanum Titans with twinned machine spirits count as being part of a squadron with each other (see the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#squadrons)) - these Titans may not join another squadron. However, should a Titan with a twinned machine spirit roll the Machine Spirit symbol on the Reactor dice, both it and its paired Titan must make a Command check to see if their Titan's machine spirit awakens. Note that multiple pairs of Titans in a Legio Vulcanum Battlegroup may be equipped to have twinned machine spirits, each forming their own squadron of two. A Titan with this upgrade cannot otherwise be part of a Squadron.
 
 ### Legio Specific Wargear: Janus Pattern Missiles
 
@@ -480,7 +480,7 @@ Any Legio Vulcanum Titan armed with an Apocalypse missile launcher, Apocalypse m
 
 ### Legio Specific Personal Traits
 
-A Legio Vulcanum Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Vulcanum Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -557,7 +557,7 @@ This Stratagem can be purchased by any Legio Interfector player. Reveal this Str
 
 The roots of Chaos have dug deep into the workings of the Legio Interfector's Titans. Daemonic energies coil around the machine spirits of their god-engines, driving them to extremes of rage and madness.
 
-This Stratagem can be purchased by any Legio Interfector player. Reveal this Stratagem when a Legio Interfector Titan would roll on the Awakened Machine Spirit table (see the Adeptus Titanicus rulebook) or the Awakened Entity table. Instead of rolling on the table, make an attack with each of the Titan's weapons. These attacks must be made against the closest model, whether it is friend or foe.
+This Stratagem can be purchased by any Legio Interfector player. Reveal this Stratagem when a Legio Interfector Titan would roll on the Awakened Machine Spirit table (see the [Adeptus Titanicus rulebook](../matched_play_guide/rules_references.md#awakened-machine-spirit-table)) or the Awakened Entity table. Instead of rolling on the table, make an attack with each of the Titan's weapons. These attacks must be made against the closest model, whether it is friend or foe.
 
 ### Legio Wargear: Static Rounds
 
@@ -567,7 +567,7 @@ Any Legio Interfector Reaver or Warhound Titan armed with a Vulcan mega-bolter m
 
 ### Legio Specific Personal Traits
 
-A Legio Interfector Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Interfector Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :---: | :--- |
@@ -635,7 +635,7 @@ When making an attack with a [Firestorm] weapon, a Legio Infernus Titan may plac
 
 Having abandoned their once-masters, the Legio Infernus rapidly accepted the Dark Mechanicum as their new liege, becoming perfect test subjects for all manner of experiments.
 
-The maximum number of Additional Mutations a Legio Infernus Corrupted Titan can purchase (see page 165) is increased by 1.
+The maximum number of Additional Mutations a Legio Infernus Corrupted Titan can purchase (see [page 165](titanica_infernus.md#additional-mutations)) is increased by 1.
 
 ### Legio Specific Stratagem: Burned Ones (1)
 
@@ -651,7 +651,7 @@ Any Legio Infernus Titan that is equipped with an Inferno Gun can take Clinging 
 
 ### Legio Specific Personal Traits
 
-A Legio Infernus Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Infernus Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :---: | :--- |
@@ -733,7 +733,7 @@ Any Legio Mordaxis Titan armed with a [Blast] (3") weapon may take Toxin Nodes f
 
 ### Legio Specific Personal Traits
 
-A Legio Mordaxis Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Mordaxis Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -811,7 +811,7 @@ An Ursus Claw fitted to a Legio Audax Titan has a Strength value of 4 instead of
 
 ### Legio Specific Personal Traits
 
-A Legio Audax Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Audax Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -893,7 +893,7 @@ Any Legio Magna Titan armed with a weapon with the [Fusion] trait may be equippe
 
 ### Legio Specific Personal Traits
 
-A Legio Magna Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Magna Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -955,7 +955,7 @@ During the Combat phase, friendly Legio Vulturum Titans add 1 to all Hit rolls i
 
 The Gore Crows often employed merciless tactics, forcing their foes to retreat into crossfires that ensured none survived.
 
-This Stratagem can be purchased by any Legio Vulturum player. Play this Stratagem when an enemy Titan moves outside of its Front arc (see Sidestepping and Backing Up in the Adeptus Titanicus rulebook), whether voluntarily or involuntarily. A friendly Legio Vulturum Titan can immediately make an attack with one of their weapon systems against that target, increasing its Reactor Level by 1 to do so. For all intents and purposes, this is a new attack requiring an Attack roll, any additional increases to the Titan's reactor level, etc.
+This Stratagem can be purchased by any Legio Vulturum player. Play this Stratagem when an enemy Titan moves outside of its Front arc (see Sidestepping and Backing Up in the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#sidestepping-and-backing-up)), whether voluntarily or involuntarily. A friendly Legio Vulturum Titan can immediately make an attack with one of their weapon systems against that target, increasing its Reactor Level by 1 to do so. For all intents and purposes, this is a new attack requiring an Attack roll, any additional increases to the Titan's reactor level, etc.
 
 ### Legio Specific Stratagem: Scent of Blood (2)
 
@@ -971,7 +971,7 @@ Any Legio Vulturum Titan that is equipped with a Vulcan mega-bolter or Vulcan me
 
 ### Legio Specific Personal Traits
 
-A Legio Vulturum Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Vulturum Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -1055,7 +1055,7 @@ Any Legio Laniaskara Titan may be upgraded with Mordantised Ceramite for +10 poi
 
 ### Legio Specific Personal Traits
 
-A Legio Laniaskara Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Laniaskara Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -1131,7 +1131,7 @@ Any Legio Kulisaetai Titan armed with either Apocalypse missile launchers or an 
 
 ### Legio Specific Personal Traits
 
-A Legio Kulisaetai Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Kulisaetai Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -1205,7 +1205,7 @@ Any Legio Damicium Titan may take Secondary Plating for +10 points. The first Cr
 
 ### Legio Specific Personal Traits
 
-A Legio Damicium Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Damicium Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -1289,7 +1289,7 @@ Any Legio Tritonis Titan armed with either Apocalypse missile launchers or an Ap
 
 ### Legio Specific Personal Traits
 
-A Legio Tritonis Princeps Seniores' Personal Trait can either be generated from the table on page 55 of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Tritonis Princeps Seniores' Personal Trait can either be generated from the table on [page 55](../rulebook/assembling_a_battlegroup.md#personal-traits) of the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |

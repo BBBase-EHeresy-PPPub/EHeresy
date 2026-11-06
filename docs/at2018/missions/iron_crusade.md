@@ -4,13 +4,17 @@ This mission represents the valiant defence offered by the "Nine Paragons of Ith
 
 The opening salvo of orbital fire was both precise and deadly, laying waste to key infrastructure across the city of Ithraca and felling the *Arutan*, the vessel ploughing into the ground and carving a destructive furrow in the city below. As confusion reigned amongst the Loyalists, the Fire Masters bellowed their triumph, marching upon those True Messengers still present upon the muster fields. Unaware of the danger about to befall them, a score of Titans fell to the weapons fire of their once-allies before a response could be mounted. Were it a less disciplined Legio, it is likely that the True Messengers would have fallen that day. Instead, those of Legio Praesagius that still stood formed into a defensive position, the larger Warlords locking shields to protect those weakened by the onslaught unleashed by the advancing Fire Masters. Together, these Warlords marched to meet the assault of their new foes, offering their lives to cover the retreat of their Legio.
 
+---
+
 **Designer's Note: The Nine Paragons of Ithraca**
 
-*Historically it was the Nine Warlords of Legio Praesagius that marched against the Fire Masters in order to buy time for the rest of their Legio to retreat into the streets of Ithraca. If the players wish, the Legio Praesagius player can build a battlegroup of nine Warlord Titans armed as they see fit. The Legio Suturvora player should then have a Battle Rating equal to 500 points more than the Legio Praesagius player. It should be noted that such a battle would be a large one and ideal for several players, or a gaming club, wishing for a grand affair.*
+_Historically it was the Nine Warlords of Legio Praesagius that marched against the Fire Masters in order to buy time for the rest of their Legio to retreat into the streets of Ithraca. If the players wish, the Legio Praesagius player can build a battlegroup of nine Warlord Titans armed as they see fit. The Legio Suturvora player should then have a Battle Rating equal to 500 points more than the Legio Praesagius player. It should be noted that such a battle would be a large one and ideal for several players, or a gaming club, wishing for a grand affair._
+
+---
 
 ### Battlegroups
 
-One player controls the Legio Praesagius forces, while their opponent controls those of Legio Suturvora. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. The Legio Praesagius player's force should have a Battle Rating of up to 2,500 points and can only include Warlord Titans, while the Legio Suturvora player's Battle Rating should be up to 3,000 points. Each force must consist of at least one maniple, plus any Reinforcements. Neither side can include Knight Banners.
+One player controls the Legio Praesagius forces, while their opponent controls those of Legio Suturvora. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Legio Praesagius player's force should have a Battle Rating of up to 2,500 points and can only include Warlord Titans, while the Legio Suturvora player's Battle Rating should be up to 3,000 points. Each force must consist of at least one maniple, plus any Reinforcements. Neither side can include Knight Banners.
 
 ### Battlefield
 
@@ -18,7 +22,7 @@ The battle is played on a 6'x4' board. The battlefield represents the barren pla
 
 ### Stratagems
 
-The Legio Praesagius player has no Stratagems for this battle. The Legio Suturvora player has 2 points to spend on Stratagems (see page 64 of the *Adeptus Titanicus* rulebook). They may not choose any Ground Assets or Tertiary Objectives Stratagems.
+The Legio Praesagius player has no Stratagems for this battle. The Legio Suturvora player has 2 points to spend on Stratagems (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook). They may not choose any Ground Assets or Tertiary Objectives Stratagems.
 
 ### Mission Special Rules
 
@@ -64,7 +68,7 @@ The world of Ulixis was the perfect staging ground to both harm Ultramar and dea
 
 ### Battlegroups
 
-One player controls the combined Loyalist forces of Legio Oberon and Legio Lysanda while their opponent controls those of Legio Infernus. Both players select a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. Both players should have a Battle Rating of up to 2,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the combined Loyalist forces of Legio Oberon and Legio Lysanda while their opponent controls those of Legio Infernus. Both players select a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. Both players should have a Battle Rating of up to 2,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### Battlefield
 
@@ -72,13 +76,13 @@ The battle is played on a 4'x4' board. The battlefield represents the Wyrms' Lai
 
 ### Stratagems
 
-Both players have 2 points to spend on Stratagems (see page 64 of the *Adeptus Titanicus* rulebook). In addition, the Loyalist player has the Noble Sacrifice Stratagem. Neither player may choose the Outflank, any Ground Assets or Tertiary Objectives Stratagems.
+Both players have 2 points to spend on Stratagems (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook). In addition, the Loyalist player has the Noble Sacrifice Stratagem. Neither player may choose the Outflank, any Ground Assets or Tertiary Objectives Stratagems.
 
 ### Mission Special Rules
 
 **Lurking in the Dark:** Legio Infernus used the anger held by the Loyalists towards the Fire Masters to lure the servants of the Imperium into an ambush. During deployment, the Legio Infernus player may choose to keep up to 750 points of their battlegroup to one side. From the second turn onwards, at the start of any Strategy phase, the Legio Infernus player may spring their ambush. The units are deployed within 6" of any battlefield edge and any of these Titans may be issued the [First Fire] order without the need to make a Command check. In addition, all of the newly deployed Titans start at Void Shield level X, and immediately increase their Void Shield level by D3, to represent them powering up their reactors quickly.
 
-**Pitch Black:** This battle uses the Pitch Black environment rules described on page 221.
+**Pitch Black:** This battle uses the Pitch Black environment rules described on [page 221](../campaign_compendium/hostile_battlefields.md#pitch-black).
 
 ### Deployment
 
@@ -110,7 +114,7 @@ Having marshalled their forces, the Loyalists hoped to spring a devastating ambu
 
 ### Battlegroups
 
-One player controls the combined Traitor forces of Legio Infernus and Legio Audax, while their opponent controls the combined Loyalist forces of Legio Praesagius and Legio Oberon. Each player selects a battlegroup, as described on page 53 of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 2,500 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements. The Loyalist player may not include any Psi-Titans.
+One player controls the combined Traitor forces of Legio Infernus and Legio Audax, while their opponent controls the combined Loyalist forces of Legio Praesagius and Legio Oberon. Each player selects a battlegroup, as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 2,500 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements. The Loyalist player may not include any Psi-Titans.
 
 ### Battlefield
 
@@ -118,7 +122,7 @@ The battle is played on a 4'x4' board. The majority of the battlefield should be
 
 ### Stratagems
 
-Both players have access to the Artillery Bombardment Stratagem, representing the violent storms now raging across the city (see page 64 of the *Adeptus Titanicus* rulebook), and the Titan Hunter Infantry Stratagem. In addition, the Loyalist player has access to the Thermal Mines Stratagem (see page 64 of the *Adeptus Titanicus* rulebook).
+Both players have access to the Artillery Bombardment Stratagem, representing the violent storms now raging across the city (see [page 64](../rulebook/stratagems.md#artillery-bombardment-2) of the *Adeptus Titanicus* rulebook), and the Titan Hunter Infantry Stratagem. In addition, the Loyalist player has access to the Thermal Mines Stratagem (see [page 64](../rulebook/stratagems.md#thermal-mines-2) of the *Adeptus Titanicus* rulebook).
 
 #### Titan Hunter Infantry (2)
 
@@ -166,7 +170,7 @@ The Traitors commenced their attack as the Loyalist forces, commanded by Princep
 
 ### Battlegroups
 
-One player controls the forces of Legio Mordaxis, while their opponent controls those of Legio Lysanda. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. The Legio Mordaxis player's force should have a Battle Rating of up to 2,500 points, while the Legio Lysanda player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements. The Legio Mordaxis player may not include any Knight Banners while the Legio Lysanda player must include at least one Knight Banner.
+One player controls the forces of Legio Mordaxis, while their opponent controls those of Legio Lysanda. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Legio Mordaxis player's force should have a Battle Rating of up to 2,500 points, while the Legio Lysanda player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements. The Legio Mordaxis player may not include any Knight Banners while the Legio Lysanda player must include at least one Knight Banner.
 
 ### Battlefield
 
@@ -212,7 +216,7 @@ Known for its burning sand-like mineral deserts, Drooth II was originally popula
 
 ### Battlegroups
 
-One player controls the combined Traitor forces, while their opponent controls the combined Loyalist forces. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. Both players' force should have a Battle Rating of up to 3,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the combined Traitor forces, while their opponent controls the combined Loyalist forces. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. Both players' force should have a Battle Rating of up to 3,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### Battlefield
 
@@ -220,7 +224,7 @@ The battle is played on a 4'x4' board. Place a 3" wide marker, or appropriate te
 
 ### Stratagems
 
-Both players have 4 Stratagem points to spend on their choice of Stratagems (see page 64 of the *Adeptus Titanicus* rulebook).
+Both players have 4 Stratagem points to spend on their choice of Stratagems (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook).
 
 ### Mission Special Rules
 
@@ -233,7 +237,7 @@ Both players have 4 Stratagem points to spend on their choice of Stratagems (see
 
 The forge-fane has a total of 25 Structure points. When it loses its last Structure point, the forge-fane is destroyed and removed from the battlefield. The forge-fane is a towering structure, and is presumed to be visible and unobscured even if the attacking unit cannot see the marker.
 
-**Burning Sands:** This battle uses the Burning Sands rule (see page 222 for more details).
+**Burning Sands:** This battle uses the Burning Sands rule (see [page 222](../campaign_compendium/hostile_battlefields.md#burning-sands) for more details).
 
 #### Deployment
 

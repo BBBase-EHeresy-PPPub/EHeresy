@@ -20,7 +20,7 @@ Once per battle, play this during the Strategy phase. Pick a unit on the battlef
 
 ### Stratagem: Noble Sacrifice (1)
 
-A player can enact this Stratagem during the Strategy phase. To do so, they pick a Titan from their force whose structure has been compromised and roll a D6. Add 1 to the result if its Reactor Status marker is in a hole with an orange indicator, or add 3 to the result if it is in a hole with a red indicator. The Titan suffers a Magazine Detonation on a result of 1-4, or a Catastrophic Meltdown on a result of 5-6 (see the Catastrophic Damage table).
+A player can enact this Stratagem during the Strategy phase. To do so, they pick a Titan from their force whose structure has been compromised and roll a D6. Add 1 to the result if its Reactor Status marker is in a hole with an orange indicator, or add 3 to the result if it is in a hole with a red indicator. The Titan suffers a Magazine Detonation on a result of 1-4, or a Catastrophic Meltdown on a result of 5-6 (see the [Catastrophic Damage table](../matched_play_guide/rules_references.md#catastrophic-damage-table)).
 
 ### Stratagem: Outflank (X)
 
@@ -104,11 +104,11 @@ Play this Stratagem during any Strategy phase. Place a marker anywhere on the ba
 
 ### Stratagem: Earthshaker Mines (2)
 
-Play this Stratagem immediately after an enemy unit finishes moving or making a turn. Roll a D6. On a 2 or more, that unit suffers D3 Strength 6 hits; a Titan takes these hits to its Legs. Shield saves cannot be made against the hits. In addition, the unit is then moved D6" in a direction determined by the Scatter dice (this may result in a Collision - see the Adeptus Titanicus rulebook). This does not change the unit's facing. On a 1, nothing happens but the Stratagem is not discarded and can be played again in a subsequent round.
+Play this Stratagem immediately after an enemy unit finishes moving or making a turn. Roll a D6. On a 2 or more, that unit suffers D3 Strength 6 hits; a Titan takes these hits to its Legs. Shield saves cannot be made against the hits. In addition, the unit is then moved D6" in a direction determined by the Scatter dice (this may result in a Collision - see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#collisions)). This does not change the unit's facing. On a 1, nothing happens but the Stratagem is not discarded and can be played again in a subsequent round.
 
 ### Stratagem: Quake Shells (2)
 
-Play this during any Strategy phase. Place the 5" Blast marker anywhere on the battlefield then scatter it D10". Any unit touched by the marker where it eventually lands suffers D3 Strength 6 hits, or D6 Strength 6 hits if the central hole of the Blast marker is entirely over its base. In addition, the unit is then moved D6" in a direction determined by the Scatter dice (this may result in a Collision - see the Adeptus Titanicus rulebook). This does not change the unit's facing.
+Play this during any Strategy phase. Place the 5" Blast marker anywhere on the battlefield then scatter it D10". Any unit touched by the marker where it eventually lands suffers D3 Strength 6 hits, or D6 Strength 6 hits if the central hole of the Blast marker is entirely over its base. In addition, the unit is then moved D6" in a direction determined by the Scatter dice (this may result in a Collision - see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#collisions)). This does not change the unit's facing.
 
 ### Stratagem: Haywire Barrage (2)
 
@@ -128,9 +128,9 @@ Play this Stratagem when activating a friendly Titan in the Combat phase. If the
 
 ### Stratagem: Partial Shutdown (1)
 
-Play this Stratagem at the start of any Movement phase. Choose a friendly Titan to initiate Partial Shutdown. The chosen Titan is immediately issued [Shutdown] orders, replacing any Order previously given. The void shields of a Titan that has initiated a Partial Shutdown do not collapse. In addition, a Titan issued [Shutdown] orders as part of Partial Shutdown Stratagem reduces its Reactor level by 1 instead of 2 during the Damage Control phase and Reactor rolls can be made for the Titan if forced to do so. Barring these exceptions, a Partially Shutdown Titan follows all other normal rules for the [Shutdown] order as described in the Adeptus Titanicus rulebook until the [Shutdown] orders issued by this Stratagem are discarded.
+Play this Stratagem at the start of any Movement phase. Choose a friendly Titan to initiate Partial Shutdown. The chosen Titan is immediately issued [Shutdown] orders, replacing any Order previously given. The void shields of a Titan that has initiated a Partial Shutdown do not collapse. In addition, a Titan issued [Shutdown] orders as part of Partial Shutdown Stratagem reduces its Reactor level by 1 instead of 2 during the Damage Control phase and Reactor rolls can be made for the Titan if forced to do so. Barring these exceptions, a Partially Shutdown Titan follows all other normal rules for the [Shutdown] order as described in the [Adeptus Titanicus rulebook](../matched_play_guide/rules_references.md#shutdown) until the [Shutdown] orders issued by this Stratagem are discarded.
 
-Stratagem:Tactical Assessment (2) Play this at the end of the deployment phase, before rolling to see who is the First Player. The player may immediately discard their current objective and determine a new one by rolling two D6 on the Mission Objective table as described in the Adeptus Titanicus rulebook.
+Stratagem:Tactical Assessment (2) Play this at the end of the deployment phase, before rolling to see who is the First Player. The player may immediately discard their current objective and determine a new one by rolling two D6 on the Mission Objective table as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#determining-objectives).
 
 ### Stratagem: Last Ditch Effort (1)
 

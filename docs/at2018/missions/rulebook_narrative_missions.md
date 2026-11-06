@@ -12,7 +12,7 @@ At the time of this battle, the forces of the Dark Mechanicum - including a size
 
 ### Battlegroups
 
-One player controls the forces of Legio Mortis, while their opponent controls those of Legio Tempestus. Each player selects a battlegroup as described on page 53. The Legio Mortis player's force should have a Battle Rating of 3,000-3,500 points, while the Legio Tempestus player's Battle Rating should be 2,000-2,500 points. Each force must consist of at least one maniple, plus any reinforcements.
+One player controls the forces of Legio Mortis, while their opponent controls those of Legio Tempestus. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup). The Legio Mortis player's force should have a Battle Rating of 3,000-3,500 points, while the Legio Tempestus player's Battle Rating should be 2,000-2,500 points. Each force must consist of at least one maniple, plus any reinforcements.
 
 ### The Battlefield
 
@@ -32,7 +32,7 @@ The Legio Tempestus player can re-roll any failed Command checks made when attem
 
 **Legio Mortis: Camulos - The Savage.** *A giant of a man whose manner and bearing seem more appropriate for a tribal chieftain than a Titan Legion Princeps, Camulos commands his Titan through force of character, cowing it into submission and bending its machine spirit to his will.*
 
-The Legio Mortis player can always choose to pass or fail the Command check to see if the machine spirit of Camulos' Titan is awakened. If they choose to fail the check, they can pick a result from the Awakened Machine Spirit table rather than rolling (see page 44).
+The Legio Mortis player can always choose to pass or fail the Command check to see if the machine spirit of Camulos' Titan is awakened. If they choose to fail the check, they can pick a result from the Awakened Machine Spirit table rather than rolling (see [page 44](../matched_play_guide/rules_references.md#awakened-machine-spirit-table)).
 
 **Strike from Concealment.** At the start of the battle, Legio Tempestus forces are dug in around the outskirts of the Magma City, most of their number hidden from view.
 
@@ -95,7 +95,7 @@ This mission lets players re-enact the climactic battle that ensued. One player 
 
 ### Battlegroups
 
-One player controls the forces of the Legio Praesagius, while their opponent controls those of Legio Suturvora. Each player selects a battlegroup (see page 53). The Legio Suturvora battlegroup should have a Battle Rating of 2,000-2,500 points. The Legio Praesagius battlegroup is divided into two parts: the cordon force, which should have a Battle Rating of 1,000-1,500 points, and the relief force, which should have a Battle Rating of 2,000-2,500 points.
+One player controls the forces of the Legio Praesagius, while their opponent controls those of Legio Suturvora. Each player selects a battlegroup (see [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup)). The Legio Suturvora battlegroup should have a Battle Rating of 2,000-2,500 points. The Legio Praesagius battlegroup is divided into two parts: the cordon force, which should have a Battle Rating of 1,000-1,500 points, and the relief force, which should have a Battle Rating of 2,000-2,500 points.
 
 ### The Battlefield
 
@@ -121,7 +121,7 @@ If the reactor is hit, use the Damage table that follows, keeping track of the n
 
 The first time that the reactor suffers Critical Damage, roll a D6, adding 1 for each time it has already suffered Critical Damage during the battle. On a result of 8 or more, the *Arutan* is destroyed,
 
-along with any Titans that are still aboard. Each unit within 2D10" of the western edge of the battlefield is caught in the blast, as though they were within range of a Titan which has suffered a reactor meltdown (see page 43).
+along with any Titans that are still aboard. Each unit within 2D10" of the western edge of the battlefield is caught in the blast, as though they were within range of a Titan which has suffered a reactor meltdown (see [page 43](../matched_play_guide/rules_references.md#reactor-overload-table)).
 
 **The Doors Must Fall.** As the Titans of Legio Suturvora approach, a crowd of tech-adepts and servitors work at the buckled doors of the *Arutan*'s hold, attempting to get them free. In each End phase, the Legio Praesagius player rolls 2D6. Keep a running total, turn by turn. If the total exceeds 25, the doors have been breached!
 
@@ -179,11 +179,15 @@ This mission describes the main action which took place towards the climax of th
 
 ### Battlegroups
 
-One player controls the Loyalist Titan forces, while their opponent controls the Traitor force. Each player selects a battlegroup as described on page 53, each with a Battle Rating of 2,000-2,500 points. Ideally, the Loyalist player's force should contain at least one Banner of Knights, to represent the muster of House Devine.
+One player controls the Loyalist Titan forces, while their opponent controls the Traitor force. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup), each with a Battle Rating of 2,000-2,500 points. Ideally, the Loyalist player's force should contain at least one Banner of Knights, to represent the muster of House Devine.
+
+---
 
 **Designer's Note: Other People's Models**
 
-*Due to the nature of this mission, the Traitor player will take command of a portion of the Loyalist player's army partway through the battle. It's worth discussing how this will be handled before you decide to play this mission - some players are understandably cagey about other people handling their valuable, carefully painted miniatures. If the Loyalist player is one of them, you could get around this by having them move their Traitor forces (following the Traitor player's instruction, of course) or, if a large enough collection is available, allowing the Traitor player to substitute their own models when they turn Traitor. In either case, having a discussion about it before the game begins will make sure everyone's comfortable with what's going on.*
+_Due to the nature of this mission, the Traitor player will take command of a portion of the Loyalist player's army partway through the battle. It's worth discussing how this will be handled before you decide to play this mission - some players are understandably cagey about other people handling their valuable, carefully painted miniatures. If the Loyalist player is one of them, you could get around this by having them move their Traitor forces (following the Traitor player's instruction, of course) or, if a large enough collection is available, allowing the Traitor player to substitute their own models when they turn Traitor. In either case, having a discussion about it before the game begins will make sure everyone's comfortable with what's going on._
+
+---
 
 ### The Battlefield
 
@@ -199,9 +203,13 @@ Each player has 3 Stratagem points to spend. Tertiary objective Stratagems canno
 
 At the start of the third round, the Traitor units are revealed. They immediately become part of the Traitor player's battlegroup. If only some units in a maniple turn traitor, they no longer count as part of the maniple and cannot use any maniple abilities. Similarly, if only some units in a Squadron turn traitor, they no longer count as part of the Squadron.
 
+---
+
 **Designer's Note: Alternative Histories**
 
-*Historically, it was the scions of House Devine who were subverted by the lure of Chaos and turned against the Loyalist forces. However, to keep this mission interesting, it could be any of the Loyalist player's units that turn traitor. This changes the story slightly, but it sidesteps the issue of the player who is about to be ambushed knowing which of their own units are untrustworthy.*
+_Historically, it was the scions of House Devine who were subverted by the lure of Chaos and turned against the Loyalist forces. However, to keep this mission interesting, it could be any of the Loyalist player's units that turn traitor. This changes the story slightly, but it sidesteps the issue of the player who is about to be ambushed knowing which of their own units are untrustworthy._
+
+---
 
 ### Deployment
 
@@ -278,9 +286,13 @@ Auspex Ghost markers are moved in exactly the same way as their corresponding mo
 
 In the End phase, each unit which is not in visual range of the enemy is replaced with all three of its Auspex Ghost markers, in a stack (in any order). They can then move off in different directions in the following round.
 
+---
+
 **Designer's Note: Looking for Clues**
 
-*If you push a Titan's reactor to give it a boost in the Movement phase while it's represented by an Auspex Ghost marker, you're letting your opponent know exactly where it is. Also, as you'll likely need to advance its Plasma Reactor Status level, you're also telling them exactly which Titan they're looking at. Slow and steady may very well be the way to proceed!*
+_If you push a Titan's reactor to give it a boost in the Movement phase while it's represented by an Auspex Ghost marker, you're letting your opponent know exactly where it is. Also, as you'll likely need to advance its Plasma Reactor Status level, you're also telling them exactly which Titan they're looking at. Slow and steady may very well be the way to proceed!_
+
+---
 
 ### Visual Range
 
@@ -342,7 +354,7 @@ This mission takes place in the capital city of Brandstat, held by Legio Defenso
 
 One player controls the forces of Legio Defensor, while their opponent controls the Legio Mortis force.
 
-Each player selects a battlegroup as described on page 53. Each player's force should have a Battle Rating of 2,000-2,500 points, and must consist of at least one maniple, plus any reinforcements.
+Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup). Each player's force should have a Battle Rating of 2,000-2,500 points, and must consist of at least one maniple, plus any reinforcements.
 
 ### The Battlefield
 
@@ -406,7 +418,7 @@ This battle follows the climactic clash between a Legio Mortis battlegroup which
 
 ### Battlegroups
 
-One player controls the forces of Legio Astorum, while their opponent controls those of Legio Mortis. Each player selects a battlegroup as described on page 53. Each player's force should have a Battle Rating of 1,500-2,000 points. Each force must consist of at least one maniple, plus any reinforcements.
+One player controls the forces of Legio Astorum, while their opponent controls those of Legio Mortis. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup). Each player's force should have a Battle Rating of 1,500-2,000 points. Each force must consist of at least one maniple, plus any reinforcements.
 
 ### The Battlefield
 

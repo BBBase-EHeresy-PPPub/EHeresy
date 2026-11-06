@@ -4,7 +4,7 @@
 
 In the Advanced Rules, the Strategy phase has three steps, which must be carried out in order:
 
-1. Determine First Player (as described on page 22)
+1. Determine First Player (as described on [page 22](basic_rules.md#1-determine-the-first-player))
 2. Enact Stratagems
 3. Issue Orders
 
@@ -18,7 +18,7 @@ In the Advanced Rules, the bulk of the Strategy phase is taken up by issuing ord
 
 In this step, the players take turns activating a unit and issuing an order to it, starting with the First Player. When one player runs out of units to activate or does not wish to activate any more units, the other player activates each of their remaining units in turn.
 
-When a unit is activated in this step, the controlling player chooses an order from the [available orders](../matched_play_guide/rules_references.md#orders), then makes a Command check. If the check is successful, an Order dice is placed on the "Order" space on the Titan's Command Terminal, with the chosen order showing. If the check is failed, the order is not received; the chosen unit does not receive an order, and the controlling player cannot issue any more orders this phase.
+When a unit is activated in this step, the controlling player chooses an order from the table on [page 42](../matched_play_guide/rules_references.md#orders), then makes a Command check. If the check is successful, an Order dice is placed on the "Order" space on the Titan's Command Terminal, with the chosen order showing. If the check is failed, the order is not received; the chosen unit does not receive an order, and the controlling player cannot issue any more orders this phase.
 
 In the End phase, all orders (except [Shutdown] orders) come to an end and their dice are removed from any Command Terminals.
 
@@ -42,11 +42,11 @@ There are several types of terrain in Adeptus Titanicus - each of which has an e
 
 The Titan Legions have strode to war on every type of terrain, from frozen tundra to sweltering rainforests. No two battlefields are alike, and a canny Princeps will use the lay of the land to their advantage.
 
-**Blocking Terrain.** Blocking terrain includes intact buildings, monuments, gigantic alien trees or anything else that is solid enough to impede a Titan's progress. Units cannot voluntarily move through Blocking terrain. If a unit is forced to move through Blocking terrain, it stops in base contact with it and suffers a collision as described on page 31. A Titan can move across Blocking terrain if its height in inches is less than half its Scale, and its width (measured at the point it is moving across) is no wider than the Titan's base - however, it can never end its move standing on top of Blocking terrain.
+**Blocking Terrain.** Blocking terrain includes intact buildings, monuments, gigantic alien trees or anything else that is solid enough to impede a Titan's progress. Units cannot voluntarily move through Blocking terrain. If a unit is forced to move through Blocking terrain, it stops in base contact with it and suffers a collision as described on [page 31](basic_rules.md#collisions). A Titan can move across Blocking terrain if its height in inches is less than half its Scale, and its width (measured at the point it is moving across) is no wider than the Titan's base - however, it can never end its move standing on top of Blocking terrain.
 
 **Difficult Terrain.** This includes large areas of rubble or debris, ruined buildings, areas of forest and anything else which Titans can move through or across, but which will slow their progress. Difficult terrain should have a clear boundary - for example, for a ruined building, the walls should provide a clear indication of where the Difficult terrain starts and ends. For each 1" that a unit moves through Difficult terrain, it counts as having moved 2".
 
-**Dangerous Terrain.** This includes anything that could potentially harm a unit that attempts to cross it. Roaring rivers, pools of magma or fields of thermal mines are all examples of Dangerous terrain - in most cases, Dangerous terrain will also be considered to be Difficult terrain too. After a unit moves through Dangerous terrain, it suffers a hit to its legs at Strength 3 plus 1 for each full 1" of Dangerous terrain it moved through. These hits bypass void shields and ion shields.
+**Dangerous Terrain.**{ #dangerous-terrain } This includes anything that could potentially harm a unit that attempts to cross it. Roaring rivers, pools of magma or fields of thermal mines are all examples of Dangerous terrain - in most cases, Dangerous terrain will also be considered to be Difficult terrain too. After a unit moves through Dangerous terrain, it suffers a hit to its legs at Strength 3 plus 1 for each full 1" of Dangerous terrain it moved through. These hits bypass void shields and ion shields.
 
 **Deadly Terrain.** Deadly terrain includes ravines, sheer drops, roiling warp vortexes and anything else that would destroy anything foolish enough to wander into it. If a unit moves into Deadly terrain, it is destroyed (if it is a Titan, roll on the Catastrophic Damage table).
 
@@ -54,7 +54,7 @@ The Titan Legions have strode to war on every type of terrain, from frozen tundr
 
 **Designer's Note: Wobbly Model Syndrome**
 
-*As detailed as Adeptus Titanicus models may be, they have their limitations. If you find a situation where a model cannot be placed in the exact spot that you would like it to be, and which it would be able to reasonably stand in if it were poseable and did not have a base, place it as close as possible and agree with your opponent where it is actually standing. Move it and hold it in place as necessary to resolve lines of sight, fire arcs and so on, returning it to its temporary position whenever it is not necessary to know its actual location.*
+_As detailed as Adeptus Titanicus models may be, they have their limitations. If you find a situation where a model cannot be placed in the exact spot that you would like it to be, and which it would be able to reasonably stand in if it were poseable and did not have a base, place it as close as possible and agree with your opponent where it is actually standing. Move it and hold it in place as necessary to resolve lines of sight, fire arcs and so on, returning it to its temporary position whenever it is not necessary to know its actual location._
 
 ---
 
@@ -66,13 +66,13 @@ In the Basic Rules, when a Titan's reactor is pushed (usually to get an in-game 
 
 Three sides of the Reactor dice are marked with a single Reactor symbol. One side has two Reactor symbols, and one side is blank. The final side has a Reactor symbol surrounded by a cog - this is the Machine Spirit symbol. To push the reactor, instead of automatically advancing the Status marker, roll a Reactor dice. If a single Reactor symbol (or the Machine Spirit symbol) is rolled, advance the marker. If two Reactor symbols are rolled, advance the marker twice. If a blank is rolled, the marker is not advanced at all.
 
-Some rules (such as a Reactor Leak, listed under Critical Damage on page 35) state that a Titan's Reactor Status marker is advanced. This is not the same as pushing the reactor, so the Status marker is simply advanced.
+Some rules (such as a Reactor Leak, listed under Critical Damage on [page 35](basic_rules.md#critical-damage)) state that a Titan's Reactor Status marker is advanced. This is not the same as pushing the reactor, so the Status marker is simply advanced.
 
-Note that if the Reactor Status marker is in a hole with a red indicator when it should be advanced, the Titan still suffers a Strength 9 hit to the Body (bypassing void shields) as per the rules on page 34.
+Note that if the Reactor Status marker is in a hole with a red indicator when it should be advanced, the Titan still suffers a Strength 9 hit to the Body (bypassing void shields) as per the rules on [page 34](basic_rules.md#pushing-the-reactors).
 
 ### Reactor Overload
 
-When a Titan is activated in the Damage Control phase of each turn, and its Reactor Status marker is in a hole with an orange or red indicator, its reactor might overload. In the Basic Rules, the Titan would suffer a number of hits - in the Advanced Rules, the controlling player must instead roll on the [Reactor Overload table](../matched_play_guide/rules_references.md#reactor-overload-table). If the marker is in an orange hole, roll a D6. If it is in a red hole, roll a D10.
+When a Titan is activated in the Damage Control phase of each turn, and its Reactor Status marker is in a hole with an orange or red indicator, its reactor might overload. In the Basic Rules, the Titan would suffer a number of hits - in the Advanced Rules, the controlling player must instead roll on the [Reactor Overload table below](../matched_play_guide/rules_references.md#reactor-overload-table). If the marker is in an orange hole, roll a D6. If it is in a red hole, roll a D10.
 
 #### Reactor Overload Table
 
@@ -86,7 +86,7 @@ If a Reactor roll shows the Machine Spirit symbol, the Titan's anima is roused b
 
 If the Titan is currently performing an Action, its Action ends immediately. For example, if the Titan is currently moving and has pushed its reactor to power its locomotors or stabilisers, it cannot move or turn any more this phase. Similarly, if it is making an attack and has pushed its reactor to power one of its weapons, the attack ends immediately (it could continue attacking with any remaining weapons once the result from the table has been resolved). If the Titan is not currently performing an Action - for example, if the reactor is being pushed to power the Titan's void shields during an attack by another Titan - there is no effect and it still makes its Shield saves (with the benefit of having pushed the reactor).
 
-Then, roll a D6 and look up the result on the [Awakened Machine Spirit table](../matched_play_guide/rules_references.md#awakened-machine-spirit-table).
+Then, roll a D6 and look up the result on the [Awakened Machine Spirit table that follows](../matched_play_guide/rules_references.md#awakened-machine-spirit-table).
 
 #### Awakened Machine Spirit Table
 
@@ -124,7 +124,7 @@ When a Squadron is activated, each Titan in the Squadron is activated in turn, i
 
 **Designer's Note: Wide Ranging Squadron**
 
-*If you have used vehicle squadrons in some of our other games, it might seem at first as though we've missed something - there's nothing about Titans in a Squadron having to stay within a certain distance of each other. This is fully intentional - Titans which are within a Squadron are still fully autonomous (they are, after all, Titans!), but still work to support each other.*
+_If you have used vehicle squadrons in some of our other games, it might seem at first as though we've missed something - there's nothing about Titans in a Squadron having to stay within a certain distance of each other. This is fully intentional - Titans which are within a Squadron are still fully autonomous (they are, after all, Titans!), but still work to support each other._
 
 ---
 
@@ -158,7 +158,7 @@ When a maniple goes to war, it is often supported by Banners of Knights, compact
 
 Each Banner has a Command Terminal in the same way as a Titan. Most of the information on the Command Terminal will be familiar (Class, Scale, Order space, Characteristics and so on) but as Knights are much smaller than Titans, they do not have multiple Hit locations. Instead, they have a single Damage table and Structure Points Status track. As such, it is never necessary to roll the Location dice when attacking a Banner.
 
-Instead of void shields, Knights have ion shields, which are described on page 47 and summarised on their Command Terminal. Note that Knights do not have plasma reactors, so can never make Reactor rolls.
+Instead of void shields, Knights have ion shields, which are described on [page 47](#ion-shields) and summarised on their Command Terminal. Note that Knights do not have plasma reactors, so can never make Reactor rolls.
 
 ### Composition of a Banner
 
@@ -170,7 +170,7 @@ A Banner can be issued orders in the same way as a Titan. It cannot be issued Da
 
 ### Banners in the Movement Phase
 
-When a Banner is activated in the Movement phase, each Knight can move up to the Banner's Speed characteristic in inches. Knights are considered to have a 360° Front arc, and can make as many turns as they wish as they move. When the Banner has finished moving, each must be within 3" of another Knight in the Banner - Knight Banners operate in much closer proximity than Titan Squadrons, especially when facing larger war engines. If any of the Knights are outside of this range, the Banner is Shaken - see page 47.
+When a Banner is activated in the Movement phase, each Knight can move up to the Banner's Speed characteristic in inches. Knights are considered to have a 360° Front arc, and can make as many turns as they wish as they move. When the Banner has finished moving, each must be within 3" of another Knight in the Banner - Knight Banners operate in much closer proximity than Titan Squadrons, especially when facing larger war engines. If any of the Knights are outside of this range, the Banner is Shaken - see [page 47](#shaken-banners).
 
 ### Banners in the Damage Control Phase
 
@@ -186,14 +186,14 @@ Banners cannot make Smash Attacks.
 
 **Attacking Banners.** When attacking a Banner, pick a single Knight in the Banner to be the target of the attack. This model is used for purposes of range, line of sight and so on. However, any damage that is caused is applied to the Banner as a whole. As Banners do not have Side or Rear arcs, these do not cause modifiers to the Damage roll.
 
-**Ion Shields.** When fighting in a Banner, Knights align their ion shields, granting them greater protection as a group than individually. Ion shields are different to void shields; if a rule refers specifically to void shields, it does not affect ion shields, but if it refers to Shield saves, it will affect both. Note that, unlike void shields, ion shields can be used against attacks that originate from within 2".
+**Ion Shields.**{ #ion-shields } When fighting in a Banner, Knights align their ion shields, granting them greater protection as a group than individually. Ion shields are different to void shields; if a rule refers specifically to void shields, it does not affect ion shields, but if it refers to Shield saves, it will affect both. Note that, unlike void shields, ion shields can be used against attacks that originate from within 2".
 
 If a Banner is hit by a shooting attack, hits are resolved (at Step 5 of the Combat Sequence) as follows:
 
 - Target's controlling player makes Ion Shield saves.
 - The attacking player makes Armour rolls for any remaining hits.
 
-To make an Ion Shield save, look up the Ion Shield level on the Banner's Command Terminal, which varies depending on the number of Knights currently in the Banner and the Strength of the attack. Then roll a D6 for each hit that was scored. For each dice that equals or beats the Ion Shield level, the hit is discarded. Then for each remaining hit, the attacking player makes an Armour roll as described on page 34.
+To make an Ion Shield save, look up the Ion Shield level on the Banner's Command Terminal, which varies depending on the number of Knights currently in the Banner and the Strength of the attack. Then roll a D6 for each hit that was scored. For each dice that equals or beats the Ion Shield level, the hit is discarded. Then for each remaining hit, the attacking player makes an Armour roll as described on [page 34](basic_rules.md#armour-rolls).
 
 **Damaging Banners.** Direct Hits, Devastating Hits and Critical Hits affect Banners differently to Titans, as follows:
 

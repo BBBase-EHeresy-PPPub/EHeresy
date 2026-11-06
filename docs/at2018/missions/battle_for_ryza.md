@@ -8,7 +8,7 @@ It is for this reason that the advancing Traitors, led by Yuritus Omicron, Fabri
 
 ### Battlegroups
 
-One player controls the forces of House Morbidia while their opponent controls those of House Vornherr. Each player selects a Knight Household force as described on page 174. Both players' forces should have a Battle Rating of up to 1,250 points. Neither Household force may have supporting Titans.
+One player controls the forces of House Morbidia while their opponent controls those of House Vornherr. Each player selects a Knight Household force as described on [page 174](../matched_play_guide/organised_play.md#household-battlegroup). Both players' forces should have a Battle Rating of up to 1,250 points. Neither Household force may have supporting Titans.
 
 ### Battlefield
 
@@ -16,7 +16,7 @@ The battle is played on a 4'×4' board. In the centre of the board, mark out a 2
 
 ### Stratagems
 
-The House Morbidia player has no Stratagems for this battle. The House Vornherr player has 2 Stratagem points which can be spent on Battlefield Assets (see the *Adeptus Titanicus* rulebook).
+The House Morbidia player has no Stratagems for this battle. The House Vornherr player has 2 Stratagem points which can be spent on Battlefield Assets (see the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#battlefield-assets)).
 
 ### Mission Special Rules
 
@@ -67,7 +67,7 @@ Such an opportunity presented itself at Conveyance Terminus Nine-Omega, an expan
 
 ### Battlegroups
 
-One player controls forces of House Ioeden while their opponent controls those of Legio Honorum. The House Ioeden player selects a Knight Household force as described on page 174. The Legio Honorum player selects a battlegroup as described in the *Adeptus Titanicus* rulebook. The House Ioeden player should have a Battle Rating of up to 1,500 points, and cannot include any supporting Titans, while the Legio Honorum player should have a Battle Rating of up to 2,000 points, and cannot include any Knight Banners or Psi-Titans.
+One player controls forces of House Ioeden while their opponent controls those of Legio Honorum. The House Ioeden player selects a Knight Household force as described on [page 174](../matched_play_guide/organised_play.md#household-battlegroup). The Legio Honorum player selects a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). The House Ioeden player should have a Battle Rating of up to 1,500 points, and cannot include any supporting Titans, while the Legio Honorum player should have a Battle Rating of up to 2,000 points, and cannot include any Knight Banners or Psi-Titans.
 
 ### Battlefield
 
@@ -122,7 +122,7 @@ Tepfra was not the only one to recognise the importance of Salvation Isthmus and
 
 ### Battlegroups
 
-One player controls the forces of Legio Vulturum while their opponent controls those of Legio Crucius. Both players select a battlegroup as described in the *Adeptus Titanicus* rulebook. The Legio Vulturum player's force should have a Battle Rating of up to 3,000 points, while the Legio Crucius player's force should have a Battle Rating of up to 2,000 points. Each force must consist of at least one maniple. The Legio Vulturum player's force may not include Knight Banners.
+One player controls the forces of Legio Vulturum while their opponent controls those of Legio Crucius. Both players select a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). The Legio Vulturum player's force should have a Battle Rating of up to 3,000 points, while the Legio Crucius player's force should have a Battle Rating of up to 2,000 points. Each force must consist of at least one maniple. The Legio Vulturum player's force may not include Knight Banners.
 
 ### Battlefield
 
@@ -130,7 +130,7 @@ The battle is played on a 4'x4' board. The Legio Vulturum player chooses a board
 
 ### Stratagems
 
-The Legio Vulturum player has no Stratagems for this battle. The Legio Crucius player has 3 points which can be spent on their choice of Battlefield Assets (see the *Adeptus Titanicus* rulebook).
+The Legio Vulturum player has no Stratagems for this battle. The Legio Crucius player has 3 points which can be spent on their choice of Battlefield Assets (see the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#battlefield-assets)).
 
 ### Mission Special Rules
 
@@ -142,7 +142,7 @@ When a unit arrives in this way, it can be placed anywhere within 8" of the Legi
 
 **Repair Cradles:** After the board has been set up, but before either player deploys any units, the Legio Crucius player chooses two buildings at least 12" from their board edge and more than 15" from one another. These are Repair Cradles, vital pieces of infrastructure that enable Tech-Priests to repair the Warmonger Titans with relative ease before sending them back into battle. The destruction of these would do much to push the Loyalists back.
 
-Repair Cradles count as Battlefield Assets (see the *Adeptus Titanicus* rulebook), with the exception that Hit rolls do not suffer the penalties normally applied to Battlefield Assets, i.e., -1 for Short Range and -2 for Long Range. In addition, Repair Cradles have a number of Structure points that must be lost before rolling to see if they are removed. Each Repair Cradle has 8 Structure points. A Repair Cradle loses 1 Structure point when it suffers a Glancing Hit and 3 Structure points when it suffers a Critical Hit.
+Repair Cradles count as Battlefield Assets (see the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#battlefield-assets)), with the exception that Hit rolls do not suffer the penalties normally applied to Battlefield Assets, i.e., -1 for Short Range and -2 for Long Range. In addition, Repair Cradles have a number of Structure points that must be lost before rolling to see if they are removed. Each Repair Cradle has 8 Structure points. A Repair Cradle loses 1 Structure point when it suffers a Glancing Hit and 3 Structure points when it suffers a Critical Hit.
 
 **Fresh from Battle:** The Legio Crucius Titans are fresh from battle and awaiting repairs. At the start of the first round, before determining which player is the First Player, the Legio Crucius player rolls a D6 for each Legio Crucius Titan; the result is how many Structure points the Titan loses. The Legio Crucius player can choose which location these are lost on and can spread the Structure points across multiple locations. If a 6 is rolled, the Titan instead loses 3 Structure points and suffers 1 point of Critical Damage to its Head, Body, or Legs, determined randomly.
 
@@ -191,7 +191,7 @@ What followed was etched into the legacy of Legio Crucius for eternity. Hendril 
 
 ### Battlegroups
 
-One player controls the Traitor force while their opponent controls those of Legio Crucius. Both players select a battlegroup as described in the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 4,000 points, while the Legio Crucius player's force should have a Battle Rating of up to 3,000 points. Each force must consist of at least one maniple. The Legio Crucius player's force may not include Knight Banners.
+One player controls the Traitor force while their opponent controls those of Legio Crucius. Both players select a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). The Traitor player's force should have a Battle Rating of up to 4,000 points, while the Legio Crucius player's force should have a Battle Rating of up to 3,000 points. Each force must consist of at least one maniple. The Legio Crucius player's force may not include Knight Banners.
 
 ### Battlefield
 
@@ -255,7 +255,7 @@ As the sun rose on a new day, the Knight Houses assembled and, as one, charged a
 
 ### Battlegroups
 
-One player controls the Traitor force while their opponent controls those of the Loyalist. The Traitor player selects a battlegroup as described in the *Adeptus Titanicus* rulebook, while the Loyalist player selects two forces, one of which is a battlegroup and the other of which is a Knight Household force. The Traitor player's force should have a Battle Rating of up to 2,500 points, while the Loyalist player's forces should have a Battle Rating of up to 1,250 points and 750 points respectively. Each battlegroup must consist of at least one maniple. The Traitor player may not include more than one Knight Banner per maniple.
+One player controls the Traitor force while their opponent controls those of the Loyalist. The Traitor player selects a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup), while the Loyalist player selects two forces, one of which is a battlegroup and the other of which is a Knight Household force. The Traitor player's force should have a Battle Rating of up to 2,500 points, while the Loyalist player's forces should have a Battle Rating of up to 1,250 points and 750 points respectively. Each battlegroup must consist of at least one maniple. The Traitor player may not include more than one Knight Banner per maniple.
 
 ### Battlefield
 
@@ -263,7 +263,7 @@ The battle is played on a 4'×4' board. The Traitor player chooses a board edge 
 
 ### Stratagems
 
-The Traitor player has 2 Stratagem points to spend on Battlefield Assets (see the *Adeptus Titanicus* rulebook). The Loyalist player has 3 Stratagem points to spend on Legio Specific Stratagems and Noble Tactics (see page 179).
+The Traitor player has 2 Stratagem points to spend on Battlefield Assets (see the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#battlefield-assets)). The Loyalist player has 3 Stratagem points to spend on Legio Specific Stratagems and Noble Tactics (see [page 179](../campaign_compendium/household_marches.md#noble-tactics)).
 
 ### Mission Special Rules
 
@@ -306,7 +306,7 @@ It was at Conveyance Terminus Nine-Omega that the two forces were to meet in gre
 
 ### Battlegroups
 
-One player controls the Traitor force while their opponent controls those of the Loyalists. Both players select a battlegroup as described in the *Adeptus Titanicus* rulebook. Both players' forces should have a Battle Rating of up to 4,000 points. Each force must consist of at least one maniple.
+One player controls the Traitor force while their opponent controls those of the Loyalists. Both players select a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). Both players' forces should have a Battle Rating of up to 4,000 points. Each force must consist of at least one maniple.
 
 ### Battlefield
 
@@ -314,7 +314,7 @@ The battle is played on a 6'x4' board. A 24"x24" section of the board in the low
 
 ### Stratagems
 
-Both players have 4 points to spend on Stratagems (see the *Adeptus Titanicus* rulebook). Neither player may choose the Outflank, Orbital Lance Strike or Tertiary Objectives Stratagems.
+Both players have 4 points to spend on Stratagems (see the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#choosing-stratagems)). Neither player may choose the Outflank, Orbital Lance Strike or Tertiary Objectives Stratagems.
 
 ### Mission Special Rules
 

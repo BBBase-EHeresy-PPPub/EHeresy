@@ -253,13 +253,13 @@ Profile data: [BSData Adeptus Titanicus v9.94.1](https://github.com/BSData/adept
 
 ## Weapon Traits
 
-The majority of Weapon traits can be found in the *Adeptus Titanicus* rulebook. This section only includes Weapon traits that were published in supplements that were released after the rulebook or Traits that have since been updated in the FAQ.
+The majority of Weapon traits can be found in the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#traits). This section only includes Weapon traits that were published in supplements that were released after the rulebook or Traits that have since been updated in the FAQ.
 
 ### Beam (X)
 
 When resolving an attack from a [Beam] weapon, do not roll To Hit. Instead, pick a target and draw an imaginary straight line 1mm wide from the weapon up to its maximum range; the line must cross the base of the target at the point closest to the firing model. The closest unit to the firing unit whose base is under the line suffers a number of hits equal to the weapon's Dice value. If that unit is destroyed, the next closest unit suffers a number of hits equal to the weapon's Dice value minus the number in brackets after the Trait, to a minimum of 0. Continue these steps until a unit is not destroyed, there are no units left underneath the line, or the weapon's Dice value has been reduced to 0. [Beam] weapons can only make Targeted Attacks against the closest unit - randomly determine the location for any subsequent unit hit by a [Beam] weapon.
 
-For the purposes of determining the closest unit that is hit, any piece of terrain underneath the line counts as a unit. If a piece of terrain underneath the line is the closest 'unit', the Beam carries on as if it had destroyed an enemy unit, i.e., reduce the Dice value and resolve hits against the next unit down the line. If using the Destroying Terrain special rule (see page 52 of the *Adeptus Titanicus* rulebook), the terrain takes hits as normal however the beam carries on after resolving these even if the building is not destroyed, reducing the Dice value as if it had destroyed an enemy unit.
+For the purposes of determining the closest unit that is hit, any piece of terrain underneath the line counts as a unit. If a piece of terrain underneath the line is the closest 'unit', the Beam carries on as if it had destroyed an enemy unit, i.e., reduce the Dice value and resolve hits against the next unit down the line. If using the Destroying Terrain special rule (see [page 52](../rulebook/optional_rules.md#destroying-terrain) of the *Adeptus Titanicus* rulebook), the terrain takes hits as normal however the beam carries on after resolving these even if the building is not destroyed, reducing the Dice value as if it had destroyed an enemy unit.
 
 ### Blast (3"/5")
 
@@ -279,7 +279,7 @@ When resolving an attack caused by a [Bypass] weapon, any hits caused will compl
 
 ### Concussive
 
-Some munitions produce a concussive blast that can cause even the largest Titan to stagger. If an attack from a [Concussive] weapon scores any hits on a Titan that are not deflected by its shields, roll a D6. On a 1-2, the target pivots 45° to the left; on a 3-4, it moves D3" directly away from the attacking unit without changing its facing; on a 5-6, it pivots 45° to the right. If the Titan suffers Catastrophic Damage as a result of the hit, roll to see if the Titan is turned or moved before rolling on the Catastrophic Damage table. In the Advanced Rules, a Knight Banner that suffers any Direct, Devastating or Critical Hits from a [Concussive] weapon is automatically Shaken instead (see page 47 of the *Adeptus Titanicus* rulebook).
+Some munitions produce a concussive blast that can cause even the largest Titan to stagger. If an attack from a [Concussive] weapon scores any hits on a Titan that are not deflected by its shields, roll a D6. On a 1-2, the target pivots 45° to the left; on a 3-4, it moves D3" directly away from the attacking unit without changing its facing; on a 5-6, it pivots 45° to the right. If the Titan suffers Catastrophic Damage as a result of the hit, roll to see if the Titan is turned or moved before rolling on the Catastrophic Damage table. In the Advanced Rules, a Knight Banner that suffers any Direct, Devastating or Critical Hits from a [Concussive] weapon is automatically Shaken instead (see [page 47](../rulebook/advanced_rules.md#shaken-banners) of the *Adeptus Titanicus* rulebook).
 
 ### Mortar
 
@@ -351,7 +351,7 @@ If a Knight Banner is hit by a weapon with the [Warp] trait, a roll of a 1 cause
 | 3 | **Impetuous:** *The Princeps fights to restrain the Titan, which wishes only to advance.*<br>The Titan moves D6" straight forwards, stopping before it collides with anything. At the end of the move, it turns up to 45° towards the nearest enemy unit, stopping if the enemy is directly ahead of it. |
 | 4 | **Belligerent:** *The Titan's machine spirit wishes to taste the enemy's defeat first-hand.*<br>The Titan moves D6" towards the nearest enemy unit within its Front arc, stopping if it moves within 1" of another unit. If there are no enemy units within its Front arc, it turns 45° towards the nearest enemy unit instead of moving, stopping if the enemy enters its Front arc. Then, if there is an enemy unit within 1" and within its Front arc, it makes a Smash Attack against that unit. |
 | 5 | **Predatory:** *The Titan wishes to hunt, and it will not be denied.*<br>Choose one of the Titan's weapons at random, using the table on its Weapon Hit location. If that weapon has been disabled, or if there are no enemy units within its firing arc, treat this as a result of Belligerent instead.<br>Otherwise, the Titan attacks with the chosen weapon, targeting the nearest enemy unit within its arc, and using a Ballistic Skill of 4+. |
-| 6 | **Wrathful:** *The machine spirit powers its weapons, ready to inflict devastation upon the enemy.*<br>The controlling player chooses one of the Titan's weapons that has not been disabled and attacks with it, using a Ballistic Skill and Weapon Skill of 4+, following the standard Combat Sequence (see page 33 of the Adeptus Titanicus rulebook). |
+| 6 | **Wrathful:** *The machine spirit powers its weapons, ready to inflict devastation upon the enemy.*<br>The controlling player chooses one of the Titan's weapons that has not been disabled and attacks with it, using a Ballistic Skill and Weapon Skill of 4+, following the standard Combat Sequence (see [page 33](../rulebook/basic_rules.md#the-combat-sequence) of the Adeptus Titanicus rulebook). |
 
 </div>
 
@@ -363,9 +363,9 @@ If a Knight Banner is hit by a weapon with the [Warp] trait, a roll of a 1 cause
 
 | D10 | Result |
 | :---: | :--- |
-| 1 | **Silenced:** *The Titan grinds to a halt, its weapons hanging slack and the great thrum of its plasma reactor silenced.*<br>The Titan counts as having been destroyed and will play no further part in the battle, but is left in place. It can still be targeted and collided with by other units; if it suffers any damage, it falls, as described on page 36 of the Adeptus Titanicus rulebook. |
-| 2‑4 | **Laid Low:** *The Titan stumbles like a drunkard before its stabilisers give out and it topples to the ground, crushing anything beneath it.*<br>The Titan moves D6" in a random direction (determined by a Scatter dice) then falls as described on page 36 of the Adeptus Titanicus rulebook. This may cause it to collide with other units, as described on page 31 of the Adeptus Titanicus rulebook. |
-| 5‑7 | **Wild Fire:** *The Titan crashes to the ground, its weapons firing indiscriminately as it does so.*<br>The Titan turns to face a random direction (determined by a Scatter dice), then shoots with each of its weapons that are not disabled, one after the other. Each one must target the nearest unit, friend or foe, that is within arc, range and line of sight. Count the Titan's Ballistic Skill as 5+ while resolving these shots. Then the Titan falls, as described on page 36 of the Adeptus Titanicus rulebook. |
+| 1 | **Silenced:** *The Titan grinds to a halt, its weapons hanging slack and the great thrum of its plasma reactor silenced.*<br>The Titan counts as having been destroyed and will play no further part in the battle, but is left in place. It can still be targeted and collided with by other units; if it suffers any damage, it falls, as described on [page 36](../rulebook/basic_rules.md#falling-titans) of the Adeptus Titanicus rulebook. |
+| 2‑4 | **Laid Low:** *The Titan stumbles like a drunkard before its stabilisers give out and it topples to the ground, crushing anything beneath it.*<br>The Titan moves D6" in a random direction (determined by a Scatter dice) then falls as described on [page 36](../rulebook/basic_rules.md#falling-titans) of the Adeptus Titanicus rulebook. This may cause it to collide with other units, as described on [page 31](../rulebook/basic_rules.md#collisions) of the Adeptus Titanicus rulebook. |
+| 5‑7 | **Wild Fire:** *The Titan crashes to the ground, its weapons firing indiscriminately as it does so.*<br>The Titan turns to face a random direction (determined by a Scatter dice), then shoots with each of its weapons that are not disabled, one after the other. Each one must target the nearest unit, friend or foe, that is within arc, range and line of sight. Count the Titan's Ballistic Skill as 5+ while resolving these shots. Then the Titan falls, as described on [page 36](../rulebook/basic_rules.md#falling-titans) of the Adeptus Titanicus rulebook. |
 | 8‑9 | **Magazine Detonation:** *The Titan is torn apart as its munitions detonate in a roiling cascade.*<br>The Titan is destroyed. Roll a D3 and add the Titan's Scale. Each model within that many inches of the Titan before it is removed suffers D3 hits using the highest Strength from among the Titan's weapons, regardless of whether they have been disabled - weapons with the Melee trait are ignored. |
 | 10 | **Catastrophic Meltdown:** *The Titan's reactor is breached. The crew have mere moments to realise their fate before the containment fields collapse and a miniature supernova bursts into existence, slaying them instantly.*<br>The Titan is destroyed. Roll a D3 and add the number of holes on the Titan's Plasma Reactor Status track - each model within that many inches of the Titan before it is removed is hit by the blast. Each unit that is hit suffers D6 hits, bypassing void shields, with a Strength equal to the Titan's Scale +1. |
 
@@ -383,7 +383,7 @@ If a Knight Banner is hit by a weapon with the [Warp] trait, a roll of a 1 cause
 
 *The Princeps grants the Titan's servitor clades priority access to weapons and motive systems, allowing them to redouble their efforts.*
 
-As soon as an [Emergency Repairs] order is issued, make a Repair roll for the unit (see page 32 of the Adeptus Titanicus rulebook), adding 1 to the result of each dice. If a unit with [Emergency Repairs] orders is activated in the Movement phase, it cannot be activated in the subsequent Combat phase.
+As soon as an [Emergency Repairs] order is issued, make a Repair roll for the unit (see [page 32](../rulebook/basic_rules.md#make-repair-rolls) of the Adeptus Titanicus rulebook), adding 1 to the result of each dice. If a unit with [Emergency Repairs] orders is activated in the Movement phase, it cannot be activated in the subsequent Combat phase.
 
 #### First Fire
 
@@ -391,7 +391,7 @@ As soon as an [Emergency Repairs] order is issued, make a Repair roll for the un
 
 *Locking its stabilisers and disengaging motive power, the Titan brings one of its mighty weapons to bear.*
 
-When a unit acting under [First Fire] orders is activated in the Movement phase, it cannot move or make turns. Instead, pick one of its weapons to attack with, following the full Combat Sequence on page 33 of the Adeptus Titanicus rulebook. Note that the attacking weapon must be declared before selecting a target. This does not prevent the unit from using that weapon again in the Combat phase.
+When a unit acting under [First Fire] orders is activated in the Movement phase, it cannot move or make turns. Instead, pick one of its weapons to attack with, following the full Combat Sequence on [page 33](../rulebook/basic_rules.md#the-combat-sequence) of the Adeptus Titanicus rulebook. Note that the attacking weapon must be declared before selecting a target. This does not prevent the unit from using that weapon again in the Combat phase.
 
 #### Charge
 
@@ -399,7 +399,7 @@ When a unit acting under [First Fire] orders is activated in the Movement phase,
 
 *The crew brace themselves for impact as the Titan lunges forward, seeking to engage the foe at close quarters.*
 
-In the Movement phase, a unit acting under [Charge] orders can only move within its Front arc, and once it starts moving, it cannot make any turns. However, once it has finished moving, it can immediately make either a Smash Attack (see page 36 of the Adeptus Titanicus rulebook) or an attack with a weapon that has the [Melee] trait. Add 1 to the attack's Dice value for each full 3" that the model moved before attacking. Note that this does not stop the unit making a Smash Attack in the Combat phase.
+In the Movement phase, a unit acting under [Charge] orders can only move within its Front arc, and once it starts moving, it cannot make any turns. However, once it has finished moving, it can immediately make either a Smash Attack (see [page 36](../rulebook/basic_rules.md#smash-attacks) of the Adeptus Titanicus rulebook) or an attack with a weapon that has the [Melee] trait. Add 1 to the attack's Dice value for each full 3" that the model moved before attacking. Note that this does not stop the unit making a Smash Attack in the Combat phase.
 
 #### Split Fire
 
@@ -407,7 +407,7 @@ In the Movement phase, a unit acting under [Charge] orders can only move within 
 
 *Sighting multiple threats within range, the Princeps takes direct command of the weapon systems and designates separate targets for each.*
 
-A unit acting under [Split Fire] orders cannot make any turns in the Movement phase. However, in the Select Target step of the Combat phase (see page 33 of the Adeptus Titanicus rulebook), a different target can be declared for each of the unit's weapons.
+A unit acting under [Split Fire] orders cannot make any turns in the Movement phase. However, in the Select Target step of the Combat phase (see [page 33](../rulebook/basic_rules.md#the-combat-sequence) of the Adeptus Titanicus rulebook), a different target can be declared for each of the unit's weapons.
 
 #### Full Stride
 
@@ -423,7 +423,7 @@ A unit acting under [Full Stride] orders cannot attack in the Combat phase. Inst
 
 *Knowing full well that it will leave them open to attack, the Princeps gives the order to shut down the plasma reactor in a last ditch attempt to prevent a critical overheat.*
 
-If a unit with void shields is issued [Shutdown] orders, its void shields collapse immediately. A unit with [Shutdown] orders cannot be activated in the Movement phase or Combat phase. Reactor rolls cannot be made for a unit with [Shutdown] orders (even if instructed to do so). [Shutdown] orders are not automatically removed in the End phase (see page 41 of the Adeptus Titanicus rulebook). A unit that has [Shutdown] orders at the end of the battle counts as destroyed.
+If a unit with void shields is issued [Shutdown] orders, its void shields collapse immediately. A unit with [Shutdown] orders cannot be activated in the Movement phase or Combat phase. Reactor rolls cannot be made for a unit with [Shutdown] orders (even if instructed to do so). [Shutdown] orders are not automatically removed in the End phase (see [page 41](../rulebook/basic_rules.md#the-end-phase) of the Adeptus Titanicus rulebook). A unit that has [Shutdown] orders at the end of the battle counts as destroyed.
 
 When activating a Titan acting under [Shutdown] orders in the Damage Control phase, reduce its Reactor level by 2 before making its Repair roll.
 

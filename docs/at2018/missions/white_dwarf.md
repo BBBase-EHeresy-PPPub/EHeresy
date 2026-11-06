@@ -10,7 +10,7 @@ It was the guns of the Legio Fureans that spoke first, the Tiger Eyes engaging t
 
 ### Battlegroups
 
-One player controls the Legio Fureans forces, while their opponent controls those of Legio Gryphonicus. Both players select a battlegroup as described in the *Adeptus Titanicus* rulebook. Both players' forces should have a Battle Rating of up to 2,500 points. Each force must consist of at least one maniple, plus any reinforcements. Neither side may include Knight Banners.
+One player controls the Legio Fureans forces, while their opponent controls those of Legio Gryphonicus. Both players select a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). Both players' forces should have a Battle Rating of up to 2,500 points. Each force must consist of at least one maniple, plus any reinforcements. Neither side may include Knight Banners.
 
 ### Battlefield
 
@@ -54,7 +54,7 @@ With a Loyalist vanguard luring the Traitors into the Yrevendi Desert thanks to 
 
 ### Battlegroups
 
-One player controls the forces of Legio Fureans while their opponent controls the forces of Legio Astorum. Each player selects a battlegroup, as described in the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 2,000 points, while the Loyalist player's Battle Rating should be up to 2,500 points. Each force must consist of at least one maniple, plus any reinforcements. Neither side may include Knight Banners.
+One player controls the forces of Legio Fureans while their opponent controls the forces of Legio Astorum. Each player selects a battlegroup, as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). The Traitor player's force should have a Battle Rating of up to 2,000 points, while the Loyalist player's Battle Rating should be up to 2,500 points. Each force must consist of at least one maniple, plus any reinforcements. Neither side may include Knight Banners.
 
 ### The Battlefield
 
@@ -94,7 +94,7 @@ Of those Titan Legions stationed on the Red Planet, of which nearly two dozen we
 
 ### Battlegroups
 
-One player controls the forces of Legio Ignatum while the other controls those of Legio Mortis. Both players select a battlegroup as described in the *Adeptus Titanicus* rulebook. Both players' forces should have a Battle Rating of up to 3,000 points. Each battlegroup must include one (and only one) Warmaster Heavy Battle Titan.
+One player controls the forces of Legio Ignatum while the other controls those of Legio Mortis. Both players select a battlegroup as described in the [Adeptus Titanicus rulebook](../matched_play_guide/organised_play.md#building-a-battlegroup). Both players' forces should have a Battle Rating of up to 3,000 points. Each battlegroup must include one (and only one) Warmaster Heavy Battle Titan.
 
 ### Battlefield
 

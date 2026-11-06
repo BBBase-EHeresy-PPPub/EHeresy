@@ -58,7 +58,7 @@ Any Legio Ignatum Titan may take a Gravitonic Sensor Array for +15 points. Apply
 
 ### Legio Specific Personal Traits
 
-A Legio Ignatum Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Ignatum Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -140,13 +140,13 @@ Any Legio Gryphonicus Reaver can be upgraded to have Motive Sub-reactors for +25
 
 ### Legio Specific Personal Traits
 
-A Legio Gryphonicus Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Gryphonicus Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
 | 1 | **Reckless Maverick:** You could always tell when Uranna was going to do something foolish, because she sat up straight and spoke with clipped precision, as though she thought it improper to slouch when giving an order that would likely doom us all. Once per battle, the Princeps Seniores' Titan can be activated a second time in the Movement phase or Combat phase. After doing so, advance the Titan's Reactor level three times. |
 | 2 | **Master Duellist:** As far as I saw, Raal only ever did four things: eat, sleep, command Invictus Nova and fight in the duelling halls. His instincts were honed towards close-ranged fighting, whether he was using a chainsword or a laser destructor. Failed Hit rolls for the Princeps Seniores' Titan can be re-rolled when it is making attacks against a target which is within 8". |
-| 3 | **Hunter without Equal:** Elion was a slight man, with an unusually reserved demeanour for a Princeps. But when he sighted his prey, it was as though he became a beast uncaged. Roaring orders, screaming for blood - his rages were as terrifying as anything I've ever seen. The Princeps Seniores' Titan may re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the Lust for Glory Legio trait). |
+| 3 | **Hunter without Equal:** Elion was a slight man, with an unusually reserved demeanour for a Princeps. But when he sighted his prey, it was as though he became a beast uncaged. Roaring orders, screaming for blood - his rages were as terrifying as anything I've ever seen. The Princeps Seniores' Titan may re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the [Lust for Glory Legio trait](#legion-trait-lust-for-glory)). |
 
 ### Legio Gryphonicus Warlord Battle Titan
 
@@ -212,7 +212,7 @@ This Stratagem can be purchased by any Legio Astorum player. Play this Stratagem
 
 ### Legio Specific Personal Traits
 
-A Legio Astorum Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Astorum Princeps Seniores' Personal trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -296,7 +296,7 @@ Any Legio Defensor Warlord Titan can be upgraded with a Devotional War Sirens fo
 
 ### Legio Specific Personal Traits
 
-A Legio Defensor Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Defensor Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -370,7 +370,7 @@ Any Legio Solaria Titan with a Scale of 6 or less can take Cameleoline Shrouding
 
 ### Legio Specific Personal Traits
 
-A Legio Solaria Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Solaria Princeps Seniores' Personal trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -440,7 +440,7 @@ Once per battle, a force that contains at least one Legio Atarus maniple may re-
 
 Years of war and headstrong commanders have given the machine spirits of Firebrands Titans their own impetuous personalities. When the machine spirit takes control of the Titan, it is even more determined than ever to close the distance with its foes.
 
-This Stratagem can be purchased by any Legio Atarus player. Reveal this Stratagem when a Legio Atarus Titan would be required to make a roll on the Awakened Machine Spirit table (see the Adeptus Titanicus rulebook). Rather than rolling, the Legio Atarus player may instead choose to automatically apply the Impetuous result, rolling D6+2" rather than D6" to determine the distance moved.
+This Stratagem can be purchased by any Legio Atarus player. Reveal this Stratagem when a Legio Atarus Titan would be required to make a roll on the Awakened Machine Spirit table (see the [Adeptus Titanicus rulebook](../matched_play_guide/rules_references.md#awakened-machine-spirit-table)). Rather than rolling, the Legio Atarus player may instead choose to automatically apply the Impetuous result, rolling D6+2" rather than D6" to determine the distance moved.
 
 ### Legio Specific Stratagem: Maniple of One (2)
 
@@ -452,11 +452,11 @@ This Stratagem can be purchased by any Legio Atarus player. The Legio Atarus pla
 
 Legio Atarus Titans make extensive use of incendiary missiles, weapons that are produced in vast numbers on Atar-Median and supplied almost exclusively to the Firebrands, and that are highly effective against supporting units and terrain.
 
-Any Legio Atarus Titan armed with Apocalypse missile launchers, Apocalypse missile arrays or an Apocalypse missile launcher can be upgraded to have Infernus missiles for +25 points, so long as that Titan does not already have an upgrade affecting that weapon. Each of the Titan's weapons must be upgraded separately. A weapon with this upgrade gains the [Voidbreaker] (2) trait. In addition, if a unit suffers at least one hit from a weapon with this upgrade, place a 5" Blast marker under the unit. In the End phase, any model with at least part of its base on the marker takes a Strength 4 hit, ignoring void shields and ion shields. After resolving any hits, the fire goes out and the marker is removed. Titans suffer this hit to their Legs. In addition, Blocking terrain touched by the marker takes a Strength 4 hit (see the Adeptus Titanicus rulebook for details on damaging and destroying terrain) and, if not destroyed, is set alight. In the End phase, burning terrain suffers a Strength 4 hit, and deals a Strength 4 hit to any models in it, as detailed above. The fire then goes out.
+Any Legio Atarus Titan armed with Apocalypse missile launchers, Apocalypse missile arrays or an Apocalypse missile launcher can be upgraded to have Infernus missiles for +25 points, so long as that Titan does not already have an upgrade affecting that weapon. Each of the Titan's weapons must be upgraded separately. A weapon with this upgrade gains the [Voidbreaker] (2) trait. In addition, if a unit suffers at least one hit from a weapon with this upgrade, place a 5" Blast marker under the unit. In the End phase, any model with at least part of its base on the marker takes a Strength 4 hit, ignoring void shields and ion shields. After resolving any hits, the fire goes out and the marker is removed. Titans suffer this hit to their Legs. In addition, Blocking terrain touched by the marker takes a Strength 4 hit (see the [Adeptus Titanicus rulebook](../rulebook/optional_rules.md#destroying-terrain) for details on damaging and destroying terrain) and, if not destroyed, is set alight. In the End phase, burning terrain suffers a Strength 4 hit, and deals a Strength 4 hit to any models in it, as detailed above. The fire then goes out.
 
 ### Legio Specific Personal Traits
 
-A Legio Atarus Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Atarus Princeps Seniores' Personal trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -524,7 +524,7 @@ Any Legio Metalica Titan can be upgraded with an Auditory Barrage for +10 points
 
 ### Legio Specific Personal Traits
 
-A Legio Metalica Princeps Seniores' Personal trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Metalica Princeps Seniores' Personal trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :---: | :--- |
@@ -580,7 +580,7 @@ When activated during the Movement phase, a Legio Astraman Titan can choose to v
 
 The Princeps of Legio Astraman were trained to operate with reduced systems, pushing them to better understand the limitations of their engines.
 
-This Stratagem can be purchased by any Legio Astraman player. The Legio Astraman player may reveal this Stratagem when activating a Titan during the Strategy phase. Until the beginning of the following round, attacks made against that Titan gain no bonus to Armour rolls as a result of damage already inflicted as indicated by the Command Terminal (see the Adeptus Titanicus rulebook). This counts as the Titan's activation for that phase.
+This Stratagem can be purchased by any Legio Astraman player. The Legio Astraman player may reveal this Stratagem when activating a Titan during the Strategy phase. Until the beginning of the following round, attacks made against that Titan gain no bonus to Armour rolls as a result of damage already inflicted as indicated by the Command Terminal (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#armour-rolls)). This counts as the Titan's activation for that phase.
 
 ### Legio Specific Stratagem: Stand Firm (3)
 
@@ -596,7 +596,7 @@ Any Legio Astraman Titan armed with a weapon with the [Ordnance] trait may take 
 
 ### Legio Specific Personal Traits
 
-A Legio Astraman Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Astraman Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :---: | :--- |
@@ -680,7 +680,7 @@ This Stratagem can be purchased by any Legio Praesagius player. Play this Strata
 
 ### Legio Specific Personal Traits
 
-A Legio Praesagius Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Praesagius Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -748,11 +748,11 @@ This Stratagem can be purchased by any Legio Fortidus player. The Legio Fortidus
 
 Such was the wound inflicted on the Dauntless by the Traitors that its Princeps were often more than willing to sacrifice themselves if it meant grievous injury could be dealt to the followers of the Warmaster.
 
-This Stratagem can be purchased by any Legio Fortidus player. The Legio Fortidus player may reveal this Stratagem when one of their Titans suffers a Magazine Detonation or Catastrophic Meltdown result on the Catastrophic Damage table (see the Adeptus Titanicus rulebook). When resolving the Catastrophic Damage effects, add 5 to the Titan's Scale.
+This Stratagem can be purchased by any Legio Fortidus player. The Legio Fortidus player may reveal this Stratagem when one of their Titans suffers a Magazine Detonation or Catastrophic Meltdown result on the Catastrophic Damage table (see the [Adeptus Titanicus rulebook](../matched_play_guide/rules_references.md#catastrophic-damage-table)). When resolving the Catastrophic Damage effects, add 5 to the Titan's Scale.
 
 ### Legio Specific Personal Traits
 
-A Legio Fortidus Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Fortidus Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -814,17 +814,17 @@ During the Damage Control phase, or when making Repair rolls as part of an [Emer
 
 Some Legio Crucius Titans employed ancient terminus override systems for their Titans. These complex devices could read the mood of an unruly plasma reactor, detecting changes invisible even to the Princeps and protecting the Titan against sudden overloads or devastating power spikes.
 
-Any Legio Crucius Titan may be equipped with a Terminus Override Mechanism for +30 points. The first time a Legio Crucius Titan with a Terminus Override Mechanism would be required to roll on the Reactor Overload table (see the Adeptus Titanicus rulebook), instead of rolling, nothing happens - no roll is needed. Once triggered in this manner, a Terminus Override Mechanism has no further effect on the game.
+Any Legio Crucius Titan may be equipped with a Terminus Override Mechanism for +30 points. The first time a Legio Crucius Titan with a Terminus Override Mechanism would be required to roll on the Reactor Overload table (see the [Adeptus Titanicus rulebook](../matched_play_guide/rules_references.md#reactor-overload-table)), instead of rolling, nothing happens - no roll is needed. Once triggered in this manner, a Terminus Override Mechanism has no further effect on the game.
 
 ### Legio Specific Wargear: Bi-folded Power Containment
 
 Ryzan Titan weapons often employed cunning bi-folded power containment chambers to mitigate the effects on the reactor of particularly energy-hungry weapons such as Sunfury plasma annihilators and volcano cannon, though, as with all such plasma mechanisms, they were never completely reliable.
 
-Any Legio Crucius Titan may be equipped with a Bi- folded Power Containment System for +20 points. When firing a weapon with the [Draining] trait (see the Adeptus Titanicus rulebook), a Titan equipped with a Bi-folded Power Containment System can roll a D6 to mitigate its effect. On a 4+, the Titan can roll the Reactor dice twice and choose the result they want. On a 1, however, they must roll the Reactor dice twice and choose the result that would advance their Reactor marker by the most or, if both results would advance it by the same amount, the result that would Awaken the Machine Spirit.
+Any Legio Crucius Titan may be equipped with a Bi- folded Power Containment System for +20 points. When firing a weapon with the [Draining] trait (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#draining)), a Titan equipped with a Bi-folded Power Containment System can roll a D6 to mitigate its effect. On a 4+, the Titan can roll the Reactor dice twice and choose the result they want. On a 1, however, they must roll the Reactor dice twice and choose the result that would advance their Reactor marker by the most or, if both results would advance it by the same amount, the result that would Awaken the Machine Spirit.
 
 ### Legio Specific Personal Traits
 
-A Legio Crucius Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Crucius Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -876,7 +876,7 @@ Definitive numbers as to the total strength of Legio Honorum are difficult to as
 
 The Death Bolts stood by the core tenets of the Collegia Titanica and the Great Crusade, believing it was forever their duty to march forth and bring death to the enemies of the Imperium and the Omnissiah.
 
-Any Legio Honorum Titan that has voluntarily moved more than 4" in the Movement phase of any round decreases the bonus to an attacker's Armour roll as the result of damage already inflicted on a location by 1, as indicated by the Titan's Command Terminal (see the Adeptus Titanicus rulebook), so long as the attack originates from within the Titan's Front arc.
+Any Legio Honorum Titan that has voluntarily moved more than 4" in the Movement phase of any round decreases the bonus to an attacker's Armour roll as the result of damage already inflicted on a location by 1, as indicated by the Titan's Command Terminal (see the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#armour-rolls)), so long as the attack originates from within the Titan's Front arc.
 
 ### Legio Trait: Founding Tenets
 
@@ -898,7 +898,7 @@ A Legio Honorum Princeps Seniores' Titan may take a Basilius Throne for +25 poin
 
 ### Legio Specific Personal Traits
 
-A Legio Honorum Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Honorum Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -976,7 +976,7 @@ Any Legio Osedax Titan may be equipped with Plasma Channels for +20 points. Once
 
 ### Legio Specific Personal Traits
 
-A Legio Osedax Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Osedax Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -1046,7 +1046,7 @@ This Stratagem can be purchased by any Legio Oberon player. Play this Stratagem 
 
 ### Legio Specific Personal Traits
 
-A Legio Oberon Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Oberon Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -1122,7 +1122,7 @@ Any Legio Venator Titan may be equipped with Blind Launchers for +20 points. Onc
 
 ### Legio Specific Personal Traits
 
-A Legio Venator Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Venator Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |
@@ -1196,7 +1196,7 @@ Any Legio Lysanda Titan can be upgraded to have a Mantle of Responsibility for +
 
 ### Legio Specific Personal Traits
 
-A Legio Lysanda Princeps Seniores' Personal Trait can either be generated from the table in the Adeptus Titanicus rulebook, or by rolling a D3 on the table that follows:
+A Legio Lysanda Princeps Seniores' Personal Trait can either be generated from the table in the [Adeptus Titanicus rulebook](../rulebook/assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Traits |
 | :-: | --- |

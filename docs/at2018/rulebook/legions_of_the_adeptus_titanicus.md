@@ -38,17 +38,17 @@ A Legio Gryphonicus Reaver that is chosen as part of a maniple in place of a War
 
 Although Reaver Titans are not designed to act as scouts, Legio Gryphonicus has them in such great numbers that it is sometimes necessary for them to be adapted to the role. The most effective method involves the installation of a secondary plasma reactor at the top of each leg, allowing the Titan to operate at full locomotive capacity without drawing on the main reactor.
 
-A Legio Gryphonicus Reaver which is chosen as part of a maniple in place of a Warhound Titan (as per the Mainstay of the Titan Legion found on page 89) can be fitted with motive sub-reactors at a cost of +25 points. This allows the Reaver to use its boosted Speed and Manoeuvre characteristics without pushing its reactor. However, each time the Titan suffers a Critical Hit to its Legs, roll a D6. On a result of 3 or less, its Reactor level is increased by 1.
+A Legio Gryphonicus Reaver which is chosen as part of a maniple in place of a Warhound Titan (as per the Mainstay of the Titan Legion found on [page 89](../loyalist_legios/loyalist_titan_legions.md#legion-trait-mainstay-of-the-titan-legion)) can be fitted with motive sub-reactors at a cost of +25 points. This allows the Reaver to use its boosted Speed and Manoeuvre characteristics without pushing its reactor. However, each time the Titan suffers a Critical Hit to its Legs, roll a D6. On a result of 3 or less, its Reactor level is increased by 1.
 
 ### Legion Specific Personal Traits
 
-A Legio Gryphonicus Princeps Seniores' Personal Trait can either be generated from the table on page 55, or by rolling a D3 on the table that follows:
+A Legio Gryphonicus Princeps Seniores' Personal Trait can either be generated from the table on [page 55](assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Trait |
 |---|---|
 | 1 | **Reckless Maverick:** Once per battle, the Princeps Seniores' Titan can be activated a second time in the Movement phase or Combat phase. After doing so, advance the Titan's Reactor level three times. |
 | 2 | **Master Duellist:** Failed Hit rolls for the Princeps Seniores' Titan can be re-rolled when it is making attacks against a target which is within 8". |
-| 3 | **Hunter without Equal:** Re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the Lust for Glory rule on page 89). |
+| 3 | **Hunter without Equal:** Re-roll any failed Hit rolls, not just Hit rolls of 1, when the Princeps Seniores' Titan attacks a target it has claimed (see the Lust for Glory rule on [page 89](../loyalist_legios/loyalist_titan_legions.md#legion-trait-lust-for-glory)). |
 
 ## Legio Tempestus
 
@@ -86,7 +86,7 @@ This enhanced technology, based on archaeotech found near the Titan Legion's for
 
 ### Legion Specific Personal Traits
 
-A Legio Tempestus Princeps Seniores' Personal Trait can either be generated from the table on page 55, or by rolling a D3 on the table that follows:
+A Legio Tempestus Princeps Seniores' Personal Trait can either be generated from the table on [page 55](assembling_a_battlegroup.md#personal-traits), or by rolling a D3 on the table that follows:
 
 | D3 | Personal Trait |
 |---|---|

@@ -14,31 +14,31 @@ Adeptus Titanicus can be played without any terrain, but battles are much more i
 
 **3. Models**
 
-Each player will need a set of models to represent their Titans. Here, two average-sized forces are engaged in battle, but the Titanic Clash scenario on page 40 (which has been designed for new players) can be played with as little as one Titan per player.
+Each player will need a set of models to represent their Titans. Here, two average-sized forces are engaged in battle, but the Titanic Clash scenario on [page 40](rulebook/basic_rules.md#titanic-clash) (which has been designed for new players) can be played with as little as one Titan per player.
 
 **4. Dice**
 
-Adeptus Titanicus uses a range of different dice, as detailed on page 24.
+Adeptus Titanicus uses a range of different dice, as detailed on [page 24](rulebook/the_rules.md#dice).
 
 **5. Command Terminals and Status Markers**
 
-Each Titan requires its own Command Terminal, which is used to track its status during the game. These should be kept to one side, near the battlefield, and should be laid out so that they do not overlap and can be seen at all times. See page 27 for more information about Command Terminals.
+Each Titan requires its own Command Terminal, which is used to track its status during the game. These should be kept to one side, near the battlefield, and should be laid out so that they do not overlap and can be seen at all times. See [page 27](rulebook/the_rules.md#command-terminals) for more information about Command Terminals.
 
 **6. The Opus Titanica**
 
-The Opus Titanica emblem is used to show who is the First Player in each round, as described on page 22.
+The Opus Titanica emblem is used to show who is the First Player in each round, as described on [page 22](rulebook/basic_rules.md#1-determine-the-first-player).
 
 **7. Blast Markers and Flame Template**
 
-These markers represent massive explosions, energy blasts or gouts of flame, and are used with weapons that have the Blast or Firestorm traits, as seen on pages 38 and 39.
+These markers represent massive explosions, energy blasts or gouts of flame, and are used with weapons that have the [Blast] or [Firestorm] traits, as seen on pages [38](matched_play_guide/rules_references.md#blast-35) and [39](rulebook/basic_rules.md#firestorm).
 
 **8. Status Markers**
 
-Status markers are used on Command Terminals to track a number of different things (see page 27). There are two designs of Status marker; for now they can be used interchangeably, but future supplements may add rules that differentiate between them.
+Status markers are used on Command Terminals to track a number of different things (see [page 27](rulebook/the_rules.md#command-terminals)). There are two designs of Status marker; for now they can be used interchangeably, but future supplements may add rules that differentiate between them.
 
 **9. Arc Templates**
 
-Arc templates are used to determine a Titan's firing arcs, as detailed on page 26.
+Arc templates are used to determine a Titan's firing arcs, as detailed on [page 26](rulebook/the_rules.md#arcs).
 
 **10. Range Ruler**
 
@@ -46,7 +46,7 @@ A 12" range ruler is included with the game, but for measuring longer distances 
 
 **11. Battlefield Assets**
 
-The box contains six Battlefield Assets - these are part of the rules for Stratagems, and are explained on page 65.
+The box contains six Battlefield Assets - these are part of the rules for Stratagems, and are explained on [page 65](rulebook/stratagems.md#battlefield-assets).
 
 **12. Designation Markers**
 
@@ -54,7 +54,7 @@ These double-sided markers sit on a player's Command Terminals, giving each term
 
 **13. Weapon Cards**
 
-Each Command Terminal is overlaid with cards representing the Titan's weapons. These cards are double-sided - when the weapon is disabled, the card is flipped. See page 38 for more information about weapons.
+Each Command Terminal is overlaid with cards representing the Titan's weapons. These cards are double-sided - when the weapon is disabled, the card is flipped. See [page 38](rulebook/basic_rules.md#weapon-characteristics) for more information about weapons.
 
 **14. Reference Sheets**
 
@@ -62,7 +62,7 @@ Each player has a reference sheet featuring the most commonly used rules and tab
 
 **15. Mission and Stratagem Cards**
 
-Mission cards are used with the Matched Play rules (see page 84), and Stratagems (see page 64) give players access to battlefield support, devious tricks and certain other methods of evening out the odds. As both of these are part of the Advanced Rules, new players should set these cards aside until they have played some basic games.
+Mission cards are used with the Matched Play rules (see [page 84](matched_play_guide/organised_play.md#matched-play-objectives-and-deployment-maps)), and Stratagems (see [page 64](rulebook/stratagems.md#choosing-stratagems)) give players access to battlefield support, devious tricks and certain other methods of evening out the odds. As both of these are part of the Advanced Rules, new players should set these cards aside until they have played some basic games.
 
 **(Optional) Pen and Paper**
 

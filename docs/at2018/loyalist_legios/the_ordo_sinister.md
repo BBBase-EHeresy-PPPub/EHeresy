@@ -26,7 +26,7 @@ Occedentalis-Chirion [STATUS: ORION]
 
 A Psi-Titan is a rare creation; few have seen one and even fewer understand their workings or know their provenance. The presence of a Psi-Titan is an ill-omen for the battle to come for it speaks of threats that even god-engines are endangered by.
 
-Players can include one or more Psi-Titans in their battlegroup. In Open Play (see the Adeptus Titanicus rulebook) using Psi-Titans is as simple as deciding which models from your collection you wish to include, taking a Command Terminal for each one and getting the battle started. In Matched Play and Narrative Play, the rules for using Psi-Titans in a battlegroup are a little more structured. A player can include one or more Psi-Titans with the following restrictions:
+Players can include one or more Psi-Titans in their battlegroup. In Open Play (see the [Adeptus Titanicus rulebook](../rulebook/open_play.md)) using Psi-Titans is as simple as deciding which models from your collection you wish to include, taking a Command Terminal for each one and getting the battle started. In Matched Play and Narrative Play, the rules for using Psi-Titans in a battlegroup are a little more structured. A player can include one or more Psi-Titans with the following restrictions:
 
 - A Psi-Titan is an Auxiliary Titan, meaning a maximum of one Psi-Titan (or other Auxiliary Titan) can be included for every maniple in a player's battlegroup.
 - Psi-Titans cannot be included as part of a maniple or form squadrons with any other Titan unless otherwise stated.
@@ -39,7 +39,7 @@ Players can include one or more Psi-Titans in their battlegroup. In Open Play (s
 
 As befitting the esoteric powers a Psi-Titan possesses, they are subject to a number of additional special rules. All Psi-Titans have the following special rules:
 
-- A Psi-Titan does not follow the Issue Orders step as described in the Adeptus Titanicus rulebook, and cannot be given Orders by any means unless stated otherwise.
+- A Psi-Titan does not follow the Issue Orders step as described in the [Adeptus Titanicus rulebook](../rulebook/advanced_rules.md#3-issue-orders), and cannot be given Orders by any means unless stated otherwise.
 - Psi-Titans have access to a number of Psychic Powers which are determined by the Psi-Titan's class. Psychic Powers follow the rules presented below.
 - A Psi-Titan can only ever use their own Command Value, regardless of any special rules.
 - All units, friend or foe, within 10" subtract 1 from the result of any Command check. Any Corrupted Titan within 10" subtracts 2 from the result of any Command check instead. Psi-Titans are not affected by this rule.

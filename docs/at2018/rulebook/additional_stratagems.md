@@ -6,7 +6,7 @@ These Stratagems can only be selected during Matched Play.
 
 ### Cripple the Foe (2)
 
-Play this Stratagem at the end of the battle. Score 2 Victory points for each enemy Titan that has not been destroyed, but which is Structurally Compromised. In addition, score 2 Victory points for each enemy Battlefield Asset (see page 65 of the *Adeptus Titanicus* rulebook) that has been destroyed.
+Play this Stratagem at the end of the battle. Score 2 Victory points for each enemy Titan that has not been destroyed, but which is Structurally Compromised. In addition, score 2 Victory points for each enemy Battlefield Asset (see [page 65](stratagems.md#battlefield-assets) of the *Adeptus Titanicus* rulebook) that has been destroyed.
 
 ### Decapitating Strike (2)
 

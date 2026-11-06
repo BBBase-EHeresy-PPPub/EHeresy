@@ -2,7 +2,7 @@
 
 ## Choosing Forces
 
-Each player should build a Knight Household (see [The Household Marches](../campaign_compendium/household_marches.md)) with a Battle Rating up to 250 points. For the duration of the Beast Hunt, each Knight is considered to be a Knight Banner of one model and so may move independently, and is activated independently, of the other Knights in its Household. After both sides have selected their Knights, add up the combined Scale of each Knight Household. The mission should include a combination of Beasts (see the Beast profiles presented below) with a combined Scale equal to the larger Knight Household.
+Each player should build a Knight Household (see [The Household Marches](../campaign_compendium/household_marches.md)) with a Battle Rating up to 250 points. For the duration of the Beast Hunt, each Knight is considered to be a Knight Banner of one model and so may move independently, and is activated independently, of the other Knights in its Household. After both sides have selected their Knights, add up the combined Scale of each Knight Household. The mission should include a combination of Beasts (see the [Beast profiles presented below](#azhdarchid)) with a combined Scale equal to the larger Knight Household.
 
 ## The Battlefield
 

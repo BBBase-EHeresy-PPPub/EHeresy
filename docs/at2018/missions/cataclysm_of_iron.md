@@ -153,9 +153,13 @@ In this mission, the normal turn sequence is replaced. Instead players take it i
 
 After a Titan is activated, it may not be activated in the controlling player's next activation unless there are no other eligible friendly Titans to be activated (i.e., if a player has a Reaver Titan and a Warhound Titan and activates the Reaver during one activation, they must activate the Warhound Titan before they can activate the Reaver Titan again).
 
+---
+
 **Designer's Note**
 
-*The changes to the turn sequence presented in this mission modifies the game play to give it a different feel from the main game. The intention is to create a mission where each action of the Titan should be carefully thought out and the wrong move can spell disaster for your Princeps. If, at any point, the change to the turn sequence creates clashes with other rules from the core system, players should discuss it between themselves about how to go forwards, rolling-off if they can't come to an agreement.*
+_The changes to the turn sequence presented in this mission modifies the game play to give it a different feel from the main game. The intention is to create a mission where each action of the Titan should be carefully thought out and the wrong move can spell disaster for your Princeps. If, at any point, the change to the turn sequence creates clashes with other rules from the core system, players should discuss it between themselves about how to go forwards, rolling-off if they can't come to an agreement._
+
+---
 
 ### Deployment
 

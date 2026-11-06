@@ -1,6 +1,6 @@
 **Basic Rules, Advanced Rules & Optional Rules**
 
-The rules for Adeptus Titanicus are divided three ways. The Basic Rules make up the bulk of this section and cover everything that players need to engage in their first few battles - they explain how Titans move, fight and repair, but avoid too much complexity. The Advanced Rules (which start on page 41) complete the game experience as it is intended to be played, introducing additional rules for orders, battlefield terrain and so forth. Finally, the Optional Rules (see page 52 onwards) should only be used if both players agree, and are not considered a necessary part of the ruleset. Generally, they add more thematic scope to a battle and make for a more cinematic experience, but can slow things down, especially in larger games.
+The rules for Adeptus Titanicus are divided three ways. The Basic Rules make up the bulk of this section and cover everything that players need to engage in their first few battles - they explain how Titans move, fight and repair, but avoid too much complexity. The Advanced Rules (which start on [page 41](advanced_rules.md)) complete the game experience as it is intended to be played, introducing additional rules for orders, battlefield terrain and so forth. Finally, the Optional Rules (see [page 52](optional_rules.md) onwards) should only be used if both players agree, and are not considered a necessary part of the ruleset. Generally, they add more thematic scope to a battle and make for a more cinematic experience, but can slow things down, especially in larger games.
 
 The Basic Rules are divided by phase. Where an Advanced Rule would apply, a side note will give the Advanced Rule's location in the book for easy reference.
 
@@ -34,13 +34,13 @@ In the Basic Rules, the Strategy phase has only one step, during which the playe
 
 ### 1. Determine the First Player
 
-The players roll off (see page 24). The winner decides whether they will be the First Player this round, or whether they will let their opponent be First Player. The Opus Titanica emblem, found on the plastic sprue, is used to show who is the current First Player.
+The players roll off (see [page 24](the_rules.md#rolling-off)). The winner decides whether they will be the First Player this round, or whether they will let their opponent be First Player. The Opus Titanica emblem, found on the plastic sprue, is used to show who is the current First Player.
 
 ---
 
 **Designer's Note: Patience is its Own Reward**
 
-*It might seem strange to give your opponent the chance to be First Player - after all, why wouldn't you take the opportunity to attack first? However, as you play more games, you will realise that there are times when you will want to wait in order to see what your opponent does before reacting accordingly.*
+_It might seem strange to give your opponent the chance to be First Player - after all, why wouldn't you take the opportunity to attack first? However, as you play more games, you will realise that there are times when you will want to wait in order to see what your opponent does before reacting accordingly._
 
 ---
 
@@ -52,9 +52,9 @@ There are several situations in which a unit might need to make a Command check 
 
 **Advanced Rules**
 
-Enact Stratagems - see page 41
+Enact Stratagems - see [page 41](advanced_rules.md#2-enact-stratagems)
 
-Issue Orders - see page 41
+Issue Orders - see [page 41](advanced_rules.md#3-issue-orders)
 
 ---
 
@@ -66,11 +66,11 @@ During the phase, the players take turns activating a unit and moving it, starti
 
 ---
 
-**Pushing the Reactors**
+**Pushing the Reactors**{ #pushing-the-reactors }
 
 Titans are powered by massive, unstable plasma reactors. Mechanicum law dictates that a Titan's reactors should never be pushed beyond its safe operating limits, but in the heat of battle, crews are often willing to transgress this.
 
-If the rules instruct a player to push a Titan's reactor, its Reactor Status marker is advanced by one hole. If the Status marker is in a hole with an orange or red indicator during the Damage Control phase, there is a chance it will cause an overload (see page 43). If a Titan's Reactor Status marker is already in the last hole on the track, it cannot be voluntarily pushed. If a game effect causes the Reactor level to advance while it is in the last hole, the Titan suffers a Strength 9 hit to its Body, bypassing void shields.
+If the rules instruct a player to push a Titan's reactor, its Reactor Status marker is advanced by one hole. If the Status marker is in a hole with an orange or red indicator during the Damage Control phase, there is a chance it will cause an overload (see [page 43](../matched_play_guide/rules_references.md#reactor-overload-table)). If a Titan's Reactor Status marker is already in the last hole on the track, it cannot be voluntarily pushed. If a game effect causes the Reactor level to advance while it is in the last hole, the Titan suffers a Strength 9 hit to its Body, bypassing void shields.
 
 The reactor can be pushed multiple times in the same turn, either for the same bonus effect or for different ones.
 
@@ -78,9 +78,9 @@ The reactor can be pushed multiple times in the same turn, either for the same b
 
 **Advanced Rules**
 
-Reactor Dice - see page 43
+Reactor Dice - see [page 43](advanced_rules.md#reactor-dice)
 
-Wartorn Landscapes - see page 43
+Wartorn Landscapes - see [page 43](advanced_rules.md#terrain-types)
 
 ---
 
@@ -94,11 +94,11 @@ Models are able to change direction partway through a move - for instance, you c
 
 ![](../media/rulebook/moving_2.jpg){ width=603 height=386 }
 
-**Sidestepping and Backing Up.** Models are also able to move outside their Front arc (again, their facing does not change) but if they do so, every inch they move takes up 2" of their Speed. For example, a Reaver Titan (Speed 6") could sidestep to the right up to 3". Again, forward and sideways movement can be mixed - the Reaver could sidestep 2" to clear a building, then move its remaining 2" within its Front arc.
+**Sidestepping and Backing Up.**{ #sidestepping-and-backing-up } Models are also able to move outside their Front arc (again, their facing does not change) but if they do so, every inch they move takes up 2" of their Speed. For example, a Reaver Titan (Speed 6") could sidestep to the right up to 3". Again, forward and sideways movement can be mixed - the Reaver could sidestep 2" to clear a building, then move its remaining 2" within its Front arc.
 
 ---
 
-**Power to Locomotors!** When a Titan is activated in the Movement phase (or in the Combat phase if the model is acting under [Full Stride] orders), the controlling player can push its reactor (see earlier on this page) to declare Power to Locomotors! If they do this, the Titan uses its boosted Speed (the second value shown under Speed on its Command Terminal) instead of its default Speed for the duration of its activation.
+**Power to Locomotors!** When a Titan is activated in the Movement phase (or in the Combat phase if the model is acting under [Full Stride] orders), the controlling player can push its reactor (see [earlier on this page](#pushing-the-reactors)) to declare Power to Locomotors! If they do this, the Titan uses its boosted Speed (the second value shown under Speed on its Command Terminal) instead of its default Speed for the duration of its activation.
 
 ---
 
@@ -110,7 +110,7 @@ In the Movement phase, a model can make a number of turns equal to its default M
 
 ### Collisions
 
-Models cannot voluntarily move through other models, or through Blocking terrain (see page 43). If a model is forced to do so, it will stop in base-to-base contact with the model or terrain piece, then it will suffer a collision.
+Models cannot voluntarily move through other models, or through Blocking terrain (see [page 43](advanced_rules.md#terrain-types)). If a model is forced to do so, it will stop in base-to-base contact with the model or terrain piece, then it will suffer a collision.
 
 If a model collides with another model, each one inflicts D6 hits on the other, at a Strength equal to its Scale. For example, if a Warhound Titan (Scale 6) collides with a Warlord Titan (Scale 10), the Warhound would suffer D6 Strength 10 hits and the Warlord would suffer D6 Strength 6 hits.
 
@@ -118,7 +118,7 @@ If a model collides with Blocking terrain, it suffers D6 hits. Instead of rollin
 
 ---
 
-**Power To Stabilisers!** Immediately after making a turn with an active model, the controlling player can push its reactor (see page 30) to declare Power to Stabilisers! If they do so then the model uses its boosted Manoeuvre characteristic (the second value which is shown under Manoeuvre on its Command Terminal) instead of its default Manoeuvre characteristic for the rest of its activation.
+**Power To Stabilisers!** Immediately after making a turn with an active model, the controlling player can push its reactor (see [page 30](#pushing-the-reactors)) to declare Power to Stabilisers! If they do so then the model uses its boosted Manoeuvre characteristic (the second value which is shown under Manoeuvre on its Command Terminal) instead of its default Manoeuvre characteristic for the rest of its activation.
 
 ---
 
@@ -132,7 +132,7 @@ During the phase, the players take turns activating a unit and checking for reac
 
 If a Titan's Reactor Status marker is in a hole with an orange or red indicator when it is activated in this phase, it is at risk of a reactor overload. In the Basic Rules, the Titan will suffer a Strength 7 hit to the Body location if the marker is in an orange hole, or a Strength 10 hit to the Body location if the marker is in a red hole. These hits bypass void shields.
 
-If the Advanced Rules are being used, the Titan does not suffer the hit. Instead, roll on the Reactor Overload table as described on page 43.
+If the Advanced Rules are being used, the Titan does not suffer the hit. Instead, roll on the Reactor Overload table as described on [page 43](../matched_play_guide/rules_references.md#reactor-overload-table).
 
 ### Make Repair Rolls
 
@@ -181,7 +181,7 @@ When a unit is activated, it attacks with all of its weapons, following these st
 
 3. **Check Firing Solution.** Once the target has been declared, measure the distance between it and the attacking unit. If this is greater than the weapon's Long Range characteristic, the attack is wasted and it has no effect. Otherwise, determine whether it is within the weapon's Long Range or Short Range, as this may have an effect.
 
-Then, determine whether the target is within the attacking weapon's firing arc (see page 26). If it is not immediately clear which arc the target is in, use the centre of its base as a point of reference. If the centre of its base is exactly on the line between two arcs, it counts as being in both. If the target is not within the weapon's firing arc, the attack is wasted.
+Then, determine whether the target is within the attacking weapon's firing arc (see [page 26](the_rules.md#arcs)). If it is not immediately clear which arc the target is in, use the centre of its base as a point of reference. If the centre of its base is exactly on the line between two arcs, it counts as being in both. If the target is not within the weapon's firing arc, the attack is wasted.
 
 Then, check whether the weapon has a clear line of sight to the target. In some cases this might be obvious, but it is usually helpful to stoop down and get a look at the target from the weapon's point of view. If there is nothing in the way, the line of sight is clear. However, if at least a quarter of the model is obscured (by terrain or other models), the attack will incur a penalty on the roll To Hit as follows. If the weapon has no line of sight to the target at all, the attack is wasted.
 
@@ -197,13 +197,13 @@ If there is at least one hit, it is now resolved against the target.
 
 ---
 
-**Close Quarters.** Titans usually engage their targets at long range, but some are equipped with weaponry that makes them utterly deadly at close quarters, where quick-thinking and nimbleness are more important than accurate firing solutions. Attacks made against targets within 2" of the attacking unit use the attacking unit's Weapon Skill rather than its Ballistic Skill. In addition, when making such an attack, a Targeted Attack (see page 35) suffers a -1 To Hit modifier rather than a -2.
+**Close Quarters.** Titans usually engage their targets at long range, but some are equipped with weaponry that makes them utterly deadly at close quarters, where quick-thinking and nimbleness are more important than accurate firing solutions. Attacks made against targets within 2" of the attacking unit use the attacking unit's Weapon Skill rather than its Ballistic Skill. In addition, when making such an attack, a Targeted Attack (see [page 35](#targeted-attacks)) suffers a -1 To Hit modifier rather than a -2.
 
 ---
 
 **5. Resolve Hits.** If any hits are caused and the target has active void shields, the target's controlling player makes Void Shield saves. If the target does not have active void shields, or the void shields are ignored or bypassed, the attacking player makes an Armour roll.
 
-**5A. Opponent Makes Shield Saves.** Titans walk to battle protected by massive void shields, crackling domes of energy which harness the power of the Warp to absorb and dissipate the energy of incoming attacks. These shields are nigh impenetrable, but the generators that project them can be overloaded by sufficiently powerful attacks. For this reason most Titans are fitted with multiple void shield generators, putting a barrier several layers thick between them and harm.
+**5A. Opponent Makes Shield Saves.**{ #void-shield-saves } Titans walk to battle protected by massive void shields, crackling domes of energy which harness the power of the Warp to absorb and dissipate the energy of incoming attacks. These shields are nigh impenetrable, but the generators that project them can be overloaded by sufficiently powerful attacks. For this reason most Titans are fitted with multiple void shield generators, putting a barrier several layers thick between them and harm.
 
 If the target has active shields, its controlling player makes a Save roll by rolling a D6 for each dice in the Hit pool, and comparing them to the target's current Void Shield level (shown beneath its Void Shield Status marker). Each dice that scores the same as or higher than the Void Shield level removes one hit from the Hit pool. Each dice that scores lower than the Void Shield level causes the Void Shield level to be reduced by 1. Note that this reduced Void Shield level is not taken into account until the next time a save is made for the unit. Regardless of modifiers, any dice that roll a 1 always cause the Void Shield level to be reduced, and any dice that roll a 6 always remove one hit from the Hit pool.
 
@@ -211,7 +211,7 @@ Then, any dice in the Hit pool are discarded, even if the void shields have now 
 
 ---
 
-**Voids to Full!** Immediately before making Void Shield saves for a unit, the controlling player can push the reactors (see page 30) to declare Voids to Full! If they do so then they can re-roll any dice with a score of 1 during that Save roll. If they wish to gain this bonus on later attacks then they will need to push the reactors again.
+**Voids to Full!**{ #voids-to-full } Immediately before making Void Shield saves for a unit, the controlling player can push the reactors (see [page 30](#pushing-the-reactors)) to declare Voids to Full! If they do so then they can re-roll any dice with a score of 1 during that Save roll. If they wish to gain this bonus on later attacks then they will need to push the reactors again.
 
 ---
 
@@ -225,9 +225,9 @@ In addition, some attacks bypass void shields. Void Shield saves cannot be made 
 
 ---
 
-**5B. Make the Armour Roll.** If the target does not have active shields, or if the attack has a special rule which states that it bypasses shields, no Save roll is made. Instead, roll a Location dice to see where the hits land - it is assumed that the hits are grouped well enough to all strike the same location. If the location is not visible from the point of view of the attacking weapon, re-roll the Location dice (keep doing this until a visible location is hit). If a "Special" result is rolled on the Location dice, the target's Body is hit unless otherwise stated on its Command Terminal.
+**5B. Make the Armour Roll.**{ #armour-rolls } If the target does not have active shields, or if the attack has a special rule which states that it bypasses shields, no Save roll is made. Instead, roll a Location dice to see where the hits land - it is assumed that the hits are grouped well enough to all strike the same location. If the location is not visible from the point of view of the attacking weapon, re-roll the Location dice (keep doing this until a visible location is hit). If a "Special" result is rolled on the Location dice, the target's Body is hit unless otherwise stated on its Command Terminal.
 
-Once the Hit location has been determined (see page 28), roll all of the dice in the Hit pool. For each dice rolled, add the attacking weapon's Strength to the result, then consult the target location's Damage table as described on page 28. To determine the effects of the hit, refer to the Damage Effects section on page 35. Resolve each dice one at a time, starting with the lowest and working up to the highest.
+Once the Hit location has been determined (see [page 28](#armour-rolls)), roll all of the dice in the Hit pool. For each dice rolled, add the attacking weapon's Strength to the result, then consult the target location's Damage table as described on [page 28](the_rules.md#hit-locations). To determine the effects of the hit, refer to the Damage Effects section on [page 35](#damage-effects). Resolve each dice one at a time, starting with the lowest and working up to the highest.
 
 Some circumstances can cause the Armour roll to be modified:
 
@@ -259,7 +259,7 @@ If the damage result is not high enough to cause a Direct Hit, it causes a Super
 
 ---
 
-**Targeted Attacks.** Before making the Hit roll against a unit without active void shields, the controlling player can declare that the attacking unit will make a Targeted Attack. This lets them aim for weaker armour or attempt to cripple a certain location. When making a Targeted Attack, apply a -2 modifier to the Hit roll, but instead of rolling the Location dice (as previously described), the attacking player can choose a target location, including which of the target's weapons is hit if the Weapon location is targeted.
+**Targeted Attacks.**{ #targeted-attacks } Before making the Hit roll against a unit without active void shields, the controlling player can declare that the attacking unit will make a Targeted Attack. This lets them aim for weaker armour or attempt to cripple a certain location. When making a Targeted Attack, apply a -2 modifier to the Hit roll, but instead of rolling the Location dice (as previously described), the attacking player can choose a target location, including which of the target's weapons is hit if the Weapon location is targeted.
 
 A Targeted Attack cannot be made if it would mean that a score of 7 or higher would be needed to score a hit after taking any other modifiers into account, regardless of the fact that a 6 always scores a hit.
 
@@ -269,7 +269,7 @@ Targeted Attacks cannot be made for attacks that can potentially hit more than o
 
 ### Critical Damage
 
-Each of a Titan's locations has a Critical Damage track made up of three numbered holes, arranged in a triangle. The first time a Titan suffers Critical Damage, place a Status marker in the first (yellow) hole. If it suffers Critical Damage again, move the marker to the middle (orange) hole. If it suffers Critical Damage a third time, move the marker to the last (red) hole. If a location suffers Critical Damage while a Status marker is in the red Critical Damage hole, the Titan suffers Catastrophic Damage instead (see page 36).
+Each of a Titan's locations has a Critical Damage track made up of three numbered holes, arranged in a triangle. The first time a Titan suffers Critical Damage, place a Status marker in the first (yellow) hole. If it suffers Critical Damage again, move the marker to the middle (orange) hole. If it suffers Critical Damage a third time, move the marker to the last (red) hole. If a location suffers Critical Damage while a Status marker is in the red Critical Damage hole, the Titan suffers Catastrophic Damage instead (see [page 36](../matched_play_guide/rules_references.md#catastrophic-damage-table)).
 
 Each hole on the Critical Damage track has one or more damage effects, which are detailed as follows. While a hole has a Status marker within it, all of its damage effects apply.
 
@@ -293,7 +293,7 @@ Each hole on the Critical Damage track has one or more damage effects, which are
 
 ---
 
-**Structurally Compromised Titans.** Some mission objectives and Stratagems refer to Structurally Compromised Titans. A Titan is Structurally Compromised when it has no Structure points remaining on a location, or has a Status marker in the red Critical Damage hole on any of its locations.
+**Structurally Compromised Titans.**{ #structurally-compromised-titans } Some mission objectives and Stratagems refer to Structurally Compromised Titans. A Titan is Structurally Compromised when it has no Structure points remaining on a location, or has a Status marker in the red Critical Damage hole on any of its locations.
 
 ---
 
@@ -305,13 +305,13 @@ If the attacking weapon has no line of sight to the chosen weapon, roll again to
 
 ### Catastrophic Damage
 
-Though many refuse to believe it, even a god-engine is not invincible. When a Titan receives enough Critical Damage, it will suffer Catastrophic Damage - roll a D10 on the [Catastrophic Damage table](../matched_play_guide/rules_references.md#catastrophic-damage-table). If the Titan's Reactor Status marker is in a hole with an orange indicator, add 1 to the result. If it is in a hole with a red indicator, add 3 to the result.
+Though many refuse to believe it, even a god-engine is not invincible. When a Titan receives enough Critical Damage, it will suffer Catastrophic Damage - roll a D10 on the [table below](../matched_play_guide/rules_references.md#catastrophic-damage-table). If the Titan's Reactor Status marker is in a hole with an orange indicator, add 1 to the result. If it is in a hole with a red indicator, add 3 to the result.
 
 **Catastrophic Damage Table**
 
 (see Catastrophic Damage Table, [page 55 of the *Matched Play Guide*](../matched_play_guide/rules_references.md#catastrophic-damage-table))
 
-**Falling Titans.** The death of a Titan is not something which can be easily ignored; wherever their colossal mass falls, utter devastation is sure to follow.
+**Falling Titans.**{ #falling-titans } The death of a Titan is not something which can be easily ignored; wherever their colossal mass falls, utter devastation is sure to follow.
 
 When a Titan falls, roll a Scatter dice and draw a straight line in that direction from the edge of the Titan's base a number of inches equal to its Scale. Any unit that the line touches, or which is within 2" of the line, is hit by the falling Titan. If a Hit is rolled, the Titan falls where it stands and any unit within 2" of its base is hit instead. In either case, the Titan is destroyed.
 
@@ -321,7 +321,7 @@ A unit that is hit suffers D6 hits with a Strength equal to the falling Titan's 
 
 **Destroyed Titans**
 
-When a Titan is destroyed, remove it from play. If a crater or pile of wreckage approximately the same size as the Titan's base is available, put it in the destroyed Titan's place. This counts as Difficult terrain and Dangerous terrain (if the Advanced Terrain rules on page 43 are being used).
+When a Titan is destroyed, remove it from play. If a crater or pile of wreckage approximately the same size as the Titan's base is available, put it in the destroyed Titan's place. This counts as Difficult terrain and Dangerous terrain (if the Advanced Terrain rules on [page 43](advanced_rules.md#terrain-types) are being used).
 
 ---
 
@@ -347,7 +347,7 @@ If a player has multiple effects that must be resolved in the End phase, they ca
 
 **Designer's Note: Don't Forget the End Phase!**
 
-*Although it might not look like the End phase does much, be careful not to forget it! A lot of rules are triggered in this phase, especially once you start using the Advanced Rules. For example, any Order dice that are on Command Terminals are removed in the End phase.*
+_Although it might not look like the End phase does much, be careful not to forget it! A lot of rules are triggered in this phase, especially once you start using the Advanced Rules. For example, any Order dice that are on Command Terminals are removed in the End phase._
 
 ---
 
@@ -361,7 +361,7 @@ Each Weapon card shows the following characteristics:
 
 #### Firing Arc
 
-A weapon's firing arc (explained on page 26) is represented by a graphic. The graphic assumes that the Titan is facing towards the top of the Command Terminal - most weapons (particularly arm-mounted ones) generally have the Titan's Front arc as their firing arc.
+A weapon's firing arc (explained on [page 26](the_rules.md#arcs)) is represented by a graphic. The graphic assumes that the Titan is facing towards the top of the Command Terminal - most weapons (particularly arm-mounted ones) generally have the Titan's Front arc as their firing arc.
 
 #### Range and Accuracy (ACC)
 
@@ -425,7 +425,7 @@ Titans are sometimes fitted with massive claws, fists or chainblades, allowing t
 
 #### Paired
 
-Sometimes, a Titan will carry a pair of weapons, slaved to fire together at the same target. Check the line of sight from each of the weapons separately; if only one has line of sight, the weapon's Dice value is halved. If the target is obscured from the point of view of only one weapon (see page 33), half of the dice rolled suffer the To Hit modifier for an obscured target.
+Sometimes, a Titan will carry a pair of weapons, slaved to fire together at the same target. Check the line of sight from each of the weapons separately; if only one has line of sight, the weapon's Dice value is halved. If the target is obscured from the point of view of only one weapon (see [page 33](#the-combat-sequence)), half of the dice rolled suffer the To Hit modifier for an obscured target.
 
 #### Quake
 
@@ -459,7 +459,7 @@ Although [Voidbreaker] weapons are unlikely to cause any physical damage to a ta
 
 **Stop!**
 
-This is the end of the Basic Rules for Adeptus Titanicus. If you have read this far, you now know enough to fight your first few battles. We recommend trying out the Titanic Clash mission on page 40 before reading any further.
+This is the end of the Basic Rules for Adeptus Titanicus. If you have read this far, you now know enough to fight your first few battles. We recommend trying out the Titanic Clash mission on [page 40](#titanic-clash) before reading any further.
 
 After the mission, you will find a whole section devoted to the Advanced Rules. These rules add more detail to the game, but also introduce additional complexity - as such, we recommend you have played at least one game using the Basic Rules before you start using the advanced ones.
 
@@ -467,15 +467,15 @@ After the mission, you will find a whole section devoted to the Advanced Rules. 
 
 ## Titanic Clash
 
-Later in this book (page 52 onwards), there is a section of detailed rules for playing games of Adeptus Titanicus. That section presents multiple ways to play, as well as guidelines for assembling a force of Titans. However, it is recommended that new players use this mission for their first few battles, as it lets them fight a battle using their collections without having to learn any of the Advanced Rules.
+Later in this book ([page 52](fighting_a_battle.md) onwards), there is a section of detailed rules for playing games of Adeptus Titanicus. That section presents multiple ways to play, as well as guidelines for assembling a force of Titans. However, it is recommended that new players use this mission for their first few battles, as it lets them fight a battle using their collections without having to learn any of the Advanced Rules.
 
 ### Preparing for Battle
 
-**Forces.** Each player chooses up to three Titans. They can all be of the same Class or they can be different Classes - this is up to each player. Each Titan requires a Command Terminal. Each player sets up their Command Terminals on the table in front of them and puts a Status marker in the first hole of each Status track as described on page 27.
+**Forces.** Each player chooses up to three Titans. They can all be of the same Class or they can be different Classes - this is up to each player. Each Titan requires a Command Terminal. Each player sets up their Command Terminals on the table in front of them and puts a Status marker in the first hole of each Status track as described on [page 27](the_rules.md#command-terminals).
 
 Each player then totals up the Scale of the Titans in their force. For example, if they had a Warlord (Scale 10) and two Warhounds (Scale 6), their total would be 22.
 
-**The Battlefield.** This mission is best suited to a battlefield between 3'x3' and 4'x4' in size - any flat surface will do. Some terrain features can be set up to break up lines of sight and make the battlefield more interesting - the players should agree on a terrain set-up with which they are both happy. Full rules for battlefield terrain can be found on page 63, but as a simple rule for this mission, a Titan can move across any terrain which is no more than half its height - anything taller blocks its movement.
+**The Battlefield.** This mission is best suited to a battlefield between 3'x3' and 4'x4' in size - any flat surface will do. Some terrain features can be set up to break up lines of sight and make the battlefield more interesting - the players should agree on a terrain set-up with which they are both happy. Full rules for battlefield terrain can be found on [page 63](fighting_a_battle.md#the-battlefield), but as a simple rule for this mission, a Titan can move across any terrain which is no more than half its height - anything taller blocks its movement.
 
 Once the battlefield has been set up, the players roll off. The winner chooses whether they will take the Opus Titanica or give it to their opponent. The player with the Opus Titanica then divides the battlefield into two equal halves.
 
@@ -487,4 +487,4 @@ Once the battlefield has been set up, the players roll off. The winner chooses w
 
 **Battle Length.** The battle lasts for four rounds. At the end of the fourth round, check the Total Annihilation objective that follows to see who is victorious.
 
-**Objective: Total Annihilation.** The object of this battle is to eradicate the opposing force. For each enemy Titan that has been destroyed at the end of the battle, score Victory points equal to twice its Scale. For each enemy Titan that has not been destroyed, but which has been Structurally Compromised (see page 35), score Victory points equal to its Scale. The player with the lowest total Scale, as determined at the start of the battle, scores a number of bonus Victory points equal to the difference in total Scales.
+**Objective: Total Annihilation.** The object of this battle is to eradicate the opposing force. For each enemy Titan that has been destroyed at the end of the battle, score Victory points equal to twice its Scale. For each enemy Titan that has not been destroyed, but which has been Structurally Compromised (see [page 35](#structurally-compromised-titans)), score Victory points equal to its Scale. The player with the lowest total Scale, as determined at the start of the battle, scores a number of bonus Victory points equal to the difference in total Scales.

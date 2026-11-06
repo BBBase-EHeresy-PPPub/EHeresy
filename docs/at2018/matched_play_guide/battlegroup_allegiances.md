@@ -1,6 +1,6 @@
 # Appendix: Battlegroup Allegiances
 
-In Organised Play, players must declare their battlegroup's allegiance on their battlegroup roster. The rules for battlegroup allegiances were first presented in the Adeptus Titanicus: Defence of Ryza supplement and are presented here for ease of reference.
+In Organised Play, players must declare their battlegroup's allegiance on their battlegroup roster. The rules for battlegroup allegiances were first presented in the [Adeptus Titanicus: Defence of Ryza](#titan-legions-and-allegiance) supplement and are presented here for ease of reference.
 
 ## Titan Legions and Allegiance
 
@@ -97,7 +97,7 @@ Once per game, during the Movement phase, a single Questoris Imperialis Lance of
 
 ### Allegiance Specific Knightly Qualities
 
-A Questoris Imperialis Seneschal Knightly Quality can either be generated from the table on page 38 of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
+A Questoris Imperialis Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
@@ -126,7 +126,7 @@ Once per game, all Banners within a single Questoris Mechanicus Lance can be iss
 
 ### Allegiance Specific Knightly Qualities
 
-A Questoris Mechanicus Seneschal Knightly Quality can either be generated from the table on page 38 of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
+A Questoris Mechanicus Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
@@ -155,7 +155,7 @@ Once per game, during the Combat phase, a single Questoris Traitoris Banner can 
 
 ### Allegiance Specific Knightly Qualities
 
-A Questoris Traitoris Seneschal Knightly Quality can either be generated from the table on page 38 of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
+A Questoris Traitoris Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|
@@ -184,7 +184,7 @@ Once per round, a Banner within a Questoris Oblitus Lance that must take a Comma
 
 ### Allegiance Specific Knightly Qualities
 
-A Questoris Oblitus Seneschal Knightly Quality can either be generated from the table on page 38 of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
+A Questoris Oblitus Seneschal Knightly Quality can either be generated from the table on [page 38](../campaign_compendium/household_marches.md#knightly-qualities) of *Adeptus Titanicus: Doom of Molech*, from their Household Knightly Quality table or by rolling a D3 on the table that follows:
 
 | D3 | Knightly Quality |
 |---|---|

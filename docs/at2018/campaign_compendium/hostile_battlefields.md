@@ -2,9 +2,13 @@
 
 The battles of the Horus Heresy raged across every environment possible, the void shields and hardened armour of god-engines enabling them to battle on worlds lesser beings could not. To recreate these unique battlefields, the following pages present rules for Hostile Battlefields that allow players to tailor their games to specific environments. These can be used to reflect the varying planets on which the narrative missions take place or to add additional challenges to their Matched Play games. The rules are broken down into rule sets, which include three battlefield effects. Each set is tied to a specific planet in the narrative and can be matched up to particular narrative missions (e.g., the Ryza battlefield rules for the Defence of Ryza narrative missions) if all players agree. They can also be used to represent a similar world elsewhere in the galaxy that the players' battlegroups are fighting over.
 
+---
+
 **Designer's Note: Using Hostile Battlefield Effects**
 
-*As a general guideline, both players should agree before the game whether or not they wish to use the rules for Hostile Battlefields as, while they are a lot of fun, they can have a significant impact on the course of the battle. Players may also choose to use just some of the rules rather than all of them, so, for example, if playing a game on Alpha-Garmon IX, they might decide to use the rules for Solar Interference to limit their communications, but not the ones for Radiation Barrage or Skies on Fire, thus limiting the environment's effect on their game.*
+_As a general guideline, both players should agree before the game whether or not they wish to use the rules for Hostile Battlefields as, while they are a lot of fun, they can have a significant impact on the course of the battle. Players may also choose to use just some of the rules rather than all of them, so, for example, if playing a game on Alpha-Garmon IX, they might decide to use the rules for Solar Interference to limit their communications, but not the ones for Radiation Barrage or Skies on Fire, thus limiting the environment's effect on their game._
+
+---
 
 ### Alpha-Garmon IX
 
@@ -20,7 +24,7 @@ Caught within the corona of its star, Alpha-Garmon IX is a burning wasteland tha
 
 Beta-Garmon II was a war world long before Horus turned against the Emperor. Centuries of use as a Munitorum testing ground, combined with the kilometres of defences surrounding its equatorial fortress-cities, have seeded the earth with countless mines, unexploded ordnance and forgotten ammunition stockpiles. Titans traversing this terrain often ran afoul of these explosives, some merely scarring their armour, others tearing their legs out from under them. Battles fought on Beta-Garmon II use the following rules:
 
-**Mine Fields:** Each time a Titan moves, after it has completed its activation, roll a D6. On a 6, the Titan has stepped into an ancient minefield and suffers the effects of Thermal Mines (see page 64 of the *Adeptus Titanicus* rulebook).
+**Mine Fields:** Each time a Titan moves, after it has completed its activation, roll a D6. On a 6, the Titan has stepped into an ancient minefield and suffers the effects of Thermal Mines (see [page 64](../rulebook/stratagems.md#thermal-mines-2) of the *Adeptus Titanicus* rulebook).
 
 **Chain Reactions:** After working out the effects of a hit from a weapon with the [Blast] trait, roll a D6. On a 6, the blast has set off buried munitions. Immediately work out a second hit from the weapon as if it has successfully scored an additional hit against the same target.
 
@@ -42,9 +46,9 @@ The ethereal wail of Zeta-Garmon X's crystalline wilderness is an endless shriek
 
 **Vox Ghosts:** Phantom orders and incessant chatter fill the vox. If a unit rolls a 9 or 10 when making a Command check, it gains a random order instead of choosing. Roll the Order dice to see what order the unit has received.
 
-**Brittle Battlefields:** The crystalline forests and structures of Zeta-Garmon X were easy to destroy. If players are using the rules for Destroying Terrain (see page 52 of the *Adeptus Titanicus* rulebook), a piece of terrain will be destroyed on a dice roll of a 3 or more rather than a 5 or more.
+**Brittle Battlefields:** The crystalline forests and structures of Zeta-Garmon X were easy to destroy. If players are using the rules for Destroying Terrain (see [page 52](../rulebook/optional_rules.md#destroying-terrain) of the *Adeptus Titanicus* rulebook), a piece of terrain will be destroyed on a dice roll of a 3 or more rather than a 5 or more.
 
-**Shattered Terrain:** All terrain counts as Dangerous terrain (see page 43 of the *Adeptus Titanicus* rulebook) to units with a Scale 5 or less, in addition to any of its other effects.
+**Shattered Terrain:** All terrain counts as Dangerous terrain (see [page 43](../rulebook/advanced_rules.md#terrain-types) of the *Adeptus Titanicus* rulebook) to units with a Scale 5 or less, in addition to any of its other effects.
 
 ### Theta-Garmon V
 
@@ -52,7 +56,7 @@ Titans are completely enclosed environments, sealed against the outside world an
 
 **Airless Environment:** In the End phase, any Titan with unrepaired Critical Damage to its Head will suffer 1 point of Critical Damage to its Head. If this results in the destruction of the Titan do not roll on the Catastrophic Damage table, instead count it as having rolled a Silenced result.
 
-**Low Gravity:** Titans must move an additional D6" when using their boosted speed. The Titan may not change its facing before moving this extra distance. If this movement brings them into contact with a piece of terrain or other models, use the rules for collisions (see page 31 of the *Adeptus Titanicus* rulebook).
+**Low Gravity:** Titans must move an additional D6" when using their boosted speed. The Titan may not change its facing before moving this extra distance. If this movement brings them into contact with a piece of terrain or other models, use the rules for collisions (see [page 31](../rulebook/basic_rules.md#collisions) of the *Adeptus Titanicus* rulebook).
 
 **Artificial Battlefield:** Units can target the ground with their weapons. Pick a point on the battlefield and make an attack as if targeting a unit, with the exception that the weapon hits automatically. Count the ground as having an Armour value of 14. If its Armour value is exceeded, place a 5" Blast marker centred on the point targeted. Until the end of the round, count this area as line of sight Blocking terrain, though units may move through it without restriction.
 
@@ -86,9 +90,9 @@ The more a city is fought over, the more battered it becomes. Heavy ruins can un
 
 **Rumbling Ruins:** Whenever a Blast marker is placed on the battlefield, roll a D10 for each building under or within 6" of the marker's edge. On a 1 or 2, the building collapses. Remove it from the board and replace it with an area of Difficult terrain of equal size.
 
-**Unstable Footing:** After a Titan moves in the Movement phase, roll a D10. On a 1 or 2, the Titan has hit a sinkhole. Move the Titan D6" in a direction indicated by a Scatter dice, though do not change the Titan's facing. This movement may result in a Collision (see page 31 of the *Adeptus Titanicus* rulebook).
+**Unstable Footing:** After a Titan moves in the Movement phase, roll a D10. On a 1 or 2, the Titan has hit a sinkhole. Move the Titan D6" in a direction indicated by a Scatter dice, though do not change the Titan's facing. This movement may result in a Collision (see [page 31](../rulebook/basic_rules.md#collisions) of the *Adeptus Titanicus* rulebook).
 
-**Hidden Enemies:** In a game using the Hidden Enemies special rule, both sides gain the Titan Hunter Infantry Stratagem (see page 96) without expending any Stratagem points.
+**Hidden Enemies:** In a game using the Hidden Enemies special rule, both sides gain the Titan Hunter Infantry Stratagem (see [page 96](../rulebook/additional_stratagems.md#titan-hunter-infantry-2)) without expending any Stratagem points.
 
 ### Cities in Flames
 
@@ -122,7 +126,7 @@ Iron Fist Mountain, seat of the Legio Crucius, was utterly destroyed when the So
 
 **Raining Fire:** In the Strategy phase, after determining the First Player, roll a D10 to determine the ferocity of the burning fallout. All Titans and Knight Banners with a Scale equal to or lower than the number rolled suffer a Strength 8 Hit (for the purposes of this roll count Knight Banners as Scale 3 regardless of the number of Knights they contain). Void Shield and Ion Shield saves may be taken against this hit.
 
-**Sudden Eruptions:** When a weapon with the [Blast] trait misses its target and scatters, there's a chance that it might blow open a magma geyser. After working out the effects of the weapon's attack, leave the Blast marker on the table and roll a D6. On a 4+, work out an Artillery Bombardment (see page 64 of the *Adeptus Titanicus* rulebook) with the centre of the already placed Blast marker as its aiming point.
+**Sudden Eruptions:** When a weapon with the [Blast] trait misses its target and scatters, there's a chance that it might blow open a magma geyser. After working out the effects of the weapon's attack, leave the Blast marker on the table and roll a D6. On a 4+, work out an Artillery Bombardment (see [page 64](../rulebook/stratagems.md#artillery-bombardment-2) of the *Adeptus Titanicus* rulebook) with the centre of the already placed Blast marker as its aiming point.
 
 ### Virus Infected
 
@@ -152,9 +156,9 @@ Though covered in great cities built upon bountiful landscapes of verdant grassl
 
 **Tunnel Collapse:** Whenever a unit is hit by an attack with a Blast, Quake or [Concussive] weapon, there's a chance the surrounding tunnel might collapse. After working out the effects of the weapon's attack, roll a D10. On a 1 or a 2, place the 5" Blast marker over the unit and move it D6" in a direction determined by the Scatter dice. Place a piece of Dangerous terrain (rubble) under the marker. Any unit under the marker suffers D3 S8 hits, ignoring void shields, and is placed on top of the terrain piece.
 
-**Pitch Black:** When a Titan or supporting unit activates during the Strategy phase, roll 3D10 and add the unit's Scale. This is the distance in inches it can make ranged attacks this round, unless their chosen target has fired its weapons or vented plasma this round.
+**Pitch Black:**{ #pitch-black } When a Titan or supporting unit activates during the Strategy phase, roll 3D10 and add the unit's Scale. This is the distance in inches it can make ranged attacks this round, unless their chosen target has fired its weapons or vented plasma this round.
 
-**Burrowing Wyrms:** The Wyrms of Ulixis relied upon vibrations to sense their environments and were drawn to the earth shaking strides of Titans. After a Titan moves in the Movement phase, roll a D10. On a 1 or a 2, Wyrms burst from the ground beneath it. The Titan suffers D3 S8 hits to its Legs and then moves D6" in a direction indicated by a Scatter dice, though do not change the Titan's facing. This movement may result in a Collision (see page 31 of the *Adeptus Titanicus* rulebook).
+**Burrowing Wyrms:** The Wyrms of Ulixis relied upon vibrations to sense their environments and were drawn to the earth shaking strides of Titans. After a Titan moves in the Movement phase, roll a D10. On a 1 or a 2, Wyrms burst from the ground beneath it. The Titan suffers D3 S8 hits to its Legs and then moves D6" in a direction indicated by a Scatter dice, though do not change the Titan's facing. This movement may result in a Collision (see [page 31](../rulebook/basic_rules.md#collisions) of the *Adeptus Titanicus* rulebook).
 
 ## Espandor
 
@@ -180,7 +184,7 @@ Ninety-five percent of the surface of Zarathusa Secundus was covered in water, t
 
 Often mistaken for a desert world, the sand of Drooth II was actually formed from a sand-like mineral capable of absorbing atmospheric gases while cold and igniting when warm. It was upon Drooth II that Dae Vergos and Horgoth Nyr settled their score, their final battle taking place upon burning dunes battered by sandstorms. Battles fought on Drooth II use the following rules:
 
-**Burning Sands:** During the day, the sands of Drooth II would ignite, vast stretches of desert becoming engulfed in flames. Titans require dice rolls of one higher than usual (i.e., 5+ instead of 4+ for most) to Vent Plasma in the Damage Control phase. In addition, Titans with the Reactor Leak damage effect advance their Reactor Status marker by one extra hole than normal.
+**Burning Sands:**{ #burning-sands } During the day, the sands of Drooth II would ignite, vast stretches of desert becoming engulfed in flames. Titans require dice rolls of one higher than usual (i.e., 5+ instead of 4+ for most) to Vent Plasma in the Damage Control phase. In addition, Titans with the Reactor Leak damage effect advance their Reactor Status marker by one extra hole than normal.
 
 **Quenching the Flames:** a Titan can use its void shields to create a pressure curtain, clearing the surrounding area of smoke and flame. During the Strategy phase, any Titan can push its reactor and reduce its Void Shield level by one to ignore the effects of the Burning Sands rule for their activation. Titans without active void shields cannot declare this action.
 
@@ -208,7 +212,7 @@ Much of Ryza's surface was devoted to manufacturing, churning out weapons of war
 
 **Gas Pocket:** Whenever a weapon with the [Blast] trait misses its target and scatters, there's a chance that it might ignite a gas pocket. After working out the effects of the weapon's attack leave the Blast marker on the table and roll a D6. On a 4+, place the Flame template so the narrowest part is touching the Blast template's central hole and the template is pointing in a direction indicated by a Scatter dice. Any unit underneath the Flame template suffers D6 S5 hits.
 
-**Industrial Quarries:** After a Titan moves in the Movement phase, roll a D10. On a 1, the Titan has hit a quarry. Move the Titan D6" in a direction indicated by a Scatter dice, though do not change the Titan's facing. This movement may result in a Collision (see page 31 of the *Adeptus Titanicus* rulebook).
+**Industrial Quarries:** After a Titan moves in the Movement phase, roll a D10. On a 1, the Titan has hit a quarry. Move the Titan D6" in a direction indicated by a Scatter dice, though do not change the Titan's facing. This movement may result in a Collision (see [page 31](../rulebook/basic_rules.md#collisions) of the *Adeptus Titanicus* rulebook).
 
 ### Plasmatic Infrastructure
 
@@ -216,9 +220,9 @@ Ryza was famed for its plasma technology, capable of producing both weapons and 
 
 **Reactor Detonation:** Whenever a Blast marker is placed on the battlefield, roll a D10 for each building under the Blast marker or within 3" of the marker's edge. On a 1, the plasma reactor in the building explodes. Every unit within D6" of any part of the building suffers D6 S6 hits, bypassing void shields and ion shields. The building then collapses; remove it from the board and replace it with an area of Dangerous terrain of equal size.
 
-**Auxiliary Plasma Reactors:** At the start of the game, before either player deploys a unit, both players should roll a D3 and subtract 1 from the result (to a minimum of 1). Each player then nominates a number of buildings equal to the result of their roll to contain an Auxiliary Plasma Reactor. The chosen buildings follow the rules for the Plasma Generator Battlefield Asset found in the *Adeptus Titanicus* rulebook.
+**Auxiliary Plasma Reactors:** At the start of the game, before either player deploys a unit, both players should roll a D3 and subtract 1 from the result (to a minimum of 1). Each player then nominates a number of buildings equal to the result of their roll to contain an Auxiliary Plasma Reactor. The chosen buildings follow the rules for the Plasma Generator Battlefield Asset found in the [Adeptus Titanicus rulebook](../rulebook/stratagems.md#plasma-generator-1).
 
-Destroying a building containing an Auxiliary Plasma Reactor follows the same rules as destroying terrain (see the *Adeptus Titanicus* rulebook) with the exception that, when destroyed, the building suffers a Catastrophic Meltdown as if it had rolled a 10+ on the Catastrophic Damage table. The building is presumed to have four holes on its Plasma Reactor Status tracker and a Scale equal to its height in inches (rounded up to the nearest whole number).
+Destroying a building containing an Auxiliary Plasma Reactor follows the same rules as destroying terrain (see the [Adeptus Titanicus rulebook](../rulebook/optional_rules.md#destroying-terrain)) with the exception that, when destroyed, the building suffers a Catastrophic Meltdown as if it had rolled a 10+ on the Catastrophic Damage table. The building is presumed to have four holes on its Plasma Reactor Status tracker and a Scale equal to its height in inches (rounded up to the nearest whole number).
 
 **Plasma Offrun:** By-products from plasma production are siphoned off into reservoirs of hazardous material where disposable teams of servitors extract anything of use for further processing. During battlefield set-up, players may designate portions of the battlefield as Offrun Reservoirs - these can be represented by appropriate pieces of terrain such as water features. Offrun Reservoirs count as Dangerous terrain. In addition to the normal Dangerous terrain rules, any unit that ends their activation in the Movement phase or Combat phase within an Offrun Reservoir immediately suffers D3 S7 hits, ignoring void shields (but not ion shields). Titans suffer these hits to their Legs.
 
@@ -228,6 +232,6 @@ The largest of the space stations orbiting the Forge World, Ryza Secundus was cl
 
 **Automated Defences:** After a unit moves in the Movement phase, roll a D10. On a 1 or 2, the Titan has triggered the facility's Automated Defences. That unit suffers D6 S4 Hits, as if resolving an attack from a weapon with the [Shieldbane] trait.
 
-**Hull Breach:** Whenever a weapon with the [Blast] trait misses its target and scatters, there's a chance that it might cause a minor hull breach. After working out where the Blast marker scatters to, roll a D6 after the attack has been resolved. On a 6+, all units within 12" of the central hole of the Blast marker move towards it; units of Scale 5 or lower move D6" towards the central hole while units of Scale 6-10 move D3" towards it. Units of Scale 11+ do not move. Resolve each unit one at a time, starting with the unit furthest from the hole. This may cause a unit to collide with other units, as described in the *Adeptus Titanicus* rulebook.
+**Hull Breach:** Whenever a weapon with the [Blast] trait misses its target and scatters, there's a chance that it might cause a minor hull breach. After working out where the Blast marker scatters to, roll a D6 after the attack has been resolved. On a 6+, all units within 12" of the central hole of the Blast marker move towards it; units of Scale 5 or lower move D6" towards the central hole while units of Scale 6-10 move D3" towards it. Units of Scale 11+ do not move. Resolve each unit one at a time, starting with the unit furthest from the hole. This may cause a unit to collide with other units, as described in the [Adeptus Titanicus rulebook](../rulebook/basic_rules.md#collisions).
 
 **Toppling Cargo Containers:** If a model collides with a piece of terrain, roll a D6. On a 4+, place the 5" Blast marker over the centre of the colliding model. After resolving the effects of the collision, any unit under the marker suffers D3 S7 hits, ignoring void shields.

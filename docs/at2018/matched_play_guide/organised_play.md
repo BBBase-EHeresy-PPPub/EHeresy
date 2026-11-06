@@ -2,7 +2,7 @@
 
 The first section of this guide will look at Organised Play, which is a term used to describe Adeptus Titanicus events or games, often with a more competitive focus. These games can be anything from a single battle between friends at your local gaming club to hundreds of games fought at tournaments across the world, where each player battles to be crowned the best general.
 
-Organised Play events build upon the Matched Play rules provided in the Adeptus Titanicus rulebook but present a number of changes. The Organised Play rules are intended to be the baseline rules set for Adeptus Titanicus tournaments, meaning all players with this guide are following the same rules.
+Organised Play events build upon the Matched Play rules provided in the [Adeptus Titanicus rulebook](../rulebook/matched_play.md) but present a number of changes. The Organised Play rules are intended to be the baseline rules set for Adeptus Titanicus tournaments, meaning all players with this guide are following the same rules.
 
 The rules for Organised Play are presented in two sections: Building a Battlegroup, and Matched Play Objectives and Deployment Maps. Both are intended to be used alongside each other to create a level playing field for all players at an event. All events should include an Event Pack, written by the Tournament Organiser in the weeks/months preceding the event. An Event Pack should outline the rules of the event for all players participating in the event, detailing any requirements and scoring systems, and anything else a player might need. If using the *Adeptus Titanicus Matched Play Guide*, the Event Pack should point players towards this book for the rules.
 
@@ -31,7 +31,7 @@ A battlegroup roster should include the following things:
 - The battlegroup allegiance.
 - The total Battle Rating of the battlegroup.
 - The battlegroup Leader - this must be a nominated Princeps Seniores in a Legio battlegroup or the Seneschal in a Knight Household battlegroup.
-- The battlegroup's Stratagem Hand (see page 10).
+- The battlegroup's Stratagem Hand (see [page 10](#stratagem-hand)).
 
 ### Auxiliary Titans and Auxiliary Knight Banners
 
@@ -77,7 +77,7 @@ It should be noted that Auxiliary Titans, Knight Banners and Auxiliary Knight Ba
 
 #### Household Battlegroup
 
-If you are using a Knight Household Force as per the rules presented in the *Adeptus Titanicus: Doom of Molech* supplement, that Household Force is a Household battlegroup. Household battlegroups have the following exceptions:
+If you are using a Knight Household Force as per the rules presented in the *[Adeptus Titanicus: Doom of Molech](../campaign_compendium/household_marches.md#assembling-a-household-force)* supplement, that Household Force is a Household battlegroup. Household battlegroups have the following exceptions:
 
 - A Household battlegroup must include at least one Lance, which must contain either a Seneschal or a High King.
 - All Knights within a Lance in a Household battlegroup must be drawn from the same Household.
@@ -99,17 +99,17 @@ In Organised Play, each battlegroup is built to a points limit, referred to as a
 | Confrontation | 1,250‑1,750 | 3 | 2‑2½ hours | 4'x4' |
 | Epic Clash | >1,750 | 4 | 2½ - 3 hours | 4'x4' to 6'x4' |
 
-Unlike the Matched Play rules presented in the Adeptus Titanicus rulebook, there is no Underdog Margin - there is no advantage in Organised Play for not using all of your Battle Rating. The total Battle Rating of the force is calculated by adding together the point values of all units within a battlegroup, which includes the cost of each Titan and Knight Banner and any upgrades they are given. Each Battle Level gives a base number of Stratagem points to both players, as seen in the table above. Additional Stratagem points can be gained by a player through a number of different means.
+Unlike the Matched Play rules presented in the [Adeptus Titanicus rulebook](../rulebook/matched_play.md), there is no Underdog Margin - there is no advantage in Organised Play for not using all of your Battle Rating. The total Battle Rating of the force is calculated by adding together the point values of all units within a battlegroup, which includes the cost of each Titan and Knight Banner and any upgrades they are given. Each Battle Level gives a base number of Stratagem points to both players, as seen in the table above. Additional Stratagem points can be gained by a player through a number of different means.
 
 ### Titan Legion Rules
 
 In Adeptus Titanicus, Titans can be drawn from a specific Titan Legion, which applies a set of Titan Legion rules that give those Titans additional options and benefits.
 
-For each Titan in a Legio battlegroup, the player must clearly declare on their battlegroup roster which Titan Legion the Titan is drawn from. This may be any Titan Legion published in an Adeptus Titanicus supplement, including a custom Crusade Legion created using the rules presented in Adeptus Titanicus: Defence of Ryza.
+For each Titan in a Legio battlegroup, the player must clearly declare on their battlegroup roster which Titan Legion the Titan is drawn from. This may be any Titan Legion published in an Adeptus Titanicus supplement, including a custom Crusade Legion created using the rules presented in [Adeptus Titanicus: Defence of Ryza](../campaign_compendium/creating_a_titan_legion.md).
 
 In a Legio battlegroup, all Titans within a Titan maniple must be drawn from the same Titan Legion. Different maniples in the same battlegroup can be drawn from different Titan Legions.
 
-Reinforcement Titans may be drawn from the same Legio as a maniple, a different Legio, or no Legio. Each Reinforcement Titan may be drawn from a different Titan Legion. The number of sets of Titan Legion rules that are used within a battlegroup affects the number of bonus Stratagem points the opposing player gains (see page 10).
+Reinforcement Titans may be drawn from the same Legio as a maniple, a different Legio, or no Legio. Each Reinforcement Titan may be drawn from a different Titan Legion. The number of sets of Titan Legion rules that are used within a battlegroup affects the number of bonus Stratagem points the opposing player gains (see [page 10](#stratagem-points)).
 
 Note that players may paint their miniatures in a different scheme to the 'historical' scheme of the Titan Legion their Titans are drawn from - e.g., they may paint their models as their own homebrew Legio but use the rules for Legio Astorum. This is allowed so long as it is made clear to their opponent before the game begins which Titans are drawn from which Titan Legion. All Titans painted in the same colour scheme must use the same Titan Legion rules.
 
@@ -123,7 +123,7 @@ Reinforcement Knight Banners are always Freeblades unless they are Auxiliary Kni
 
 ### Battlegroup Allegiance
 
-All battlegroups must declare an allegiance, which must be clearly displayed on their battlegroup roster, choosing from one of the allegiances available to their battlegroup type - allegiances can be found on pages 38-45. The declared allegiance of a battlegroup determines which Stratagems a battlegroup has access to and can impose further restrictions and special rules upon the battlegroup.
+All battlegroups must declare an allegiance, which must be clearly displayed on their battlegroup roster, choosing from one of the allegiances available to their battlegroup type - allegiances can be found on [pages 38-45](battlegroup_allegiances.md). The declared allegiance of a battlegroup determines which Stratagems a battlegroup has access to and can impose further restrictions and special rules upon the battlegroup.
 
 Regardless of allegiance, all battlegroups can purchase Stratagems available to any player (i.e., those that do not have a specific player type e.g., Thermal Mines) along with Battlefield Assets.
 
@@ -161,7 +161,7 @@ A player's Stratagem Hand and Stratagem Pool are refreshed at the start of each 
 
 ## Matched Play Objectives and Deployment Maps
 
-Matched Play games use their own set of objectives and Deployment Maps during battles that are different to those presented as part of the Meeting Engagement rules in the *Adeptus Titanicus* rulebook. The intention behind this change is to create a competitive system that rewards shrewd tactics and player skill while retaining the asymmetric objective system of *Adeptus Titanicus*.
+Matched Play games use their own set of objectives and Deployment Maps during battles that are different to those presented as part of the Meeting Engagement rules in the [Adeptus Titanicus rulebook](../rulebook/matched_play.md). The intention behind this change is to create a competitive system that rewards shrewd tactics and player skill while retaining the asymmetric objective system of *Adeptus Titanicus*.
 
 These rules are designed for both one-off games and events, meaning they can be used regardless of setting. Before each game players should agree on a Battle Rating, which will decide the number of points each player has to build their battlegroup and how many base Stratagem points each player has access to; at an event the Battle Rating will most likely have been predetermined. Players should build their battlegroups according to the rules presented previously in this book.
 
@@ -236,7 +236,7 @@ Certain objectives mention a battlefield edge. Each Deployment Map highlights th
 
 ## Matched Play Objectives
 
-The Meeting Engagement objectives presented in the *Adeptus Titanicus* rulebook provide one way to play Adeptus Titanicus. This section presents new Matched Play objectives that expand upon the ideas given there. If in use, then only these Primary and Secondary Objectives are used and the ones in the rulebook are ignored.
+The Meeting Engagement objectives presented in the [Adeptus Titanicus rulebook](../rulebook/matched_play.md) provide one way to play Adeptus Titanicus. This section presents new Matched Play objectives that expand upon the ideas given there. If in use, then only these Primary and Secondary Objectives are used and the ones in the rulebook are ignored.
 
 ### Game Length
 
@@ -244,7 +244,7 @@ Matched Play battles last for five rounds. At the end of the fifth round the bat
 
 ### Determining Objectives
 
-In Matched Play, objectives are separated into two categories, Primary and Secondary, each of which offers a set number of Victory points and are independent of one another. At the start of each game, each player must select their objectives. To do this, each player generates two Primary Objectives and two Secondary Objectives by rolling two D10 for Primary Objectives and two D6 for Secondary Objectives, re-rolling any duplicates, and looking up the results on the table on page 17 to see which objectives are available to the battlegroup. Each player then secretly chooses one Primary Objective and one Secondary Objective from those available.
+In Matched Play, objectives are separated into two categories, Primary and Secondary, each of which offers a set number of Victory points and are independent of one another. At the start of each game, each player must select their objectives. To do this, each player generates two Primary Objectives and two Secondary Objectives by rolling two D10 for Primary Objectives and two D6 for Secondary Objectives, re-rolling any duplicates, and looking up the results on the table on [page 17](#objectives-tables) to see which objectives are available to the battlegroup. Each player then secretly chooses one Primary Objective and one Secondary Objective from those available.
 
 ### Scoring Objectives
 
@@ -266,7 +266,7 @@ Many objectives call for the placement of one or more objective markers. An obje
 
 Players generate their Primary and Secondary Objectives from the tables below, rolling two D10 for Primary Objectives and two D6 for Secondary Objectives, re-rolling duplicates. Players then choose one of the two Primary and one of the two Secondary Objectives available to them, as determined by the rolls. Alternative methods for choosing objectives are presented later in this supplement.
 
-It should be noted that some objectives have the same names as the Meeting Engagement objectives presented in the *Adeptus Titanicus* rulebook. However, all objectives have been changed to fit the Matched Play rules presented here and are markedly different; these versions presented here take precedence over those in the rulebook when playing Matched Play games.
+It should be noted that some objectives have the same names as the Meeting Engagement objectives presented in the [Adeptus Titanicus rulebook](../rulebook/matched_play.md). However, all objectives have been changed to fit the Matched Play rules presented here and are markedly different; these versions presented here take precedence over those in the rulebook when playing Matched Play games.
 
 After determining the objectives available to them, each player secretly chooses which of these available Primary and Secondary Objectives they wish to attempt - the others are discarded. Once both players have selected their objectives, they reveal their Primary and Secondary Objectives.
 

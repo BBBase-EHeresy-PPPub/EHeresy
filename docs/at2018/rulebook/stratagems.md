@@ -10,7 +10,7 @@ It takes more than weapons to win a battle. Stratagems represent the other eleme
 
 ### Noble Sacrifice (1)
 
-A player can enact this Stratagem during the Strategy phase. To do so, they pick a Titan from their force whose structure has been compromised and roll a D6. Add 1 to the result if its Reactor Status marker is in a hole with an orange indicator, or add 3 to the result if it is in a hole with a red indicator. The Titan suffers a Magazine Detonation on a result of 1-4, or a Catastrophic Meltdown on a result of 5-6 (see the Catastrophic Damage table on page 36). At the end of the battle, the player loses a number of Victory points equal to the Titan's Scale.
+A player can enact this Stratagem during the Strategy phase. To do so, they pick a Titan from their force whose structure has been compromised and roll a D6. Add 1 to the result if its Reactor Status marker is in a hole with an orange indicator, or add 3 to the result if it is in a hole with a red indicator. The Titan suffers a Magazine Detonation on a result of 1-4, or a Catastrophic Meltdown on a result of 5-6 (see the Catastrophic Damage table on [page 36](../matched_play_guide/rules_references.md#catastrophic-damage-table)). At the end of the battle, the player loses a number of Victory points equal to the Titan's Scale.
 
 ### Outflank (X)
 
@@ -18,7 +18,7 @@ When this Stratagem is chosen, the player secretly writes down one of their unit
 
 At the start of the Movement phase of the first round, the unit appears on long range auspex - reveal to the opposing player which neutral flank was chosen. During the Movement phase of the second round, the outflanking unit can be activated. When it is, it is set up so that the Rear arc of its base is touching the chosen flank. It cannot move any further during the phase.
 
-If a player's battlegroup contains any Squadrons (see page 45), they can choose this Stratagem more than once, as long as each outflanking unit is part of the same Squadron.
+If a player's battlegroup contains any Squadrons (see [page 45](advanced_rules.md#squadrons)), they can choose this Stratagem more than once, as long as each outflanking unit is part of the same Squadron.
 
 ### Sabotage (2)
 
@@ -52,7 +52,7 @@ These Stratagems can only be selected during Matched Play.
 
 ### Cripple the Foe (2)
 
-Play this at the end of the battle. Score 2 Victory points for each enemy Titan that has not been destroyed, but which is Structurally Compromised. In addition, score 2 Victory points for each enemy Battlefield Asset (see page 65) that has been destroyed.
+Play this at the end of the battle. Score 2 Victory points for each enemy Titan that has not been destroyed, but which is Structurally Compromised. In addition, score 2 Victory points for each enemy Battlefield Asset (see [page 65](#battlefield-assets)) that has been destroyed.
 
 ### Decapitating Strike (2)
 

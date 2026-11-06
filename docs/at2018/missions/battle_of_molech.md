@@ -10,7 +10,7 @@ Ravaged by hordes of beasts driven from the jungles, the already crumbling defen
 
 ### Battlegroups
 
-One player controls the Legio Mortis forces, while their opponent controls those of House Donar. The Legio Mortis player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook, while the House Donar player selects a Knight Household as described on page 174. Both players' forces should have a Battle Rating of up to 1,000 points. The Legio Mortis battlegroup cannot include any Knight Banners, while the House Donar Knight Household may not have any supporting Titans.
+One player controls the Legio Mortis forces, while their opponent controls those of House Donar. The Legio Mortis player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook, while the House Donar player selects a Knight Household as described on [page 174](../matched_play_guide/organised_play.md#household-battlegroup). Both players' forces should have a Battle Rating of up to 1,000 points. The Legio Mortis battlegroup cannot include any Knight Banners, while the House Donar Knight Household may not have any supporting Titans.
 
 ### The Battlefield
 
@@ -18,13 +18,13 @@ The battle is played on a 4'×4' board. The House Donar player chooses one board
 
 ### Stratagems
 
-The Legio Mortis player has 2 points to spend on Stratagems (see page 64 of the *Adeptus Titanicus* rulebook). They may not choose the Outflank, Orbital Lance Strike or Tertiary Objectives Stratagems. The House Donar player has 4 points to spend on Noble Tactics from page 179, with the exception of Orbital Lance Strike and any Tertiary Objectives.
+The Legio Mortis player has 2 points to spend on Stratagems (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook). They may not choose the Outflank, Orbital Lance Strike or Tertiary Objectives Stratagems. The House Donar player has 4 points to spend on Noble Tactics from [page 179](../campaign_compendium/household_marches.md#noble-tactics), with the exception of Orbital Lance Strike and any Tertiary Objectives.
 
 ### Mission Special Rules
 
 **The Preceptor Line:** A crumbling length of fortifications, the Preceptor Line offers no real defence against the advancing Titans. Instead, the Traitor Titans are attempting to move past it and deeper into the Western Marches. From the end of the third round, if a Traitor Titan is in contact with the Preceptor Line at the conclusion of the End phase, remove it from the battlefield. The Titan does not count as destroyed, but takes no further part in the game.
 
-**Life-eater Virus:** This mission uses the Virus Infected Battlefield rules from page 220.
+**Life-eater Virus:** This mission uses the Virus Infected Battlefield rules from [page 220](../campaign_compendium/hostile_battlefields.md#virus-infected).
 
 **Honour of the Household:** The Scions of House Donar know full well that they face their doom, though are sworn to sell their lives dearly. For the duration of this game, all Loyalist Knight forces ignore the rules for being Shaken.
 
@@ -74,7 +74,7 @@ In the vanguard of the Traitor forces were the Titans of the Legio Mortis, Legio
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls those of the Legio Fortidus. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 2,500 points, and can include Titans from the Legio Mortis, Legio Interfector, Legio Vulpa and Legio Vulcanum, while the Legio Fortidus player's Battle Rating should be up to 1,250 points. Each force must consist of at least one maniple, plus any Reinforcements. Neither side may include Knight Banners.
+One player controls the Traitor forces, while their opponent controls those of the Legio Fortidus. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 2,500 points, and can include Titans from the Legio Mortis, Legio Interfector, Legio Vulpa and Legio Vulcanum, while the Legio Fortidus player's Battle Rating should be up to 1,250 points. Each force must consist of at least one maniple, plus any Reinforcements. Neither side may include Knight Banners.
 
 ### The Battlefield
 
@@ -82,7 +82,7 @@ The battle is played on a 4'×4' board. The Legio Fortidus player chooses one of
 
 ### Stratagems
 
-The Traitor player has no Stratagems for this battle. The Legio Fortidus player has the Noble Sacrifice Stratagem (see page 64 of the *Adeptus Titanicus* rulebook), and may use this Stratagem more than once in any Strategy phase.
+The Traitor player has no Stratagems for this battle. The Legio Fortidus player has the Noble Sacrifice Stratagem (see [page 64](../rulebook/stratagems.md#noble-sacrifice-1) of the *Adeptus Titanicus* rulebook), and may use this Stratagem more than once in any Strategy phase.
 
 ### Mission Special Rules
 
@@ -142,7 +142,7 @@ After the battle in the void, the Traitors laid claim to many of Molech's orbita
 
 ### Battlegroups
 
-One player controls the Legio Interfector forces, while their opponent controls those of the Legio Crucius. Each player selects a battlegroup, as described on page 53 of the *Adeptus Titanicus* rulebook. The Legio Interfector player's force should have a Battle Rating of up to 1,500 points, while the Legio Crucius player's Battle Rating should be up to 2,500 points. Each force must consist of at least one maniple, plus any Reinforcements. Neither side may include any Knight Banners.
+One player controls the Legio Interfector forces, while their opponent controls those of the Legio Crucius. Each player selects a battlegroup, as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Legio Interfector player's force should have a Battle Rating of up to 1,500 points, while the Legio Crucius player's Battle Rating should be up to 2,500 points. Each force must consist of at least one maniple, plus any Reinforcements. Neither side may include any Knight Banners.
 
 ### The Battlefield
 
@@ -150,13 +150,13 @@ The battle is played on a 4'x4' board. Mark the centre of the board with a dice 
 
 ### Stratagems
 
-The Legio Interfector player has the Artillery Bombardment Stratagem (see page 64 of the *Adeptus Titanicus* rulebook), representing the Traitor guns arrayed around Lupercalia.
+The Legio Interfector player has the Artillery Bombardment Stratagem (see [page 64](../rulebook/stratagems.md#artillery-bombardment-2) of the *Adeptus Titanicus* rulebook), representing the Traitor guns arrayed around Lupercalia.
 
-The Legio Crucius player has the Thermal Mines Stratagem (see page 64 of the *Adeptus Titanicus* rulebook) to reflect the remnants of Iron Fist Mountain's defences.
+The Legio Crucius player has the Thermal Mines Stratagem (see [page 64](../rulebook/stratagems.md#thermal-mines-2) of the *Adeptus Titanicus* rulebook) to reflect the remnants of Iron Fist Mountain's defences.
 
 ### Mission Special Rules
 
-**Savaged Landscape:** The area surrounding the broken mountain has been transformed into a hellscape of shattered earth. This mission uses the Volcanic Ground Battlefield rules on page 220.
+**Savaged Landscape:** The area surrounding the broken mountain has been transformed into a hellscape of shattered earth. This mission uses the Volcanic Ground Battlefield rules on [page 220](../campaign_compendium/hostile_battlefields.md#volcanic-ground).
 
 **A Grave for Titans:** The remaining Legio Crucius Titans emerging from the ruin of Iron Fist Mountain are badly damaged by the orbital strike and still gathering their senses to fight back. After deploying their Titans, the Legio Crucius player should roll the Hit Location dice three times for each Titan. Each of the locations indicated suffers D6 Structure points of damage, or if it is a weapon, it is disabled. This damage can cause Critical Damage if there are no Structure points left at the location indicated but cannot result in Catastrophic Damage. If a roll would cause Catastrophic Damage, any excess damage is ignored. In addition to the damage suffered, all Legio Crucius Titans begin the game with their void shields collapsed.
 
@@ -199,7 +199,7 @@ Unbeknownst to the defenders, and indeed many of Horus' own commanders, the Trai
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls those of the Loyalist forces. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. Both players should have a Battle Rating of up to 2,500 points. The Traitor battlegroup may not include any Knight Banners.
+One player controls the Traitor forces, while their opponent controls those of the Loyalist forces. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. Both players should have a Battle Rating of up to 2,500 points. The Traitor battlegroup may not include any Knight Banners.
 
 ### The Battlefield
 
@@ -207,7 +207,7 @@ The battle is played on a 6'×4' board. The Loyalist player chooses one of the s
 
 ### Stratagems
 
-The Traitor player has 3 points to spend on their choice of Stratagems (see page 64 of the *Adeptus Titanicus* rulebook). The Loyalist player has 4 points which can be spent on their choice of Battlefield Assets (see page 65 of the *Adeptus Titanicus* rulebook).
+The Traitor player has 3 points to spend on their choice of Stratagems (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook). The Loyalist player has 4 points which can be spent on their choice of Battlefield Assets (see [page 65](../rulebook/stratagems.md#battlefield-assets) of the *Adeptus Titanicus* rulebook).
 
 ### Mission Special Rules
 
@@ -258,7 +258,7 @@ Battered Titans and scarred Knight armours were the first to reach the ruined de
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls the Loyalist forces. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. Both players should have a Battle Rating of up to 2,500 points. The Traitor battlegroup must include at least one Knight Banner.
+One player controls the Traitor forces, while their opponent controls the Loyalist forces. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. Both players should have a Battle Rating of up to 2,500 points. The Traitor battlegroup must include at least one Knight Banner.
 
 ### The Battlefield
 
@@ -266,11 +266,11 @@ The battle is played on a 4'×4' board. This battle takes place well within the 
 
 ### Stratagems
 
-Both players have 3 points to spend on their choice of Stratagems (see page 64 of the *Adeptus Titanicus* rulebook).
+Both players have 3 points to spend on their choice of Stratagems (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook).
 
 ### Mission Special Rules
 
-**Death of a God:** After both sides have fully set up, place a marker or token in the centre of the table - the crashed Titan Head marker is especially appropriate. Then roll a Scatter dice and 2D10 and move the marker that many inches in the direction indicated. Once the marker's location has been determined, work out the effects of a Catastrophic Meltdown (see page 36 of the *Adeptus Titanicus* rulebook), imagining that the marker is an exploding Titan with 15 holes in its Plasma Reactor Status track and a Scale of 14. After working out damage to all Titans and Knight Banners in range, remove all battlefield terrain within 12" of the marker. Then leave the marker on the table.
+**Death of a God:** After both sides have fully set up, place a marker or token in the centre of the table - the crashed Titan Head marker is especially appropriate. Then roll a Scatter dice and 2D10 and move the marker that many inches in the direction indicated. Once the marker's location has been determined, work out the effects of a Catastrophic Meltdown (see [page 36](../matched_play_guide/rules_references.md#catastrophic-damage-table) of the *Adeptus Titanicus* rulebook), imagining that the marker is an exploding Titan with 15 holes in its Plasma Reactor Status track and a Scale of 14. After working out damage to all Titans and Knight Banners in range, remove all battlefield terrain within 12" of the marker. Then leave the marker on the table.
 
 **A Hole in the Line:** The death of the *Paragon of Terra* has blasted a hole in the defences of Lupercalia, and both sides are rushing to exploit or defend it. The marker represents the hole in the Loyalists' defences. Proximity to this marker at the end of the game will determine Victory points for both sides.
 
@@ -325,7 +325,7 @@ It was to be a bitter and merciless battle between the Knight Households. The Tr
 
 ### Battlegroups
 
-One player controls the Knight House of Devine, while their opponent controls the other Molech Knightly Houses. Each player selects a Knight Household, as described on page 174. The Devine player's force can only include House Devine Knight Banners, while their opponent's force can contain any mixture of Knight Houses, with the exception of House Devine. Both players should have a Battle Rating of up to 1,200 points.
+One player controls the Knight House of Devine, while their opponent controls the other Molech Knightly Houses. Each player selects a Knight Household, as described on [page 174](../matched_play_guide/organised_play.md#household-battlegroup). The Devine player's force can only include House Devine Knight Banners, while their opponent's force can contain any mixture of Knight Houses, with the exception of House Devine. Both players should have a Battle Rating of up to 1,200 points.
 
 ### The Battlefield
 
@@ -333,13 +333,13 @@ The battle is played on a 4'x4' board. This battle takes place in the heart of L
 
 ### Stratagems
 
-Both players have 4 points which can be spent on any of the Noble Tactics from page 179.
+Both players have 4 points which can be spent on any of the Noble Tactics from [page 179](../campaign_compendium/household_marches.md#noble-tactics).
 
 ### Mission Special Rules
 
 **Dark Appetites:** House Devine have become lost to Chaos and are revelling in their own dark impulses. For this battle, House Devine Knight Banners add 1 to the Strength of any weapon with the [Melee] trait.
 
-**Burning City:** Lupercalia is in flames as the Traitors visit their wrath upon it. This mission uses the Cities in Flames Battlefield rules from page 219.
+**Burning City:** Lupercalia is in flames as the Traitors visit their wrath upon it. This mission uses the Cities in Flames Battlefield rules from [page 219](../campaign_compendium/hostile_battlefields.md#cities-in-flames).
 
 **Brothers Betrayed:** The other Knightly Houses are rightly incensed by Devine's betrayal and are determined to eradicate the Traitors. For this battle, Loyalist Knight Banners ignore the effects of being Shaken.
 

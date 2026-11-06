@@ -12,7 +12,7 @@ Desiring a sudden and overwhelming show of force, the Warmaster used his Titan m
 
 ### Battlegroups
 
-One player controls the Death's Heads forces, while their opponent controls those of the Warp Runners. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. The Death's Heads player's force should have a Battle Rating of up to 2,000 points, while the Warp Runners player's Battle Rating should be up to 1,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the Death's Heads forces, while their opponent controls those of the Warp Runners. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Death's Heads player's force should have a Battle Rating of up to 2,000 points, while the Warp Runners player's Battle Rating should be up to 1,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### The Battlefield
 
@@ -20,7 +20,7 @@ The battle is played on a 4'x4' board. The Traitor player should select one of t
 
 ### Stratagems
 
-The Death's Heads player has two Orbital Lance Strike Stratagems (see page 64 of the *Adeptus Titanicus* rulebook). The Warp Runners player has 4 points which can be spent on their choice of Battlefield Assets (see page 65 of the *Adeptus Titanicus* rulebook).
+The Death's Heads player has two Orbital Lance Strike Stratagems (see [page 64](../rulebook/stratagems.md#orbital-lance-strike-2) of the *Adeptus Titanicus* rulebook). The Warp Runners player has 4 points which can be spent on their choice of Battlefield Assets (see [page 65](../rulebook/stratagems.md#battlefield-assets) of the *Adeptus Titanicus* rulebook).
 
 ### Mission Special Rules
 
@@ -46,11 +46,15 @@ The Warp Runners player scores Victory points equal to the Scale of each Death's
 
 The player who scores the most Victory points claims victory.
 
+---
+
 **Designer's Note: Blinding Dust**
 
-*This is an optional rule that players can use to represent the aftermath of the Traitor orbital bombardment. In the micro-gravities of Delta-Garmon II, the regolith hung above the battlefield for days, obscuring enemies and muting the blazing lights of the harvest domes.*
+_This is an optional rule that players can use to represent the aftermath of the Traitor orbital bombardment. In the micro-gravities of Delta-Garmon II, the regolith hung above the battlefield for days, obscuring enemies and muting the blazing lights of the harvest domes._
 
-*During the Strategy phase, the First Player should roll 2D10. For the duration of the round, the number rolled, plus a unit's Scale, is the distance at which it can be targeted with ranged attacks. For example, if the 2D10 roll resulted in a total of 9, then a Warlord Titan, with a Scale of 10, could be targeted up to 19" away.*
+_During the Strategy phase, the First Player should roll 2D10. For the duration of the round, the number rolled, plus a unit's Scale, is the distance at which it can be targeted with ranged attacks. For example, if the 2D10 roll resulted in a total of 9, then a Warlord Titan, with a Scale of 10, could be targeted up to 19" away._
+
+---
 
 12"
 12"
@@ -108,7 +112,7 @@ These lesser enemies, and the kilometres of mines, gun emplacements and trenches
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup, as described on page 53 of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup, as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### The Battlefield
 
@@ -116,7 +120,7 @@ The battle is played on a 6'x4' board. Mark out a line across the board 12" from
 
 ### Stratagems
 
-The Traitor player has 3 points to spend on any Stratagems they wish (see page 64 of the *Adeptus Titanicus* rulebook). The Loyalist player has 4 points which can be spent on any Battlefield Assets (see page 65 of the *Adeptus Titanicus* rulebook). These assets must be placed in no man's land. In addition, the Loyalist player has the Artillery Bombardment Stratagem to represent the effects of the Nemesis cannon.
+The Traitor player has 3 points to spend on any Stratagems they wish (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook). The Loyalist player has 4 points which can be spent on any Battlefield Assets (see [page 65](../rulebook/stratagems.md#battlefield-assets) of the *Adeptus Titanicus* rulebook). These assets must be placed in no man's land. In addition, the Loyalist player has the Artillery Bombardment Stratagem to represent the effects of the Nemesis cannon.
 
 ### Mission Special Rules
 
@@ -140,7 +144,7 @@ The battle lasts for six rounds. At the end of the sixth round, the Loyalist pla
 
 ### Victory
 
-At the end of the battle, the Traitor player scores Victory points equal to half the Scale of each of their units that are within 12" of the wall but still in no man's land, or the Scale of each of their units that are completely within Nyrcon City. In addition, the Traitor player scores an additional 2 Victory points for each building within Nyrcon City that has been destroyed (see page 52 of the *Adeptus Titanicus* rulebook).
+At the end of the battle, the Traitor player scores Victory points equal to half the Scale of each of their units that are within 12" of the wall but still in no man's land, or the Scale of each of their units that are completely within Nyrcon City. In addition, the Traitor player scores an additional 2 Victory points for each building within Nyrcon City that has been destroyed (see [page 52](../rulebook/optional_rules.md#destroying-terrain) of the *Adeptus Titanicus* rulebook).
 
 The Loyalist player scores Victory points equal to the Scale of each Traitor unit that is more than 12" from the wall and still in no man's land, or which has been destroyed.
 
@@ -173,7 +177,7 @@ The Loyalists had all but taken the spire when the Dark Mechanicum detonated a c
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. Each player's force should have a Battle Rating of up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. Each player's force should have a Battle Rating of up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### The Battlefield
 
@@ -181,7 +185,7 @@ The battle is played on a 4'×4' board. Place a marker or appropriate piece of t
 
 ### Stratagems
 
-Both players have an Orbital Lance Strike Stratagem (see page 64 of the *Adeptus Titanicus* rulebook). As both sides are benefiting from the close support of their fleets, this Stratagem may be used in each Strategy phase rather than only once per battle.
+Both players have an Orbital Lance Strike Stratagem (see [page 64](../rulebook/stratagems.md#orbital-lance-strike-2) of the *Adeptus Titanicus* rulebook). As both sides are benefiting from the close support of their fleets, this Stratagem may be used in each Strategy phase rather than only once per battle.
 
 ### Mission Special Rules
 
@@ -233,7 +237,7 @@ Although official records claim the battle as a victory for the Imperium, perhap
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup, as described on page 53 of the *Adeptus Titanicus* rulebook. Each player's force should have a Battle Rating of up to 3,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup, as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. Each player's force should have a Battle Rating of up to 3,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### The Battlefield
 
@@ -241,7 +245,7 @@ The battle is played on a 6'x4' board. By this time, months of sustained fightin
 
 ### Stratagems
 
-Both players have 6 points to spend on any Stratagems they wish (see page 64 of the *Adeptus Titanicus* rulebook).
+Both players have 6 points to spend on any Stratagems they wish (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook).
 
 ### Mission Special Rules
 
@@ -251,7 +255,7 @@ When a unit arrives from reserves, it can be placed within 6" of its own deploym
 
 Players should keep track of the number of units in their force that have been destroyed and whether they are returned to the battlefield or not, as this will have an effect on which side is victorious.
 
-**Fallen Titans:** With little hope of rescue or mercy from their enemies, many Titan crews continued to fight from the dying hulks of their war machines. When a Titan suffers a Silenced, Laid Low or Wild Fire result on the Catastrophic Damage table (see page 36 of the *Adeptus Titanicus* rulebook), after working out the damage effects, mark the location where the Titan fell. Randomly choose one of the fallen Titan's weapons. In the Strategem phase, the fallen Titan can fire this weapon, following all of the normal rules for shooting, though counting its arc of fire as 360° and ignoring any effects that force it to push its reactor. A successful Strength 10 hit or any Strength hit from a range of 3" or less will silence the Titan for good and remove the fallen Titan marker from the battlefield without the need for an Armour roll.
+**Fallen Titans:** With little hope of rescue or mercy from their enemies, many Titan crews continued to fight from the dying hulks of their war machines. When a Titan suffers a Silenced, Laid Low or Wild Fire result on the Catastrophic Damage table (see [page 36](../matched_play_guide/rules_references.md#catastrophic-damage-table) of the *Adeptus Titanicus* rulebook), after working out the damage effects, mark the location where the Titan fell. Randomly choose one of the fallen Titan's weapons. In the Strategem phase, the fallen Titan can fire this weapon, following all of the normal rules for shooting, though counting its arc of fire as 360° and ignoring any effects that force it to push its reactor. A successful Strength 10 hit or any Strength hit from a range of 3" or less will silence the Titan for good and remove the fallen Titan marker from the battlefield without the need for an Armour roll.
 
 **Deployment**
 
@@ -291,7 +295,7 @@ Around the hive, maniples of Nova Guard stood sentinel, confident in the strengt
 
 ### Battlegroups
 
-One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the Traitor forces, while their opponent controls the Loyalists. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,000 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### The Battlefield
 
@@ -299,7 +303,7 @@ The battle is played on a 4'x4' board. The Loyalist player chooses one board edg
 
 ### Stratagems
 
-Both players have 4 points to spend on any Stratagems they wish (see page 64 of the *Adeptus Titanicus* rulebook).
+Both players have 4 points to spend on any Stratagems they wish (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook).
 
 ### Mission Special Rules
 
@@ -356,7 +360,7 @@ Some Loyalist maniples and Knight Banners would find their way to the battle bef
 
 ### Battlegroups
 
-One player controls the forces of the Traitors, while their opponent controls those of the Loyalists. Each player selects a battlegroup as described on page 53 of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
+One player controls the forces of the Traitors, while their opponent controls those of the Loyalists. Each player selects a battlegroup as described on [page 53](../matched_play_guide/organised_play.md#building-a-battlegroup) of the *Adeptus Titanicus* rulebook. The Traitor player's force should have a Battle Rating of up to 3,000 points, while the Loyalist player's Battle Rating should be up to 2,500 points. Each force must consist of at least one maniple, plus any Reinforcements.
 
 ### The Battlefield
 
@@ -364,7 +368,7 @@ The battle is played on a 4'×4' board. Mark out a 12" area in the centre of the
 
 ### Stratagems
 
-Both players have 3 points to spend on any Stratagems they wish (see page 64 of the *Adeptus Titanicus* rulebook).
+Both players have 3 points to spend on any Stratagems they wish (see [page 64](../rulebook/stratagems.md#choosing-stratagems) of the *Adeptus Titanicus* rulebook).
 
 ### Mission Special Rules
 
@@ -394,9 +398,13 @@ In the End phase of each round, the Traitor player scores Victory points equal t
 
 The player who scores the most Victory points claims victory.
 
+---
+
 **Designer's Note: A Scream into the Void**
 
-*The constant psychic screaming from the Diviner's Needle saturates the mountain top, clouding the minds of Princeps and making machine spirits restless. If both players feel like making this mission more challenging, they can use the rules for A Scream into the Void. This has the effect that Princeps find it more difficult to convey their orders and must roll two dice when making Command checks and choose the lower of the two results. In addition, machine spirits are more prone to rages. When rolling the Reactor dice, the blank side counts as the Awaken Machine Spirit symbol and risks awaking the machine spirit.*
+_The constant psychic screaming from the Diviner's Needle saturates the mountain top, clouding the minds of Princeps and making machine spirits restless. If both players feel like making this mission more challenging, they can use the rules for A Scream into the Void. This has the effect that Princeps find it more difficult to convey their orders and must roll two dice when making Command checks and choose the lower of the two results. In addition, machine spirits are more prone to rages. When rolling the Reactor dice, the blank side counts as the Awaken Machine Spirit symbol and risks awaking the machine spirit._
+
+---
 
 Loyalist Force Deployment Zone
 12"

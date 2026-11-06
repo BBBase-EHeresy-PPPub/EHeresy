@@ -47,7 +47,7 @@ Attacker's Deployment Zone - 8"
 
 **Hive Wall:** The attackers must overcome the defending forces and the city wall itself. The city wall is divided into sections each 6" wide and 6" in length. A city wall section counts as Blocking terrain to any unit with a Scale of 5 or less; for units with a Scale of 6 or more the city wall blocks movement but not line of sight. A gatehouse section does not block line of sight for units with a Scale of 5 or less but any of the defender's units can move through them freely while the attacker's units cannot.
 
-A section of the city wall can be destroyed, following the rules for destroying terrain as found in the *Adeptus Titanicus* rulebook. A city wall section has an Armour value of 13. Any section of the city wall that is destroyed is reduced to rubble and counts as Difficult Terrain and no longer blocks line of sight.
+A section of the city wall can be destroyed, following the rules for destroying terrain as found in the [Adeptus Titanicus rulebook](../rulebook/optional_rules.md#destroying-terrain). A city wall section has an Armour value of 13. Any section of the city wall that is destroyed is reduced to rubble and counts as Difficult Terrain and no longer blocks line of sight.
 
 **Hive Shields:** The city boasts a protective shield that absorbs a measure of energy from incoming fire. If a Titan within the defender's deployment zone is the target of an attack that originates from outside the deployment zone, that Titan adds 1 to all Save rolls they make. A Knight Banner in the defender's deployment zone that is the target of an attack that originates from outside the deployment zone always has at least a 6+ Ion Shield save, regardless of the strength of the weapon or number of Knights in the Banner.
 
